@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-06-22T09:04:21",
+  "generated_at": "2026-06-22T14:49:39",
   "date": "2026-06-22",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7500.58,
-        "pct_change": 1.08
+        "last": 7474.8,
+        "pct_change": -0.34
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26517.93,
-        "pct_change": 1.91
+        "last": 26229.65,
+        "pct_change": -1.09
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 51564.7,
-        "pct_change": 0.14
+        "last": 51700.6,
+        "pct_change": 0.26
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2979.77,
-        "pct_change": 2.12
+        "last": 2995.09,
+        "pct_change": 0.51
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 17.6,
-        "pct_change": 7.32
+        "last": 17.4,
+        "pct_change": 6.1
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.45,
-        "pct_change": -0.27
+        "last": 4.5,
+        "pct_change": 1.12
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 100.95,
-        "pct_change": 0.1
+        "last": 100.99,
+        "pct_change": 0.14
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 75.26,
-        "pct_change": -1.75
+        "last": 74.05,
+        "pct_change": -3.33
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4214.3,
-        "pct_change": -0.23
+        "last": 4209.2,
+        "pct_change": -0.35
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 191.44,
-        "pct_change": 3.04
+        "last": 191.76,
+        "pct_change": 0.17
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 53.57,
-        "pct_change": -0.89
+        "last": 53.79,
+        "pct_change": 0.41
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 53.77,
-        "pct_change": -1.65
+        "last": 53.57,
+        "pct_change": -0.37
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 149.4,
-        "pct_change": -0.87
+        "last": 149.45,
+        "pct_change": 0.03
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 117.16,
-        "pct_change": 1.45
+        "last": 115.64,
+        "pct_change": -1.3
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 83.3,
-        "pct_change": -0.45
+        "last": 82.82,
+        "pct_change": -0.58
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 180.91,
-        "pct_change": 0.73
+        "last": 181.24,
+        "pct_change": 0.18
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 44.76,
-        "pct_change": 0.67
+        "last": 44.87,
+        "pct_change": 0.25
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 51.81,
-        "pct_change": -0.4
+        "last": 51.59,
+        "pct_change": -0.42
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 43.86,
-        "pct_change": -0.25
+        "last": 43.9,
+        "pct_change": 0.08
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 109.45,
-        "pct_change": 0.23
+        "last": 106.99,
+        "pct_change": -2.25
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 161.73,
-        "pct_change": 0.28
+        "last": 161.34,
+        "pct_change": 0.03
       }
     }
   },
@@ -131,65 +131,65 @@
       "effr": 3.63,
       "target_low": 3.5,
       "target_high": 3.75,
-      "as_of": "2026-06-17"
+      "as_of": "2026-06-18"
     },
     "japan": {
       "yield": 2.656,
       "as_of": "2026-06-19",
       "prev_yield": 2.628
     },
-    "spread_10y": 1.79
+    "spread_10y": 1.84
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 194.92,
-        "pct_change": 11.13
+        "last": 197.8,
+        "pct_change": 1.48
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 298.01,
-        "pct_change": 0.7
+        "last": 299.8,
+        "pct_change": 0.6
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 379.4,
-        "pct_change": 0.13
+        "last": 373.25,
+        "pct_change": -1.62
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 244.39,
-        "pct_change": 2.9
+        "last": 234.81,
+        "pct_change": -3.92
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 368.03,
-        "pct_change": 1.17
+        "last": 347.22,
+        "pct_change": -5.65
       },
       "Meta": {
         "symbol": "META",
-        "last": 577.22,
-        "pct_change": 1.7
+        "last": 565.86,
+        "pct_change": -1.97
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 850.0,
-        "pct_change": -2.3
+        "last": 836.29,
+        "pct_change": -1.61
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 389.57,
-        "pct_change": 2.83
+        "last": 404.21,
+        "pct_change": 3.76
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 163.96,
-        "pct_change": 1.77
+        "last": 164.34,
+        "pct_change": 0.23
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -459,6 +459,12 @@
   "fed_policy": {
     "Press Releases": [
       {
+        "title": "Federal Reserve notes with deep sadness the passing of Alan Greenspan",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260622a.htm",
+        "published": "Mon, 22 Jun 2026 12:45:00 GMT",
+        "summary": "Federal Reserve notes with deep sadness the passing of Alan Greenspan"
+      },
+      {
         "title": "Federal Reserve Board issues enforcement action with former employee of Bank of Eufaula and S N B Bancshares, Inc.",
         "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260618b.htm",
         "published": "Thu, 18 Jun 2026 19:00:00 GMT",
@@ -499,15 +505,15 @@
         "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260609a.htm",
         "published": "Tue, 9 Jun 2026 20:00:00 GMT",
         "summary": "Federal Reserve Board announces that results from its annual bank stress test will be released on Wednesday, June 24, at 4 p.m. EDT."
-      },
-      {
-        "title": "Agencies remove additional references to reputation risk",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260602a.htm",
-        "published": "Tue, 2 Jun 2026 15:00:00 GMT",
-        "summary": "Agencies remove additional references to reputation risk"
       }
     ],
     "Speeches": [
+      {
+        "title": "Waller, Welcoming Remarks on the International Role of the U.S. Dollar",
+        "link": "https://www.federalreserve.gov/newsevents/speech/waller20260622a.htm",
+        "published": "Mon, 22 Jun 2026 13:00:00 GMT",
+        "summary": "Speech At the Fifth Conference on the International Roles of the Dollar, Board of Governors of the Federal Reserve System, Washington, D.C."
+      },
       {
         "title": "Barr, Deregulating in a Financial Boom: What Could Go Wrong?",
         "link": "https://www.federalreserve.gov/newsevents/speech/barr20260606a.htm",
@@ -549,12 +555,6 @@
         "link": "https://www.federalreserve.gov/newsevents/speech/barr20260520a.htm",
         "published": "Wed, 20 May 2026 13:15:00 GMT",
         "summary": "Speech At EMERGE Financial Health 2026 Scaling Progress, Shaping the Future, Atlanta, Georgia"
-      },
-      {
-        "title": "Barr, Efficient and Effective Central Banking: Beyond the Balance Sheet",
-        "link": "https://www.federalreserve.gov/newsevents/speech/barr20260514a.htm",
-        "published": "Thu, 14 May 2026 23:00:00 GMT",
-        "summary": "Speech At the Money Marketeers of New York University, New York, New York"
       }
     ],
     "FOMC Press Releases": [
@@ -616,24 +616,29 @@
         "published": "2026-06-22T01:17:00Z"
       },
       {
-        "title": "G7 Takes Aim at China’s Grip on Critical Minerals",
-        "link": "https://finance.yahoo.com/energy/articles/g7-takes-aim-china-grip-230000270.html",
-        "published": "2026-06-20T23:00:00Z"
+        "title": "Tech stocks today: Uber and Lucid expanding in Houston,  Intel's latest chip moves",
+        "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-uber-and-lucid-expanding-in-houston-intels-latest-chip-moves-100000021.html",
+        "published": "2026-06-15T10:00:00Z"
       },
       {
-        "title": "How long will this truckload market cycle last?",
-        "link": "https://finance.yahoo.com/economy/articles/long-truckload-market-cycle-last-003000370.html",
-        "published": "2026-06-21T00:30:00Z"
+        "title": "Tech stocks live: Tech stocks mixed ahead of Micron earnings Wednesday",
+        "link": "https://finance.yahoo.com/technology/live/tech-stocks-live-tech-stocks-mixed-ahead-of-micron-earnings-wednesday-143422690.html",
+        "published": "2026-06-22T14:34:22Z"
       },
       {
-        "title": "Chevron Expands Footprint in Greek Offshore Sector",
-        "link": "https://finance.yahoo.com/energy/articles/chevron-expands-footprint-greek-offshore-011354657.html",
-        "published": "2026-06-21T01:13:54Z"
+        "title": "Stock Market Today: Dow Up As Bessent Makes This Iran Move; SpaceX Stock Sells Off (Live Coverage)",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-peace-talks-spacex-stock-spcx/?src=A00220&yptr=yahoo",
+        "published": "2026-06-22T14:30:01Z"
       },
       {
-        "title": "Exxon Mobil (XOM) Upgraded at BofA. Here is Why",
-        "link": "https://finance.yahoo.com/energy/articles/exxon-mobil-xom-upgraded-bofa-011407343.html",
-        "published": "2026-06-21T01:14:07Z"
+        "title": "Profound Medical Corp. (PROF) Dropped Despite High Potential",
+        "link": "https://finance.yahoo.com/healthcare/articles/profound-medical-corp-prof-dropped-142828470.html",
+        "published": "2026-06-22T14:28:28Z"
+      },
+      {
+        "title": "Analyst Report: Illinois Tool Works Inc",
+        "link": "https://finance.yahoo.com/research/reports/ARGUS_3094_AnalystReport_1782125786000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+        "published": "2026-06-22T10:56:26Z"
       },
       {
         "title": "Michael Burry sees a $3 trillion problem with SpaceX",
@@ -641,98 +646,93 @@
         "published": "2026-06-22T01:03:00Z"
       },
       {
-        "title": "ConocoPhillips Signs Deal to Revive Syria’s Gas Output",
-        "link": "https://finance.yahoo.com/energy/articles/conocophillips-signs-deal-revive-syria-011425976.html",
-        "published": "2026-06-21T01:14:25Z"
-      },
-      {
-        "title": "SLB- Among the 12 Best American Oil Stocks to Buy Now",
-        "link": "https://finance.yahoo.com/energy/articles/slb-among-12-best-american-011436276.html",
-        "published": "2026-06-21T01:14:36Z"
+        "title": "SpaceX Merger Would Hurt Tesla Stock, Jefferies Says. Cathie Wood Adds Tesla.",
+        "link": "https://www.investors.com/news/tesla-spacex-merger-elon-musk-cathie-wood-ark-invest/?src=A00220&yptr=yahoo",
+        "published": "2026-06-22T14:25:27Z"
       }
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "Zac Efron trades Hollywood for an off-grid ‘Futurecave’ house made of hemp in Australia",
-        "link": "https://www.marketwatch.com/story/zac-efron-trades-hollywood-for-an-off-grid-futurecave-house-made-of-hemp-in-australia-eea29a2b?mod=mw_rss_topstories",
-        "published": "Mon, 22 Jun 2026 09:01:00 GMT"
+        "title": "U.S. oil prices fall below $74 a barrel on 60-day pause on Iranian oil sanctions",
+        "link": "https://www.marketwatch.com/story/u-s-oil-prices-fall-below-74-a-barrel-on-60-day-pause-on-iranian-oil-sanctions-0b7c7130?mod=mw_rss_topstories",
+        "published": "Mon, 22 Jun 2026 14:34:00 GMT"
       },
       {
-        "title": "The late Diane Keaton’s ‘Pinterest’ house in L.A. is relisted with a big price cut",
-        "link": "https://www.marketwatch.com/story/the-late-diane-keatons-pinterest-house-in-l-a-is-relisted-with-a-big-price-cut-40d2bf96?mod=mw_rss_topstories",
-        "published": "Mon, 22 Jun 2026 08:58:00 GMT"
+        "title": "Employers to college students: Never mind that 4.0 GPA. Go out and get a summer job.",
+        "link": "https://www.marketwatch.com/story/employers-to-college-students-skip-the-perfect-gpa-and-go-get-a-summer-job-e9ca5530?mod=mw_rss_topstories",
+        "published": "Mon, 22 Jun 2026 14:30:00 GMT"
       },
       {
-        "title": "This bull market isn’t going to end because of Fed rate hikes under Warsh",
-        "link": "https://www.marketwatch.com/story/this-bull-market-isnt-going-to-end-because-of-fed-rate-hikes-under-warsh-8f63fa85?mod=mw_rss_topstories",
-        "published": "Sun, 21 Jun 2026 22:41:00 GMT"
+        "title": "‘I became invisible when I turned 60’: The hidden crisis of late-career unemployment",
+        "link": "https://www.marketwatch.com/story/i-became-invisible-when-i-turned-60-the-hidden-crisis-of-late-career-unemployment-5bf76c00?mod=mw_rss_topstories",
+        "published": "Mon, 22 Jun 2026 14:28:00 GMT"
       },
       {
-        "title": "The loneliness crisis has gotten so bad that lawmakers are ready to spend millions of dollars to fight it",
-        "link": "https://www.marketwatch.com/story/the-loneliness-crisis-has-gotten-so-bad-that-lawmakers-are-ready-to-spend-millions-of-dollars-to-fight-it-f7e7c7b7?mod=mw_rss_topstories",
-        "published": "Sun, 21 Jun 2026 21:22:00 GMT"
+        "title": "Micron’s stock momentum builds as the company inks a new Anthropic partnership",
+        "link": "https://www.marketwatch.com/story/microns-stock-momentum-builds-as-the-company-inks-a-new-anthropic-partnership-484e3845?mod=mw_rss_topstories",
+        "published": "Mon, 22 Jun 2026 14:22:00 GMT"
       },
       {
-        "title": "‘I’ll probably be working until I die’: I’m 60, work as a waiter and have $2,000 in a Roth IRA. What will happen to me?",
-        "link": "https://www.marketwatch.com/story/ill-probably-be-working-until-i-die-im-60-work-as-a-restaurant-server-and-have-2-000-in-an-ira-who-can-help-me-6e36253a?mod=mw_rss_topstories",
-        "published": "Sun, 21 Jun 2026 20:00:00 GMT"
+        "title": "I’m 70. A relative offered me a $25,000 home loan secured by a lien that must be repaid within a year. Is that fair?",
+        "link": "https://www.marketwatch.com/story/im-70-a-relative-offered-me-a-25-000-home-loan-secured-by-a-lien-that-must-be-repaid-within-a-year-should-i-agree-27d44725?mod=mw_rss_topstories",
+        "published": "Mon, 22 Jun 2026 14:15:00 GMT"
       },
       {
-        "title": "I’m spending $170,000 to upgrade my home for my aging parents. Can I get tax breaks?",
-        "link": "https://www.marketwatch.com/story/im-spending-170-000-to-upgrade-my-home-for-my-aging-parents-can-i-get-tax-breaks-3adf0236?mod=mw_rss_topstories",
-        "published": "Sun, 21 Jun 2026 19:00:00 GMT"
+        "title": "Starmer says he’s resigning as U.K. prime minister — raising fears that a potential debt crisis could be brewing",
+        "link": "https://www.marketwatch.com/story/starmer-says-hes-resigning-as-u-k-prime-minister-heres-what-it-means-for-markets-f27a70e5?mod=mw_rss_topstories",
+        "published": "Mon, 22 Jun 2026 14:04:00 GMT"
       },
       {
-        "title": "My mother was co-owner of my late grandmother’s bank account. Should she share the money with her siblings?",
-        "link": "https://www.marketwatch.com/story/my-mother-was-co-owner-of-my-late-grandmothers-bank-account-should-she-share-the-money-with-her-siblings-e54ed4df?mod=mw_rss_topstories",
-        "published": "Sun, 21 Jun 2026 16:59:00 GMT"
+        "title": "Alan Greenspan, the most powerful Fed chairman of the modern era, dies at 100",
+        "link": "https://www.marketwatch.com/story/former-federal-reserve-chairman-alan-greenspan-dies-a7a4030d?mod=mw_rss_topstories",
+        "published": "Mon, 22 Jun 2026 13:55:00 GMT"
       },
       {
-        "title": "‘We own our home outright’: I am 67 and earn $100,000. Do I take my $30,000-a-year Social Security now or wait?",
-        "link": "https://www.marketwatch.com/story/we-own-our-home-outright-i-am-67-and-earn-100-000-do-i-take-my-30-000-social-security-now-or-wait-bbe1e123?mod=mw_rss_topstories",
-        "published": "Sun, 21 Jun 2026 15:01:00 GMT"
+        "title": "SpaceX already needs to raise more cash, and its stock is dropping",
+        "link": "https://www.marketwatch.com/story/spacex-already-needs-to-raise-more-cash-and-its-stock-is-dropping-a1ec150e?mod=mw_rss_topstories",
+        "published": "Mon, 22 Jun 2026 13:42:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
+        "title": "Treasury Department authorizes Iranian oil sales through August",
+        "link": "https://www.cnbc.com/2026/06/22/treasury-iran-oil-sales.html",
+        "published": "Mon, 22 Jun 2026 14:42:18 GMT"
+      },
+      {
+        "title": "Alan Greenspan, former chairman of the Fed, dies at age 100",
+        "link": "https://www.cnbc.com/2026/06/22/alan-greenspan-former-chairman-of-the-fed-dies-at-age-100.html",
+        "published": "Mon, 22 Jun 2026 14:39:38 GMT"
+      },
+      {
         "title": "UK PM Starmer resigns as Britain faces its seventh leader in 10 years",
         "link": "https://www.cnbc.com/2026/06/22/keir-starmer-resigns-uk-prime-minister.html",
-        "published": "Mon, 22 Jun 2026 08:57:59 GMT"
+        "published": "Mon, 22 Jun 2026 12:48:50 GMT"
       },
       {
-        "title": "U.S., Iran agree on roadmap for final deal and plan to end military operations in Lebanon",
-        "link": "https://www.cnbc.com/2026/06/22/us-iran-roadmap-final-deal-switzerland-talks-lebanon-deconfliction.html",
-        "published": "Mon, 22 Jun 2026 07:42:51 GMT"
-      },
-      {
-        "title": "Stock futures fall as investors weigh Iran deal progress and await key reading on inflation: Live updates",
+        "title": "S&P 500 is little changed to start the week as oil prices slide on Iran deal progress, Micron leads chips higher: Live updates",
         "link": "https://www.cnbc.com/2026/06/21/stock-market-today-live-updates.html",
-        "published": "Mon, 22 Jun 2026 07:53:53 GMT"
+        "published": "Mon, 22 Jun 2026 14:28:54 GMT"
       },
       {
-        "title": "Oil falls as Qatar, Pakistan announce 60-day roadmap for U.S.-Iran deal",
-        "link": "https://www.cnbc.com/2026/06/22/oil-prices-wti-brent-crude-trump-iran-threat-strait-hormuz-closure.html",
-        "published": "Mon, 22 Jun 2026 07:59:12 GMT"
+        "title": "'Reward for failure': Investor support for Target chair Brian Cornell falls to lowest level ever",
+        "link": "https://www.cnbc.com/2026/06/22/target-brian-cornell-shareholder-support.html",
+        "published": "Mon, 22 Jun 2026 14:21:39 GMT"
       },
       {
-        "title": "CNBC Daily Open: U.K.'s Keir Starmer on the verge of quitting",
-        "link": "https://www.cnbc.com/2026/06/22/cnbc-daily-open-uks-keir-starmer-on-the-verge-of-quitting.html",
-        "published": "Mon, 22 Jun 2026 06:15:00 GMT"
+        "title": "A new analyst is out with coverage on SpaceX. Why KeyBanc thinks the stock could be cut in half",
+        "link": "https://www.cnbc.com/2026/06/22/a-new-analyst-is-out-with-coverage-on-spacex-why-keybanc-thinks-the-stock-could-be-cut-in-half.html",
+        "published": "Mon, 22 Jun 2026 14:32:33 GMT"
       },
       {
-        "title": "Five top tech stocks with major upside, Bank of America says",
-        "link": "https://www.cnbc.com/2026/06/20/five-top-tech-stocks-with-major-upside-bank-of-america-says.html",
-        "published": "Sat, 20 Jun 2026 11:00:47 GMT"
+        "title": "Lucid to lay off roughly 18% of U.S. workforce, COO Marc Winterhoff leaves",
+        "link": "https://www.cnbc.com/2026/06/22/lucid-layoffs-evs.html",
+        "published": "Mon, 22 Jun 2026 14:10:07 GMT"
       },
       {
-        "title": "Colombian right-wing candidate De La Espriella wins tight presidential race",
-        "link": "https://www.cnbc.com/2026/06/22/colombia-elects-de-la-espriella-president.html",
-        "published": "Mon, 22 Jun 2026 07:19:47 GMT"
-      },
-      {
-        "title": "China imposes trade curbs on dozens of U.S. firms in retaliation for Pentagon blacklist",
-        "link": "https://www.cnbc.com/2026/06/22/china-trade-curbs-us-companies-export-controls-procurement-exclusion-pentagon-list-.html",
-        "published": "Mon, 22 Jun 2026 03:45:13 GMT"
+        "title": "SpaceX stock falls 10%, pacing for third-straight day of losses after red-hot IPO start",
+        "link": "https://www.cnbc.com/2026/06/22/spacex-stock-ipo-rally-selloff.html",
+        "published": "Mon, 22 Jun 2026 14:47:23 GMT"
       }
     ]
   }
