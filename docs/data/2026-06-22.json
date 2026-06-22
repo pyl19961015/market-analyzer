@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-06-22T18:43:50",
+  "generated_at": "2026-06-22T21:30:00",
   "date": "2026-06-22",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7476.19,
-        "pct_change": -0.33
+        "last": 7472.79,
+        "pct_change": -0.37
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26224.26,
-        "pct_change": -1.11
+        "last": 26166.6,
+        "pct_change": -1.32
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 51691.78,
-        "pct_change": 0.25
+        "last": 51712.71,
+        "pct_change": 0.29
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3010.8,
-        "pct_change": 1.04
+        "last": 3004.4,
+        "pct_change": 0.83
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 17.21,
-        "pct_change": 4.94
+        "last": 17.28,
+        "pct_change": 5.37
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
         "last": 4.51,
-        "pct_change": 1.35
+        "pct_change": 1.3
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 101.02,
-        "pct_change": 0.17
+        "last": 101.0,
+        "pct_change": 0.15
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 73.83,
-        "pct_change": -3.62
+        "last": 76.54,
+        "pct_change": -0.08
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4204.4,
-        "pct_change": -0.47
+        "last": 4172.9,
+        "pct_change": -1.21
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 191.74,
-        "pct_change": 0.16
+        "last": 192.15,
+        "pct_change": 0.37
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 53.68,
-        "pct_change": 0.21
+        "last": 53.7,
+        "pct_change": 0.24
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 53.9,
-        "pct_change": 0.24
+        "last": 54.06,
+        "pct_change": 0.54
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 150.17,
-        "pct_change": 0.52
+        "last": 150.06,
+        "pct_change": 0.44
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 115.35,
-        "pct_change": -1.54
+        "last": 114.94,
+        "pct_change": -1.89
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 82.46,
-        "pct_change": -1.01
+        "last": 82.18,
+        "pct_change": -1.34
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 181.79,
+        "last": 181.8,
         "pct_change": 0.49
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 44.93,
-        "pct_change": 0.38
+        "last": 44.72,
+        "pct_change": -0.09
       },
       "Materials": {
         "symbol": "XLB",
         "last": 51.62,
-        "pct_change": -0.38
+        "pct_change": -0.37
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.19,
-        "pct_change": 0.76
+        "last": 44.02,
+        "pct_change": 0.36
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 107.01,
-        "pct_change": -2.23
+        "last": 106.86,
+        "pct_change": -2.37
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 161.44,
-        "pct_change": 0.09
+        "last": 161.52,
+        "pct_change": 0.14
       }
     }
   },
@@ -144,52 +144,52 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 211.3,
-        "pct_change": 8.4
+        "last": 209.83,
+        "pct_change": 7.65
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 298.91,
-        "pct_change": 0.3
+        "last": 297.01,
+        "pct_change": -0.34
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 370.21,
-        "pct_change": -2.42
+        "last": 367.34,
+        "pct_change": -3.18
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 234.26,
-        "pct_change": -4.15
+        "last": 232.79,
+        "pct_change": -4.75
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 348.43,
-        "pct_change": -5.33
+        "last": 349.68,
+        "pct_change": -4.99
       },
       "Meta": {
         "symbol": "META",
-        "last": 565.85,
-        "pct_change": -1.97
+        "last": 563.85,
+        "pct_change": -2.32
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 905.0,
-        "pct_change": 6.47
+        "last": 893.93,
+        "pct_change": 5.17
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 436.15,
-        "pct_change": 11.96
+        "last": 425.48,
+        "pct_change": 9.22
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 166.22,
-        "pct_change": 1.38
+        "last": 165.96,
+        "pct_change": 1.22
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -252,7 +252,7 @@
       "country": "USD",
       "date": "2026-06-23T09:45:00-04:00",
       "impact": "Medium",
-      "forecast": "51.0",
+      "forecast": "51.1",
       "previous": "50.9"
     },
     {
@@ -300,7 +300,7 @@
       "country": "USD",
       "date": "2026-06-24T10:00:00-04:00",
       "impact": "Low",
-      "forecast": "637K",
+      "forecast": "638K",
       "previous": "622K"
     },
     {
@@ -308,7 +308,7 @@
       "country": "USD",
       "date": "2026-06-24T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "-5.1M",
       "previous": "-8.3M"
     },
     {
@@ -619,29 +619,29 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "After closing 1,000 restaurants, seafood chain sees clear sailing",
+        "title": "Fast-food seafood chain closed over 900 stores, mounts comeback",
         "link": "https://finance.yahoo.com/small-business/articles/closing-1-000-restaurants-seafood-011700497.html",
         "published": "2026-06-22T01:17:00Z"
       },
       {
-        "title": "No one’s talking about this new bipartisan Social Security rule that changes when US seniors claim. Do this now",
-        "link": "https://finance.yahoo.com/economy/policy/articles/no-one-talking-bipartisan-social-102500002.html",
-        "published": "2026-06-21T10:25:00Z"
+        "title": "Chubb CEO flags threat disrupting global oil supply",
+        "link": "https://finance.yahoo.com/energy/articles/chubb-ceo-flags-threat-disrupting-200700323.html",
+        "published": "2026-06-22T20:07:00Z"
       },
       {
-        "title": "Thieves are using nail polish remover to wash stolen checks — and it's a $1 billion problem",
-        "link": "https://finance.yahoo.com/economy/articles/thieves-using-nail-polish-remover-104500589.html",
-        "published": "2026-06-21T10:45:00Z"
+        "title": "Ex-Trump advisor makes bold 5-point case for Bitcoin",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/ex-trump-advisor-makes-bold-201601908.html",
+        "published": "2026-06-22T20:16:01Z"
       },
       {
-        "title": "HelleniQ Energy to Grant Chevron (CVX) 70% Interest in Block 10 Offshore Concession",
-        "link": "https://finance.yahoo.com/energy/articles/helleniq-energy-grant-chevron-cvx-105232000.html",
-        "published": "2026-06-21T10:52:32Z"
+        "title": "How Fed Chairman Kevin Warsh just screwed AI tech beasts",
+        "link": "https://finance.yahoo.com/markets/article/how-fed-chairman-kevin-warsh-just-screwed-ai-tech-beasts-103000167.html",
+        "published": "2026-06-21T12:30:00Z"
       },
       {
-        "title": "ExxonMobil (XOM) to Develop South Africa’s First LNG Import Terminal at Port of Richards Bay",
-        "link": "https://finance.yahoo.com/energy/articles/exxonmobil-xom-develop-south-africa-105246386.html",
-        "published": "2026-06-21T10:52:46Z"
+        "title": "Dave Ramsey says most millionaires just copied the guy in the next cubicle — not debating the perfect portfolio",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/dave-ramsey-says-most-millionaires-123000219.html",
+        "published": "2026-06-21T12:30:00Z"
       },
       {
         "title": "Analyst Report: UWM Holdings Corp",
@@ -649,68 +649,68 @@
         "published": "2026-06-22T16:38:52Z"
       },
       {
-        "title": "Michael Burry sees a $3 trillion problem with SpaceX",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-sees-3-trillion-010300765.html",
-        "published": "2026-06-22T01:03:00Z"
+        "title": "Alibaba Stock Is a Compelling Buy as It Drifts Toward 52-Week Lows. Here’s Why.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/alibaba-stock-compelling-buy-drifts-130002713.html",
+        "published": "2026-06-21T13:00:02Z"
       },
       {
-        "title": "Capital One Software of Capital One Financial (COF) Launches Databolt Connect on Databricks Marketplace",
-        "link": "https://finance.yahoo.com/technology/ai/articles/capital-one-software-capital-one-105239068.html",
-        "published": "2026-06-21T10:52:39Z"
+        "title": "A Short Squeeze Could Be Brewing in La-Z-Boy Stock",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/short-squeeze-could-brewing-la-130002927.html",
+        "published": "2026-06-21T13:00:02Z"
       }
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "A flood of oil is set to hit energy markets. Here’s how much crude may be unleashed.",
-        "link": "https://www.marketwatch.com/story/a-flood-of-oil-is-set-to-hit-energy-markets-heres-how-much-crude-may-be-unleashed-5b3484f0?mod=mw_rss_topstories",
-        "published": "Mon, 22 Jun 2026 18:33:00 GMT"
-      },
-      {
-        "title": "Wall Street loves growth stocks — but these 10 ‘losers’ are primed to win",
-        "link": "https://www.marketwatch.com/story/wall-street-loves-growth-stocks-but-these-10-losers-are-primed-to-win-0202e491?mod=mw_rss_topstories",
-        "published": "Mon, 22 Jun 2026 18:32:00 GMT"
-      },
-      {
-        "title": "A 40% market crash is lurking in the IPO pipeline. SpaceX and OpenAI could trigger it.",
-        "link": "https://www.marketwatch.com/story/a-40-market-crash-is-lurking-in-the-ipo-pipeline-spacex-and-openai-could-trigger-it-64ae4026?mod=mw_rss_topstories",
-        "published": "Mon, 22 Jun 2026 18:30:00 GMT"
-      },
-      {
-        "title": "The loneliness crisis has gotten so bad that lawmakers are ready to spend millions of dollars to fight it",
-        "link": "https://www.marketwatch.com/story/the-loneliness-crisis-has-gotten-so-bad-that-lawmakers-are-ready-to-spend-millions-of-dollars-to-fight-it-f7e7c7b7?mod=mw_rss_topstories",
-        "published": "Mon, 22 Jun 2026 17:24:00 GMT"
-      },
-      {
-        "title": "China’s weird new economic spark: toy elves and robocops",
-        "link": "https://www.marketwatch.com/story/chinas-new-economic-drivers-a-sad-toy-elf-and-a-robot-police-force-8759daf9?mod=mw_rss_topstories",
-        "published": "Mon, 22 Jun 2026 17:16:00 GMT"
-      },
-      {
-        "title": "Alphabet sees $269 billion market-cap wipeout as investors fear it’s losing the war for AI talent",
-        "link": "https://www.marketwatch.com/story/alphabet-sees-269-billion-market-cap-wipeout-as-investors-fear-its-losing-the-war-for-ai-talent-497aa378?mod=mw_rss_topstories",
-        "published": "Mon, 22 Jun 2026 17:12:00 GMT"
-      },
-      {
-        "title": "Caterpillar’s stock hits a milestone as roaring industrials rally sweeps up Wall Street",
-        "link": "https://www.marketwatch.com/story/caterpillars-stock-hits-a-milestone-as-roaring-industrials-rally-sweeps-up-wall-street-391057f7?mod=mw_rss_topstories",
-        "published": "Mon, 22 Jun 2026 16:47:00 GMT"
-      },
-      {
         "title": "Super Micro’s stock is seeing its best run in a year thanks to Nvidia partnership",
         "link": "https://www.marketwatch.com/story/super-micros-stock-is-seeing-its-best-run-in-a-year-thanks-to-nvidia-partnership-f619e58e?mod=mw_rss_topstories",
-        "published": "Mon, 22 Jun 2026 16:24:00 GMT"
+        "published": "Mon, 22 Jun 2026 20:58:00 GMT"
+      },
+      {
+        "title": "Micron’s stock momentum builds as the company inks a new Anthropic partnership",
+        "link": "https://www.marketwatch.com/story/microns-stock-momentum-builds-as-the-company-inks-a-new-anthropic-partnership-484e3845?mod=mw_rss_topstories",
+        "published": "Mon, 22 Jun 2026 20:53:00 GMT"
+      },
+      {
+        "title": "Salesforce’s stock extends record losing streak. Can the company disrupt itself?",
+        "link": "https://www.marketwatch.com/story/salesforces-stock-extends-record-losing-streak-can-the-company-disrupt-itself-8402d62c?mod=mw_rss_topstories",
+        "published": "Mon, 22 Jun 2026 20:50:00 GMT"
+      },
+      {
+        "title": "Alphabet sees $225 billion market-cap wipeout as investors fear it’s losing the war for AI talent",
+        "link": "https://www.marketwatch.com/story/alphabet-sees-269-billion-market-cap-wipeout-as-investors-fear-its-losing-the-war-for-ai-talent-497aa378?mod=mw_rss_topstories",
+        "published": "Mon, 22 Jun 2026 20:48:00 GMT"
+      },
+      {
+        "title": "A major chip index has doubled this year despite Nvidia ranking dead last",
+        "link": "https://www.marketwatch.com/story/a-major-chip-index-has-doubled-this-year-despite-nvidia-ranking-dead-last-f049eb5e?mod=mw_rss_topstories",
+        "published": "Mon, 22 Jun 2026 20:40:00 GMT"
+      },
+      {
+        "title": "SpaceX sheds $400 billion in value as stock slides below its IPO-day closing price",
+        "link": "https://www.marketwatch.com/story/spacex-sheds-400-billion-in-value-as-stock-slides-below-its-ipo-day-closing-price-c7fe0ec5?mod=mw_rss_topstories",
+        "published": "Mon, 22 Jun 2026 20:38:00 GMT"
+      },
+      {
+        "title": "My houseguest left heat marks all over my table. I didn’t notice them until she was gone. Do I ask her to pay to remove them?",
+        "link": "https://www.marketwatch.com/story/i-gave-my-homeexchange-guest-a-5-star-review-then-i-found-heat-marks-all-over-my-dining-table-do-i-call-her-out-855d3836?mod=mw_rss_topstories",
+        "published": "Mon, 22 Jun 2026 20:30:00 GMT"
+      },
+      {
+        "title": "‘Passion is overrated:’ This CEO didn’t build her career doing what she loved — and says you shouldn’t either",
+        "link": "https://www.marketwatch.com/story/passion-is-overrated-this-ceo-didnt-build-her-career-doing-what-she-loved-and-says-you-shouldnt-either-d2d2f4b6?mod=mw_rss_topstories",
+        "published": "Mon, 22 Jun 2026 20:29:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "Alphabet paces for worst day in a year on AI concerns after high-profile exits",
-        "link": "https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html",
-        "published": "Mon, 22 Jun 2026 17:17:04 GMT"
+        "title": "SpaceX stock tanks 16%, extending slump following post-IPO rally",
+        "link": "https://www.cnbc.com/2026/06/22/spacex-stock-ipo-rally-selloff.html",
+        "published": "Mon, 22 Jun 2026 20:10:16 GMT"
       },
       {
-        "title": "SpaceX signs computing power deal with open-source AI startup Reflection worth up to $6.3 billion",
-        "link": "https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html",
-        "published": "Mon, 22 Jun 2026 15:00:01 GMT"
+        "title": "Alphabet has its worst day in over a year on AI concerns after high-profile exits",
+        "link": "https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html",
+        "published": "Mon, 22 Jun 2026 21:04:29 GMT"
       },
       {
         "title": "Alan Greenspan, former chairman of the Fed, dies at age 100",
@@ -718,9 +718,14 @@
         "published": "Mon, 22 Jun 2026 14:39:38 GMT"
       },
       {
-        "title": "Stocks making the biggest moves midday: Alphabet, AeroVironment, Salesforce, Apogee Therapeutics & more",
-        "link": "https://www.cnbc.com/2026/06/22/stocks-making-the-biggest-moves-midday-googl-avav-crm-apge.html",
-        "published": "Mon, 22 Jun 2026 17:48:42 GMT"
+        "title": "Nvidia's stock struggles as Kalshi traders bet chip prices are coming down",
+        "link": "https://www.cnbc.com/2026/06/22/nvidias-stock-struggles-as-kalshi-traders-bet-chip-prices-are-coming-down.html",
+        "published": "Mon, 22 Jun 2026 20:09:04 GMT"
+      },
+      {
+        "title": "Wall Street was once uber bullish on gold. Now it's changing its tune",
+        "link": "https://www.cnbc.com/2026/06/22/wall-street-was-once-uber-bullish-on-gold-now-its-changing-its-tune.html",
+        "published": "Mon, 22 Jun 2026 21:23:17 GMT"
       },
       {
         "title": "Three key AI stocks to watch this week with traders expecting giant moves",
@@ -728,19 +733,14 @@
         "published": "Mon, 22 Jun 2026 17:54:14 GMT"
       },
       {
-        "title": "S&P 500 falls as Big Tech and SpaceX struggle: Live updates",
-        "link": "https://www.cnbc.com/2026/06/21/stock-market-today-live-updates.html",
-        "published": "Mon, 22 Jun 2026 18:42:58 GMT"
+        "title": "Treasury Department authorizes Iranian oil sales through August",
+        "link": "https://www.cnbc.com/2026/06/22/treasury-iran-oil-sales.html",
+        "published": "Mon, 22 Jun 2026 17:56:43 GMT"
       },
       {
-        "title": "Industrials are catching up to the rest of the market. Katie Stockton is watching these names",
-        "link": "https://www.cnbc.com/2026/06/22/katie-stockton-is-watching-these-industrial-stocks.html",
-        "published": "Mon, 22 Jun 2026 18:02:44 GMT"
-      },
-      {
-        "title": "SpaceX stock falls 9%, pacing for third-straight day of losses after red-hot IPO start",
-        "link": "https://www.cnbc.com/2026/06/22/spacex-stock-ipo-rally-selloff.html",
-        "published": "Mon, 22 Jun 2026 15:57:18 GMT"
+        "title": "Senate poised to advance housing bill to limit private equity purchases of single-family homes",
+        "link": "https://www.cnbc.com/2026/06/22/affordable-housing-bill-private-equity-single-family-homes.html",
+        "published": "Mon, 22 Jun 2026 17:54:43 GMT"
       }
     ]
   }
