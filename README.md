@@ -17,19 +17,19 @@
 ## 使用方法
 
 ```bash
-# 生成今日报告（保存到 reports/YYYY-MM-DD.json，并同步到 site/data/）
+# 生成今日报告（保存到 reports/YYYY-MM-DD.json，并同步到 docs/data/）
 uv run python -m market_analyzer.report
 
 # 本地预览看板
-cd site && python3 -m http.server 8765
+cd docs && python3 -m http.server 8765
 # 浏览器打开 http://localhost:8765/
 ```
 
-每次生成新报告后，`site/data/` 会自动同步最新的 JSON 数据和日期索引，看板里的日期选择器会显示所有历史报告。
+每次生成新报告后，`docs/data/` 会自动同步最新的 JSON 数据和日期索引，看板里的日期选择器会显示所有历史报告。
 
 ## 部署：GitHub Pages + Actions 自动刷新
 
-`.github/workflows/refresh-data.yml` 在工作日每15分钟（00:00-21:00 UTC，覆盖日股+美股交易时段）自动跑一次 `uv run python -m market_analyzer.report`，把新数据 commit & push 回仓库；GitHub Pages 配置为从 `main` 分支的 `/site` 目录发布，每次 push 会自动重新发布，看板就能看到最新数据。也可以在 Actions 页面手动触发（workflow_dispatch）。
+`.github/workflows/refresh-data.yml` 在工作日每15分钟（00:00-21:00 UTC，覆盖日股+美股交易时段）自动跑一次 `uv run python -m market_analyzer.report`，把新数据 commit & push 回仓库；GitHub Pages 配置为从 `main` 分支的 `/docs` 目录发布，每次 push 会自动重新发布，看板就能看到最新数据。也可以在 Actions 页面手动触发（workflow_dispatch）。
 
 仓库是 **public**，所以 Actions 分钟数不限量；如果改成 private，免费额度每月只有2000分钟，按当前频率大概率会超额。
 
@@ -41,7 +41,7 @@ cd site && python3 -m http.server 8765
 market_analyzer/
   config.py              # 股票代码、RSS地址等配置
   report.py               # 聚合所有数据，生成/保存每日报告
-  build_site.py           # 把 reports/ 同步到 site/data/（含日期索引）
+  build_site.py           # 把 reports/ 同步到 docs/data/（含日期索引）
   fetchers/
     market_data.py        # 美股/日股指数、板块、个股报价 (yfinance)
     rates.py               # 美联储EFFR/目标区间、日本JGB收益率
@@ -50,7 +50,7 @@ market_analyzer/
     fed_policy.py         # 美联储RSS
     news.py                # 财经新闻RSS
 reports/                  # 每日生成的JSON报告（按日期命名）
-site/                     # 静态看板（GitHub Pages 发布目录）
+docs/                     # 静态看板（GitHub Pages 发布目录）
   index.html
   style.css
   app.js

@@ -1,4 +1,4 @@
-"""Sync generated reports into site/data/ for the static dashboard."""
+"""Sync generated reports into docs/data/ for the static dashboard."""
 from __future__ import annotations
 
 import json
@@ -7,7 +7,7 @@ from pathlib import Path
 
 from market_analyzer.report import REPORTS_DIR
 
-SITE_DIR = Path(__file__).resolve().parent.parent / "site"
+SITE_DIR = Path(__file__).resolve().parent.parent / "docs"
 SITE_DATA_DIR = SITE_DIR / "data"
 
 
