@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>美股每日市场因素分析</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="topbar-row">
+    <h1>美股每日市场因素分析</h1>
+    <select id="date-select" aria-label="选择报告日期"></select>
+  </div>
+  <p id="generated-at" class="meta"></p>
+</header>
+
+<nav class="tabs" id="tabs">
+  <button class="tab active" data-target="panel-market">大盘行情</button>
+  <button class="tab" data-target="panel-watchlist">个股</button>
+  <button class="tab" data-target="panel-rates">利率</button>
+  <button class="tab" data-target="panel-calendar">经济日历</button>
+  <button class="tab" data-target="panel-fed">美联储</button>
+  <button class="tab" data-target="panel-news">新闻</button>
+</nav>
+
+<main id="content">
+  <p id="empty-state" class="empty-state" hidden>还没有报告数据。运行 <code>uv run python -m market_analyzer.report</code> 生成第一份报告。</p>
+
+  <section id="panel-market" class="panel active">
+    <h2>美股</h2>
+    <div id="indices-grid" class="card-grid"></div>
+
+    <h2>美股板块表现</h2>
+    <div id="sectors-list" class="bar-list"></div>
+
+    <h2>日股</h2>
+    <div id="japan-grid" class="card-grid"></div>
+  </section>
+
+  <section id="panel-watchlist" class="panel">
+    <h2>持仓</h2>
+    <div id="holdings-grid" class="card-grid"></div>
+
+    <h2>下游需求驱动</h2>
+    <p class="meta">苹果（Gorilla Glass终端需求）+ 四大云厂商（AI数据中心资本支出，驱动康宁光通信业务——目前最大、增长最快的板块）</p>
+    <div id="demand-drivers-grid" class="card-grid"></div>
+
+    <h2>同业对标</h2>
+    <p class="meta">光通信元件、连接器、特种/显示玻璃同业，可作为板块景气度的交叉验证</p>
+    <div id="peers-grid" class="card-grid"></div>
+  </section>
+
+  <section id="panel-rates" class="panel">
+    <h2>美日利率</h2>
+    <div id="rates-grid" class="card-grid"></div>
+  </section>
+
+  <section id="panel-calendar" class="panel">
+    <h2>本周美国 &amp; 日本宏观经济事件</h2>
+    <div id="calendar-list" class="event-groups"></div>
+  </section>
+
+  <section id="panel-fed" class="panel">
+    <h2>美联储官方动态</h2>
+    <div id="fed-list" class="feed-groups"></div>
+  </section>
+
+  <section id="panel-news" class="panel">
+    <h2>财经新闻头条</h2>
+    <div id="news-list" class="feed-groups"></div>
+  </section>
+</main>
+
+<script src="app.js"></script>
+</body>
+</html>

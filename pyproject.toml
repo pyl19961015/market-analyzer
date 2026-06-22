@@ -1,0 +1,11 @@
+[project]
+name = "market-analyzer"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.14"
+dependencies = [
+    "feedparser>=6.0.12",
+    "python-dateutil>=2.9.0.post0",
+    "requests>=2.34.2",
+    "yfinance>=1.4.1",
+]

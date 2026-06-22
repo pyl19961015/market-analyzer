@@ -1,0 +1,37 @@
+name: Refresh market data
+
+on:
+  schedule:
+    # Every 15 minutes, 00:00-21:00 UTC, Mon-Fri (covers Japan + US sessions).
+    - cron: "*/15 0-21 * * 1-5"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-data
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v3
+
+      - name: Install dependencies
+        run: uv sync
+
+      - name: Fetch report and sync site data
+        run: uv run python -m market_analyzer.report
+
+      - name: Commit and push if data changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add reports/ site/data/
+          git diff --cached --quiet || git commit -m "Refresh market data $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
