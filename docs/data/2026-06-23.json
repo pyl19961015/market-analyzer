@@ -1,74 +1,74 @@
 {
-  "generated_at": "2026-06-23T16:14:14",
+  "generated_at": "2026-06-23T18:16:26",
   "date": "2026-06-23",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7401.65,
-        "pct_change": -0.95
+        "last": 7384.83,
+        "pct_change": -1.18
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 25790.21,
-        "pct_change": -1.44
+        "last": 25701.22,
+        "pct_change": -1.78
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 51821.87,
-        "pct_change": 0.21
+        "last": 51746.95,
+        "pct_change": 0.07
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2984.57,
-        "pct_change": -0.66
+        "last": 2983.01,
+        "pct_change": -0.71
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 19.45,
-        "pct_change": 12.56
+        "last": 18.89,
+        "pct_change": 9.32
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.48,
-        "pct_change": 0.63
+        "last": 4.49,
+        "pct_change": 0.9
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 101.37,
-        "pct_change": 0.35
+        "last": 101.4,
+        "pct_change": 0.38
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 73.1,
-        "pct_change": -2.3
+        "last": 73.32,
+        "pct_change": -2.0
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4155.2,
-        "pct_change": -0.64
+        "last": 4145.3,
+        "pct_change": -0.88
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 186.3,
-        "pct_change": -3.04
+        "last": 184.91,
+        "pct_change": -3.77
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 53.94,
-        "pct_change": 0.46
+        "last": 53.86,
+        "pct_change": 0.3
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 54.29,
-        "pct_change": 0.43
+        "last": 54.44,
+        "pct_change": 0.71
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 151.42,
-        "pct_change": 0.91
+        "last": 151.93,
+        "pct_change": 1.25
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
@@ -77,33 +77,33 @@
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 83.54,
-        "pct_change": 1.65
+        "last": 83.65,
+        "pct_change": 1.79
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 179.59,
-        "pct_change": -1.22
+        "last": 178.63,
+        "pct_change": -1.74
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 45.08,
-        "pct_change": 0.82
+        "last": 45.12,
+        "pct_change": 0.89
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 51.33,
-        "pct_change": -0.56
+        "last": 51.0,
+        "pct_change": -1.2
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.62,
-        "pct_change": 1.37
+        "last": 44.67,
+        "pct_change": 1.49
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 107.25,
-        "pct_change": 0.36
+        "last": 107.44,
+        "pct_change": 0.54
       }
     }
   },
@@ -121,7 +121,7 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 161.56,
+        "last": 161.57,
         "pct_change": 0.08
       }
     }
@@ -138,63 +138,63 @@
       "as_of": "2026-06-22",
       "prev_yield": 2.656
     },
-    "spread_10y": 1.8
+    "spread_10y": 1.81
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 191.54,
-        "pct_change": -8.72
+        "last": 192.47,
+        "pct_change": -8.27
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 298.15,
-        "pct_change": 0.38
+        "last": 298.61,
+        "pct_change": 0.54
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 371.72,
-        "pct_change": 1.19
+        "last": 373.65,
+        "pct_change": 1.72
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 234.32,
-        "pct_change": 0.66
+        "last": 235.75,
+        "pct_change": 1.27
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 345.58,
-        "pct_change": -1.17
+        "last": 346.58,
+        "pct_change": -0.89
       },
       "Meta": {
         "symbol": "META",
-        "last": 563.1,
-        "pct_change": -0.13
+        "last": 563.97,
+        "pct_change": 0.02
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 840.18,
-        "pct_change": -6.01
+        "last": 823.0,
+        "pct_change": -7.93
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 394.13,
-        "pct_change": -7.37
+        "last": 385.1,
+        "pct_change": -9.49
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 161.53,
-        "pct_change": -2.67
+        "last": 160.45,
+        "pct_change": -3.32
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 7551.0,
-        "pct_change": -0.85
+        "last": 7250.0,
+        "pct_change": -3.99
       }
     }
   },
@@ -300,7 +300,7 @@
       "country": "USD",
       "date": "2026-06-24T08:30:00-04:00",
       "impact": "Low",
-      "forecast": "-206B",
+      "forecast": "-212B",
       "previous": "-191B"
     },
     {
@@ -316,7 +316,7 @@
       "country": "USD",
       "date": "2026-06-24T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "-3.3M",
+      "forecast": "-3.9M",
       "previous": "-8.3M"
     },
     {
@@ -632,24 +632,24 @@
         "published": "2026-06-22T18:47:00Z"
       },
       {
-        "title": "Tech stocks live: Google and other tech stocks extend losses as AI worries creep back in",
-        "link": "https://finance.yahoo.com/technology/live/tech-stocks-live-google-and-other-tech-stocks-extend-losses-as-ai-worries-creep-back-in-143422690.html",
-        "published": "2026-06-22T14:34:22Z"
+        "title": "Is NiSource Stock Underperforming the Dow?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/nisource-stock-underperforming-dow-085850071.html",
+        "published": "2026-06-22T08:58:50Z"
       },
       {
-        "title": "Buy now, pay later use is expected to rise for Amazon Prime Day: What to know",
-        "link": "https://finance.yahoo.com/personal-finance/banking/article/what-to-know-before-using-buy-now-pay-later-for-amazon-prime-day-deals-215226311.html",
-        "published": "2025-11-19T21:52:26Z"
+        "title": "Should a 55-Year-Old With $1.2 Million in a 401(k) Make Catch-Up Contributions?",
+        "link": "https://finance.yahoo.com/markets/options/articles/im-55-1-2-million-113000156.html",
+        "published": "2026-06-22T09:00:00Z"
       },
       {
-        "title": "US Supreme Court boosts Exxon's bid to get compensation from Cuba",
-        "link": "https://finance.yahoo.com/energy/articles/us-supreme-court-boosts-exxons-141556047.html",
-        "published": "2026-06-23T15:52:04Z"
+        "title": "Flex Ltd. (FLEX) to Join S&P 500 Index on June 22",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/flex-ltd-flex-join-p-092215885.html",
+        "published": "2026-06-22T09:22:15Z"
       },
       {
-        "title": "Tim Cook issues chilling warning as ‘hundred-year-flood’ strikes US tech giants like Apple, Dell, HP. Get protection now",
-        "link": "https://finance.yahoo.com/technology/articles/tim-cook-issues-chilling-warning-155000396.html",
-        "published": "2026-06-23T15:50:00Z"
+        "title": "Seaport Research Raises its Price Target on Vistra Corp. (VST)",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/seaport-research-raises-price-target-092231192.html",
+        "published": "2026-06-22T09:22:31Z"
       },
       {
         "title": "The Argus Dividend Growth Model Portfolio",
@@ -662,63 +662,68 @@
         "published": "2026-06-22T19:47:00Z"
       },
       {
-        "title": "Stock Market Today: Nasdaq Falls As Micron Sinks Ahead Of Earnings; Trump Helps Quantum Stocks (Live Coverage)",
-        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-micron-nvidia-sandisk/?src=A00220&yptr=yahoo",
-        "published": "2026-06-23T15:48:50Z"
+        "title": "Is Caterpillar (CAT) the Best High Quality Stock to Buy for the Long Term?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-cat-best-high-quality-092224790.html",
+        "published": "2026-06-22T09:22:24Z"
       }
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "SpaceX succumbs to gravity as the stock briefly dips below its debut price on Nasdaq",
-        "link": "https://www.marketwatch.com/story/spacex-succumbs-to-gravity-as-its-stock-price-briefly-dips-below-its-ipo-trading-debut-a06e4321?mod=mw_rss_topstories",
-        "published": "Tue, 23 Jun 2026 15:59:00 GMT"
+        "title": "This tech ‘fear gauge’ is nearing a two-decade high. Investors should worry.",
+        "link": "https://www.marketwatch.com/story/this-tech-fear-gauge-is-nearing-a-two-decade-high-investors-should-worry-691ed639?mod=mw_rss_topstories",
+        "published": "Tue, 23 Jun 2026 18:15:00 GMT"
       },
       {
-        "title": "I’m 70. A relative offered me a $25,000 home loan secured by a lien that must be repaid within a year. Is that fair?",
-        "link": "https://www.marketwatch.com/story/im-70-a-relative-offered-me-a-25-000-home-loan-secured-by-a-lien-that-must-be-repaid-within-a-year-should-i-agree-27d44725?mod=mw_rss_topstories",
-        "published": "Tue, 23 Jun 2026 15:54:00 GMT"
+        "title": "Americans’ 401(k) balances hit record levels last year. See how you compare.",
+        "link": "https://www.marketwatch.com/story/americans-401-k-balances-hit-record-levels-last-year-see-how-you-compare-facd32c4?mod=mw_rss_topstories",
+        "published": "Tue, 23 Jun 2026 17:53:00 GMT"
       },
       {
-        "title": "Social Security urgently needs another ‘Greenspan Commission’ to save it",
-        "link": "https://www.marketwatch.com/story/social-security-urgently-needs-another-greenspan-commission-to-save-it-d52fcdee?mod=mw_rss_topstories",
-        "published": "Tue, 23 Jun 2026 15:54:00 GMT"
+        "title": "How to work in retirement without seeing your Social Security checks slashed",
+        "link": "https://www.marketwatch.com/story/how-to-work-in-retirement-without-seeing-your-social-security-checks-slashed-05d6c830?mod=mw_rss_topstories",
+        "published": "Tue, 23 Jun 2026 17:49:00 GMT"
       },
       {
-        "title": "‘Money can make you happy’: My wife and I have no heirs, but we’re making the world a better place by giving it away",
-        "link": "https://www.marketwatch.com/story/money-can-make-you-happy-my-wife-and-i-have-no-heirs-but-were-making-the-world-a-better-place-by-giving-it-away-f61fad98?mod=mw_rss_topstories",
-        "published": "Tue, 23 Jun 2026 15:46:00 GMT"
+        "title": "Your index fund is hiding a looming tech-stock risk — here is how to protect your portfolio",
+        "link": "https://www.marketwatch.com/story/your-index-fund-is-hiding-a-looming-tech-stock-risk-here-is-how-to-protect-your-portfolio-f4dd1c20?mod=mw_rss_topstories",
+        "published": "Tue, 23 Jun 2026 17:45:00 GMT"
       },
       {
-        "title": "These stocks are falling the most on Tuesday as the tech sector comes under pressure",
-        "link": "https://www.marketwatch.com/story/these-stocks-are-falling-the-most-on-tuesday-as-the-tech-sector-comes-under-pressure-33558ade?mod=mw_rss_topstories",
-        "published": "Tue, 23 Jun 2026 15:21:00 GMT"
+        "title": "I want to leave everything to my sons, but I’m terrified they’ll give it to my ex-husband. How do I prevent this?",
+        "link": "https://www.marketwatch.com/story/i-want-to-leave-everything-to-my-sons-but-im-terrified-theyll-give-it-to-my-ex-husband-how-do-i-prevent-this-8cfc752c?mod=mw_rss_topstories",
+        "published": "Tue, 23 Jun 2026 17:30:00 GMT"
       },
       {
-        "title": "At school, it’s cheating. At work, it’s essential. New grads are caught in a double standard around AI.",
-        "link": "https://www.marketwatch.com/story/teachers-ban-it-employers-demand-it-new-grads-face-a-frustrating-ai-double-standard-09c70f19?mod=mw_rss_topstories",
-        "published": "Tue, 23 Jun 2026 15:03:00 GMT"
+        "title": "Trump admits selling IBM’s stock was a mistake. Now he’s cheering its quantum future.",
+        "link": "https://www.marketwatch.com/story/trump-admits-selling-ibms-stock-was-a-mistake-now-hes-cheering-its-quantum-future-095592d6?mod=mw_rss_topstories",
+        "published": "Tue, 23 Jun 2026 17:04:00 GMT"
       },
       {
-        "title": "Why a 30-year mortgage loan could be your biggest money mistake",
-        "link": "https://www.marketwatch.com/story/why-a-30-year-mortgage-loan-could-be-your-biggest-money-mistake-46323442?mod=mw_rss_topstories",
-        "published": "Tue, 23 Jun 2026 14:59:00 GMT"
+        "title": "My houseguest left heat marks all over my table. I didn’t notice them until she was gone. Do I ask her to pay to remove them?",
+        "link": "https://www.marketwatch.com/story/i-gave-my-homeexchange-guest-a-5-star-review-then-i-found-heat-marks-all-over-my-dining-table-do-i-call-her-out-855d3836?mod=mw_rss_topstories",
+        "published": "Tue, 23 Jun 2026 16:45:00 GMT"
       },
       {
-        "title": "Micron and Sandisk lead a sharp tech selloff in a ‘gut-check’ moment for AI stocks",
-        "link": "https://www.marketwatch.com/story/micron-and-sandisk-lead-a-sharp-tech-selloff-in-a-gut-check-moment-for-ai-stocks-cd92fa5d?mod=mw_rss_topstories",
-        "published": "Tue, 23 Jun 2026 14:40:00 GMT"
+        "title": "Are falling tech stocks the start of an overdue selloff — or a well-deserved pause?",
+        "link": "https://www.marketwatch.com/story/are-falling-tech-stocks-the-start-of-an-overdue-selloff-or-a-well-deserved-pause-44bc5391?mod=mw_rss_topstories",
+        "published": "Tue, 23 Jun 2026 16:19:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
         "title": "S&P 500 falls on global chip rout with Nasdaq off more than 1%, led by Micron: Live updates",
         "link": "https://www.cnbc.com/2026/06/22/stock-market-today-live-updates.html",
-        "published": "Tue, 23 Jun 2026 16:05:49 GMT"
+        "published": "Tue, 23 Jun 2026 17:41:28 GMT"
       },
       {
         "title": "Factory job cuts in June neared financial crisis and Covid levels, S&P says",
         "link": "https://www.cnbc.com/2026/06/23/factory-job-cuts-reported-around-financial-crisis-and-covid-levels-for-june-sp-says.html",
-        "published": "Tue, 23 Jun 2026 14:49:04 GMT"
+        "published": "Tue, 23 Jun 2026 16:40:57 GMT"
+      },
+      {
+        "title": "Inside Kevin Warsh's selection process for the next Atlanta Fed president",
+        "link": "https://www.cnbc.com/2026/06/23/fed-warsh-atlanta-michael-faulkender.html",
+        "published": "Tue, 23 Jun 2026 17:30:32 GMT"
       },
       {
         "title": "Meta announces new smart glasses starting at $299, as Zuckerberg keeps pushing wearables",
@@ -726,29 +731,24 @@
         "published": "Tue, 23 Jun 2026 15:56:53 GMT"
       },
       {
-        "title": "Could there be a $10 trillion company? Tech investing star Laffont believes so.",
-        "link": "https://www.cnbc.com/2026/06/23/could-there-be-a-10-trillion-company-tech-investing-star-laffont-believes-so.html",
-        "published": "Tue, 23 Jun 2026 16:07:15 GMT"
+        "title": "Strait of Hormuz evacuation plan to begin for ships stranded in Persian Gulf, maritime organization says",
+        "link": "https://www.cnbc.com/2026/06/23/strait-hormuz-persian-gulf-ship-tanker-evacuation.html",
+        "published": "Tue, 23 Jun 2026 18:06:32 GMT"
       },
       {
-        "title": "SpaceX stock climbs 4% after falling below $150 debut price",
-        "link": "https://www.cnbc.com/2026/06/23/spacex-stock-tech-sell-off.html",
-        "published": "Tue, 23 Jun 2026 15:58:39 GMT"
+        "title": "SpaceX could remain under pressure as more insiders gain permission to sell. Here are the key dates",
+        "link": "https://www.cnbc.com/2026/06/23/spacex-could-remain-under-pressure-as-more-insiders-gain-permission-to-sell-here-are-the-key-dates.html",
+        "published": "Tue, 23 Jun 2026 17:34:17 GMT"
       },
       {
-        "title": "Costco could be a winner from the big market rotation. How to trade it",
-        "link": "https://www.cnbc.com/2026/06/23/costco-could-be-a-winner-from-the-big-market-rotation-how-to-trade-it.html",
-        "published": "Tue, 23 Jun 2026 14:53:42 GMT"
+        "title": "Meta is building a prediction markets app. These stocks are falling in response",
+        "link": "https://www.cnbc.com/2026/06/23/nyt-says-meta-builds-prediction-market-these-stocks-are-falling.html",
+        "published": "Tue, 23 Jun 2026 18:16:01 GMT"
       },
       {
-        "title": "U.S. issues sweeping Iran oil sanctions waivers, unlocking billions in revenue for Tehran",
-        "link": "https://www.cnbc.com/2026/06/23/us-iran-oil-sanction-relief-strait-of-hormuz-peace-deal-.html",
-        "published": "Tue, 23 Jun 2026 14:56:38 GMT"
-      },
-      {
-        "title": "Sen. Cassidy plans to push 'big idea' for Social Security reform in last days in office",
-        "link": "https://www.cnbc.com/2026/06/23/social-security-reform-cassidy.html",
-        "published": "Tue, 23 Jun 2026 14:47:27 GMT"
+        "title": "Stocks making the biggest moves midday: Micron Technology, SpaceX, IBM, Flex & more",
+        "link": "https://www.cnbc.com/2026/06/23/stocks-making-the-biggest-moves-midday-mu-spcx-ibm-flex.html",
+        "published": "Tue, 23 Jun 2026 18:04:23 GMT"
       }
     ]
   }
