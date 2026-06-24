@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-06-24T19:10:25",
+  "generated_at": "2026-06-24T20:55:36",
   "date": "2026-06-24",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7338.14,
-        "pct_change": -0.37
+        "last": 7358.22,
+        "pct_change": -0.1
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 25364.66,
-        "pct_change": -0.87
+        "last": 25476.63,
+        "pct_change": -0.43
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 51858.42,
-        "pct_change": 0.37
+        "last": 51848.9,
+        "pct_change": 0.35
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2981.87,
-        "pct_change": 0.21
+        "last": 2986.63,
+        "pct_change": 0.37
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 19.85,
-        "pct_change": 1.85
+        "last": 18.63,
+        "pct_change": -4.41
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
         "last": 4.4,
-        "pct_change": -1.15
+        "pct_change": -1.1
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 101.6,
-        "pct_change": 0.19
+        "last": 101.57,
+        "pct_change": 0.16
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 69.92,
-        "pct_change": -4.49
+        "last": 69.87,
+        "pct_change": -4.56
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 3996.9,
-        "pct_change": -3.22
+        "last": 4016.1,
+        "pct_change": -2.76
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 180.9,
-        "pct_change": -1.79
+        "last": 183.05,
+        "pct_change": -0.62
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 53.84,
-        "pct_change": -0.07
+        "last": 53.72,
+        "pct_change": -0.3
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 53.41,
-        "pct_change": -1.93
+        "last": 53.57,
+        "pct_change": -1.63
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 153.56,
-        "pct_change": 0.91
+        "last": 153.35,
+        "pct_change": 0.77
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 115.55,
-        "pct_change": 1.57
+        "last": 115.07,
+        "pct_change": 1.15
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 84.72,
-        "pct_change": 1.2
+        "last": 84.44,
+        "pct_change": 0.86
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 180.02,
-        "pct_change": 1.05
+        "last": 180.21,
+        "pct_change": 1.16
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 45.49,
-        "pct_change": 0.92
+        "last": 45.54,
+        "pct_change": 1.04
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 51.24,
-        "pct_change": 0.72
+        "last": 51.16,
+        "pct_change": 0.57
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.72,
-        "pct_change": 0.17
+        "last": 44.51,
+        "pct_change": -0.29
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 106.72,
-        "pct_change": -0.51
+        "last": 106.54,
+        "pct_change": -0.68
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 161.79,
-        "pct_change": 0.13
+        "last": 161.82,
+        "pct_change": 0.15
       }
     }
   },
@@ -144,52 +144,52 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 202.17,
-        "pct_change": 4.17
+        "last": 205.83,
+        "pct_change": 6.06
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 295.06,
-        "pct_change": 0.26
+        "last": 293.08,
+        "pct_change": -0.41
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 368.67,
-        "pct_change": -1.41
+        "last": 365.46,
+        "pct_change": -2.27
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 236.68,
-        "pct_change": 1.1
+        "last": 234.27,
+        "pct_change": 0.07
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 343.3,
-        "pct_change": -0.82
+        "last": 345.29,
+        "pct_change": -0.24
       },
       "Meta": {
         "symbol": "META",
-        "last": 558.67,
-        "pct_change": -0.63
+        "last": 557.67,
+        "pct_change": -0.81
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 827.16,
-        "pct_change": -0.09
+        "last": 842.53,
+        "pct_change": 1.76
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 383.04,
-        "pct_change": 0.48
+        "last": 392.5,
+        "pct_change": 2.96
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 162.27,
-        "pct_change": 2.25
+        "last": 162.78,
+        "pct_change": 2.57
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -483,6 +483,12 @@
   "fed_policy": {
     "Press Releases": [
       {
+        "title": "Federal Reserve Board's annual bank stress test confirms that large banks are well positioned to weather a severe recession and able to continue to lend to households and businesses",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260624a.htm",
+        "published": "Wed, 24 Jun 2026 20:00:00 GMT",
+        "summary": "Federal Reserve Board's annual bank stress test confirms that large banks are well positioned to weather a severe recession and able to continue to lend to households and businesses"
+      },
+      {
         "title": "Federal Reserve notes with deep sadness the passing of Alan Greenspan",
         "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260622a.htm",
         "published": "Mon, 22 Jun 2026 12:45:00 GMT",
@@ -523,12 +529,6 @@
         "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260611a.htm",
         "published": "Thu, 11 Jun 2026 15:00:00 GMT",
         "summary": "Federal Reserve Board announces final rule that establishes data standards for certain information collections"
-      },
-      {
-        "title": "Federal Reserve Board announces that results from its annual bank stress test will be released on Wednesday, June 24, at 4 p.m. EDT.",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260609a.htm",
-        "published": "Tue, 9 Jun 2026 20:00:00 GMT",
-        "summary": "Federal Reserve Board announces that results from its annual bank stress test will be released on Wednesday, June 24, at 4 p.m. EDT."
       }
     ],
     "Speeches": [
@@ -635,98 +635,113 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "Prediction: Solana Will Be the Top Crypto for Decentralized Finance (DeFi) by 2030",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/prediction-solana-top-crypto-decentralized-100400957.html",
-        "published": "2026-06-23T10:04:00Z"
+        "title": "Should You Buy Or Sell AbbVie Stock At $230?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/buy-sell-abbvie-stock-230-122049574.html",
+        "published": "2026-06-23T12:20:49Z"
       },
       {
-        "title": "Explainer-What are the Fed's bank 'stress tests' and what's new this year?",
-        "link": "https://finance.yahoo.com/economy/policy/articles/explainer-feds-bank-stress-tests-100627391.html",
-        "published": "2026-06-23T10:06:27Z"
+        "title": "SpaceX isn't the only Big Tech stock getting crushed — check out the destruction in Salesforce",
+        "link": "https://finance.yahoo.com/markets/stocks/article/spacex-isnt-the-only-big-tech-stock-getting-crushed--check-out-the-destruction-in-salesforce-122756818.html",
+        "published": "2026-06-23T12:27:56Z"
       },
       {
-        "title": "Paramount Skydance Stock: Is PSKY Underperforming the Communications Sector?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/paramount-skydance-stock-psky-underperforming-100454091.html",
-        "published": "2026-06-23T10:04:54Z"
+        "title": "UK tribunal gives go ahead for $4 billion lawsuit against Apple over iCloud services",
+        "link": "https://finance.yahoo.com/technology/articles/uk-tribunal-gives-ahead-4-122216032.html",
+        "published": "2026-06-23T12:22:16Z"
       },
       {
-        "title": "The AI rally has a new test — a rising dollar: Chart of the Day",
-        "link": "https://finance.yahoo.com/markets/article/the-ai-rally-has-a-new-test--a-rising-dollar-chart-of-the-day-100000746.html",
-        "published": "2026-06-23T10:00:00Z"
+        "title": "Atai Capital’s Update on BK Technologies Corp. (BKTI)",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/atai-capital-bk-technologies-corp-122017420.html",
+        "published": "2026-06-23T12:20:17Z"
       },
       {
-        "title": "Your 401(k) match may not be as generous as it used to be",
-        "link": "https://finance.yahoo.com/markets/article/your-401k-match-may-not-be-as-generous-as-it-used-to-be-100000215.html",
-        "published": "2026-06-23T10:00:00Z"
+        "title": "Is Ciena Stock Outperforming the S&P 500?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/ciena-stock-outperforming-p-500-121245167.html",
+        "published": "2026-06-23T12:12:45Z"
       },
       {
-        "title": "Market Update: COR, ADM, NI",
-        "link": "https://finance.yahoo.com/research/reports/ARGUS_47424_MarketUpdate_1782323593000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-        "published": "2026-06-24T17:53:13Z"
+        "title": "Analyst Report: NiSource Inc",
+        "link": "https://finance.yahoo.com/research/reports/ARGUS_3241_AnalystReport_1782324493000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+        "published": "2026-06-24T18:08:13Z"
       },
       {
-        "title": "Saudi Aramco’s chairman calls for “energy realism”",
-        "link": "https://finance.yahoo.com/energy/articles/saudi-aramco-chairman-calls-energy-100203962.html",
-        "published": "2026-06-23T10:02:03Z"
+        "title": "This Unstoppable Vanguard ETF Has Crushed the S&P 500 Over the Last Decade. Is It a Buy Right Now?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/unstoppable-vanguard-etf-crushed-p-122000910.html",
+        "published": "2026-06-23T12:20:00Z"
       },
       {
-        "title": "Best high-yield savings interest rates today, Tuesday, June 23, 2026: Earn up to 4.10% APY",
-        "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-tuesday-june-23-2026-100000880.html",
-        "published": "2026-06-23T10:00:00Z"
+        "title": "How SFLO Finds Quality Companies in Volatile Small-Cap Value Investing",
+        "link": "https://finance.yahoo.com/small-business/articles/sflo-finds-quality-companies-volatile-121540270.html",
+        "published": "2026-06-23T12:15:40Z"
       }
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "Gas prices aren’t falling fast enough for Trump. Here’s when drivers can expect more relief.",
-        "link": "https://www.marketwatch.com/story/gas-prices-arent-falling-fast-enough-for-trump-heres-when-drivers-can-expect-more-relief-57db7038?mod=mw_rss_topstories",
-        "published": "Wed, 24 Jun 2026 18:55:00 GMT"
-      },
-      {
-        "title": "‘It feels like a medical miracle’: How did a single QR code coupon cut my $618 Walgreens prescription to $15?",
-        "link": "https://www.marketwatch.com/story/it-feels-like-a-medical-miracle-how-did-a-single-qr-code-coupon-cut-my-618-walgreens-prescription-to-15-524a1151?mod=mw_rss_topstories",
-        "published": "Wed, 24 Jun 2026 18:45:00 GMT"
-      },
-      {
-        "title": "This solar stock is surging on the heels of a new Tesla deal",
-        "link": "https://www.marketwatch.com/story/this-solar-stock-is-surging-on-the-heels-of-a-new-tesla-deal-efd2747d?mod=mw_rss_topstories",
-        "published": "Wed, 24 Jun 2026 18:28:00 GMT"
-      },
-      {
-        "title": "Americans are as worried as ever about layoffs and losing their jobs. Why so much angst?",
-        "link": "https://www.marketwatch.com/story/americans-are-as-worried-as-ever-about-layoffs-and-losing-their-jobs-why-so-much-angst-6503fb63?mod=mw_rss_topstories",
-        "published": "Wed, 24 Jun 2026 18:21:00 GMT"
-      },
-      {
         "title": "Everyone on Wall Street now believes in buying the dip. That is exactly why you should worry.",
         "link": "https://www.marketwatch.com/story/everyone-on-wall-street-now-believes-in-buying-the-dip-that-is-exactly-why-you-should-worry-44582465?mod=mw_rss_topstories",
-        "published": "Wed, 24 Jun 2026 17:14:00 GMT"
+        "published": "Wed, 24 Jun 2026 20:51:00 GMT"
       },
       {
-        "title": "Social Security says I was overpaid for 7 years. I believe it’s mistaken. Can they cut my benefits?",
-        "link": "https://www.marketwatch.com/story/social-security-says-i-was-overpaid-for-7-years-i-believe-its-mistaken-can-they-cut-my-benefits-f2d4a524?mod=mw_rss_topstories",
-        "published": "Wed, 24 Jun 2026 17:11:00 GMT"
+        "title": "Could the U.S. join Germany in raising its retirement age?",
+        "link": "https://www.marketwatch.com/story/could-the-u-s-join-germany-in-raising-its-retirement-age-3282e0bd?mod=mw_rss_topstories",
+        "published": "Wed, 24 Jun 2026 20:50:00 GMT"
       },
       {
-        "title": "Your index fund is hiding a looming tech-stock risk — here is how to protect your portfolio",
-        "link": "https://www.marketwatch.com/story/your-index-fund-is-hiding-a-looming-tech-stock-risk-here-is-how-to-protect-your-portfolio-f4dd1c20?mod=mw_rss_topstories",
-        "published": "Wed, 24 Jun 2026 17:03:00 GMT"
+        "title": "Retail investors think tech stocks are overvalued. They’re buying anyway — here’s why.",
+        "link": "https://www.marketwatch.com/story/retail-investors-think-tech-stocks-are-overvalued-theyre-buying-anyway-heres-why-22e10c4b?mod=mw_rss_topstories",
+        "published": "Wed, 24 Jun 2026 20:49:00 GMT"
       },
       {
-        "title": "The tech stocks now leading this bull market are far more volatile than the old guard",
-        "link": "https://www.marketwatch.com/story/the-tech-stocks-now-leading-this-bull-market-are-far-more-volatile-than-the-old-guard-fc802fc5?mod=mw_rss_topstories",
-        "published": "Wed, 24 Jun 2026 17:00:00 GMT"
+        "title": "Meet the World Cup fans shelling out thousands for once-in-a-lifetime trips — and some don’t even have tickets to games",
+        "link": "https://www.marketwatch.com/story/meet-the-world-cup-fans-shelling-out-thousands-for-once-in-a-lifetime-trips-and-some-dont-even-have-tickets-to-games-a4b22b47?mod=mw_rss_topstories",
+        "published": "Wed, 24 Jun 2026 20:29:00 GMT"
+      },
+      {
+        "title": "These hidden PCE triggers could force a Fed rate hike — and shock the market",
+        "link": "https://www.marketwatch.com/story/inflation-is-about-more-than-oil-these-two-hidden-triggers-could-force-a-fed-rate-hike-d9fa393e?mod=mw_rss_topstories",
+        "published": "Wed, 24 Jun 2026 20:27:00 GMT"
+      },
+      {
+        "title": "Trump looked set to tout new housing legislation. Instead he said it’s ‘of minor importance’ and nixed a signing ceremony.",
+        "link": "https://www.marketwatch.com/story/trump-looked-set-to-tout-new-housing-legislation-instead-he-says-its-of-minor-importance-and-canceled-a-signing-ceremony-73012827?mod=mw_rss_topstories",
+        "published": "Wed, 24 Jun 2026 20:25:00 GMT"
+      },
+      {
+        "title": "A SpaceX ‘investment coma’ is driving this major space ETF toward its worst month in 6 years",
+        "link": "https://www.marketwatch.com/story/a-spacex-investment-coma-is-driving-this-major-space-etf-toward-its-worst-month-in-6-years-91e98ddc?mod=mw_rss_topstories",
+        "published": "Wed, 24 Jun 2026 20:04:00 GMT"
+      },
+      {
+        "title": "Gold, silver and bitcoin are getting rocked, and angry investors can blame Kevin Warsh",
+        "link": "https://www.marketwatch.com/story/gold-silver-and-bitcoin-are-getting-rocked-and-angry-investors-can-blame-kevin-warsh-4c996159?mod=mw_rss_topstories",
+        "published": "Wed, 24 Jun 2026 20:02:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "Trump cancels signing of bipartisan housing bill, demanding voter ID provision",
-        "link": "https://www.cnbc.com/2026/06/24/trump-cancels-housing-bill-signing-save-america-act.html",
-        "published": "Wed, 24 Jun 2026 17:26:51 GMT"
+        "title": "Micron stock jumps 16% as soaring prices from memory crunch lead to quadrupling of revenue",
+        "link": "https://www.cnbc.com/2026/06/24/micron-mu-earnings-report-q3-2026.html",
+        "published": "Wed, 24 Jun 2026 20:54:22 GMT"
       },
       {
-        "title": "Cerebras CEO says margin forecast was 'misunderstood' as stock plummets after earnings",
-        "link": "https://www.cnbc.com/2026/06/24/cerebras-cbrs-stock-earnings.html",
-        "published": "Wed, 24 Jun 2026 18:01:39 GMT"
+        "title": "Trump cancels signing of bipartisan housing bill ahead of tense meeting with GOP senators",
+        "link": "https://www.cnbc.com/2026/06/24/trump-cancels-housing-bill-signing-save-america-act.html",
+        "published": "Wed, 24 Jun 2026 20:35:48 GMT"
+      },
+      {
+        "title": "Federal Reserve says U.S. banks can withstand $708 billion in losses amid overhaul of capital rules",
+        "link": "https://www.cnbc.com/2026/06/24/federal-reserve-stress-test-us-banks.html",
+        "published": "Wed, 24 Jun 2026 20:00:12 GMT"
+      },
+      {
+        "title": "Qualcomm stock pops 15% after chipmaker almost doubles projection for 2029 non-handset revenue",
+        "link": "https://www.cnbc.com/2026/06/24/qualcomm-data-center-cpu-meta.html",
+        "published": "Wed, 24 Jun 2026 20:44:53 GMT"
+      },
+      {
+        "title": "These are Schwab's top three income ideas for the rest of 2026",
+        "link": "https://www.cnbc.com/2026/06/24/schwabs-top-three-income-ideas-for-the-rest-of-2026.html",
+        "published": "Wed, 24 Jun 2026 19:00:01 GMT"
       },
       {
         "title": "Energy secretary says U.S. has ended Iran's ability to close Strait of Hormuz",
@@ -734,29 +749,14 @@
         "published": "Wed, 24 Jun 2026 19:07:26 GMT"
       },
       {
-        "title": "S&P 500 turns red as chip sell-off returns ahead of Micron earnings: Live updates",
-        "link": "https://www.cnbc.com/2026/06/23/stock-market-today-live-updates.html",
-        "published": "Wed, 24 Jun 2026 19:06:49 GMT"
+        "title": "Identity theft victims face 'unconscionable' IRS delays, report says",
+        "link": "https://www.cnbc.com/2026/06/24/identity-theft-victims-face-unconscionable-irs-delays-report-says.html",
+        "published": "Wed, 24 Jun 2026 20:50:28 GMT"
       },
       {
-        "title": "Toyota gains on General Motors in new U.S. sales forecast: 'GM may be looking over their shoulder'",
-        "link": "https://www.cnbc.com/2026/06/24/toyota-gm-us-sales.html",
-        "published": "Wed, 24 Jun 2026 16:39:43 GMT"
-      },
-      {
-        "title": "Bitcoin falls back under $60,000, hitting its lowest level since October 2024",
-        "link": "https://www.cnbc.com/2026/06/24/bitcoin-falls-back-under-60000-hitting-its-lowest-level-since-october-2024.html",
-        "published": "Wed, 24 Jun 2026 19:09:32 GMT"
-      },
-      {
-        "title": "Buy Verizon over Alphabet if a history of Dow changes is any guide",
-        "link": "https://www.cnbc.com/2026/06/24/buy-verizon-over-alphabet-if-a-history-of-dow-changes-is-any-guide.html",
-        "published": "Wed, 24 Jun 2026 18:55:25 GMT"
-      },
-      {
-        "title": "Qualcomm announces AI data center CPU, signs Meta as first major customer",
-        "link": "https://www.cnbc.com/2026/06/24/qualcomm-data-center-cpu-meta.html",
-        "published": "Wed, 24 Jun 2026 19:03:44 GMT"
+        "title": "Cerebras CEO says margin forecast was 'misunderstood' as stock plummets after earnings",
+        "link": "https://www.cnbc.com/2026/06/24/cerebras-cbrs-stock-earnings.html",
+        "published": "Wed, 24 Jun 2026 20:01:14 GMT"
       }
     ]
   }
