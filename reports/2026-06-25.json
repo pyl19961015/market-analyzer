@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-06-25T15:33:23",
+  "generated_at": "2026-06-25T17:35:01",
   "date": "2026-06-25",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7379.97,
-        "pct_change": 0.3
+        "last": 7357.28,
+        "pct_change": -0.01
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 25390.08,
-        "pct_change": -0.34
+        "last": 25351.62,
+        "pct_change": -0.49
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 52349.98,
-        "pct_change": 0.97
+        "last": 52007.0,
+        "pct_change": 0.3
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3007.28,
-        "pct_change": 0.69
+        "last": 3004.57,
+        "pct_change": 0.6
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 19.28,
-        "pct_change": 3.49
+        "last": 19.06,
+        "pct_change": 2.31
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
@@ -35,75 +35,75 @@
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 101.35,
-        "pct_change": -0.25
+        "last": 101.42,
+        "pct_change": -0.18
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 71.61,
-        "pct_change": 1.81
+        "last": 71.68,
+        "pct_change": 1.91
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4051.7,
-        "pct_change": 1.54
+        "last": 4048.1,
+        "pct_change": 1.45
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 183.56,
-        "pct_change": 0.28
+        "last": 184.36,
+        "pct_change": 0.72
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 54.28,
-        "pct_change": 1.04
+        "last": 53.63,
+        "pct_change": -0.17
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 54.24,
-        "pct_change": 1.25
+        "last": 53.85,
+        "pct_change": 0.53
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 156.62,
-        "pct_change": 2.13
+        "last": 155.62,
+        "pct_change": 1.48
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 114.46,
-        "pct_change": -0.53
+        "last": 113.75,
+        "pct_change": -1.14
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 84.28,
-        "pct_change": -0.19
+        "last": 83.83,
+        "pct_change": -0.72
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 184.41,
-        "pct_change": 2.33
+        "last": 184.02,
+        "pct_change": 2.11
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 45.69,
-        "pct_change": 0.33
+        "last": 45.72,
+        "pct_change": 0.4
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 52.09,
-        "pct_change": 1.82
+        "last": 51.92,
+        "pct_change": 1.5
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.25,
-        "pct_change": -0.58
+        "last": 44.44,
+        "pct_change": -0.17
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 106.14,
-        "pct_change": -0.38
+        "last": 105.46,
+        "pct_change": -1.01
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 161.64,
-        "pct_change": 0.03
+        "last": 161.79,
+        "pct_change": 0.12
       }
     }
   },
@@ -144,52 +144,52 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 223.9,
-        "pct_change": 8.78
+        "last": 225.07,
+        "pct_change": 9.35
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 278.77,
-        "pct_change": -4.88
+        "last": 277.78,
+        "pct_change": -5.22
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 356.3,
-        "pct_change": -2.51
+        "last": 351.13,
+        "pct_change": -3.92
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 230.49,
-        "pct_change": -1.61
+        "last": 227.99,
+        "pct_change": -2.68
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 341.35,
-        "pct_change": -1.14
+        "last": 340.74,
+        "pct_change": -1.32
       },
       "Meta": {
         "symbol": "META",
-        "last": 554.13,
-        "pct_change": -0.63
+        "last": 543.78,
+        "pct_change": -2.49
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 845.06,
-        "pct_change": 0.3
+        "last": 859.03,
+        "pct_change": 1.96
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 392.58,
-        "pct_change": 0.02
+        "last": 401.58,
+        "pct_change": 2.31
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 165.76,
-        "pct_change": 1.83
+        "last": 165.29,
+        "pct_change": 1.54
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -643,29 +643,29 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "Stock market today: Dow and S&P 500 rise, Nasdaq slips as PCE comes in hot, Big Tech falters",
-        "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-and-sp-500-rise-nasdaq-slips-as-pce-comes-in-hot-big-tech-falters-232650645.html",
-        "published": "2026-06-24T23:26:50Z"
+        "title": "BofA Says Micron Is Trading Under 10x Earnings and Wall Street Is Completely Missing the Story",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-says-micron-trading-under-171507922.html",
+        "published": "2026-06-25T17:15:07Z"
       },
       {
-        "title": "Polestar says Trump administration forcing it to end US sales",
-        "link": "https://finance.yahoo.com/news/us-denies-polestar-authorization-sell-130146185.html",
-        "published": "2026-06-25T15:25:42Z"
+        "title": "Tech’s Multi-Trillion-Dollar Opportunity: Pax8 CFO Craig Foster, Live from Pax8 Beyond 2026",
+        "link": "https://finance.yahoo.com/small-business/articles/tech-multi-trillion-dollar-opportunity-171340113.html",
+        "published": "2026-06-25T17:13:40Z"
       },
       {
-        "title": "IBD 50 Stock Indivior Breaks Out Amid Big Fund Ownership Expansion, Strong Profit Prospects",
-        "link": "https://www.investors.com/research/top-stocks-to-buy-ibd-50-stock-indivior-indv/?src=A00220&yptr=yahoo",
-        "published": "2026-06-25T15:24:48Z"
+        "title": "Amazon Stock Slips Below Key Level On Rough Day For Cloud Hyperscaler Stocks",
+        "link": "https://www.investors.com/news/technology/amazon-stock-falls-200-day-cloud-hyperscale-memory-concerns/?src=A00220&yptr=yahoo",
+        "published": "2026-06-25T17:09:36Z"
       },
       {
-        "title": "It’s Pretty Insane How Much TPAY’s 10% Yield Beats Most Covered Call ETFs",
-        "link": "https://finance.yahoo.com/markets/options/articles/pretty-insane-much-tpay-10-152406249.html",
-        "published": "2026-06-25T15:24:06Z"
+        "title": "Tech stocks live: AI memory trade roars back after Micron earnings crush estimates",
+        "link": "https://finance.yahoo.com/technology/live/tech-stocks-live-ai-memory-trade-roars-back-after-micron-earnings-crush-estimates-143422690.html",
+        "published": "2026-06-22T14:34:22Z"
       },
       {
-        "title": "Meta Stock: 'Bulls Are Frustrated' But Analyst Sees Big Potential For AI Business Push",
-        "link": "https://www.investors.com/news/technology/meta-stock-business-agent-ai-estimates/?src=A00220&yptr=yahoo",
-        "published": "2026-06-25T15:22:55Z"
+        "title": "Looking for an electrician or HVAC technician? Get ready to wait a while, because they’re all off doing data center jobs",
+        "link": "https://finance.yahoo.com/small-business/articles/looking-electrician-hvac-technician-ready-170232782.html",
+        "published": "2026-06-25T17:02:32Z"
       },
       {
         "title": "Daily – Vickers Top Buyers & Sellers for 06/25/2026",
@@ -673,98 +673,98 @@
         "published": "2026-06-25T12:10:38Z"
       },
       {
-        "title": "Micron joins rivals pitching AI deals as cure for memory's boom-bust cycle",
-        "link": "https://finance.yahoo.com/technology/articles/micron-joins-rivals-pitching-ai-152220056.html",
-        "published": "2026-06-25T15:22:20Z"
+        "title": "Bitcoin demand is gone for 46 days, here's what this analyst says investors should know",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-demand-gone-46-days-170936710.html",
+        "published": "2026-06-25T17:09:36Z"
       },
       {
-        "title": "Tequila, Trucking, and the Future of the Border",
-        "link": "https://finance.yahoo.com/small-business/articles/tequila-trucking-future-border-151904277.html",
-        "published": "2026-06-25T15:19:04Z"
+        "title": "Janus Henderson Global Sustainable Equity Fund Trimmed Microsoft (MSFT) in Q1",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/janus-henderson-global-sustainable-equity-165620768.html",
+        "published": "2026-06-25T16:56:20Z"
       }
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "Bayer’s stock jumps after Supreme Court sides with Roundup weedkiller manufacturer",
-        "link": "https://www.marketwatch.com/story/bayers-stock-jumps-after-supreme-court-sides-with-roundup-weedkiller-manufacturer-a747f253?mod=mw_rss_topstories",
-        "published": "Thu, 25 Jun 2026 15:31:00 GMT"
+        "title": "Iran tightens its grip on Strait of Hormuz, sending oil prices higher",
+        "link": "https://www.marketwatch.com/story/iran-tightens-its-grip-on-strait-of-hormuz-sending-oil-higher-f3bc53a1?mod=mw_rss_topstories",
+        "published": "Thu, 25 Jun 2026 17:30:00 GMT"
       },
       {
-        "title": "A relative offered me a $25,000 home loan secured by a lien that must be repaid within a year. Is that fair?",
-        "link": "https://www.marketwatch.com/story/im-70-a-relative-offered-me-a-25-000-home-loan-secured-by-a-lien-that-must-be-repaid-within-a-year-should-i-agree-27d44725?mod=mw_rss_topstories",
-        "published": "Thu, 25 Jun 2026 15:30:00 GMT"
+        "title": "I want to leave everything to my sons, but I’m terrified they’ll give it to my ex-husband. How do I prevent this?",
+        "link": "https://www.marketwatch.com/story/i-want-to-leave-everything-to-my-sons-but-im-terrified-theyll-give-it-to-my-ex-husband-how-do-i-prevent-this-8cfc752c?mod=mw_rss_topstories",
+        "published": "Thu, 25 Jun 2026 17:00:00 GMT"
       },
       {
-        "title": "‘Take the money while you can’: I’m a CPA and tell my clients to take their Social Security early. Am I wrong?",
-        "link": "https://www.marketwatch.com/story/take-the-money-while-you-can-im-a-cpa-and-tell-my-clients-to-take-their-social-security-early-am-i-wrong-a50e55e8?mod=mw_rss_topstories",
-        "published": "Thu, 25 Jun 2026 15:15:00 GMT"
+        "title": "Amateur investors are changing how the stock market works. That’s creating opportunities for those who know where to look.",
+        "link": "https://www.marketwatch.com/story/amateur-investors-are-changing-how-the-stock-market-works-thats-creating-opportunities-for-those-who-know-where-to-look-34d78484?mod=mw_rss_topstories",
+        "published": "Thu, 25 Jun 2026 16:59:00 GMT"
       },
       {
-        "title": "My houseguest left heat marks all over my table. I didn’t notice them until she was gone. Do I ask her to pay to remove them?",
-        "link": "https://www.marketwatch.com/story/i-gave-my-homeexchange-guest-a-5-star-review-then-i-found-heat-marks-all-over-my-dining-table-do-i-call-her-out-855d3836?mod=mw_rss_topstories",
-        "published": "Thu, 25 Jun 2026 15:10:00 GMT"
+        "title": "Tesla and Waymo duel in the robotaxi race — but the company spending the most builds no cars at all",
+        "link": "https://www.marketwatch.com/story/tesla-and-waymo-are-chasing-the-robotaxi-dream-but-the-company-spending-the-most-to-win-builds-no-cars-at-all-0d8682b9?mod=mw_rss_topstories",
+        "published": "Thu, 25 Jun 2026 16:40:00 GMT"
       },
       {
-        "title": "First-quarter GDP gets big boost, but it’s not really great news",
-        "link": "https://www.marketwatch.com/story/first-quarter-gdp-gets-big-boost-but-its-not-really-great-news-488bf948?mod=mw_rss_topstories",
-        "published": "Thu, 25 Jun 2026 15:07:00 GMT"
+        "title": "Why getting dumped from the Dow is the ultimate buy signal for this — or any — stock",
+        "link": "https://www.marketwatch.com/story/why-getting-dumped-from-the-dow-is-the-ultimate-buy-signal-for-this-stock-1d5a9342?mod=mw_rss_topstories",
+        "published": "Thu, 25 Jun 2026 16:38:00 GMT"
       },
       {
         "title": "SpaceX stock is a terrible buy — what that actually means for the bull market",
         "link": "https://www.marketwatch.com/story/spacex-is-a-bad-buy-why-openai-and-anthropic-will-be-too-2448ea73?mod=mw_rss_topstories",
-        "published": "Thu, 25 Jun 2026 14:45:00 GMT"
+        "published": "Thu, 25 Jun 2026 16:25:00 GMT"
       },
       {
-        "title": "Micron has suddenly become one of the world’s most important stocks",
-        "link": "https://www.marketwatch.com/story/micron-has-suddenly-become-one-of-the-worlds-most-important-stocks-e6f4c517?mod=mw_rss_topstories",
-        "published": "Thu, 25 Jun 2026 14:38:00 GMT"
+        "title": "Take a cue from the rich: Do a midyear financial check-in",
+        "link": "https://www.marketwatch.com/story/take-a-cue-from-the-rich-do-a-midyear-financial-check-in-028a60e8?mod=mw_rss_topstories",
+        "published": "Thu, 25 Jun 2026 16:25:00 GMT"
       },
       {
-        "title": "Apple’s MacBooks and iPads are getting more expensive as the memory crunch deepens",
-        "link": "https://www.marketwatch.com/story/apples-macbooks-and-ipads-are-getting-more-expensive-as-the-memory-crunch-deepens-ec6ae81d?mod=mw_rss_topstories",
-        "published": "Thu, 25 Jun 2026 14:19:00 GMT"
+        "title": "‘It feels like a medical miracle’: How did a single QR code coupon cut my $618 Walgreens prescription to $15?",
+        "link": "https://www.marketwatch.com/story/it-feels-like-a-medical-miracle-how-did-a-single-qr-code-coupon-cut-my-618-walgreens-prescription-to-15-524a1151?mod=mw_rss_topstories",
+        "published": "Thu, 25 Jun 2026 16:00:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "Core inflation rate hit 3.4% in May, highest since October 2023, Fed’s preferred gauge shows",
-        "link": "https://www.cnbc.com/2026/06/25/pce-inflation-report-may-2026-.html",
-        "published": "Thu, 25 Jun 2026 13:30:56 GMT"
-      },
-      {
-        "title": "Bayer wins Supreme Court case making it harder to sue over glyphosate in Monsanto's Roundup",
-        "link": "https://www.cnbc.com/2026/06/25/glyphosate-roundup-bayer-supreme-court-case-monsanto.html",
-        "published": "Thu, 25 Jun 2026 15:13:02 GMT"
-      },
-      {
-        "title": "Apple stock drops 5% on MacBook and iPad price hikes due to memory crunch",
+        "title": "Apple stock drops 6% on MacBook and iPad price hikes due to memory crunch",
         "link": "https://www.cnbc.com/2026/06/25/apple-macbook-ipad-price-hike-memory.html",
-        "published": "Thu, 25 Jun 2026 14:46:15 GMT"
+        "published": "Thu, 25 Jun 2026 16:54:21 GMT"
+      },
+      {
+        "title": "Supreme Court limits Roundup cancer suits against Bayer's Monsanto",
+        "link": "https://www.cnbc.com/2026/06/25/glyphosate-roundup-bayer-supreme-court-case-monsanto.html",
+        "published": "Thu, 25 Jun 2026 17:02:10 GMT"
+      },
+      {
+        "title": "Iranian leader scoffs at Trump claim that Iran must buy U.S. farm products with unfrozen assets",
+        "link": "https://www.cnbc.com/2026/06/25/iran-ghalibaf-trump-us-farm-products-assets.html",
+        "published": "Thu, 25 Jun 2026 16:49:26 GMT"
+      },
+      {
+        "title": "Judge says lawsuit against Trump DOJ 'anti-weaponization' fund will proceed",
+        "link": "https://www.cnbc.com/2026/06/25/trump-doj-fund-lawsuit-blanche.html",
+        "published": "Thu, 25 Jun 2026 17:34:32 GMT"
+      },
+      {
+        "title": "Stocks making the biggest moves midday: BlackBerry, Kymera Therapeutics, Apple, Wendy's & more",
+        "link": "https://www.cnbc.com/2026/06/25/stocks-making-the-biggest-moves-midday-bb-kymr-aapl-wen.html",
+        "published": "Thu, 25 Jun 2026 17:12:59 GMT"
+      },
+      {
+        "title": "Bitcoin ETFs see record investor flight as the cryptocurrency hits lowest levels since 2024",
+        "link": "https://www.cnbc.com/2026/06/25/bitcoin-etfs-see-record-investor-flight-as-the-cryptocurrency-hits-new-2024-lows.html",
+        "published": "Thu, 25 Jun 2026 16:23:05 GMT"
       },
       {
         "title": "GM reveals 2027 GMC Sierra pickup with new V-8 engines, redesigned styling",
         "link": "https://www.cnbc.com/2026/06/25/gm-gmc-sierra-pickup.html",
-        "published": "Thu, 25 Jun 2026 15:00:01 GMT"
+        "published": "Thu, 25 Jun 2026 16:15:20 GMT"
       },
       {
-        "title": "Micron is up 10% after blockbuster earnings, but has pulled back from highs",
+        "title": "Micron soars 16% after blockbuster earnings, lifting some chip stocks",
         "link": "https://www.cnbc.com/2026/06/25/micron-stock-3q-earnings-memory.html",
-        "published": "Thu, 25 Jun 2026 14:17:59 GMT"
-      },
-      {
-        "title": "Josh Brown says this bank stock on his list has a 'holy trinity' setup going for it",
-        "link": "https://www.cnbc.com/2026/06/25/josh-brown-says-this-bank-stock-on-his-list-has-a-holy-trinity-setup-going-for-it.html",
-        "published": "Thu, 25 Jun 2026 15:02:55 GMT"
-      },
-      {
-        "title": "JPMorgan names Doug Petno and Troy Rohrbaugh co-presidents as longtime exec Marianne Lake exits",
-        "link": "https://www.cnbc.com/2026/06/25/jpmorgan-chase-co-presidents-lake-exits.html",
-        "published": "Thu, 25 Jun 2026 15:19:29 GMT"
-      },
-      {
-        "title": "Wendy's turns lower as meme rally fails to extend to a second day",
-        "link": "https://www.cnbc.com/2026/06/25/wendys-shares-soar-for-a-second-day-as-retail-investors-pile-into-their-new-meme-darling.html",
-        "published": "Thu, 25 Jun 2026 14:30:58 GMT"
+        "published": "Thu, 25 Jun 2026 17:03:42 GMT"
       }
     ]
   }
