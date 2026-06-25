@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T06:45:44",
+  "generated_at": "2026-06-25T10:13:58",
   "date": "2026-06-25",
   "market_sentiment": {
     "indices": {
@@ -25,8 +25,8 @@
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 18.63,
-        "pct_change": -4.41
+        "last": 18.0,
+        "pct_change": -3.38
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
@@ -35,18 +35,18 @@
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 101.6,
-        "pct_change": -0.01
+        "last": 101.56,
+        "pct_change": -0.05
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 69.61,
-        "pct_change": -1.04
+        "last": 69.63,
+        "pct_change": -1.01
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 3993.9,
-        "pct_change": 0.09
+        "last": 4001.0,
+        "pct_change": 0.27
       }
     },
     "sectors": {
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 161.84,
-        "pct_change": 0.15
+        "last": 161.82,
+        "pct_change": 0.14
       }
     }
   },
@@ -635,47 +635,72 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "Which Route During a Tech Rout? Two Low Volatility ETFs",
-        "link": "https://finance.yahoo.com/markets/options/articles/route-during-tech-rout-two-183758038.html",
-        "published": "2026-06-23T18:37:58Z"
+        "title": "Amazon Prime Day shoppers may face added costs with buy now, pay later",
+        "link": "https://finance.yahoo.com/personal-finance/banking/article/what-to-know-before-using-buy-now-pay-later-for-amazon-prime-day-deals-215226311.html",
+        "published": "2025-11-19T21:52:26Z"
       },
       {
-        "title": "Wynn Resorts Stock Boasts Long-Term Technical Support",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/wynn-resorts-stock-boasts-long-184127778.html",
-        "published": "2026-06-23T18:41:27Z"
+        "title": "Bilt Cards 2.0 review: Are they better than the original — and can you still earn points on rent?",
+        "link": "https://finance.yahoo.com/personal-finance/credit-cards/review/bilt-credit-card-review-002855220.html",
+        "published": "2026-01-15T21:30:02Z"
       },
       {
-        "title": "50,000 Reasons to Buy Robinhood Stock Now",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/50-000-reasons-buy-robinhood-184530491.html",
-        "published": "2026-06-23T18:45:30Z"
+        "title": "Best car insurance companies in 2026",
+        "link": "https://finance.yahoo.com/personal-finance/insurance/article/best-car-insurance-220609280.html",
+        "published": "2025-10-21T22:06:09Z"
       },
       {
-        "title": "Agnico Eagle Mines (AEM) Completes Acquisition of Rupert Resources",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/agnico-eagle-mines-aem-completes-191833090.html",
-        "published": "2026-06-23T19:18:33Z"
+        "title": "What is offshore banking, and is it legal?",
+        "link": "https://finance.yahoo.com/personal-finance/banking/article/offshore-banking-171155213.html",
+        "published": "2024-07-15T17:11:55Z"
       },
       {
-        "title": "Is Shopify (SHOP) One of the Most Promising Long-Term Stocks to Buy According to Analysts?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/shopify-shop-one-most-promising-191930827.html",
-        "published": "2026-06-23T19:19:30Z"
+        "title": "How to protect your portfolio if you're worried about an AI bubble",
+        "link": "https://finance.yahoo.com/personal-finance/investing/article/how-to-protect-your-portfolio-if-youre-worried-about-an-ai-bubble-152533955.html",
+        "published": "2025-11-21T15:25:33Z"
       },
       {
-        "title": "Precious Metals Extend Losing Streak",
-        "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-macro-challenges-to-persist-in-near-term-99148398?siteid=yhoof2&yptr=yahoo",
-        "published": "2026-06-23T18:39:00Z"
+        "title": "Google's YouTube settles case over social media harm to children",
+        "link": "https://finance.yahoo.com/healthcare/articles/googles-youtube-settles-plaintiff-ahead-220222527.html",
+        "published": "2026-06-23T22:02:22Z"
       },
       {
-        "title": "Here is Why BeOne (ONC) One of the Most Promising Long-Term Stocks to Buy According to Analysts",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/why-beone-onc-one-most-191840513.html",
-        "published": "2026-06-23T19:18:40Z"
+        "title": "7 best renters insurance companies of 2026",
+        "link": "https://finance.yahoo.com/personal-finance/insurance/article/best-renters-insurance-204110601.html",
+        "published": "2026-06-23T20:41:10Z"
       },
       {
-        "title": "IREN (IREN) Enters European Market With Acquisition of Spanish Data Center Developer Nostrum Group",
-        "link": "https://finance.yahoo.com/technology/ai/articles/iren-iren-enters-european-market-191934945.html",
-        "published": "2026-06-23T19:19:34Z"
+        "title": "Google's YouTube settles case over social media harm to children, plaintiff's lawyers say",
+        "link": "https://finance.yahoo.com/media-advertising/articles/googles-youtube-settles-case-over-224643426.html",
+        "published": "2026-06-23T22:50:57Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "Wall Street is coalescing on a single S&P 500 target. The power of round numbers is irresistible.",
+        "link": "https://www.marketwatch.com/story/wall-street-is-coalescing-on-a-single-s-p-500-target-the-power-of-round-numbers-is-irresistible-e7934b9b?mod=mw_rss_topstories",
+        "published": "Thu, 25 Jun 2026 09:43:00 GMT"
+      },
+      {
+        "title": "Retail investors have suddenly got more cautious in using options and margins. That may spell trouble for tech, says JPMorgan.",
+        "link": "https://www.marketwatch.com/story/retail-investors-have-suddenly-got-more-cautious-in-using-options-and-margins-that-may-spell-trouble-for-tech-says-jpmorgan-1eba2be9?mod=mw_rss_topstories",
+        "published": "Thu, 25 Jun 2026 09:41:00 GMT"
+      },
+      {
+        "title": "My son passed away. Am I crazy to move to my former home and sell a house I bought in September?",
+        "link": "https://www.marketwatch.com/story/my-son-passed-away-am-i-crazy-to-move-to-my-former-home-and-sell-a-house-i-bought-in-september-f1f5f41a?mod=mw_rss_topstories",
+        "published": "Thu, 25 Jun 2026 09:16:00 GMT"
+      },
+      {
+        "title": "Two years after her death, Shannen Doherty’s Malibu home sells for $7.7 million",
+        "link": "https://www.marketwatch.com/story/two-years-after-her-death-shannen-dohertys-malibu-home-sells-for-7-7-million-7045db60?mod=mw_rss_topstories",
+        "published": "Thu, 25 Jun 2026 09:02:00 GMT"
+      },
+      {
+        "title": "The Wall Street equivalent of roster-cut day happens Friday. It’ll be one of the biggest volume days of the year.",
+        "link": "https://www.marketwatch.com/story/the-wall-street-equivalent-of-roster-cut-day-happens-friday-itll-be-one-of-the-biggest-volume-days-of-the-year-750e8496?mod=mw_rss_topstories",
+        "published": "Thu, 25 Jun 2026 08:31:00 GMT"
+      },
       {
         "title": "Tesla and Waymo duel in the robotaxi race — but the company spending the most builds no cars at all",
         "link": "https://www.marketwatch.com/story/tesla-and-waymo-are-chasing-the-robotaxi-dream-but-the-company-spending-the-most-to-win-builds-no-cars-at-all-0d8682b9?mod=mw_rss_topstories",
@@ -687,61 +712,31 @@
         "published": "Thu, 25 Jun 2026 01:09:00 GMT"
       },
       {
-        "title": "These hidden PCE triggers could force a Fed rate hike — and shock the market",
+        "title": "These hidden PCE inflation triggers could force a Fed rate hike — and shock the market",
         "link": "https://www.marketwatch.com/story/inflation-is-about-more-than-oil-these-two-hidden-triggers-could-force-a-fed-rate-hike-d9fa393e?mod=mw_rss_topstories",
         "published": "Thu, 25 Jun 2026 01:06:00 GMT"
-      },
-      {
-        "title": "Everyone on Wall Street now believes in buying the dip. That is exactly why you should worry.",
-        "link": "https://www.marketwatch.com/story/everyone-on-wall-street-now-believes-in-buying-the-dip-that-is-exactly-why-you-should-worry-44582465?mod=mw_rss_topstories",
-        "published": "Thu, 25 Jun 2026 00:47:00 GMT"
-      },
-      {
-        "title": "My houseguest left heat marks all over my table. I didn’t notice them until she was gone. Do I ask her to pay to remove them?",
-        "link": "https://www.marketwatch.com/story/i-gave-my-homeexchange-guest-a-5-star-review-then-i-found-heat-marks-all-over-my-dining-table-do-i-call-her-out-855d3836?mod=mw_rss_topstories",
-        "published": "Thu, 25 Jun 2026 00:45:00 GMT"
-      },
-      {
-        "title": "I had gallbladder surgery. After I got home, the hospital asked me for a financial donation. Is this ethical?",
-        "link": "https://www.marketwatch.com/story/i-had-my-gallbladder-removed-after-i-got-home-the-hospital-asked-me-for-a-donation-is-this-ethical-ad12a8e1?mod=mw_rss_topstories",
-        "published": "Thu, 25 Jun 2026 00:30:00 GMT"
-      },
-      {
-        "title": "Qualcomm’s stock is soaring as these big numbers excite Wall Street",
-        "link": "https://www.marketwatch.com/story/qualcomms-stock-is-soaring-as-these-big-numbers-excite-wall-street-316d41f4?mod=mw_rss_topstories",
-        "published": "Thu, 25 Jun 2026 00:17:00 GMT"
-      },
-      {
-        "title": "Rocket Lab, Lockheed Martin among the partners in SpaceX’s military space-laser project",
-        "link": "https://www.marketwatch.com/story/rocket-lab-lockheed-martin-among-the-partners-in-spacexs-military-space-laser-project-1b8d61e2?mod=mw_rss_topstories",
-        "published": "Wed, 24 Jun 2026 23:47:00 GMT"
       }
     ],
     "CNBC Top News": [
+      {
+        "title": "Micron stock jumps over 16% in premarket trading after blockbuster earnings",
+        "link": "https://www.cnbc.com/2026/06/25/micron-stock-3q-earnings-memory.html",
+        "published": "Thu, 25 Jun 2026 10:01:47 GMT"
+      },
+      {
+        "title": "Chevron CFO says gas prices will normalize after Trump presses Big Oil",
+        "link": "https://www.cnbc.com/2026/06/25/chevron-gas-prices-trump-big-oil.html",
+        "published": "Thu, 25 Jun 2026 10:05:59 GMT"
+      },
       {
         "title": "Iran warns ships it's 'unacceptable and dangerous' to transit the Strait of Hormuz without their approval",
         "link": "https://www.cnbc.com/2026/06/25/iran-navy-shipping-recovery-strait-of-hormuz-unauthorized-routes-us-fragile-mou-.html",
         "published": "Thu, 25 Jun 2026 06:08:46 GMT"
       },
       {
-        "title": "SK Hynix surges 12% after Micron earnings; blockbuster Nasdaq listing",
-        "link": "https://www.cnbc.com/2026/06/25/chip-tech-stocks-sk-hynix-nasdaq-adr-listing-29-billion-ai-investment.html",
-        "published": "Thu, 25 Jun 2026 04:17:22 GMT"
-      },
-      {
         "title": "Trump pledges rapid U.S. response for Venezuela after historic earthquakes kill dozens",
         "link": "https://www.cnbc.com/2026/06/25/venezuela-earthquakes-casualties-trump-pledges-support-aids-oil-.html",
-        "published": "Thu, 25 Jun 2026 05:25:56 GMT"
-      },
-      {
-        "title": "Micron is tech's new margin king as memory crisis pushes company past Nvidia and Meta",
-        "link": "https://www.cnbc.com/2026/06/24/micron-is-techs-margin-king-memory-crisis-pushes-it-past-nvidia-meta.html",
-        "published": "Wed, 24 Jun 2026 22:33:45 GMT"
-      },
-      {
-        "title": "Oil prices erase wartime gains as supply concerns ease with Hormuz tanker traffic resuming",
-        "link": "https://www.cnbc.com/2026/06/25/oil-price-supply-concerns-ease-with-hormuz-tanker-traffic-resuming-.html",
-        "published": "Thu, 25 Jun 2026 05:59:43 GMT"
+        "published": "Thu, 25 Jun 2026 07:12:37 GMT"
       },
       {
         "title": "Fundstrat's Lee joins Wall Street bulls in calling for S&P at 8,000",
@@ -749,14 +744,19 @@
         "published": "Thu, 25 Jun 2026 05:21:01 GMT"
       },
       {
-        "title": "Anthropic's latest hiring spree reveals where it's building AI data centers next",
-        "link": "https://www.cnbc.com/2026/06/25/anthropic-global-ai-data-center-push.html",
-        "published": "Thu, 25 Jun 2026 05:00:01 GMT"
+        "title": "Oil prices erase wartime gains as supply concerns ease with Hormuz tanker traffic resuming",
+        "link": "https://www.cnbc.com/2026/06/25/oil-price-supply-concerns-ease-with-hormuz-tanker-traffic-resuming-.html",
+        "published": "Thu, 25 Jun 2026 05:59:43 GMT"
       },
       {
-        "title": "Micron stock jumps 15% as soaring prices from memory crunch lead to quadrupling of revenue",
-        "link": "https://www.cnbc.com/2026/06/24/micron-mu-earnings-report-q3-2026.html",
-        "published": "Wed, 24 Jun 2026 22:39:58 GMT"
+        "title": "Micron is tech's new margin king as memory crisis pushes company past Nvidia and Meta",
+        "link": "https://www.cnbc.com/2026/06/24/micron-is-techs-margin-king-memory-crisis-pushes-it-past-nvidia-meta.html",
+        "published": "Wed, 24 Jun 2026 22:33:45 GMT"
+      },
+      {
+        "title": "Gold hovers around $4,000, silver holds below $60 — has the shimmer worn off the precious metal rally?",
+        "link": "https://www.cnbc.com/2026/06/25/gold-silver-price-rally-invest-interest-rates.html",
+        "published": "Thu, 25 Jun 2026 10:00:29 GMT"
       }
     ]
   }
