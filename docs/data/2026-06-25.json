@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-06-25T17:35:01",
+  "generated_at": "2026-06-25T19:30:09",
   "date": "2026-06-25",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7357.28,
-        "pct_change": -0.01
+        "last": 7352.69,
+        "pct_change": -0.08
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 25351.62,
-        "pct_change": -0.49
+        "last": 25320.04,
+        "pct_change": -0.61
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 52007.0,
-        "pct_change": 0.3
+        "last": 51937.21,
+        "pct_change": 0.17
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3004.57,
-        "pct_change": 0.6
+        "last": 2992.83,
+        "pct_change": 0.21
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 19.06,
-        "pct_change": 2.31
+        "last": 19.08,
+        "pct_change": 2.42
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
         "last": 4.39,
-        "pct_change": -1.46
+        "pct_change": -1.33
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
         "last": 101.42,
-        "pct_change": -0.18
+        "pct_change": -0.19
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 71.68,
-        "pct_change": 1.91
+        "last": 72.47,
+        "pct_change": 3.03
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4048.1,
-        "pct_change": 1.45
+        "last": 4053.2,
+        "pct_change": 1.58
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 184.36,
-        "pct_change": 0.72
+        "last": 183.77,
+        "pct_change": 0.39
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 53.63,
-        "pct_change": -0.17
+        "last": 53.6,
+        "pct_change": -0.22
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 53.85,
-        "pct_change": 0.53
+        "last": 53.99,
+        "pct_change": 0.79
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 155.62,
-        "pct_change": 1.48
+        "last": 155.93,
+        "pct_change": 1.69
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 113.75,
-        "pct_change": -1.14
+        "last": 113.43,
+        "pct_change": -1.43
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 83.83,
-        "pct_change": -0.72
+        "last": 84.12,
+        "pct_change": -0.38
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 184.02,
-        "pct_change": 2.11
+        "last": 183.55,
+        "pct_change": 1.85
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 45.72,
-        "pct_change": 0.4
+        "last": 45.84,
+        "pct_change": 0.66
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 51.92,
-        "pct_change": 1.5
+        "last": 51.81,
+        "pct_change": 1.26
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.44,
-        "pct_change": -0.17
+        "last": 44.56,
+        "pct_change": 0.11
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 105.46,
-        "pct_change": -1.01
+        "last": 105.97,
+        "pct_change": -0.53
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 161.79,
-        "pct_change": 0.12
+        "last": 161.78,
+        "pct_change": 0.11
       }
     }
   },
@@ -144,57 +144,57 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 225.07,
-        "pct_change": 9.35
+        "last": 224.52,
+        "pct_change": 9.08
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 277.78,
-        "pct_change": -5.22
+        "last": 276.62,
+        "pct_change": -5.62
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 351.13,
-        "pct_change": -3.92
+        "last": 352.59,
+        "pct_change": -3.52
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 227.99,
-        "pct_change": -2.68
+        "last": 227.13,
+        "pct_change": -3.05
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 340.74,
-        "pct_change": -1.32
+        "last": 343.86,
+        "pct_change": -0.42
       },
       "Meta": {
         "symbol": "META",
-        "last": 543.78,
-        "pct_change": -2.49
+        "last": 545.72,
+        "pct_change": -2.14
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 859.03,
-        "pct_change": 1.96
+        "last": 858.47,
+        "pct_change": 1.89
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 401.58,
-        "pct_change": 2.31
+        "last": 403.44,
+        "pct_change": 2.79
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 165.29,
-        "pct_change": 1.54
+        "last": 164.49,
+        "pct_change": 1.05
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 7178.0,
-        "pct_change": -0.99
+        "last": 7264.0,
+        "pct_change": 1.2
       }
     }
   },
@@ -643,51 +643,66 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "BofA Says Micron Is Trading Under 10x Earnings and Wall Street Is Completely Missing the Story",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-says-micron-trading-under-171507922.html",
-        "published": "2026-06-25T17:15:07Z"
+        "title": "Cerebras shares sink on earnings debut, with margins below AI chip rivals",
+        "link": "https://finance.yahoo.com/technology/ai/articles/cerebras-shares-sink-on-earnings-debut-with-margins-below-ai-chip-rivals-205043191.html",
+        "published": "2026-06-23T20:50:43Z"
       },
       {
-        "title": "Tech’s Multi-Trillion-Dollar Opportunity: Pax8 CFO Craig Foster, Live from Pax8 Beyond 2026",
-        "link": "https://finance.yahoo.com/small-business/articles/tech-multi-trillion-dollar-opportunity-171340113.html",
-        "published": "2026-06-25T17:13:40Z"
+        "title": "Intense AI use still rare among euro zone firms, ECB researchers find",
+        "link": "https://finance.yahoo.com/technology/ai/articles/intense-ai-still-rare-among-090339821.html",
+        "published": "2026-06-24T09:03:39Z"
       },
       {
-        "title": "Amazon Stock Slips Below Key Level On Rough Day For Cloud Hyperscaler Stocks",
-        "link": "https://www.investors.com/news/technology/amazon-stock-falls-200-day-cloud-hyperscale-memory-concerns/?src=A00220&yptr=yahoo",
-        "published": "2026-06-25T17:09:36Z"
+        "title": "Nasdaq Futures Gain After Brutal Tech Selloff, Micron Earnings in Focus",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-gain-brutal-tech-103841693.html",
+        "published": "2026-06-24T10:38:41Z"
       },
       {
-        "title": "Tech stocks live: AI memory trade roars back after Micron earnings crush estimates",
-        "link": "https://finance.yahoo.com/technology/live/tech-stocks-live-ai-memory-trade-roars-back-after-micron-earnings-crush-estimates-143422690.html",
-        "published": "2026-06-22T14:34:22Z"
+        "title": "Exclusive-STT, Tata Delhi data centre fire leaves clients fearing decades of data lost; Google hit",
+        "link": "https://finance.yahoo.com/technology/articles/exclusive-tata-unit-says-extensive-103912039.html",
+        "published": "2026-06-24T10:39:12Z"
       },
       {
-        "title": "Looking for an electrician or HVAC technician? Get ready to wait a while, because they’re all off doing data center jobs",
-        "link": "https://finance.yahoo.com/small-business/articles/looking-electrician-hvac-technician-ready-170232782.html",
-        "published": "2026-06-25T17:02:32Z"
+        "title": "Analyst Report: United Airlines Holdings Inc",
+        "link": "https://finance.yahoo.com/research/reports/ARGUS_4407_AnalystReport_1782410058000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+        "published": "2026-06-25T17:54:18Z"
       },
       {
-        "title": "Daily – Vickers Top Buyers & Sellers for 06/25/2026",
-        "link": "https://finance.yahoo.com/research/reports/ARGUS_47434_TopBottomInsiderActivity_1782389438000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-        "published": "2026-06-25T12:10:38Z"
+        "title": "Trump Calls for Probe Into U.S. Gasoline Prices After Oil Falls",
+        "link": "https://finance.yahoo.com/energy/articles/trump-calls-probe-u-gasoline-091300170.html",
+        "published": "2026-06-24T09:13:00Z"
       },
       {
-        "title": "Bitcoin demand is gone for 46 days, here's what this analyst says investors should know",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-demand-gone-46-days-170936710.html",
-        "published": "2026-06-25T17:09:36Z"
+        "title": "Exclusive-Tata unit says 'extensive damage' from fire at Delhi data centre hampers recovery",
+        "link": "https://finance.yahoo.com/technology/articles/exclusive-tata-unit-says-extensive-103912802.html",
+        "published": "2026-06-24T10:39:12Z"
       },
       {
-        "title": "Janus Henderson Global Sustainable Equity Fund Trimmed Microsoft (MSFT) in Q1",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/janus-henderson-global-sustainable-equity-165620768.html",
-        "published": "2026-06-25T16:56:20Z"
+        "title": "General Mills's Q4 2026 Earnings: What to Expect",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/general-millss-q4-2026-earnings-103901600.html",
+        "published": "2026-06-24T10:39:01Z"
       }
     ],
     "MarketWatch Top Stories": [
       {
+        "title": "Apple’s price hikes suggest inflation won’t slow quickly, even as gas gets cheaper",
+        "link": "https://www.marketwatch.com/story/apples-price-hikes-suggest-inflation-wont-slow-quickly-even-as-gas-gets-cheaper-d2c7f4e2?mod=mw_rss_topstories",
+        "published": "Thu, 25 Jun 2026 19:10:00 GMT"
+      },
+      {
+        "title": "SpaceX stock is a terrible buy — what that actually means for the bull market",
+        "link": "https://www.marketwatch.com/story/spacex-is-a-bad-buy-why-openai-and-anthropic-will-be-too-2448ea73?mod=mw_rss_topstories",
+        "published": "Thu, 25 Jun 2026 19:06:00 GMT"
+      },
+      {
+        "title": "Why getting dumped from the Dow is the ultimate buy signal for this — or any — stock",
+        "link": "https://www.marketwatch.com/story/why-getting-dumped-from-the-dow-is-the-ultimate-buy-signal-for-this-stock-1d5a9342?mod=mw_rss_topstories",
+        "published": "Thu, 25 Jun 2026 19:03:00 GMT"
+      },
+      {
         "title": "Iran tightens its grip on Strait of Hormuz, sending oil prices higher",
         "link": "https://www.marketwatch.com/story/iran-tightens-its-grip-on-strait-of-hormuz-sending-oil-higher-f3bc53a1?mod=mw_rss_topstories",
-        "published": "Thu, 25 Jun 2026 17:30:00 GMT"
+        "published": "Thu, 25 Jun 2026 18:49:00 GMT"
       },
       {
         "title": "I want to leave everything to my sons, but I’m terrified they’ll give it to my ex-husband. How do I prevent this?",
@@ -705,24 +720,9 @@
         "published": "Thu, 25 Jun 2026 16:40:00 GMT"
       },
       {
-        "title": "Why getting dumped from the Dow is the ultimate buy signal for this — or any — stock",
-        "link": "https://www.marketwatch.com/story/why-getting-dumped-from-the-dow-is-the-ultimate-buy-signal-for-this-stock-1d5a9342?mod=mw_rss_topstories",
-        "published": "Thu, 25 Jun 2026 16:38:00 GMT"
-      },
-      {
-        "title": "SpaceX stock is a terrible buy — what that actually means for the bull market",
-        "link": "https://www.marketwatch.com/story/spacex-is-a-bad-buy-why-openai-and-anthropic-will-be-too-2448ea73?mod=mw_rss_topstories",
-        "published": "Thu, 25 Jun 2026 16:25:00 GMT"
-      },
-      {
         "title": "Take a cue from the rich: Do a midyear financial check-in",
         "link": "https://www.marketwatch.com/story/take-a-cue-from-the-rich-do-a-midyear-financial-check-in-028a60e8?mod=mw_rss_topstories",
         "published": "Thu, 25 Jun 2026 16:25:00 GMT"
-      },
-      {
-        "title": "‘It feels like a medical miracle’: How did a single QR code coupon cut my $618 Walgreens prescription to $15?",
-        "link": "https://www.marketwatch.com/story/it-feels-like-a-medical-miracle-how-did-a-single-qr-code-coupon-cut-my-618-walgreens-prescription-to-15-524a1151?mod=mw_rss_topstories",
-        "published": "Thu, 25 Jun 2026 16:00:00 GMT"
       }
     ],
     "CNBC Top News": [
@@ -732,39 +732,39 @@
         "published": "Thu, 25 Jun 2026 16:54:21 GMT"
       },
       {
-        "title": "Supreme Court limits Roundup cancer suits against Bayer's Monsanto",
-        "link": "https://www.cnbc.com/2026/06/25/glyphosate-roundup-bayer-supreme-court-case-monsanto.html",
-        "published": "Thu, 25 Jun 2026 17:02:10 GMT"
+        "title": "Iran behind attack on cargo vessel near Oman in Strait of Hormuz, U.S. official tells MS NOW",
+        "link": "https://www.cnbc.com/2026/06/25/iran-ghalibaf-trump-us-farm-products-assets.html",
+        "published": "Thu, 25 Jun 2026 19:25:06 GMT"
       },
       {
-        "title": "Iranian leader scoffs at Trump claim that Iran must buy U.S. farm products with unfrozen assets",
-        "link": "https://www.cnbc.com/2026/06/25/iran-ghalibaf-trump-us-farm-products-assets.html",
-        "published": "Thu, 25 Jun 2026 16:49:26 GMT"
+        "title": "Chicago Fed President Goolsbee says inflation is too high, calls Warsh 'a serious guy'",
+        "link": "https://www.cnbc.com/2026/06/25/chicago-fed-president-goolsbee-says-inflation-is-too-high-calls-warsh-a-serious-guy.html",
+        "published": "Thu, 25 Jun 2026 19:04:25 GMT"
+      },
+      {
+        "title": "Democrats probe Trump's troubled $16 million reflecting pool renovation",
+        "link": "https://www.cnbc.com/2026/06/25/trump-reflecting-pool-renovation-cost-congress.html",
+        "published": "Thu, 25 Jun 2026 19:15:32 GMT"
+      },
+      {
+        "title": "Why Micron Technology's gain could be hyperscalers' pain",
+        "link": "https://www.cnbc.com/2026/06/25/why-micron-technologys-gain-could-be-hyperscalers-pain-.html",
+        "published": "Thu, 25 Jun 2026 19:20:20 GMT"
+      },
+      {
+        "title": "Supreme Court limits Roundup cancer suits against Bayer's Monsanto",
+        "link": "https://www.cnbc.com/2026/06/25/glyphosate-roundup-bayer-supreme-court-case-monsanto.html",
+        "published": "Thu, 25 Jun 2026 18:19:35 GMT"
       },
       {
         "title": "Judge says lawsuit against Trump DOJ 'anti-weaponization' fund will proceed",
         "link": "https://www.cnbc.com/2026/06/25/trump-doj-fund-lawsuit-blanche.html",
-        "published": "Thu, 25 Jun 2026 17:34:32 GMT"
+        "published": "Thu, 25 Jun 2026 18:05:48 GMT"
       },
       {
         "title": "Stocks making the biggest moves midday: BlackBerry, Kymera Therapeutics, Apple, Wendy's & more",
         "link": "https://www.cnbc.com/2026/06/25/stocks-making-the-biggest-moves-midday-bb-kymr-aapl-wen.html",
-        "published": "Thu, 25 Jun 2026 17:12:59 GMT"
-      },
-      {
-        "title": "Bitcoin ETFs see record investor flight as the cryptocurrency hits lowest levels since 2024",
-        "link": "https://www.cnbc.com/2026/06/25/bitcoin-etfs-see-record-investor-flight-as-the-cryptocurrency-hits-new-2024-lows.html",
-        "published": "Thu, 25 Jun 2026 16:23:05 GMT"
-      },
-      {
-        "title": "GM reveals 2027 GMC Sierra pickup with new V-8 engines, redesigned styling",
-        "link": "https://www.cnbc.com/2026/06/25/gm-gmc-sierra-pickup.html",
-        "published": "Thu, 25 Jun 2026 16:15:20 GMT"
-      },
-      {
-        "title": "Micron soars 16% after blockbuster earnings, lifting some chip stocks",
-        "link": "https://www.cnbc.com/2026/06/25/micron-stock-3q-earnings-memory.html",
-        "published": "Thu, 25 Jun 2026 17:03:42 GMT"
+        "published": "Thu, 25 Jun 2026 18:25:29 GMT"
       }
     ]
   }
