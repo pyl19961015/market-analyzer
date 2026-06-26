@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-06-26T17:15:49",
+  "generated_at": "2026-06-26T19:17:47",
   "date": "2026-06-26",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7374.32,
-        "pct_change": 0.23
+        "last": 7354.25,
+        "pct_change": -0.04
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 25418.19,
-        "pct_change": 0.23
+        "last": 25313.8,
+        "pct_change": -0.18
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 51997.95,
-        "pct_change": 0.15
+        "last": 51891.34,
+        "pct_change": -0.06
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3005.96,
-        "pct_change": -0.06
+        "last": 2989.66,
+        "pct_change": -0.6
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 18.86,
-        "pct_change": -0.16
+        "last": 18.88,
+        "pct_change": -0.05
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
@@ -35,75 +35,75 @@
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 101.32,
-        "pct_change": -0.11
+        "last": 101.35,
+        "pct_change": -0.07
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 69.18,
-        "pct_change": -3.81
+        "last": 69.02,
+        "pct_change": -4.03
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4100.2,
-        "pct_change": 1.73
+        "last": 4079.0,
+        "pct_change": 1.2
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 182.56,
-        "pct_change": -1.09
+        "last": 181.82,
+        "pct_change": -1.49
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 53.72,
-        "pct_change": 0.5
+        "last": 53.56,
+        "pct_change": 0.21
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 53.85,
-        "pct_change": -0.44
+        "last": 53.76,
+        "pct_change": -0.6
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 159.52,
-        "pct_change": 2.5
+        "last": 159.41,
+        "pct_change": 2.43
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 115.1,
-        "pct_change": 1.54
+        "last": 114.26,
+        "pct_change": 0.8
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 84.74,
-        "pct_change": 0.95
+        "last": 84.71,
+        "pct_change": 0.91
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 182.53,
-        "pct_change": -0.86
+        "last": 181.68,
+        "pct_change": -1.32
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 46.13,
-        "pct_change": 0.62
+        "last": 46.04,
+        "pct_change": 0.41
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 51.56,
-        "pct_change": -0.54
+        "last": 51.49,
+        "pct_change": -0.67
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 45.06,
-        "pct_change": 1.07
+        "last": 45.12,
+        "pct_change": 1.18
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 106.71,
-        "pct_change": 1.07
+        "last": 106.47,
+        "pct_change": 0.84
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 161.75,
-        "pct_change": -0.01
+        "last": 161.73,
+        "pct_change": -0.02
       }
     }
   },
@@ -144,57 +144,57 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 216.79,
-        "pct_change": -4.92
+        "last": 217.09,
+        "pct_change": -4.79
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 279.04,
-        "pct_change": 1.41
+        "last": 281.43,
+        "pct_change": 2.28
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 369.68,
-        "pct_change": 4.78
+        "last": 371.55,
+        "pct_change": 5.31
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 231.01,
-        "pct_change": 1.76
+        "last": 228.59,
+        "pct_change": 0.7
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 341.64,
-        "pct_change": -0.6
+        "last": 342.36,
+        "pct_change": -0.39
       },
       "Meta": {
         "symbol": "META",
-        "last": 553.39,
-        "pct_change": 1.94
+        "last": 550.35,
+        "pct_change": 1.38
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 812.0,
-        "pct_change": -5.8
+        "last": 807.37,
+        "pct_change": -6.33
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 384.4,
-        "pct_change": -5.61
+        "last": 381.17,
+        "pct_change": -6.4
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 165.51,
-        "pct_change": 0.22
+        "last": 163.58,
+        "pct_change": -0.95
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 7264.0,
-        "pct_change": 1.2
+        "last": 7146.0,
+        "pct_change": -1.62
       }
     }
   },
@@ -643,98 +643,98 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "How to calculate your break-even point on a mortgage refinance",
-        "link": "https://finance.yahoo.com/personal-finance/mortgages/article/how-to-calculate-your-break-even-point-on-a-mortgage-refinance-170509656.html",
-        "published": "2026-06-26T17:05:09Z"
+        "title": "After Anthropic shutdown, China's Z.ai closes frontier gap as it plans dual listing",
+        "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-shutdown-chinas-z-ai-091333035.html",
+        "published": "2026-06-25T09:13:33Z"
       },
       {
-        "title": "Bitcoin ETF Outflows Extend Into Seventh Week",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etf-outflows-extend-seventh-170400607.html",
-        "published": "2026-06-26T17:04:00Z"
+        "title": "What to Expect From UnitedHealth Group's Q2 2026 Earnings Report",
+        "link": "https://finance.yahoo.com/healthcare/articles/expect-unitedhealth-groups-q2-2026-093554304.html",
+        "published": "2026-06-25T09:35:54Z"
       },
       {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq waver as report of OpenAI IPO delay rattles chip stocks",
-        "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-waver-as-report-of-openai-ipo-delay-rattles-chip-stocks-231347821.html",
-        "published": "2026-06-25T23:13:47Z"
+        "title": "Earnings Preview: What To Expect From Cintas' Report",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-preview-expect-cintas-report-090516698.html",
+        "published": "2026-06-25T09:05:16Z"
       },
       {
-        "title": "Why Johnson & Johnson Stock Popped on Friday",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/why-johnson-johnson-stock-popped-165918919.html",
-        "published": "2026-06-26T16:59:18Z"
+        "title": "Florida man accused of $3.7B Medicare scam gets dragged back to US by FBI — here's the threat to millions of taxpayers",
+        "link": "https://finance.yahoo.com/healthcare/articles/florida-man-accused-3-7b-095000353.html",
+        "published": "2026-06-25T09:50:00Z"
       },
       {
-        "title": "IMF chief economist says Fed reduction in rate guidance is 'entirely appropriate'",
-        "link": "https://finance.yahoo.com/economy/policy/articles/imf-chief-economist-says-fed-164902438.html",
-        "published": "2026-06-26T16:51:27Z"
+        "title": "Analyst Report: DuPont de Nemours Inc",
+        "link": "https://finance.yahoo.com/research/reports/ARGUS_3713_AnalystReport_1782493027000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+        "published": "2026-06-26T16:57:07Z"
       },
       {
-        "title": "Sharplink Resumes Ethereum Purchases",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/sharplink-resumes-ethereum-purchases-162200220.html",
-        "published": "2026-06-26T16:22:00Z"
+        "title": "5 Scary Things That Happen to Your Crypto if Your Exchange Loses Its MiCA License on July 1",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/5-scary-things-happen-crypto-091557768.html",
+        "published": "2026-06-25T09:15:57Z"
       },
       {
-        "title": "This AI Data Center Play Nears Breakout After Record Orders",
-        "link": "https://www.investors.com/stock-lists/ibd-big-cap-20/ai-data-center-play-amphenol-stock/?src=A00220&yptr=yahoo",
-        "published": "2026-06-26T16:16:21Z"
+        "title": "Ask an Advisor: I'm 43 With $315K in an IRA, $90K in a Roth and Maxed-Out 401(k) Contributions. Can I Afford to Retire at 57?",
+        "link": "https://finance.yahoo.com/news/ask-advisor-im-43-old-160032038.html",
+        "published": "2026-06-25T09:00:00Z"
       },
       {
-        "title": "Elon Musk's SpaceX Could Acquire T-Mobile In Wireless Push, Says Analyst",
-        "link": "https://www.investors.com/news/technology/spacex-stock-spcx-elon-musk-acquire-tmobile-wireless-firm/?src=A00220&yptr=yahoo",
-        "published": "2026-06-26T16:07:32Z"
+        "title": "WhatsApp's pick of Indian fintech founder signals scale of payment ambitions",
+        "link": "https://finance.yahoo.com/small-business/articles/whatsapps-pick-indian-fintech-founder-085856477.html",
+        "published": "2026-06-25T08:58:56Z"
       }
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "There’s a ‘Trump account’ hack that can unlock decades of wealth-building for your kid",
-        "link": "https://www.marketwatch.com/story/theres-a-trump-account-hack-that-can-unlock-decades-of-wealth-building-for-your-kid-b84188b6?mod=mw_rss_topstories",
-        "published": "Fri, 26 Jun 2026 17:09:00 GMT"
+        "title": "A relative offered me a $25,000 loan, but wants a lien on my house. Are they taking advantage of me?",
+        "link": "https://www.marketwatch.com/story/im-70-a-relative-offered-me-a-25-000-home-loan-secured-by-a-lien-that-must-be-repaid-within-a-year-should-i-agree-27d44725?mod=mw_rss_topstories",
+        "published": "Fri, 26 Jun 2026 18:52:00 GMT"
       },
       {
-        "title": "How Micron aims to break through the risk cycle that has spooked investors for decades",
-        "link": "https://www.marketwatch.com/story/how-micron-aims-to-break-through-the-risk-cycle-that-has-spooked-investors-for-decades-f307e7df?mod=mw_rss_topstories",
-        "published": "Fri, 26 Jun 2026 16:47:00 GMT"
+        "title": "Healthcare stocks have become a haven for investors ditching tech",
+        "link": "https://www.marketwatch.com/story/healthcare-stocks-have-become-a-haven-for-investors-ditching-tech-81c544d0?mod=mw_rss_topstories",
+        "published": "Fri, 26 Jun 2026 18:39:00 GMT"
       },
       {
-        "title": "Discounted bond funds, especially at scandal-hit Wamco, may offer an investment opportunity",
-        "link": "https://www.marketwatch.com/story/discounted-bond-funds-especially-at-scandal-hit-wamco-may-offer-an-investment-opportunity-2afa77e8?mod=mw_rss_topstories",
-        "published": "Fri, 26 Jun 2026 16:45:00 GMT"
+        "title": "Germany is considering raising its retirement age to 70. Could the U.S. follow?",
+        "link": "https://www.marketwatch.com/story/could-the-u-s-join-germany-in-raising-its-retirement-age-3282e0bd?mod=mw_rss_topstories",
+        "published": "Fri, 26 Jun 2026 18:23:00 GMT"
       },
       {
-        "title": "Iran tightens its grip on Strait of Hormuz, sending oil prices higher",
-        "link": "https://www.marketwatch.com/story/iran-tightens-its-grip-on-strait-of-hormuz-sending-oil-higher-f3bc53a1?mod=mw_rss_topstories",
-        "published": "Fri, 26 Jun 2026 16:35:00 GMT"
+        "title": "Annuities are coming to more 401(k) plans. Should workers embrace them?",
+        "link": "https://www.marketwatch.com/story/annuities-are-coming-to-more-401-k-plans-should-workers-embrace-them-78f014e9?mod=mw_rss_topstories",
+        "published": "Fri, 26 Jun 2026 18:23:00 GMT"
       },
       {
-        "title": "‘I’m scared I made a huge financial mistake’: I gave my brother half of my $1.5 million home. Can he make me sell it?",
-        "link": "https://www.marketwatch.com/story/im-scared-of-making-a-huge-financial-mistake-i-gave-my-brother-half-of-my-1-5-million-home-can-he-force-me-to-sell-1b112b73?mod=mw_rss_topstories",
-        "published": "Fri, 26 Jun 2026 16:30:00 GMT"
+        "title": "Oil prices may have fallen ‘too far, too fast’ as Trump confirms Iran violated the cease-fire deal",
+        "link": "https://www.marketwatch.com/story/oil-heads-for-another-losing-week-but-analyst-warns-sluggish-strait-of-hormuz-traffic-could-send-it-soaring-again-80ab9ba8?mod=mw_rss_topstories",
+        "published": "Fri, 26 Jun 2026 18:10:00 GMT"
       },
       {
-        "title": "A new bill would cap Medicare enrollees’ annual expenses at $5,000 — and could cost the government ‘tens of billions’",
-        "link": "https://www.marketwatch.com/story/a-new-bill-would-cap-medicare-enrollees-annual-expenses-at-5-000-and-could-cost-the-government-tens-of-billions-d370bb37?mod=mw_rss_topstories",
-        "published": "Fri, 26 Jun 2026 16:28:00 GMT"
+        "title": "This disease is more expensive than cancer and heart disease combined. And it’s only going to get worse.",
+        "link": "https://www.marketwatch.com/story/this-disease-is-more-expensive-than-cancer-and-heart-disease-combined-and-its-only-going-to-get-worse-797b72d9?mod=mw_rss_topstories",
+        "published": "Fri, 26 Jun 2026 17:54:00 GMT"
       },
       {
-        "title": "FIFA World Cup prize money: What USMNT players stand to earn as America enters the knockout stage",
-        "link": "https://www.marketwatch.com/story/fifa-world-cup-prize-money-what-each-usmnt-player-stands-to-earn-332f8a96?mod=mw_rss_topstories",
-        "published": "Fri, 26 Jun 2026 16:21:00 GMT"
+        "title": "AI’s most explosive hardware trades are hitting a wall. Why optical and memory stocks are falling.",
+        "link": "https://www.marketwatch.com/story/ais-most-explosive-hardware-trades-are-hitting-a-wall-why-optical-and-memory-stocks-are-falling-d4e9eeaa?mod=mw_rss_topstories",
+        "published": "Fri, 26 Jun 2026 17:53:00 GMT"
       },
       {
-        "title": "Insurers shifted roof replacement costs onto homeowners thanks to a new federal rule — just in time for hail and hurricane season",
-        "link": "https://www.marketwatch.com/story/insurers-shifted-roof-replacement-costs-onto-homeowners-thanks-to-a-new-federal-rule-just-in-time-for-hail-and-hurricane-season-e86068df?mod=mw_rss_topstories",
-        "published": "Fri, 26 Jun 2026 16:10:00 GMT"
+        "title": "Bond yields are falling as inflation pops. The Fed’s tough talk under Warsh is helping.",
+        "link": "https://www.marketwatch.com/story/bond-yields-are-falling-as-inflation-pops-the-feds-tough-talk-under-warsh-is-helping-7d538b3b?mod=mw_rss_topstories",
+        "published": "Fri, 26 Jun 2026 17:39:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
         "title": "Trump says Iran violated ceasefire with drone attacks on Strait of Hormuz ships",
         "link": "https://www.cnbc.com/2026/06/26/trump-iran-ceasefire-strait-of-hormuz.html",
-        "published": "Fri, 26 Jun 2026 16:17:28 GMT"
+        "published": "Fri, 26 Jun 2026 19:13:36 GMT"
       },
       {
         "title": "Trump eases pressure on Fed Chairman Kevin Warsh as inflation tops 4%",
         "link": "https://www.cnbc.com/2026/06/26/trump-warsh-fed-rate-cuts-inflation.html",
-        "published": "Fri, 26 Jun 2026 14:54:15 GMT"
+        "published": "Fri, 26 Jun 2026 17:39:09 GMT"
       },
       {
         "title": "Jeremy Grantham says this is the most expensive market in 'American history'",
@@ -744,27 +744,27 @@
       {
         "title": "S&P 500 heads for losing week, chip stocks add to their losses on Friday: Live updates",
         "link": "https://www.cnbc.com/2026/06/25/stock-market-today-live-updates.html",
-        "published": "Fri, 26 Jun 2026 17:02:50 GMT"
+        "published": "Fri, 26 Jun 2026 19:12:08 GMT"
       },
       {
-        "title": "Stocks making the biggest moves midday: Moderna, ON Semiconductor, Rocket Lab, Eli Lilly, Sandisk & more",
-        "link": "https://www.cnbc.com/2026/06/26/stocks-making-the-biggest-moves-midday-mrna-on-rklb-lly-sndk.html",
-        "published": "Fri, 26 Jun 2026 17:04:37 GMT"
-      },
-      {
-        "title": "Trump threatens 100% tariff on countries putting 'Digital Services Tax on American Companies'",
+        "title": "Trump threatens 100% tariffs on countries putting 'Digital Services Tax on American Companies'",
         "link": "https://www.cnbc.com/2026/06/26/trump-tariff-trade-tech-tax.html",
-        "published": "Fri, 26 Jun 2026 17:12:10 GMT"
+        "published": "Fri, 26 Jun 2026 18:25:36 GMT"
       },
       {
-        "title": "OpenAI limits new AI models to 'trusted partners' at request of U.S. government",
-        "link": "https://www.cnbc.com/2026/06/26/openai-limits-new-ai-models-to-trusted-partners-request-us-government.html",
-        "published": "Fri, 26 Jun 2026 17:02:44 GMT"
+        "title": "Gavin Newsom calls for national billionaires tax: 'It's time for an economic reset'",
+        "link": "https://www.cnbc.com/2026/06/26/gavin-newsom-national-billionaires-tax-california.html",
+        "published": "Fri, 26 Jun 2026 18:01:58 GMT"
       },
       {
-        "title": "Citi cuts tech stock weighting: 'Difficult to see how everyone in AI/Tech path wins'",
-        "link": "https://www.cnbc.com/2026/06/26/citi-cuts-tech-stock-weighting-difficult-to-see-how-everyone-in-ai/tech-path-wins.html",
-        "published": "Fri, 26 Jun 2026 16:05:43 GMT"
+        "title": "Minneapolis Fed President Neel Kashkari says he expects a rate hike this year",
+        "link": "https://www.cnbc.com/2026/06/26/minneapolis-fed-president-neel-kashkari-says-he-expects-a-rate-hike-this-year.html",
+        "published": "Fri, 26 Jun 2026 16:04:42 GMT"
+      },
+      {
+        "title": "Wall Street is set to close the books on a memorable first half next week. Here's what's ahead",
+        "link": "https://www.cnbc.com/2026/06/26/stock-market-next-week-outlook-for-june-29-july-3-2026.html",
+        "published": "Fri, 26 Jun 2026 19:04:29 GMT"
       }
     ]
   }
