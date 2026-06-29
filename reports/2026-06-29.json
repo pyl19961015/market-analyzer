@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-06-29T16:37:36",
+  "generated_at": "2026-06-29T18:33:38",
   "date": "2026-06-29",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7410.98,
-        "pct_change": 0.77
+        "last": 7434.29,
+        "pct_change": 1.09
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 25627.22,
-        "pct_change": 1.3
+        "last": 25765.84,
+        "pct_change": 1.85
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 52096.25,
-        "pct_change": 0.42
+        "last": 52241.8,
+        "pct_change": 0.7
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2989.81,
-        "pct_change": -0.67
+        "last": 3000.15,
+        "pct_change": -0.33
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 17.85,
-        "pct_change": -3.04
+        "last": 17.69,
+        "pct_change": -3.91
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
         "last": 4.38,
-        "pct_change": 0.18
+        "pct_change": 0.09
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 101.12,
-        "pct_change": -0.23
+        "last": 101.08,
+        "pct_change": -0.27
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 70.77,
-        "pct_change": 2.22
+        "last": 70.51,
+        "pct_change": 1.85
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4038.2,
-        "pct_change": -0.99
+        "last": 4039.1,
+        "pct_change": -0.97
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 184.0,
-        "pct_change": 1.6
+        "last": 185.15,
+        "pct_change": 2.23
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 53.74,
-        "pct_change": 0.31
+        "last": 53.81,
+        "pct_change": 0.44
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 54.03,
-        "pct_change": 0.34
+        "last": 53.92,
+        "pct_change": 0.15
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 160.35,
-        "pct_change": 0.0
+        "last": 160.52,
+        "pct_change": 0.11
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 116.79,
-        "pct_change": 2.12
+        "last": 117.17,
+        "pct_change": 2.45
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 84.25,
-        "pct_change": -0.54
+        "last": 84.14,
+        "pct_change": -0.67
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 182.55,
-        "pct_change": 0.75
+        "last": 182.7,
+        "pct_change": 0.83
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 46.04,
-        "pct_change": -0.34
+        "last": 45.92,
+        "pct_change": -0.6
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 50.28,
-        "pct_change": -2.55
+        "last": 50.51,
+        "pct_change": -2.12
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.63,
-        "pct_change": -1.34
+        "last": 44.62,
+        "pct_change": -1.37
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 107.86,
-        "pct_change": 1.58
+        "last": 108.01,
+        "pct_change": 1.72
       }
     }
   },
@@ -121,7 +121,7 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 161.93,
+        "last": 161.94,
         "pct_change": 0.08
       }
     }
@@ -144,57 +144,57 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 252.56,
-        "pct_change": 14.25
+        "last": 252.19,
+        "pct_change": 14.09
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 280.2,
-        "pct_change": -1.26
+        "last": 282.1,
+        "pct_change": -0.59
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 368.23,
-        "pct_change": -1.27
+        "last": 368.42,
+        "pct_change": -1.22
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 239.99,
-        "pct_change": 3.14
+        "last": 240.27,
+        "pct_change": 3.26
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 351.38,
-        "pct_change": 4.15
+        "last": 352.99,
+        "pct_change": 4.62
       },
       "Meta": {
         "symbol": "META",
-        "last": 563.99,
-        "pct_change": 2.5
+        "last": 565.72,
+        "pct_change": 2.81
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 829.38,
-        "pct_change": 1.52
+        "last": 836.95,
+        "pct_change": 2.44
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 378.58,
-        "pct_change": -0.52
+        "last": 384.45,
+        "pct_change": 1.02
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 166.07,
-        "pct_change": 1.44
+        "last": 166.3,
+        "pct_change": 1.58
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 7146.0,
-        "pct_change": -1.62
+        "last": 6914.0,
+        "pct_change": -3.25
       }
     }
   },
@@ -632,24 +632,29 @@
         "published": "2026-06-28T09:33:25Z"
       },
       {
-        "title": "Truist Raises its Price Target on Equity Residential (EQR)",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/truist-raises-price-target-equity-161517450.html",
-        "published": "2026-06-29T16:15:17Z"
+        "title": "QTREX Quantum (QTEX) Produces Cryogenic Chip Carrier Using Proprietary AME Process",
+        "link": "https://finance.yahoo.com/technology/articles/qtrex-quantum-qtex-produces-cryogenic-093440074.html",
+        "published": "2026-06-28T09:34:40Z"
       },
       {
-        "title": "Wells Fargo Upgrades Invitation Homes (INVH) to Overweight",
-        "link": "https://finance.yahoo.com/real-estate/articles/wells-fargo-upgrades-invitation-homes-161508095.html",
-        "published": "2026-06-29T16:15:08Z"
+        "title": "Unisys (UIS) Partners with Rafay Systems to Streamline AI Workload Management and Scaling",
+        "link": "https://finance.yahoo.com/technology/ai/articles/unisys-uis-partners-rafay-systems-093459703.html",
+        "published": "2026-06-28T09:34:59Z"
       },
       {
-        "title": "Is Sun Communities (SUI) the Best Interest Rate Sensitive Stock to Buy Now?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/sun-communities-sui-best-interest-161459772.html",
-        "published": "2026-06-29T16:14:59Z"
+        "title": "Atomera (ATOM) Introduces MST Technology to Enhance GaN-on-Silicon Performance for RF Applications",
+        "link": "https://finance.yahoo.com/technology/articles/atomera-atom-introduces-mst-technology-093540787.html",
+        "published": "2026-06-28T09:35:40Z"
       },
       {
-        "title": "BMO Capital Upgrades American Homes (AMH) to Outperform",
-        "link": "https://finance.yahoo.com/real-estate/articles/bmo-capital-upgrades-american-homes-161453916.html",
-        "published": "2026-06-29T16:14:53Z"
+        "title": "Here is Why Himax (HIMX) One of the Best Performing Tech Stocks to Buy According to Analysts",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/why-himax-himx-one-best-093506368.html",
+        "published": "2026-06-28T09:35:06Z"
+      },
+      {
+        "title": "Analyst Report: Public Serv Enterprise Grp Inc",
+        "link": "https://finance.yahoo.com/research/reports/ARGUS_3301_AnalystReport_1782753340000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+        "published": "2026-06-29T17:15:40Z"
       },
       {
         "title": "79-year-old fashion retailer closed 136 stores, killed one of its brands",
@@ -657,88 +662,78 @@
         "published": "2026-06-29T01:28:15Z"
       },
       {
-        "title": "Here’s Why Host Hotels & Resorts (HST) is Among the 10 Interest Rate Sensitive Stocks to Buy Now",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/why-host-hotels-resorts-hst-161447819.html",
-        "published": "2026-06-29T16:14:47Z"
-      },
-      {
-        "title": "RBC Capital Keeps Outperform Rating on Carvana (CVNA)",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-capital-keeps-outperform-rating-161438855.html",
-        "published": "2026-06-29T16:14:38Z"
+        "title": "Kopin Corporation (KOPN) to Open New Optics and Photonics Design Center in Dallas",
+        "link": "https://finance.yahoo.com/technology/ai/articles/kopin-corporation-kopn-open-optics-093453116.html",
+        "published": "2026-06-28T09:34:53Z"
       }
     ],
     "MarketWatch Top Stories": [
       {
+        "title": "Charter may be making ‘frenemies’ with SpaceX, and its stock is soaring",
+        "link": "https://www.marketwatch.com/story/charter-may-be-making-frenemies-with-spacex-and-its-stock-is-soaring-e300eb21?mod=mw_rss_topstories",
+        "published": "Mon, 29 Jun 2026 18:10:00 GMT"
+      },
+      {
+        "title": "‘I claimed Social Security at 62’: At 76, I’m working at Walmart. Why do I still owe payroll taxes?",
+        "link": "https://www.marketwatch.com/story/i-claimed-social-security-at-62-at-76-im-working-at-walmart-why-do-i-still-owe-payroll-taxes-8e22a97c?mod=mw_rss_topstories",
+        "published": "Mon, 29 Jun 2026 18:00:00 GMT"
+      },
+      {
+        "title": "Is the Comcast-NBCUniversal spinoff a precursor for M&A? Wall Street may already be betting on it.",
+        "link": "https://www.marketwatch.com/story/comcast-to-spin-off-nbcuniversal-after-15-years-of-ownership-dad0597a?mod=mw_rss_topstories",
+        "published": "Mon, 29 Jun 2026 17:31:00 GMT"
+      },
+      {
+        "title": "‘I don’t think I’ll make it to 80’: I’m 70 and single. Do I take out a reverse mortgage or a home-equity agreement?",
+        "link": "https://www.marketwatch.com/story/i-dont-think-ill-make-it-to-80-im-70-and-single-do-i-take-out-a-reverse-mortgage-or-a-home-equity-agreement-3b623ee8?mod=mw_rss_topstories",
+        "published": "Mon, 29 Jun 2026 17:30:00 GMT"
+      },
+      {
+        "title": "Is Wall Street misreading the Fed? The hidden upside catalyst for tech and real-estate stocks.",
+        "link": "https://www.marketwatch.com/story/wall-street-is-bracing-for-a-wave-of-fed-rate-hikes-that-may-never-come-these-sectors-stand-to-gain-63229922?mod=mw_rss_topstories",
+        "published": "Mon, 29 Jun 2026 17:22:00 GMT"
+      },
+      {
         "title": "Fed’s Lisa Cook can stay on at central bank while challenging Trump’s attempt to fire her, Supreme Court rules",
         "link": "https://www.marketwatch.com/story/supreme-court-allows-lisa-cook-to-stay-on-at-fed-for-now-whats-next-as-trump-tries-to-fire-her-06bfb9ee?mod=mw_rss_topstories",
-        "published": "Mon, 29 Jun 2026 16:05:00 GMT"
+        "published": "Mon, 29 Jun 2026 17:07:00 GMT"
       },
       {
-        "title": "I’m a CPA and tell my clients to claim Social Security early. Am I giving them bad advice?",
-        "link": "https://www.marketwatch.com/story/take-the-money-while-you-can-im-a-cpa-and-tell-my-clients-to-take-their-social-security-early-am-i-wrong-a50e55e8?mod=mw_rss_topstories",
-        "published": "Mon, 29 Jun 2026 16:00:00 GMT"
+        "title": "I had gallbladder surgery. After I got home, the hospital asked me for a financial donation. Is this ethical?",
+        "link": "https://www.marketwatch.com/story/i-had-my-gallbladder-removed-after-i-got-home-the-hospital-asked-me-for-a-donation-is-this-ethical-ad12a8e1?mod=mw_rss_topstories",
+        "published": "Mon, 29 Jun 2026 17:00:00 GMT"
       },
       {
-        "title": "Wall Street is bracing for a wave of Fed rate hikes that may never come. These sectors stand to gain.",
-        "link": "https://www.marketwatch.com/story/wall-street-is-bracing-for-a-wave-of-fed-rate-hikes-that-may-never-come-these-sectors-stand-to-gain-63229922?mod=mw_rss_topstories",
-        "published": "Mon, 29 Jun 2026 15:34:00 GMT"
-      },
-      {
-        "title": "There’s a ‘Trump account’ hack that can unlock decades of wealth-building for your kid",
-        "link": "https://www.marketwatch.com/story/theres-a-trump-account-hack-that-can-unlock-decades-of-wealth-building-for-your-kid-b84188b6?mod=mw_rss_topstories",
-        "published": "Mon, 29 Jun 2026 15:07:00 GMT"
-      },
-      {
-        "title": "Strategy can now sell bitcoin to buy back stock — the opposite of what it’s been doing",
-        "link": "https://www.marketwatch.com/story/strategy-can-now-sell-bitcoin-to-buy-back-stock-the-opposite-of-what-its-been-doing-db506fdb?mod=mw_rss_topstories",
-        "published": "Mon, 29 Jun 2026 15:07:00 GMT"
-      },
-      {
-        "title": "Going back to the office may actually be better for you than working from home",
-        "link": "https://www.marketwatch.com/story/going-back-to-the-office-may-actually-be-better-for-you-than-working-from-home-18126286?mod=mw_rss_topstories",
-        "published": "Mon, 29 Jun 2026 15:05:00 GMT"
-      },
-      {
-        "title": "Insurers shifted roof-replacement costs onto homeowners thanks to a new federal rule — just in time for hail and hurricane season",
-        "link": "https://www.marketwatch.com/story/insurers-shifted-roof-replacement-costs-onto-homeowners-thanks-to-a-new-federal-rule-just-in-time-for-hail-and-hurricane-season-e86068df?mod=mw_rss_topstories",
-        "published": "Mon, 29 Jun 2026 15:04:00 GMT"
-      },
-      {
-        "title": "‘She is retired’: Do I dip into my 401(k) to pay my mother’s $30,000 credit-card debt?",
-        "link": "https://www.marketwatch.com/story/she-is-retired-do-i-dip-into-my-401-k-to-pay-my-mothers-30-000-credit-card-debt-dc97569b?mod=mw_rss_topstories",
-        "published": "Mon, 29 Jun 2026 15:00:00 GMT"
+        "title": "‘It feels like a medical miracle’: How did a single QR code coupon cut my $618 Walgreens prescription to $15?",
+        "link": "https://www.marketwatch.com/story/it-feels-like-a-medical-miracle-how-did-a-single-qr-code-coupon-cut-my-618-walgreens-prescription-to-15-524a1151?mod=mw_rss_topstories",
+        "published": "Mon, 29 Jun 2026 16:40:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
         "title": "Supreme Court rules Trump cannot fire Fed Governor Lisa Cook for now",
         "link": "https://www.cnbc.com/2026/06/29/supreme-court-lisa-cook-trump-federal-reserve.html",
-        "published": "Mon, 29 Jun 2026 16:18:49 GMT"
+        "published": "Mon, 29 Jun 2026 17:29:44 GMT"
       },
       {
-        "title": "Dow jumps 250 points as U.S.-Iran halt hostilities, Alphabet shares gain: Live updates",
+        "title": "Dow jumps more than 200 points as U.S.-Iran halt hostilities, Alphabet shares gain: Live updates",
         "link": "https://www.cnbc.com/2026/06/28/stock-futures-today-live-updates.html",
-        "published": "Mon, 29 Jun 2026 16:22:47 GMT"
+        "published": "Mon, 29 Jun 2026 18:24:43 GMT"
       },
       {
-        "title": "Comcast jumps 9% after announcing it will spin off NBCUniversal and Sky from cable business",
-        "link": "https://www.cnbc.com/2026/06/29/comcast-announces-it-will-spin-off-media-and-tech-wings-into-separate-public-companies.html",
-        "published": "Mon, 29 Jun 2026 14:49:01 GMT"
+        "title": "What's behind the Comcast breakup? Hope for a Disney-like valuation",
+        "link": "https://www.cnbc.com/2026/06/29/whats-behind-the-comcast-break-up-hope-for-a-disney-like-valuation.html",
+        "published": "Mon, 29 Jun 2026 17:18:10 GMT"
+      },
+      {
+        "title": "Trump bought as much as $5 million in Axon stock before ICE sought $220 million Taser deal",
+        "link": "https://www.cnbc.com/2026/06/29/trump-axon-stock-ice-taser-immigration-enforcement.html",
+        "published": "Mon, 29 Jun 2026 14:03:16 GMT"
       },
       {
         "title": "Stocks making the biggest moves midday: Comcast, Charter Communications, Rocket Lab, Alphabet, Verizon & more",
         "link": "https://www.cnbc.com/2026/06/29/stocks-making-the-biggest-moves-midday-mu-cmcsa-rklb-googl-vz.html",
-        "published": "Mon, 29 Jun 2026 16:19:09 GMT"
-      },
-      {
-        "title": "Alphabet stock pops 4% on Dow debut, but the tech giant faces major AI questions",
-        "link": "https://www.cnbc.com/2026/06/29/alphabet-googl-stock-dow-average.html",
-        "published": "Mon, 29 Jun 2026 16:02:30 GMT"
-      },
-      {
-        "title": "This insurance stock is on an impressive run. How to ride the momentum with less risk",
-        "link": "https://www.cnbc.com/2026/06/29/this-insurance-stock-is-on-an-impressive-run-how-to-ride-the-momentum-with-less-risk.html",
-        "published": "Mon, 29 Jun 2026 15:36:17 GMT"
+        "published": "Mon, 29 Jun 2026 18:17:24 GMT"
       },
       {
         "title": "RBC lifts S&P 500 price target, but warns that it could be a volatile ride higher",
@@ -746,9 +741,14 @@
         "published": "Mon, 29 Jun 2026 16:26:12 GMT"
       },
       {
-        "title": "Trump bought as much as $5 million in Axon stock before ICE sought $220 million Taser deal",
-        "link": "https://www.cnbc.com/2026/06/29/trump-axon-stock-ice-taser-immigration-enforcement.html",
-        "published": "Mon, 29 Jun 2026 14:03:16 GMT"
+        "title": "Alphabet stock pops 4% on Dow debut, but the tech giant faces major AI questions",
+        "link": "https://www.cnbc.com/2026/06/29/alphabet-googl-stock-dow-average.html",
+        "published": "Mon, 29 Jun 2026 16:02:30 GMT"
+      },
+      {
+        "title": "IRS says Trump Account contributions will not trigger annual gift tax reporting requirements",
+        "link": "https://www.cnbc.com/2026/06/29/irs-trump-account-contributions-will-not-trigger-gift-tax-reporting.html",
+        "published": "Mon, 29 Jun 2026 18:19:22 GMT"
       }
     ]
   }
