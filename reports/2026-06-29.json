@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-06-29T12:48:51",
+  "generated_at": "2026-06-29T16:37:36",
   "date": "2026-06-29",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7354.02,
-        "pct_change": -0.05
+        "last": 7410.98,
+        "pct_change": 0.77
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 25297.62,
-        "pct_change": -0.24
+        "last": 25627.22,
+        "pct_change": 1.3
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 51876.11,
-        "pct_change": -0.09
+        "last": 52096.25,
+        "pct_change": 0.42
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3010.08,
-        "pct_change": 0.07
+        "last": 2989.81,
+        "pct_change": -0.67
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 18.28,
-        "pct_change": -0.71
+        "last": 17.85,
+        "pct_change": -3.04
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
         "last": 4.38,
-        "pct_change": 0.23
+        "pct_change": 0.18
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 101.25,
-        "pct_change": -0.11
+        "last": 101.12,
+        "pct_change": -0.23
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 70.08,
-        "pct_change": 1.23
+        "last": 70.77,
+        "pct_change": 2.22
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4059.8,
-        "pct_change": -0.46
+        "last": 4038.2,
+        "pct_change": -0.99
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 181.11,
-        "pct_change": -1.87
+        "last": 184.0,
+        "pct_change": 1.6
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 53.57,
-        "pct_change": 0.22
+        "last": 53.74,
+        "pct_change": 0.31
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 53.84,
-        "pct_change": -0.46
+        "last": 54.03,
+        "pct_change": 0.34
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 160.34,
-        "pct_change": 3.03
+        "last": 160.35,
+        "pct_change": 0.0
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 114.37,
-        "pct_change": 0.9
+        "last": 116.79,
+        "pct_change": 2.12
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 84.71,
-        "pct_change": 0.92
+        "last": 84.25,
+        "pct_change": -0.54
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 181.2,
-        "pct_change": -1.59
+        "last": 182.55,
+        "pct_change": 0.75
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 46.2,
-        "pct_change": 0.76
+        "last": 46.04,
+        "pct_change": -0.34
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 51.6,
-        "pct_change": -0.46
+        "last": 50.28,
+        "pct_change": -2.55
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 45.24,
-        "pct_change": 1.46
+        "last": 44.63,
+        "pct_change": -1.34
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 106.18,
-        "pct_change": 0.57
+        "last": 107.86,
+        "pct_change": 1.58
       }
     }
   },
@@ -111,8 +111,8 @@
     "indices": {
       "Nikkei 225": {
         "symbol": "^N225",
-        "last": 69468.11,
-        "pct_change": 0.15
+        "last": 69360.88,
+        "pct_change": -4.15
       },
       "TOPIX (ETF代理)": {
         "symbol": "1306.T",
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 161.89,
-        "pct_change": 0.05
+        "last": 161.93,
+        "pct_change": 0.08
       }
     }
   },
@@ -131,7 +131,7 @@
       "effr": 3.63,
       "target_low": 3.5,
       "target_high": 3.75,
-      "as_of": "2026-06-25"
+      "as_of": "2026-06-26"
     },
     "japan": {
       "yield": 2.611,
@@ -144,57 +144,57 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 221.05,
-        "pct_change": -3.05
+        "last": 252.56,
+        "pct_change": 14.25
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 283.78,
-        "pct_change": 3.14
+        "last": 280.2,
+        "pct_change": -1.26
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 372.97,
-        "pct_change": 5.71
+        "last": 368.23,
+        "pct_change": -1.27
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 232.69,
-        "pct_change": 2.5
+        "last": 239.99,
+        "pct_change": 3.14
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 337.39,
-        "pct_change": -1.84
+        "last": 351.38,
+        "pct_change": 4.15
       },
       "Meta": {
         "symbol": "META",
-        "last": 550.25,
-        "pct_change": 1.36
+        "last": 563.99,
+        "pct_change": 2.5
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 816.98,
-        "pct_change": -5.22
+        "last": 829.38,
+        "pct_change": 1.52
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 380.56,
-        "pct_change": -6.55
+        "last": 378.58,
+        "pct_change": -0.52
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 163.72,
-        "pct_change": -0.87
+        "last": 166.07,
+        "pct_change": 1.44
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 6914.0,
-        "pct_change": -3.25
+        "last": 7146.0,
+        "pct_change": -1.62
       }
     }
   },
@@ -627,128 +627,128 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "IRMAA hits retirees two years after property sale",
-        "link": "https://finance.yahoo.com/healthcare/articles/irmaa-hits-retirees-two-years-181700890.html",
-        "published": "2026-06-28T18:17:00Z"
+        "title": "BlackRock IBIT investors are now nursing a 40% loss",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/blackrock-ibit-investors-now-nursing-093325287.html",
+        "published": "2026-06-28T09:33:25Z"
       },
       {
-        "title": "Stock market today: S&P 500, Nasdaq, Dow futures rise as US and Iran call a halt to attacks",
-        "link": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-june-29-224230573.html",
-        "published": "2026-06-28T22:42:30Z"
+        "title": "Truist Raises its Price Target on Equity Residential (EQR)",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/truist-raises-price-target-equity-161517450.html",
+        "published": "2026-06-29T16:15:17Z"
       },
       {
-        "title": "Comcast Soars On Company Split. Is More M&A Coming?",
-        "link": "https://www.investors.com/news/technology/comcast-stock-soars-on-company-split-as-cable-tv-giants-makeover-continues/?src=A00220&yptr=yahoo",
-        "published": "2026-06-29T12:21:46Z"
+        "title": "Wells Fargo Upgrades Invitation Homes (INVH) to Overweight",
+        "link": "https://finance.yahoo.com/real-estate/articles/wells-fargo-upgrades-invitation-homes-161508095.html",
+        "published": "2026-06-29T16:15:08Z"
       },
       {
-        "title": "Jefferies Starts Quantinuum With Buy Rating On 'Full-Stack' Platform",
-        "link": "https://www.investors.com/news/technology/jefferies-starts-quantinuum-stock-qnt-buy-rating-full-stack-platform/?src=A00220&yptr=yahoo",
-        "published": "2026-06-29T12:15:54Z"
+        "title": "Is Sun Communities (SUI) the Best Interest Rate Sensitive Stock to Buy Now?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/sun-communities-sui-best-interest-161459772.html",
+        "published": "2026-06-29T16:14:59Z"
       },
       {
-        "title": "Gold prices today, Monday, June 29: Holding at last week's levels ahead of June jobs report",
-        "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-june-29-holding-at-last-weeks-levels-ahead-of-june-jobs-report-121244273.html",
-        "published": "2026-06-29T12:12:44Z"
+        "title": "BMO Capital Upgrades American Homes (AMH) to Outperform",
+        "link": "https://finance.yahoo.com/real-estate/articles/bmo-capital-upgrades-american-homes-161453916.html",
+        "published": "2026-06-29T16:14:53Z"
       },
       {
-        "title": "Analyst Report: Best Buy Co Inc",
-        "link": "https://finance.yahoo.com/research/reports/ARGUS_2762_AnalystReport_1782731300000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-        "published": "2026-06-29T11:08:20Z"
+        "title": "79-year-old fashion retailer closed 136 stores, killed one of its brands",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/h-m-closed-136-stores-012815718.html",
+        "published": "2026-06-29T01:28:15Z"
       },
       {
-        "title": "Big Food “failing to meet hype” on regenerative agriculture",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/big-food-failing-meet-hype-122812246.html",
-        "published": "2026-06-29T12:28:12Z"
+        "title": "Here’s Why Host Hotels & Resorts (HST) is Among the 10 Interest Rate Sensitive Stocks to Buy Now",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/why-host-hotels-resorts-hst-161447819.html",
+        "published": "2026-06-29T16:14:47Z"
       },
       {
-        "title": "The S&P 500 just sent a warning signal to investors",
-        "link": "https://finance.yahoo.com/markets/article/the-sp-500-just-sent-a-warning-signal-to-investors-121007971.html",
-        "published": "2026-06-29T12:10:07Z"
+        "title": "RBC Capital Keeps Outperform Rating on Carvana (CVNA)",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-capital-keeps-outperform-rating-161438855.html",
+        "published": "2026-06-29T16:14:38Z"
       }
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "Laser weapons aren’t science fiction anymore — and they’re changing how defense stocks are valued",
-        "link": "https://www.marketwatch.com/story/laser-weapons-arent-science-fiction-anymore-and-theyre-changing-how-defense-stocks-are-valued-ff4c3910?mod=mw_rss_topstories",
-        "published": "Mon, 29 Jun 2026 12:15:00 GMT"
+        "title": "Fed’s Lisa Cook can stay on at central bank while challenging Trump’s attempt to fire her, Supreme Court rules",
+        "link": "https://www.marketwatch.com/story/supreme-court-allows-lisa-cook-to-stay-on-at-fed-for-now-whats-next-as-trump-tries-to-fire-her-06bfb9ee?mod=mw_rss_topstories",
+        "published": "Mon, 29 Jun 2026 16:05:00 GMT"
       },
       {
-        "title": "Comcast’s stock having best day in 18 years after plan to spin off NBCUniversal",
-        "link": "https://www.marketwatch.com/story/comcast-to-spin-off-nbcuniversal-after-15-years-of-ownership-dad0597a?mod=mw_rss_topstories",
-        "published": "Mon, 29 Jun 2026 11:54:00 GMT"
+        "title": "I’m a CPA and tell my clients to claim Social Security early. Am I giving them bad advice?",
+        "link": "https://www.marketwatch.com/story/take-the-money-while-you-can-im-a-cpa-and-tell-my-clients-to-take-their-social-security-early-am-i-wrong-a50e55e8?mod=mw_rss_topstories",
+        "published": "Mon, 29 Jun 2026 16:00:00 GMT"
       },
       {
-        "title": "There’s a 67% chance stocks will suffer a bear market when this rare signal flashes — like it’s doing now",
-        "link": "https://www.marketwatch.com/story/theres-a-67-chance-stocks-will-suffer-a-bear-market-when-this-rare-signal-flashes-like-its-doing-now-c8916710?mod=mw_rss_topstories",
-        "published": "Mon, 29 Jun 2026 11:37:00 GMT"
+        "title": "Wall Street is bracing for a wave of Fed rate hikes that may never come. These sectors stand to gain.",
+        "link": "https://www.marketwatch.com/story/wall-street-is-bracing-for-a-wave-of-fed-rate-hikes-that-may-never-come-these-sectors-stand-to-gain-63229922?mod=mw_rss_topstories",
+        "published": "Mon, 29 Jun 2026 15:34:00 GMT"
       },
       {
-        "title": "How the chip trade has come to resemble silver — a warning from Morgan Stanley’s Wilson",
-        "link": "https://www.marketwatch.com/story/silver-and-the-semiconductor-climax-a-warning-from-morgan-stanleys-wilson-833e06e1?mod=mw_rss_topstories",
-        "published": "Mon, 29 Jun 2026 11:02:00 GMT"
+        "title": "There’s a ‘Trump account’ hack that can unlock decades of wealth-building for your kid",
+        "link": "https://www.marketwatch.com/story/theres-a-trump-account-hack-that-can-unlock-decades-of-wealth-building-for-your-kid-b84188b6?mod=mw_rss_topstories",
+        "published": "Mon, 29 Jun 2026 15:07:00 GMT"
       },
       {
-        "title": "People say I should wait until 70 to claim Social Security. When does delaying pay off?",
-        "link": "https://www.marketwatch.com/story/people-say-i-should-wait-until-70-to-claim-social-security-when-does-delaying-pay-off-f1cd948c?mod=mw_rss_topstories",
-        "published": "Mon, 29 Jun 2026 11:00:00 GMT"
+        "title": "Strategy can now sell bitcoin to buy back stock — the opposite of what it’s been doing",
+        "link": "https://www.marketwatch.com/story/strategy-can-now-sell-bitcoin-to-buy-back-stock-the-opposite-of-what-its-been-doing-db506fdb?mod=mw_rss_topstories",
+        "published": "Mon, 29 Jun 2026 15:07:00 GMT"
       },
       {
-        "title": "Why Apple pivoting to China for memory may not solve big tech’s microchip crisis",
-        "link": "https://www.marketwatch.com/story/why-apple-pivoting-to-china-for-memory-may-not-solve-big-techs-microchip-crisis-51f3438d?mod=mw_rss_topstories",
-        "published": "Mon, 29 Jun 2026 10:32:00 GMT"
+        "title": "Going back to the office may actually be better for you than working from home",
+        "link": "https://www.marketwatch.com/story/going-back-to-the-office-may-actually-be-better-for-you-than-working-from-home-18126286?mod=mw_rss_topstories",
+        "published": "Mon, 29 Jun 2026 15:05:00 GMT"
       },
       {
-        "title": "A ‘Magnificent Seven’ slump sent momentum stocks to their fourth-worst performance in 22 years. Here’s what happened 70% of the time.",
-        "link": "https://www.marketwatch.com/story/magnificent-seven-slump-sent-momentum-stocks-to-their-fourth-worst-performance-in-22-years-heres-what-happens-70-of-the-time-720fd2e9?mod=mw_rss_topstories",
-        "published": "Mon, 29 Jun 2026 10:05:00 GMT"
+        "title": "Insurers shifted roof-replacement costs onto homeowners thanks to a new federal rule — just in time for hail and hurricane season",
+        "link": "https://www.marketwatch.com/story/insurers-shifted-roof-replacement-costs-onto-homeowners-thanks-to-a-new-federal-rule-just-in-time-for-hail-and-hurricane-season-e86068df?mod=mw_rss_topstories",
+        "published": "Mon, 29 Jun 2026 15:04:00 GMT"
       },
       {
-        "title": "The central bank of central  banks warns AI frenzy could trigger stock-market slump and jeopardize economy",
-        "link": "https://www.marketwatch.com/story/the-central-bank-of-central-banks-warns-ai-frenzy-could-trigger-stock-market-slump-and-jeopardize-economy-4d24b0a1?mod=mw_rss_topstories",
-        "published": "Mon, 29 Jun 2026 09:13:00 GMT"
+        "title": "‘She is retired’: Do I dip into my 401(k) to pay my mother’s $30,000 credit-card debt?",
+        "link": "https://www.marketwatch.com/story/she-is-retired-do-i-dip-into-my-401-k-to-pay-my-mothers-30-000-credit-card-debt-dc97569b?mod=mw_rss_topstories",
+        "published": "Mon, 29 Jun 2026 15:00:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "Trump says U.S. and Iran to hold fresh talks in Qatar on Tuesday following weekend clashes",
-        "link": "https://www.cnbc.com/2026/06/29/trump-us-iran-talks-qatar-hormuz.html",
-        "published": "Mon, 29 Jun 2026 12:47:35 GMT"
+        "title": "Supreme Court rules Trump cannot fire Fed Governor Lisa Cook for now",
+        "link": "https://www.cnbc.com/2026/06/29/supreme-court-lisa-cook-trump-federal-reserve.html",
+        "published": "Mon, 29 Jun 2026 16:18:49 GMT"
       },
       {
-        "title": "Comcast soars 20% after announcing it will spin off media and tech wings into separate public companies",
+        "title": "Dow jumps 250 points as U.S.-Iran halt hostilities, Alphabet shares gain: Live updates",
+        "link": "https://www.cnbc.com/2026/06/28/stock-futures-today-live-updates.html",
+        "published": "Mon, 29 Jun 2026 16:22:47 GMT"
+      },
+      {
+        "title": "Comcast jumps 9% after announcing it will spin off NBCUniversal and Sky from cable business",
         "link": "https://www.cnbc.com/2026/06/29/comcast-announces-it-will-spin-off-media-and-tech-wings-into-separate-public-companies.html",
-        "published": "Mon, 29 Jun 2026 12:28:00 GMT"
+        "published": "Mon, 29 Jun 2026 14:49:01 GMT"
       },
       {
-        "title": "SpaceX's $25 billion bond sale drives huge demand - and a potential headache for investors",
-        "link": "https://www.cnbc.com/2026/06/29/spacex-debt-diversification-equity-bond-investors-analysts.html",
-        "published": "Mon, 29 Jun 2026 10:36:59 GMT"
+        "title": "Stocks making the biggest moves midday: Comcast, Charter Communications, Rocket Lab, Alphabet, Verizon & more",
+        "link": "https://www.cnbc.com/2026/06/29/stocks-making-the-biggest-moves-midday-mu-cmcsa-rklb-googl-vz.html",
+        "published": "Mon, 29 Jun 2026 16:19:09 GMT"
+      },
+      {
+        "title": "Alphabet stock pops 4% on Dow debut, but the tech giant faces major AI questions",
+        "link": "https://www.cnbc.com/2026/06/29/alphabet-googl-stock-dow-average.html",
+        "published": "Mon, 29 Jun 2026 16:02:30 GMT"
+      },
+      {
+        "title": "This insurance stock is on an impressive run. How to ride the momentum with less risk",
+        "link": "https://www.cnbc.com/2026/06/29/this-insurance-stock-is-on-an-impressive-run-how-to-ride-the-momentum-with-less-risk.html",
+        "published": "Mon, 29 Jun 2026 15:36:17 GMT"
+      },
+      {
+        "title": "RBC lifts S&P 500 price target, but warns that it could be a volatile ride higher",
+        "link": "https://www.cnbc.com/2026/06/29/rbc-lifts-sp-500-price-target-but-warns-that-it-could-be-a-rocky-ride.html",
+        "published": "Mon, 29 Jun 2026 16:26:12 GMT"
       },
       {
         "title": "Trump bought as much as $5 million in Axon stock before ICE sought $220 million Taser deal",
         "link": "https://www.cnbc.com/2026/06/29/trump-axon-stock-ice-taser-immigration-enforcement.html",
-        "published": "Mon, 29 Jun 2026 10:00:02 GMT"
-      },
-      {
-        "title": "Here are Monday's biggest analyst calls: Nvidia, Apple, Tesla, Seagate, Warby Parker, AppLovin & more",
-        "link": "https://www.cnbc.com/2026/06/29/monday-biggest-wall-street-stock-calls-like-nvidia.html",
-        "published": "Mon, 29 Jun 2026 12:29:20 GMT"
-      },
-      {
-        "title": "Putin’s fuel shortage admission signals growing strain on Russia’s energy infrastructure",
-        "link": "https://www.cnbc.com/2026/06/29/putin-russia-fuel-shortages-ukraine-drone-strikes.html",
-        "published": "Mon, 29 Jun 2026 11:04:36 GMT"
-      },
-      {
-        "title": "Rocket Lab pops 9%, Iridium soars 20% on $8 billion space consolidation deal",
-        "link": "https://www.cnbc.com/2026/06/29/rocket-lab-buys-iridium.html",
-        "published": "Mon, 29 Jun 2026 12:41:18 GMT"
-      },
-      {
-        "title": "Martin Marietta to buy Lhoist North America in $13.5 billion deal",
-        "link": "https://www.cnbc.com/2026/06/29/martin-marietta-to-buy-lhoist-north-america.html",
-        "published": "Mon, 29 Jun 2026 12:38:36 GMT"
+        "published": "Mon, 29 Jun 2026 14:03:16 GMT"
       }
     ]
   }
