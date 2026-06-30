@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-06-30T19:17:26",
+  "generated_at": "2026-06-30T21:13:41",
   "date": "2026-06-30",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7506.49,
-        "pct_change": 0.89
+        "last": 7499.36,
+        "pct_change": 0.79
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26219.16,
-        "pct_change": 1.55
+        "last": 26213.72,
+        "pct_change": 1.52
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 52374.51,
-        "pct_change": 0.37
+        "last": 52319.2,
+        "pct_change": 0.26
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3026.99,
-        "pct_change": 0.55
+        "last": 3024.37,
+        "pct_change": 0.46
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 16.49,
-        "pct_change": -6.57
+        "last": 16.45,
+        "pct_change": -6.8
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
@@ -40,70 +40,70 @@
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 69.99,
-        "pct_change": -1.07
+        "last": 70.03,
+        "pct_change": -1.02
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4040.0,
-        "pct_change": 0.44
+        "last": 4021.8,
+        "pct_change": -0.01
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 190.58,
-        "pct_change": 2.79
+        "last": 190.52,
+        "pct_change": 2.76
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 53.74,
-        "pct_change": 0.03
+        "last": 53.61,
+        "pct_change": -0.2
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 53.35,
-        "pct_change": -0.44
+        "last": 53.11,
+        "pct_change": -0.88
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 159.27,
-        "pct_change": -0.91
+        "last": 158.66,
+        "pct_change": -1.29
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 117.53,
-        "pct_change": 0.35
+        "last": 117.28,
+        "pct_change": 0.14
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 83.4,
-        "pct_change": -1.15
+        "last": 83.07,
+        "pct_change": -1.54
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 185.16,
-        "pct_change": 1.31
+        "last": 185.23,
+        "pct_change": 1.35
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 45.64,
-        "pct_change": -0.82
+        "last": 45.34,
+        "pct_change": -1.48
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 50.94,
-        "pct_change": 0.55
+        "last": 50.83,
+        "pct_change": 0.34
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.29,
-        "pct_change": -1.39
+        "last": 44.03,
+        "pct_change": -1.98
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 107.29,
-        "pct_change": -0.55
+        "last": 107.13,
+        "pct_change": -0.7
       }
     }
   },
@@ -122,7 +122,7 @@
       "USD/JPY": {
         "symbol": "JPY=X",
         "last": 162.57,
-        "pct_change": 0.49
+        "pct_change": 0.48
       }
     }
   },
@@ -144,52 +144,52 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 252.92,
-        "pct_change": -1.08
+        "last": 255.43,
+        "pct_change": -0.1
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 287.55,
-        "pct_change": 2.06
+        "last": 289.36,
+        "pct_change": 2.7
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 371.6,
-        "pct_change": 0.82
+        "last": 373.02,
+        "pct_change": 1.21
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 238.58,
-        "pct_change": -0.65
+        "last": 238.34,
+        "pct_change": -0.75
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 357.02,
-        "pct_change": 0.95
+        "last": 357.37,
+        "pct_change": 1.05
       },
       "Meta": {
         "symbol": "META",
-        "last": 560.76,
-        "pct_change": -0.33
+        "last": 563.29,
+        "pct_change": 0.12
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 863.46,
-        "pct_change": 1.42
+        "last": 858.06,
+        "pct_change": 0.78
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 393.18,
-        "pct_change": 0.5
+        "last": 394.47,
+        "pct_change": 0.83
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 178.26,
-        "pct_change": 7.11
+        "last": 176.32,
+        "pct_change": 5.95
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -388,7 +388,7 @@
       "country": "USD",
       "date": "2026-07-01T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "-3.4M",
+      "forecast": "-2.9M",
       "previous": "-6.1M"
     },
     {
@@ -428,7 +428,7 @@
       "country": "USD",
       "date": "2026-07-02T08:30:00-04:00",
       "impact": "High",
-      "forecast": "110K",
+      "forecast": "114K",
       "previous": "172K"
     },
     {
@@ -460,7 +460,7 @@
       "country": "USD",
       "date": "2026-07-02T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "81B",
       "previous": "76B"
     },
     {
@@ -627,29 +627,24 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "Waymo forms German unit ahead of possible European expansion",
-        "link": "https://finance.yahoo.com/technology/articles/waymo-forms-german-unit-ahead-100807101.html",
-        "published": "2026-06-29T10:08:07Z"
+        "title": "She booked a non-refundable trip, then got called back to the office — lawyers say she's likely out of luck",
+        "link": "https://finance.yahoo.com/small-business/articles/she-booked-non-refundable-trip-123000871.html",
+        "published": "2026-06-29T12:30:00Z"
       },
       {
-        "title": "Exclusive-Apple accuses India of 'copy-pasting' rivals' claims in antitrust investigation",
-        "link": "https://finance.yahoo.com/news/exclusive-apple-accuses-india-copy-095932181.html",
-        "published": "2026-06-29T10:09:14Z"
+        "title": "Wheat Holding Mixed on Monday Morning",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/wheat-holding-mixed-monday-morning-121953921.html",
+        "published": "2026-06-29T12:19:53Z"
       },
       {
-        "title": "Here's What to Expect From General Motors' Next Earnings Report",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/heres-expect-general-motors-next-100625852.html",
-        "published": "2026-06-29T10:06:25Z"
+        "title": "Soybeans Facing Monday Morning Weakness",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/soybeans-facing-monday-morning-weakness-121953949.html",
+        "published": "2026-06-29T12:19:53Z"
       },
       {
-        "title": "NBCUniversal to be split from Comcast in latest media shakeup",
-        "link": "https://finance.yahoo.com/media-advertising/articles/comcast-split-cable-business-media-101129586.html",
-        "published": "2026-06-29T10:11:29Z"
-      },
-      {
-        "title": "What to Expect From J.B. Hunt’s Q2 2026 Earnings Report",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/expect-j-b-hunt-q2-101438768.html",
-        "published": "2026-06-29T10:14:38Z"
+        "title": "Corn Falling Lower to Start the Week",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/corn-falling-lower-start-week-121953985.html",
+        "published": "2026-06-29T12:19:53Z"
       },
       {
         "title": "Analyst Report: McCormick & Co Inc/MD",
@@ -657,63 +652,93 @@
         "published": "2026-06-30T17:15:43Z"
       },
       {
-        "title": "1 Stock To Buy For The Trillion-Dollar Space Economy (Hint: It's Not SpaceX)",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/1-stock-buy-trillion-dollar-100900176.html",
-        "published": "2026-06-29T10:09:00Z"
+        "title": "New Stock Price Highs Are on the Menu for Darden Restaurants",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/stock-price-highs-menu-darden-124500792.html",
+        "published": "2026-06-29T12:45:00Z"
       },
       {
-        "title": "Earnings Preview: What To Expect From BlackRock’s Report",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-preview-expect-blackrock-report-101159188.html",
-        "published": "2026-06-29T10:11:59Z"
+        "title": "The S&P 500 just sent a warning signal to investors",
+        "link": "https://finance.yahoo.com/markets/article/the-sp-500-just-sent-a-warning-signal-to-investors-121007971.html",
+        "published": "2026-06-29T12:10:07Z"
+      },
+      {
+        "title": "Barclays Turns More Optimistic on Canadian National Railway (CNI)",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/barclays-turns-more-optimistic-canadian-125729283.html",
+        "published": "2026-06-29T12:57:29Z"
       }
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "How to stay healthy in a heat wave — and medicines that put you at risk for heat exhaustion",
-        "link": "https://www.marketwatch.com/story/how-to-stay-healthy-in-a-heat-wave-and-medicines-that-put-you-at-risk-for-heat-exhaustion-1f8125fb?mod=mw_rss_topstories",
-        "published": "Tue, 30 Jun 2026 19:10:00 GMT"
+        "title": "20 stocks in the S&P 500 that plunged the most in 2026’s first half",
+        "link": "https://www.marketwatch.com/story/20-stocks-in-the-s-p-500-that-plunged-the-most-in-2026s-first-half-ae11e114?mod=mw_rss_topstories",
+        "published": "Tue, 30 Jun 2026 21:04:00 GMT"
       },
       {
-        "title": "Oil posts largest quarterly price drop in 6 years as historic supply crunch eases",
-        "link": "https://www.marketwatch.com/story/oil-is-set-for-the-largest-quarterly-price-drop-in-6-years-as-historic-supply-crunch-eases-57d52bab?mod=mw_rss_topstories",
-        "published": "Tue, 30 Jun 2026 19:07:00 GMT"
+        "title": "‘I don’t think I’ll make it to 80’: I’m 70 and single. Do I take out a reverse mortgage or a home-equity agreement?",
+        "link": "https://www.marketwatch.com/story/i-dont-think-ill-make-it-to-80-im-70-and-single-do-i-take-out-a-reverse-mortgage-or-a-home-equity-agreement-3b623ee8?mod=mw_rss_topstories",
+        "published": "Tue, 30 Jun 2026 21:00:00 GMT"
       },
       {
-        "title": "U.S. airline stocks are soaring as cheaper jet fuel and insatiable demand set up a summer boom",
-        "link": "https://www.marketwatch.com/story/u-s-airline-stocks-are-soaring-as-cheaper-jet-fuel-and-insatiable-demand-set-up-a-summer-boom-5ab077ef?mod=mw_rss_topstories",
-        "published": "Tue, 30 Jun 2026 18:53:00 GMT"
+        "title": "‘She wants him gone’: My friend took in a homeless man as a caretaker. After 10 years, how can she evict him?",
+        "link": "https://www.marketwatch.com/story/she-wants-him-gone-my-friend-took-in-a-homeless-man-as-a-caretaker-after-10-years-how-can-she-evict-him-01672de2?mod=mw_rss_topstories",
+        "published": "Tue, 30 Jun 2026 21:00:00 GMT"
       },
       {
-        "title": "The chip rally has a dark side — and a rare market risk is at its highest level since 2015",
-        "link": "https://www.marketwatch.com/story/the-chip-rally-has-a-dark-side-and-a-rare-market-risk-is-at-its-highest-level-since-2015-5114fba0?mod=mw_rss_topstories",
-        "published": "Tue, 30 Jun 2026 18:49:00 GMT"
+        "title": "Small-cap stocks just had their best start to a year since 1991. The rest of 2026 could look very different.",
+        "link": "https://www.marketwatch.com/story/small-cap-stocks-just-had-their-best-start-to-a-year-since-1991-the-rest-of-2026-could-look-very-different-5118a156?mod=mw_rss_topstories",
+        "published": "Tue, 30 Jun 2026 20:57:00 GMT"
       },
       {
-        "title": "Millions of Americans can get Medicare to cover GLP-1s for weight loss starting this week. Here’s how much it costs.",
-        "link": "https://www.marketwatch.com/story/millions-of-americans-can-get-medicare-to-cover-glp-1s-for-weight-loss-starting-this-week-heres-how-much-it-costs-805f86e1?mod=mw_rss_topstories",
-        "published": "Tue, 30 Jun 2026 18:43:00 GMT"
-      },
-      {
-        "title": "I want to pay off $20,000 of credit-card debt in one year. Should I hire someone to negotiate my bill?",
-        "link": "https://www.marketwatch.com/story/i-want-to-pay-off-20-000-of-credit-card-debt-in-one-year-should-i-hire-someone-to-negotiate-my-bill-fd0e42f7?mod=mw_rss_topstories",
-        "published": "Tue, 30 Jun 2026 18:22:00 GMT"
-      },
-      {
-        "title": "Amazon is laying out $1 billion to follow Palantir’s AI playbook",
-        "link": "https://www.marketwatch.com/story/amazon-is-laying-out-1-billion-to-follow-palantirs-ai-playbook-7d9ff6e4?mod=mw_rss_topstories",
-        "published": "Tue, 30 Jun 2026 17:41:00 GMT"
+        "title": "Nike earnings crushed Wall Street’s estimates, but there’s a catch",
+        "link": "https://www.marketwatch.com/story/nike-earnings-crushed-wall-streets-estimates-but-theres-a-catch-83bf3e4a?mod=mw_rss_topstories",
+        "published": "Tue, 30 Jun 2026 20:49:00 GMT"
       },
       {
         "title": "Your aging parent has a new romance. Here’s how to protect your inheritance — without looking greedy.",
         "link": "https://www.marketwatch.com/story/your-aging-parent-has-a-new-romance-heres-how-to-protect-your-inheritance-without-looking-greedy-cbc219ab?mod=mw_rss_topstories",
-        "published": "Tue, 30 Jun 2026 17:32:00 GMT"
+        "published": "Tue, 30 Jun 2026 20:45:00 GMT"
+      },
+      {
+        "title": "‘We are more likely to be living in poverty’: Social Security is a lifeline for women, so why are we ignored?",
+        "link": "https://www.marketwatch.com/story/we-are-more-likely-to-be-living-in-poverty-social-security-is-a-lifeline-for-women-so-why-are-we-ignored-5d4d4eb7?mod=mw_rss_topstories",
+        "published": "Tue, 30 Jun 2026 20:45:00 GMT"
+      },
+      {
+        "title": "ChatGPT is ready to connect to your bank accounts. Should you let it in?",
+        "link": "https://www.marketwatch.com/story/chatgpt-is-ready-to-connect-to-your-bank-accounts-should-you-let-it-in-2323eab1?mod=mw_rss_topstories",
+        "published": "Tue, 30 Jun 2026 20:44:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "AWS puts $1 billion into new AI unit to embed engineers with customers, joining growing wave",
-        "link": "https://www.cnbc.com/2026/06/30/aws-amazon-ai-forward-deployed-engineers.html",
-        "published": "Tue, 30 Jun 2026 18:53:10 GMT"
+        "title": "Nike results top estimates even as China sales drop 12%; retailer expects $986 million tariff refund",
+        "link": "https://www.cnbc.com/2026/06/30/nike-nke-q4-2026-earnings.html",
+        "published": "Tue, 30 Jun 2026 20:46:57 GMT"
+      },
+      {
+        "title": "Trump's annual financial disclosure released, reveals crypto earnings",
+        "link": "https://www.cnbc.com/2026/06/30/trump-financial-disclosure-released.html",
+        "published": "Tue, 30 Jun 2026 21:03:04 GMT"
+      },
+      {
+        "title": "Record chip rally adds $2 trillion in combined value to Micron, Intel and AMD in second quarter",
+        "link": "https://www.cnbc.com/2026/06/30/ai-chip-rally-in-q2-adds-2-trillion-in-value-to-micron-intel-amd-.html",
+        "published": "Tue, 30 Jun 2026 20:38:17 GMT"
+      },
+      {
+        "title": "Michael Burry says he's shorting Caterpillar for the first time after it nearly doubled in the AI-driven rally of 2026",
+        "link": "https://www.cnbc.com/2026/06/30/burry-shorts-caterpillar-after-it-nearly-doubled-in-ai-rally-of-2026.html",
+        "published": "Tue, 30 Jun 2026 20:41:21 GMT"
+      },
+      {
+        "title": "Palo Alto, CrowdStrike both have best quarter ever as AI threats bolster cyber demand",
+        "link": "https://www.cnbc.com/2026/06/30/palo-alto-crowdstrike-stock-ai-mythos.html",
+        "published": "Tue, 30 Jun 2026 20:36:38 GMT"
+      },
+      {
+        "title": "Where to find top CD yields in the second half as Fed policy remains murky",
+        "link": "https://www.cnbc.com/2026/06/30/find-4percent-cd-yields-as-fed-policy-remains-murky.html",
+        "published": "Tue, 30 Jun 2026 19:12:08 GMT"
       },
       {
         "title": "Supreme Court upholds birthright citizenship, blocks Trump order",
@@ -721,34 +746,9 @@
         "published": "Tue, 30 Jun 2026 18:17:04 GMT"
       },
       {
-        "title": "Big egg producers settle price inflation probe with DOJ for 53 million eggs — and $3.3M",
-        "link": "https://www.cnbc.com/2026/06/30/egg-producers-settle-price-inflation-probe-for-3point3-million.html",
-        "published": "Tue, 30 Jun 2026 19:02:07 GMT"
-      },
-      {
-        "title": "Dow rises as index heads for best first half in 5 years, Nasdaq set for best quarter since 2020: Live updates",
-        "link": "https://www.cnbc.com/2026/06/29/stock-market-today-live-updates.html",
-        "published": "Tue, 30 Jun 2026 18:31:17 GMT"
-      },
-      {
-        "title": "American Airlines brings grab-and-go lounge to New York's JFK",
-        "link": "https://www.cnbc.com/2026/06/30/american-airlines-louge-new-york-jfk.html",
-        "published": "Tue, 30 Jun 2026 18:00:01 GMT"
-      },
-      {
-        "title": "Private equity in youth sports draws bipartisan scrutiny in Congress",
-        "link": "https://www.cnbc.com/2026/06/30/private-equity-youth-sports-congress-scrutiny.html",
-        "published": "Tue, 30 Jun 2026 18:31:55 GMT"
-      },
-      {
-        "title": "This rocket stock is testing a key level once again. Why Todd Gordon thinks it's a buy",
-        "link": "https://www.cnbc.com/2026/06/30/this-rocket-stock-is-testing-a-key-level-once-again-why-todd-gordon-thinks-its-a-buy.html",
-        "published": "Tue, 30 Jun 2026 18:39:31 GMT"
-      },
-      {
-        "title": "FDA lets Philip Morris market Zyn nicotine pouches as less harmful than cigarettes",
-        "link": "https://www.cnbc.com/2026/06/30/fda-zyn-philip-morris-nicotine-pouches-cigarettes-trump.html",
-        "published": "Tue, 30 Jun 2026 19:04:07 GMT"
+        "title": "Anthropic launches AI drug discovery program, joining tech giants in betting on healthcare",
+        "link": "https://www.cnbc.com/2026/06/30/anthropic-launches-ai-drug-discovery-program-claude-science.html",
+        "published": "Tue, 30 Jun 2026 20:03:58 GMT"
       }
     ]
   }
