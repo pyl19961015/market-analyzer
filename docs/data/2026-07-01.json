@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-07-01T18:24:05",
+  "generated_at": "2026-07-01T20:23:16",
   "date": "2026-07-01",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7499.03,
-        "pct_change": -0.0
+        "last": 7483.23,
+        "pct_change": -0.22
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26118.09,
-        "pct_change": -0.36
+        "last": 26040.03,
+        "pct_change": -0.66
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 52359.15,
-        "pct_change": 0.08
+        "last": 52305.24,
+        "pct_change": -0.03
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3028.77,
-        "pct_change": 0.15
+        "last": 3012.59,
+        "pct_change": -0.39
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 16.34,
-        "pct_change": -0.67
+        "last": 16.59,
+        "pct_change": 0.85
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
         "last": 4.47,
-        "pct_change": 2.17
+        "pct_change": 2.36
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 101.4,
+        "last": 101.41,
         "pct_change": 0.21
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 68.3,
-        "pct_change": -1.73
+        "last": 68.06,
+        "pct_change": -2.07
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4083.6,
-        "pct_change": 1.51
+        "last": 4047.9,
+        "pct_change": 0.62
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 186.16,
-        "pct_change": -2.29
+        "last": 185.62,
+        "pct_change": -2.57
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 54.89,
-        "pct_change": 2.4
+        "last": 54.78,
+        "pct_change": 2.18
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 52.78,
-        "pct_change": -0.61
+        "last": 52.82,
+        "pct_change": -0.55
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 159.19,
-        "pct_change": 0.33
+        "last": 159.54,
+        "pct_change": 0.55
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 118.59,
-        "pct_change": 1.12
+        "last": 118.09,
+        "pct_change": 0.69
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 83.06,
-        "pct_change": -0.02
+        "last": 83.3,
+        "pct_change": 0.28
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 183.78,
-        "pct_change": -0.78
+        "last": 183.36,
+        "pct_change": -1.01
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 44.76,
-        "pct_change": -1.29
+        "last": 44.77,
+        "pct_change": -1.26
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 51.07,
-        "pct_change": 0.47
+        "last": 51.02,
+        "pct_change": 0.37
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.44,
-        "pct_change": 0.94
+        "last": 44.18,
+        "pct_change": 0.34
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 110.1,
-        "pct_change": 2.77
+        "last": 109.74,
+        "pct_change": 2.44
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 162.57,
-        "pct_change": 0.4
+        "last": 162.59,
+        "pct_change": 0.41
       }
     }
   },
@@ -144,52 +144,52 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 220.6,
-        "pct_change": -13.64
+        "last": 220.63,
+        "pct_change": -13.62
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 294.6,
-        "pct_change": 1.81
+        "last": 294.38,
+        "pct_change": 1.73
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 387.27,
-        "pct_change": 3.82
+        "last": 384.28,
+        "pct_change": 3.02
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 243.94,
-        "pct_change": 2.35
+        "last": 241.7,
+        "pct_change": 1.41
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 359.8,
-        "pct_change": 0.68
+        "last": 361.21,
+        "pct_change": 1.07
       },
       "Meta": {
         "symbol": "META",
-        "last": 620.24,
-        "pct_change": 10.11
+        "last": 612.91,
+        "pct_change": 8.81
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 802.18,
-        "pct_change": -6.51
+        "last": 801.16,
+        "pct_change": -6.63
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 369.83,
-        "pct_change": -6.25
+        "last": 368.65,
+        "pct_change": -6.55
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 171.98,
-        "pct_change": -2.46
+        "last": 172.22,
+        "pct_change": -2.33
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -483,22 +483,28 @@
   "fed_policy": {
     "Press Releases": [
       {
+        "title": "Federal Reserve issues initial findings from its 2025 triennial payments study",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260701a.htm",
+        "published": "Wed, 1 Jul 2026 18:30:00 GMT",
+        "summary": "Federal Reserve issues initial findings from its 2025 triennial payments study"
+      },
+      {
         "title": "Agencies release list of distressed or underserved nonmetropolitan middle-income geographies",
         "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260630a.htm",
         "published": "Tue, 30 Jun 2026 14:00:00 GMT",
         "summary": "Agencies release list of distressed or underserved nonmetropolitan middle-income geographies"
       },
       {
-        "title": "Federal Reserve Board announces termination of enforcement action with Jiko Group, Inc.",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625a.htm",
-        "published": "Thu, 25 Jun 2026 15:00:00 GMT",
-        "summary": "Federal Reserve Board announces termination of enforcement action with Jiko Group, Inc."
-      },
-      {
         "title": "Federal Reserve Board issues enforcement action with employee of Bank of Eufaula and S N B Bancshares, Inc.",
         "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625b.htm",
         "published": "Thu, 25 Jun 2026 15:00:00 GMT",
         "summary": "Federal Reserve Board issues enforcement action with employee of Bank of Eufaula and S N B Bancshares, Inc."
+      },
+      {
+        "title": "Federal Reserve Board announces termination of enforcement action with Jiko Group, Inc.",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625a.htm",
+        "published": "Thu, 25 Jun 2026 15:00:00 GMT",
+        "summary": "Federal Reserve Board announces termination of enforcement action with Jiko Group, Inc."
       },
       {
         "title": "Federal Reserve Board's annual bank stress test confirms that large banks are well positioned to weather a severe recession and able to continue to lend to households and businesses",
@@ -523,12 +529,6 @@
         "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260618a.htm",
         "published": "Thu, 18 Jun 2026 15:00:00 GMT",
         "summary": "Federal Reserve Board issues enforcement action with former employee of Manufacturers and Traders Trust Company"
-      },
-      {
-        "title": "Federal Reserve Board requests comment on proposal to require certain payment stablecoin issuers to maintain an effective customer identification program",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260618a.htm",
-        "published": "Thu, 18 Jun 2026 13:00:00 GMT",
-        "summary": "Federal Reserve Board requests comment on proposal to require certain payment stablecoin issuers to maintain an effective customer identification program"
       }
     ],
     "Speeches": [
@@ -640,81 +640,81 @@
         "published": "2026-07-01T15:07:00Z"
       },
       {
-        "title": "Here's What to Expect From Teledyne Technologies’ Next Earnings Report",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/heres-expect-teledyne-technologies-next-092902995.html",
-        "published": "2026-06-30T09:29:02Z"
+        "title": "Stellantis (STLA), Factorial (FAC) Launch North American Road Testing for Solid-State Battery-Powered Dodge Charger Daytona",
+        "link": "https://finance.yahoo.com/technology/articles/stellantis-stla-factorial-fac-launch-115455212.html",
+        "published": "2026-06-30T11:54:55Z"
       },
       {
-        "title": "Former tech worker quit his 14-year career to launch a BBQ restaurant and made $2.3M in revenue in his first year",
-        "link": "https://finance.yahoo.com/small-business/articles/former-tech-worker-quit-14-090000851.html",
-        "published": "2026-06-30T09:00:00Z"
+        "title": "Here's What to Expect From Otis Worldwide's Next Earnings Report",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/heres-expect-otis-worldwides-next-115235774.html",
+        "published": "2026-06-30T11:52:35Z"
       },
       {
-        "title": "Shell Sees Global LNG Demand Rising 65% by 2050 Despite Market Disruptions",
-        "link": "https://finance.yahoo.com/energy/articles/shell-sees-global-lng-demand-082000731.html",
-        "published": "2026-06-30T08:20:00Z"
+        "title": "ReElement Technologies, POSCO (PKX) Form $200M JV for US Rare Earth, Magnet Production",
+        "link": "https://finance.yahoo.com/energy/articles/reelement-technologies-posco-pkx-form-114614837.html",
+        "published": "2026-06-30T11:46:14Z"
       },
       {
-        "title": "UK regulator considers opening Apple, Google app stores to rival payments",
-        "link": "https://finance.yahoo.com/technology/articles/uk-regulator-proposes-easing-apple-072337061.html",
-        "published": "2026-06-30T07:23:37Z"
+        "title": "Fox Corporation (FOX) to Acquire Roku (ROKU) for $22B in Cash-and-Stock Deal",
+        "link": "https://finance.yahoo.com/media-advertising/articles/fox-corporation-fox-acquire-roku-115502742.html",
+        "published": "2026-06-30T11:55:02Z"
       },
       {
-        "title": "Daily Spotlight: Investors Beware, 3Q is Here",
-        "link": "https://finance.yahoo.com/research/reports/ARGUS_47487_MarketOutlook_1782904919000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-        "published": "2026-07-01T11:21:59Z"
+        "title": "GE HealthCare introduces upgrade pathways for interventional suite modernisation",
+        "link": "https://finance.yahoo.com/healthcare/articles/ge-healthcare-introduces-upgrade-pathways-114651089.html",
+        "published": "2026-06-30T11:46:51Z"
       },
       {
-        "title": "Rocket Lab to acquire Iridium in $8bn cash and stock deal",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-acquire-iridium-8bn-092445487.html",
-        "published": "2026-06-30T09:24:45Z"
+        "title": "Here's What to Expect From O'Reilly Automotive's Next Earnings Report",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/heres-expect-oreilly-automotives-next-114647729.html",
+        "published": "2026-06-30T11:46:47Z"
       },
       {
-        "title": "Bilt Cards 2.0 review: Are they better than the original — and can you still earn points on rent?",
-        "link": "https://finance.yahoo.com/personal-finance/credit-cards/review/bilt-credit-card-review-002855220.html",
-        "published": "2026-01-15T21:30:02Z"
+        "title": "What Should We Expect from US Government Numbers Tuesday?",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/expect-us-government-numbers-tuesday-115521804.html",
+        "published": "2026-06-30T11:55:21Z"
       }
     ],
     "MarketWatch Top Stories": [
       {
+        "title": "‘I don’t think I’ll make it to 80’: I’m 70 and single. Do I take out a reverse mortgage or a home-equity agreement?",
+        "link": "https://www.marketwatch.com/story/i-dont-think-ill-make-it-to-80-im-70-and-single-do-i-take-out-a-reverse-mortgage-or-a-home-equity-agreement-3b623ee8?mod=mw_rss_topstories",
+        "published": "Wed, 01 Jul 2026 19:52:00 GMT"
+      },
+      {
+        "title": "‘We were stunned’: My daughter, 39, said her mother-in-law gives her more money than we do. Do I call her out?",
+        "link": "https://www.marketwatch.com/story/we-were-stunned-my-daughter-39-said-her-mother-in-law-gives-her-more-money-than-we-do-do-i-call-her-out-b63d087c?mod=mw_rss_topstories",
+        "published": "Wed, 01 Jul 2026 19:52:00 GMT"
+      },
+      {
+        "title": "Older workers are fighting ageism by starting their own businesses — and they’re outperforming younger entrepreneurs",
+        "link": "https://www.marketwatch.com/story/older-workers-are-fighting-ageism-by-starting-their-own-businesses-and-theyre-outperforming-younger-entrepreneurs-5fc701fc?mod=mw_rss_topstories",
+        "published": "Wed, 01 Jul 2026 19:34:00 GMT"
+      },
+      {
+        "title": "CoreWeave, Nebius shares tumble as Meta stands to become a fresh threat in the cloud",
+        "link": "https://www.marketwatch.com/story/coreweave-nebius-shares-tumble-as-meta-stands-to-become-a-fresh-threat-in-the-cloud-a47c3616?mod=mw_rss_topstories",
+        "published": "Wed, 01 Jul 2026 19:02:00 GMT"
+      },
+      {
+        "title": "Is the U.S. jobs market getting better? June employment report to give us a heat check.",
+        "link": "https://www.marketwatch.com/story/is-the-u-s-jobs-market-getting-better-june-employment-report-to-give-us-a-heat-check-529a3d2e?mod=mw_rss_topstories",
+        "published": "Wed, 01 Jul 2026 18:43:00 GMT"
+      },
+      {
+        "title": "Protein-packed Cheerios and cat food: How General Mills plans to combat a tough spending backdrop",
+        "link": "https://www.marketwatch.com/story/protein-packed-cheerios-and-cat-food-how-general-mills-plans-to-combat-a-tough-spending-backdrop-90734fed?mod=mw_rss_topstories",
+        "published": "Wed, 01 Jul 2026 18:39:00 GMT"
+      },
+      {
+        "title": "Social Security’s reality check — with a side of wishful thinking",
+        "link": "https://www.marketwatch.com/story/social-securitys-reality-checkwith-a-side-of-wishful-thinking-91d5491f?mod=mw_rss_topstories",
+        "published": "Wed, 01 Jul 2026 18:30:00 GMT"
+      },
+      {
         "title": "Sandisk’s and Micron’s stocks sink as the rotation trade builds, but supply shortages should limit losses",
         "link": "https://www.marketwatch.com/story/sandisks-and-microns-stocks-sink-as-the-rotation-trade-builds-but-supply-shortages-should-limit-losses-94a05f82?mod=mw_rss_topstories",
         "published": "Wed, 01 Jul 2026 18:17:00 GMT"
-      },
-      {
-        "title": "Stock-market bulls need Kevin Warsh on their side to keep winning, says Wall Street veteran Bob Doll",
-        "link": "https://www.marketwatch.com/story/stock-market-bulls-need-kevin-warsh-on-their-side-to-keep-winning-says-wall-street-veteran-bob-doll-28fa3172?mod=mw_rss_topstories",
-        "published": "Wed, 01 Jul 2026 17:25:00 GMT"
-      },
-      {
-        "title": "Retiring abroad sounds like a dream — what could go wrong? Actually, a lot.",
-        "link": "https://www.marketwatch.com/story/retiring-abroad-sounds-amazing-what-could-possibly-go-wrong-2e3c8af5?mod=mw_rss_topstories",
-        "published": "Wed, 01 Jul 2026 17:15:00 GMT"
-      },
-      {
-        "title": "5 charts showing how ‘dumb money’ is transforming the stock market, as retail traders smash Wall Street records",
-        "link": "https://www.marketwatch.com/story/5-charts-showing-how-dumb-money-is-transforming-the-stock-market-as-retail-traders-smash-wall-street-records-c651b4e5?mod=mw_rss_topstories",
-        "published": "Wed, 01 Jul 2026 17:10:00 GMT"
-      },
-      {
-        "title": "Trump just disclosed his finances for last year. He made over $2 billion on crypto, stocks, licensing and other deals.",
-        "link": "https://www.marketwatch.com/story/trump-discloses-expanding-financial-empire-including-apple-stock-celebration-coins-and-crypto-8786ef64?mod=mw_rss_topstories",
-        "published": "Wed, 01 Jul 2026 16:43:00 GMT"
-      },
-      {
-        "title": "U.S. manufacturers keep on trucking despite a road littered with obstacles",
-        "link": "https://www.marketwatch.com/story/u-s-manufacturers-keep-on-trucking-despite-a-road-littered-with-obstacles-bc09d82f?mod=mw_rss_topstories",
-        "published": "Wed, 01 Jul 2026 16:22:00 GMT"
-      },
-      {
-        "title": "Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it.",
-        "link": "https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e?mod=mw_rss_topstories",
-        "published": "Wed, 01 Jul 2026 16:13:00 GMT"
-      },
-      {
-        "title": "14 value stocks of companies primed for rapid growth through 2028",
-        "link": "https://www.marketwatch.com/story/14-value-stocks-of-companies-primed-for-rapid-growth-through-2028-ea754ffa?mod=mw_rss_topstories",
-        "published": "Wed, 01 Jul 2026 16:10:00 GMT"
       }
     ],
     "CNBC Top News": [
@@ -726,7 +726,7 @@
       {
         "title": "U.S. won’t renew USMCA, opening door for negotiations with Canada and Mexico",
         "link": "https://www.cnbc.com/2026/07/01/trump-usmca-canada-mexico-trade-treaty.html",
-        "published": "Wed, 01 Jul 2026 18:17:49 GMT"
+        "published": "Wed, 01 Jul 2026 18:55:47 GMT"
       },
       {
         "title": "Trump Accounts for kids launch July 4: What parents need to know",
@@ -734,29 +734,29 @@
         "published": "Wed, 01 Jul 2026 12:15:01 GMT"
       },
       {
+        "title": "Chip stocks that notched record rallies in second quarter start Q3 with a dud",
+        "link": "https://www.cnbc.com/2026/07/01/chip-stocks-notched-record-rallies-in-second-quarter-start-q3-with-dud.html",
+        "published": "Wed, 01 Jul 2026 20:12:19 GMT"
+      },
+      {
         "title": "Trump says outside funds 'run my money' after disclosure shows billions in 2025 revenue",
         "link": "https://www.cnbc.com/2026/07/01/trump-money-financial-disclosure-crypto-billions.html",
-        "published": "Wed, 01 Jul 2026 18:06:20 GMT"
+        "published": "Wed, 01 Jul 2026 18:44:13 GMT"
+      },
+      {
+        "title": "Automakers report mixed U.S. sales results as hybrid vehicles drive market",
+        "link": "https://www.cnbc.com/2026/07/01/q2-auto-sales-gm-stellantis-toyota-hyundai.html",
+        "published": "Wed, 01 Jul 2026 20:12:29 GMT"
+      },
+      {
+        "title": "UBS sees opportunities in these defensive stocks. They also pay dividends",
+        "link": "https://www.cnbc.com/2026/07/01/ubs-sees-opportunities-in-these-defensive-stocks-they-also-pay-dividends.html",
+        "published": "Wed, 01 Jul 2026 20:08:17 GMT"
       },
       {
         "title": "Trump administration's limits on student loan forgiveness program are blocked. What to know",
         "link": "https://www.cnbc.com/2026/07/01/trumps-limits-on-student-loan-forgiveness-program-blocked.html",
         "published": "Wed, 01 Jul 2026 17:33:46 GMT"
-      },
-      {
-        "title": "Stocks making the biggest moves midday: Meta, General Mills, Datadog, Sandisk & more",
-        "link": "https://www.cnbc.com/2026/07/01/stocks-making-the-biggest-moves-midday-meta-gis-ddog-sndk.html",
-        "published": "Wed, 01 Jul 2026 16:32:04 GMT"
-      },
-      {
-        "title": "'Magnificent 7' stocks' rough June pushes them into the red for the year. What's behind the decline",
-        "link": "https://www.cnbc.com/2026/07/01/magnificent-7-stocks-rough-june-pushes-them-into-the-red-for-the-year-whats-behind-the-decline.html",
-        "published": "Wed, 01 Jul 2026 15:55:49 GMT"
-      },
-      {
-        "title": "Bitcoin's summer swoon creates unique trade in Strategy",
-        "link": "https://www.cnbc.com/2026/07/01/bitcoins-summer-swoon-creates-unique-trade-in-strategy.html",
-        "published": "Wed, 01 Jul 2026 17:10:22 GMT"
       }
     ]
   }
