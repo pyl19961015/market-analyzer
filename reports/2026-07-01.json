@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-07-01T16:24:40",
+  "generated_at": "2026-07-01T18:24:05",
   "date": "2026-07-01",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7520.62,
-        "pct_change": 0.28
+        "last": 7499.03,
+        "pct_change": -0.0
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26164.17,
-        "pct_change": -0.19
+        "last": 26118.09,
+        "pct_change": -0.36
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 52688.9,
-        "pct_change": 0.71
+        "last": 52359.15,
+        "pct_change": 0.08
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3042.79,
-        "pct_change": 0.61
+        "last": 3028.77,
+        "pct_change": 0.15
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 16.04,
-        "pct_change": -2.49
+        "last": 16.34,
+        "pct_change": -0.67
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.46,
-        "pct_change": 1.99
+        "last": 4.47,
+        "pct_change": 2.17
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 101.32,
-        "pct_change": 0.13
+        "last": 101.4,
+        "pct_change": 0.21
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 68.14,
-        "pct_change": -1.96
+        "last": 68.3,
+        "pct_change": -1.73
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4096.0,
-        "pct_change": 1.82
+        "last": 4083.6,
+        "pct_change": 1.51
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 187.27,
-        "pct_change": -1.7
+        "last": 186.16,
+        "pct_change": -2.29
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 55.03,
-        "pct_change": 2.64
+        "last": 54.89,
+        "pct_change": 2.4
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 53.05,
-        "pct_change": -0.11
+        "last": 52.78,
+        "pct_change": -0.61
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 159.68,
-        "pct_change": 0.64
+        "last": 159.19,
+        "pct_change": 0.33
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 118.78,
-        "pct_change": 1.27
+        "last": 118.59,
+        "pct_change": 1.12
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 83.2,
-        "pct_change": 0.15
+        "last": 83.06,
+        "pct_change": -0.02
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 185.54,
-        "pct_change": 0.16
+        "last": 183.78,
+        "pct_change": -0.78
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 44.88,
-        "pct_change": -1.0
+        "last": 44.76,
+        "pct_change": -1.29
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 51.42,
-        "pct_change": 1.17
+        "last": 51.07,
+        "pct_change": 0.47
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.39,
-        "pct_change": 0.81
+        "last": 44.44,
+        "pct_change": 0.94
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 109.93,
-        "pct_change": 2.62
+        "last": 110.1,
+        "pct_change": 2.77
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 162.4,
-        "pct_change": 0.29
+        "last": 162.57,
+        "pct_change": 0.4
       }
     }
   },
@@ -138,63 +138,63 @@
       "as_of": "2026-06-30",
       "prev_yield": 2.644
     },
-    "spread_10y": 1.77
+    "spread_10y": 1.78
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 221.43,
-        "pct_change": -13.31
+        "last": 220.6,
+        "pct_change": -13.64
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 295.33,
-        "pct_change": 2.06
+        "last": 294.6,
+        "pct_change": 1.81
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 386.03,
-        "pct_change": 3.49
+        "last": 387.27,
+        "pct_change": 3.82
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 242.22,
-        "pct_change": 1.63
+        "last": 243.94,
+        "pct_change": 2.35
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 359.01,
-        "pct_change": 0.46
+        "last": 359.8,
+        "pct_change": 0.68
       },
       "Meta": {
         "symbol": "META",
-        "last": 617.76,
-        "pct_change": 9.67
+        "last": 620.24,
+        "pct_change": 10.11
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 809.33,
-        "pct_change": -5.68
+        "last": 802.18,
+        "pct_change": -6.51
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 368.44,
-        "pct_change": -6.6
+        "last": 369.83,
+        "pct_change": -6.25
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 173.46,
-        "pct_change": -1.62
+        "last": 171.98,
+        "pct_change": -2.46
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 6965.0,
-        "pct_change": 0.74
+        "last": 6957.0,
+        "pct_change": -0.11
       }
     }
   },
@@ -635,29 +635,29 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "S&P 500, Dow rise after Warsh says inflation risks have eased",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-second-101234083.html",
-        "published": "2026-07-01T16:18:24Z"
+        "title": "Former retail giant has closed over 1,000 locations",
+        "link": "https://finance.yahoo.com/small-business/articles/former-retail-giant-closed-over-150700944.html",
+        "published": "2026-07-01T15:07:00Z"
       },
       {
-        "title": "Best mortgage lenders for bad credit in July 2026",
-        "link": "https://finance.yahoo.com/personal-finance/mortgages/article/best-mortgage-lenders-for-bad-credit-215040123.html",
-        "published": "2024-07-29T21:50:40Z"
+        "title": "Here's What to Expect From Teledyne Technologies’ Next Earnings Report",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/heres-expect-teledyne-technologies-next-092902995.html",
+        "published": "2026-06-30T09:29:02Z"
       },
       {
-        "title": "Best airline credit cards for July 2026",
-        "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-airline-credit-cards-193236919.html",
-        "published": "2024-09-11T22:47:15Z"
+        "title": "Former tech worker quit his 14-year career to launch a BBQ restaurant and made $2.3M in revenue in his first year",
+        "link": "https://finance.yahoo.com/small-business/articles/former-tech-worker-quit-14-090000851.html",
+        "published": "2026-06-30T09:00:00Z"
       },
       {
-        "title": "Intel Just Hit a 52-Week High: Buy, Sell or Hold At $140?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/intel-just-hit-52-week-160631702.html",
-        "published": "2026-07-01T16:06:31Z"
+        "title": "Shell Sees Global LNG Demand Rising 65% by 2050 Despite Market Disruptions",
+        "link": "https://finance.yahoo.com/energy/articles/shell-sees-global-lng-demand-082000731.html",
+        "published": "2026-06-30T08:20:00Z"
       },
       {
-        "title": "Together AI raises $800 million at $8.3 billion valuation",
-        "link": "https://finance.yahoo.com/technology/ai/articles/together-ai-raises-800-million-160522664.html",
-        "published": "2026-07-01T16:05:22Z"
+        "title": "UK regulator considers opening Apple, Google app stores to rival payments",
+        "link": "https://finance.yahoo.com/technology/articles/uk-regulator-proposes-easing-apple-072337061.html",
+        "published": "2026-06-30T07:23:37Z"
       },
       {
         "title": "Daily Spotlight: Investors Beware, 3Q is Here",
@@ -665,17 +665,42 @@
         "published": "2026-07-01T11:21:59Z"
       },
       {
-        "title": "The best VA loan lenders of July 2026",
-        "link": "https://finance.yahoo.com/personal-finance/mortgages/article/best-va-loan-lenders-182919054.html",
-        "published": "2024-06-17T18:29:19Z"
+        "title": "Rocket Lab to acquire Iridium in $8bn cash and stock deal",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-acquire-iridium-8bn-092445487.html",
+        "published": "2026-06-30T09:24:45Z"
       },
       {
-        "title": "This IBD 50 Stock Leads Its Industry, But Wall Street Ignores It",
-        "link": "https://www.investors.com/research/airlines-willis-lease-finance-wlfc-stock-ibd-50/?src=A00220&yptr=yahoo",
-        "published": "2026-07-01T16:00:16Z"
+        "title": "Bilt Cards 2.0 review: Are they better than the original — and can you still earn points on rent?",
+        "link": "https://finance.yahoo.com/personal-finance/credit-cards/review/bilt-credit-card-review-002855220.html",
+        "published": "2026-01-15T21:30:02Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "Sandisk’s and Micron’s stocks sink as the rotation trade builds, but supply shortages should limit losses",
+        "link": "https://www.marketwatch.com/story/sandisks-and-microns-stocks-sink-as-the-rotation-trade-builds-but-supply-shortages-should-limit-losses-94a05f82?mod=mw_rss_topstories",
+        "published": "Wed, 01 Jul 2026 18:17:00 GMT"
+      },
+      {
+        "title": "Stock-market bulls need Kevin Warsh on their side to keep winning, says Wall Street veteran Bob Doll",
+        "link": "https://www.marketwatch.com/story/stock-market-bulls-need-kevin-warsh-on-their-side-to-keep-winning-says-wall-street-veteran-bob-doll-28fa3172?mod=mw_rss_topstories",
+        "published": "Wed, 01 Jul 2026 17:25:00 GMT"
+      },
+      {
+        "title": "Retiring abroad sounds like a dream — what could go wrong? Actually, a lot.",
+        "link": "https://www.marketwatch.com/story/retiring-abroad-sounds-amazing-what-could-possibly-go-wrong-2e3c8af5?mod=mw_rss_topstories",
+        "published": "Wed, 01 Jul 2026 17:15:00 GMT"
+      },
+      {
+        "title": "5 charts showing how ‘dumb money’ is transforming the stock market, as retail traders smash Wall Street records",
+        "link": "https://www.marketwatch.com/story/5-charts-showing-how-dumb-money-is-transforming-the-stock-market-as-retail-traders-smash-wall-street-records-c651b4e5?mod=mw_rss_topstories",
+        "published": "Wed, 01 Jul 2026 17:10:00 GMT"
+      },
+      {
+        "title": "Trump just disclosed his finances for last year. He made over $2 billion on crypto, stocks, licensing and other deals.",
+        "link": "https://www.marketwatch.com/story/trump-discloses-expanding-financial-empire-including-apple-stock-celebration-coins-and-crypto-8786ef64?mod=mw_rss_topstories",
+        "published": "Wed, 01 Jul 2026 16:43:00 GMT"
+      },
       {
         "title": "U.S. manufacturers keep on trucking despite a road littered with obstacles",
         "link": "https://www.marketwatch.com/story/u-s-manufacturers-keep-on-trucking-despite-a-road-littered-with-obstacles-bc09d82f?mod=mw_rss_topstories",
@@ -690,31 +715,6 @@
         "title": "14 value stocks of companies primed for rapid growth through 2028",
         "link": "https://www.marketwatch.com/story/14-value-stocks-of-companies-primed-for-rapid-growth-through-2028-ea754ffa?mod=mw_rss_topstories",
         "published": "Wed, 01 Jul 2026 16:10:00 GMT"
-      },
-      {
-        "title": "Millions of Americans can get Medicare to cover GLP-1s for weight loss starting this week. Here’s how much it costs.",
-        "link": "https://www.marketwatch.com/story/millions-of-americans-can-get-medicare-to-cover-glp-1s-for-weight-loss-starting-this-week-heres-how-much-it-costs-805f86e1?mod=mw_rss_topstories",
-        "published": "Wed, 01 Jul 2026 16:00:00 GMT"
-      },
-      {
-        "title": "Trump’s energy secretary says global warming is ‘no big deal.’ Meanwhile, a heat emergency is striking the U.S.",
-        "link": "https://www.marketwatch.com/story/trumps-energy-secretary-says-global-warming-is-no-big-deal-meanwhile-a-heat-emergency-is-striking-the-u-s-5f9674c3?mod=mw_rss_topstories",
-        "published": "Wed, 01 Jul 2026 15:59:00 GMT"
-      },
-      {
-        "title": "CoreWeave, Nebius shares tumble as Meta stands to become a fresh threat in the cloud",
-        "link": "https://www.marketwatch.com/story/coreweave-nebius-shares-tumble-as-meta-stands-to-become-a-fresh-threat-in-the-cloud-a47c3616?mod=mw_rss_topstories",
-        "published": "Wed, 01 Jul 2026 15:55:00 GMT"
-      },
-      {
-        "title": "‘I don’t think I’ll make it to 80’: I’m 70 and single. Do I take out a reverse mortgage or a home-equity agreement?",
-        "link": "https://www.marketwatch.com/story/i-dont-think-ill-make-it-to-80-im-70-and-single-do-i-take-out-a-reverse-mortgage-or-a-home-equity-agreement-3b623ee8?mod=mw_rss_topstories",
-        "published": "Wed, 01 Jul 2026 15:30:00 GMT"
-      },
-      {
-        "title": "Opening a ‘Trump account’ for your children? Here is the risk you need to recognize first.",
-        "link": "https://www.marketwatch.com/story/opening-a-trump-account-for-your-children-here-is-the-risk-you-need-to-recognize-first-fe206bc0?mod=mw_rss_topstories",
-        "published": "Wed, 01 Jul 2026 15:29:00 GMT"
       }
     ],
     "CNBC Top News": [
@@ -724,9 +724,9 @@
         "published": "Wed, 01 Jul 2026 16:19:16 GMT"
       },
       {
-        "title": "Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gone completely wrong'",
-        "link": "https://www.cnbc.com/2026/07/01/palantir-karp-open-ai-anthropic-tokens.html",
-        "published": "Wed, 01 Jul 2026 15:30:23 GMT"
+        "title": "U.S. won’t renew USMCA, opening door for negotiations with Canada and Mexico",
+        "link": "https://www.cnbc.com/2026/07/01/trump-usmca-canada-mexico-trade-treaty.html",
+        "published": "Wed, 01 Jul 2026 18:17:49 GMT"
       },
       {
         "title": "Trump Accounts for kids launch July 4: What parents need to know",
@@ -734,19 +734,19 @@
         "published": "Wed, 01 Jul 2026 12:15:01 GMT"
       },
       {
+        "title": "Trump says outside funds 'run my money' after disclosure shows billions in 2025 revenue",
+        "link": "https://www.cnbc.com/2026/07/01/trump-money-financial-disclosure-crypto-billions.html",
+        "published": "Wed, 01 Jul 2026 18:06:20 GMT"
+      },
+      {
         "title": "Trump administration's limits on student loan forgiveness program are blocked. What to know",
         "link": "https://www.cnbc.com/2026/07/01/trumps-limits-on-student-loan-forgiveness-program-blocked.html",
-        "published": "Wed, 01 Jul 2026 15:45:37 GMT"
+        "published": "Wed, 01 Jul 2026 17:33:46 GMT"
       },
       {
-        "title": "Meta pops 10% as company makes cloud push to sell excess AI compute power capacity",
-        "link": "https://www.cnbc.com/2026/07/01/meta-stock-cloud-ai-compute.html",
-        "published": "Wed, 01 Jul 2026 15:29:01 GMT"
-      },
-      {
-        "title": "Inflation peaked in May as energy prices fell in June, Kalshi traders think",
-        "link": "https://www.cnbc.com/2026/07/01/inflation-peaked-in-may-as-energy-prices-fell-in-june-kalshi-traders-think.html",
-        "published": "Wed, 01 Jul 2026 16:16:08 GMT"
+        "title": "Stocks making the biggest moves midday: Meta, General Mills, Datadog, Sandisk & more",
+        "link": "https://www.cnbc.com/2026/07/01/stocks-making-the-biggest-moves-midday-meta-gis-ddog-sndk.html",
+        "published": "Wed, 01 Jul 2026 16:32:04 GMT"
       },
       {
         "title": "'Magnificent 7' stocks' rough June pushes them into the red for the year. What's behind the decline",
@@ -754,9 +754,9 @@
         "published": "Wed, 01 Jul 2026 15:55:49 GMT"
       },
       {
-        "title": "GM reports 4.2% decline in Q2 U.S. sales as EV demand falls",
-        "link": "https://www.cnbc.com/2026/07/01/q2-auto-sales-gm-stellantis-toyota-hyundai.html",
-        "published": "Wed, 01 Jul 2026 15:34:45 GMT"
+        "title": "Bitcoin's summer swoon creates unique trade in Strategy",
+        "link": "https://www.cnbc.com/2026/07/01/bitcoins-summer-swoon-creates-unique-trade-in-strategy.html",
+        "published": "Wed, 01 Jul 2026 17:10:22 GMT"
       }
     ]
   }
