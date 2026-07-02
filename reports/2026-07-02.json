@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T06:41:25",
+  "generated_at": "2026-07-02T09:48:17",
   "date": "2026-07-02",
   "market_sentiment": {
     "indices": {
@@ -25,8 +25,8 @@
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 16.59,
-        "pct_change": 0.85
+        "last": 16.74,
+        "pct_change": 0.9
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
@@ -35,18 +35,18 @@
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 101.3,
-        "pct_change": -0.09
+        "last": 101.01,
+        "pct_change": -0.38
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 67.87,
-        "pct_change": -1.04
+        "last": 67.43,
+        "pct_change": -1.68
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4088.4,
-        "pct_change": 0.49
+        "last": 4078.2,
+        "pct_change": 0.24
       }
     },
     "sectors": {
@@ -111,18 +111,18 @@
     "indices": {
       "Nikkei 225": {
         "symbol": "^N225",
-        "last": 68749.18,
-        "pct_change": -2.45
+        "last": 68733.15,
+        "pct_change": -2.47
       },
       "TOPIX (ETF代理)": {
         "symbol": "1306.T",
-        "last": 425.7,
-        "pct_change": -0.02
+        "last": 426.4,
+        "pct_change": 0.14
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 162.2,
-        "pct_change": -0.27
+        "last": 161.18,
+        "pct_change": -0.89
       }
     }
   },
@@ -192,8 +192,8 @@
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 6747.0,
-        "pct_change": -3.02
+        "last": 6780.0,
+        "pct_change": -2.54
       }
     }
   },
@@ -634,9 +634,9 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "Former retail giant closed over 1,000 locations",
-        "link": "https://finance.yahoo.com/small-business/articles/former-retail-giant-closed-over-150700944.html",
-        "published": "2026-07-01T15:07:00Z"
+        "title": "Bilt Cards 2.0 review: Are they better than the original — and can you still earn points on rent?",
+        "link": "https://finance.yahoo.com/personal-finance/credit-cards/review/bilt-credit-card-review-002855220.html",
+        "published": "2026-01-15T21:30:02Z"
       },
       {
         "title": "Best student credit cards for July 2026: Start building credit with rewards on spending",
@@ -644,37 +644,62 @@
         "published": "2024-09-12T18:21:03Z"
       },
       {
-        "title": "What Does KeyBanc Think About Somnigroup (SGI) After It Cleared the Leggett & Platt Antitrust Hurdle?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/does-keybanc-think-somnigroup-sgi-115659891.html",
-        "published": "2026-06-30T18:30:59Z"
+        "title": "APY vs. interest rate: What's the difference, and why does it matter?",
+        "link": "https://finance.yahoo.com/personal-finance/banking/comparison/apy-vs-interest-rate-174532707.html",
+        "published": "2024-07-19T17:45:32Z"
       },
       {
-        "title": "Visa And Mastercard Launch New Stablecoin",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/visa-mastercard-launch-stablecoin-183400783.html",
-        "published": "2026-06-30T18:34:00Z"
+        "title": "The best balance transfer credit cards for July 2026: Don't pay any interest until 2027",
+        "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-balance-transfer-credit-cards-0-introductory-apr-150104640.html",
+        "published": "2026-05-08T15:01:04Z"
       },
       {
-        "title": "Crude Prices Fall as Global Oil Supply Risks Ease",
-        "link": "https://finance.yahoo.com/energy/articles/crude-prices-fall-global-oil-191413493.html",
-        "published": "2026-06-30T19:14:13Z"
+        "title": "The best credit cards for July: See our picks for the top cash-back, rewards, travel cards, and more",
+        "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-card-202825345.html",
+        "published": "2024-09-12T20:09:33Z"
       },
       {
-        "title": "Precious Metals Close Out Tough Quarter",
-        "link": "https://www.wsj.com/finance/commodities-futures/gold-declines-likely-weighed-by-hawkish-dollar-repricing-7eba8c34?siteid=yhoof2&yptr=yahoo",
-        "published": "2026-06-30T18:32:00Z"
+        "title": "The best credit cards for Airbnb rentals in July 2026: Earn points and cash back for your stay",
+        "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-card-for-airbnb-rentals-183212147.html",
+        "published": "2025-04-14T18:32:12Z"
       },
       {
-        "title": "Nat-Gas Prices Rebound on Hot US Temps and Strong LNG Exports",
-        "link": "https://finance.yahoo.com/markets/commodities/articles/nat-gas-prices-rebound-hot-191244712.html",
-        "published": "2026-06-30T19:12:44Z"
+        "title": "SBI Crypto to shut down bitcoin mining pool on July 31",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/sbi-crypto-shut-down-bitcoin-214529534.html",
+        "published": "2026-06-30T21:45:29Z"
       },
       {
-        "title": "Oil prices little changed but set for steepest monthly and quarterly losses since 2020",
-        "link": "https://finance.yahoo.com/news/oil-falls-investors-focus-potential-040903565.html",
-        "published": "2026-06-30T19:10:49Z"
+        "title": "Best travel credit cards for July 2026: Earn free flights, hotel stays, and more",
+        "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-travel-rewards-credit-card-172745542.html",
+        "published": "2026-01-09T18:11:36Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "‘There was a catch’: My doctor friend was outraged by his hospital’s fundraising tactics. Where do we draw the line?",
+        "link": "https://www.marketwatch.com/story/there-was-a-catch-my-doctor-friend-was-outraged-by-his-hospitals-fundraising-tactics-where-do-we-draw-the-line-797b9fff?mod=mw_rss_topstories",
+        "published": "Thu, 02 Jul 2026 09:42:00 GMT"
+      },
+      {
+        "title": "Warsh’s throwaway comment injects life into the debasement trade, for one day at least",
+        "link": "https://www.marketwatch.com/story/warshs-throwaway-comment-injects-life-into-the-debasement-trade-for-one-day-at-least-1c70d477?mod=mw_rss_topstories",
+        "published": "Thu, 02 Jul 2026 09:08:00 GMT"
+      },
+      {
+        "title": "Tamera Mowry lists Bay Area house for $2.7 million as she prepares to build Napa Valley ‘dream home’",
+        "link": "https://www.marketwatch.com/story/tamera-mowry-lists-bay-area-house-for-2-7-million-as-she-prepares-to-build-napa-valley-dream-home-feee7691?mod=mw_rss_topstories",
+        "published": "Thu, 02 Jul 2026 09:01:00 GMT"
+      },
+      {
+        "title": "After eight years, Google loses final appeal against $4.7 billion European Union fine",
+        "link": "https://www.marketwatch.com/story/after-eight-years-google-loses-final-appeal-against-4-7-billion-european-union-fine-46b7459a?mod=mw_rss_topstories",
+        "published": "Thu, 02 Jul 2026 08:59:00 GMT"
+      },
+      {
+        "title": "OpenAI reportedly considers handing 5% stake to the government. Here’s why the AI lab would consider that move.",
+        "link": "https://www.marketwatch.com/story/openai-reportedly-considers-handing-5-stake-to-the-government-heres-why-the-ai-lab-would-consider-that-move-8c2871cb?mod=mw_rss_topstories",
+        "published": "Thu, 02 Jul 2026 08:49:00 GMT"
+      },
       {
         "title": "Protein-packed Cheerios and cat food: How General Mills plans to combat a tough spending backdrop",
         "link": "https://www.marketwatch.com/story/protein-packed-cheerios-and-cat-food-how-general-mills-plans-to-combat-a-tough-spending-backdrop-90734fed?mod=mw_rss_topstories",
@@ -689,38 +714,23 @@
         "title": "Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it.",
         "link": "https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e?mod=mw_rss_topstories",
         "published": "Wed, 01 Jul 2026 23:11:00 GMT"
-      },
-      {
-        "title": "‘We were stunned’: My daughter, 39, said her mother-in-law gives her more money than we do. Do I call her out?",
-        "link": "https://www.marketwatch.com/story/we-were-stunned-my-daughter-39-said-her-mother-in-law-gives-her-more-money-than-we-do-do-i-call-her-out-b63d087c?mod=mw_rss_topstories",
-        "published": "Wed, 01 Jul 2026 23:01:00 GMT"
-      },
-      {
-        "title": "CoreWeave, Nebius shares tumble as Meta stands to become a fresh threat in the cloud",
-        "link": "https://www.marketwatch.com/story/coreweave-nebius-shares-tumble-as-meta-stands-to-become-a-fresh-threat-in-the-cloud-a47c3616?mod=mw_rss_topstories",
-        "published": "Wed, 01 Jul 2026 22:05:00 GMT"
-      },
-      {
-        "title": "This is the best time ‘in a generation’ to buy space and defense stocks, analysts say",
-        "link": "https://www.marketwatch.com/story/this-is-the-best-time-in-a-generation-to-buy-space-and-defense-stocks-analysts-say-df4a85a4?mod=mw_rss_topstories",
-        "published": "Wed, 01 Jul 2026 21:58:00 GMT"
-      },
-      {
-        "title": "Where can I invest my kid’s ‘Trump account’ money? The Treasury Department just answered that question.",
-        "link": "https://www.marketwatch.com/story/where-can-i-invest-my-kids-trump-account-money-the-treasury-department-just-answered-that-question-4f656574?mod=mw_rss_topstories",
-        "published": "Wed, 01 Jul 2026 21:55:00 GMT"
-      },
-      {
-        "title": "ServiceNow and Salesforce shares now look like buys, as ‘Armageddon’ fears are too extreme, analyst says",
-        "link": "https://www.marketwatch.com/story/servicenow-and-salesforce-shares-now-look-like-buys-as-armageddon-fears-are-too-extreme-analyst-says-3c3d8887?mod=mw_rss_topstories",
-        "published": "Wed, 01 Jul 2026 21:54:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "Volkswagen braces for boardroom showdown over historic cost-cutting plan",
-        "link": "https://www.cnbc.com/2026/07/02/volkswagen-vw-job-cuts-germany-autos.html",
-        "published": "Thu, 02 Jul 2026 05:11:40 GMT"
+        "title": "World Cup could boost the June jobs report by 40,000, Goldman estimates",
+        "link": "https://www.cnbc.com/2026/07/01/world-cup-could-boost-the-june-jobs-report-by-40000-goldman-estimates.html",
+        "published": "Wed, 01 Jul 2026 20:27:09 GMT"
+      },
+      {
+        "title": "Google loses fight over record $4.7 billion EU antitrust fine",
+        "link": "https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html",
+        "published": "Thu, 02 Jul 2026 09:12:17 GMT"
+      },
+      {
+        "title": "OpenAI proposes 5% stake to Trump administration to ease Washington pressure: report",
+        "link": "https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html",
+        "published": "Thu, 02 Jul 2026 07:13:30 GMT"
       },
       {
         "title": "Russia launches massive strike on Ukraine as Poland scrambles jets, Finland restricts airspace",
@@ -728,19 +738,9 @@
         "published": "Thu, 02 Jul 2026 06:16:51 GMT"
       },
       {
-        "title": "Samsung Electronics, SK Hynix shares tumble over 7% as chip rout spreads from Wall Street",
-        "link": "https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html",
-        "published": "Thu, 02 Jul 2026 05:44:40 GMT"
-      },
-      {
-        "title": "OpenAI proposes 5% stake to Trump administration to ease Washington pressure: report",
-        "link": "https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html",
-        "published": "Thu, 02 Jul 2026 06:08:11 GMT"
-      },
-      {
-        "title": "Amazon is designing its own AI chips for Echo, Fire TV and future devices, exec tells CNBC",
-        "link": "https://www.cnbc.com/2026/07/02/amazon-ai-chips-devices.html",
-        "published": "Thu, 02 Jul 2026 05:10:51 GMT"
+        "title": "The dollar looks ready to break higher. Here's why Wall Street is turning bullish",
+        "link": "https://www.cnbc.com/2026/07/02/the-dollar-looks-ready-to-break-higher-heres-why-wall-street-is-turning-bullish.html",
+        "published": "Thu, 02 Jul 2026 03:43:24 GMT"
       },
       {
         "title": "U.S. won’t renew USMCA, opening door for negotiations with Canada and Mexico",
@@ -748,14 +748,14 @@
         "published": "Wed, 01 Jul 2026 18:55:47 GMT"
       },
       {
-        "title": "Fed Chief Kevin Warsh declines to hint at July rate decision, but says inflation 'too high'",
-        "link": "https://www.cnbc.com/2026/07/01/kevin-warsh-ecb-forum-live-updates.html",
-        "published": "Wed, 01 Jul 2026 16:19:16 GMT"
+        "title": "Apple plans five new iPhones through 2027, eyes Chinese-made chips amid foldable push, reports say",
+        "link": "https://www.cnbc.com/2026/07/02/apple-foldable-iphone-production-memory-shortage-china-chipmakers-cxmt-ymtc.html",
+        "published": "Thu, 02 Jul 2026 07:07:46 GMT"
       },
       {
-        "title": "The dollar looks ready to break higher. Here's why Wall Street is turning bullish",
-        "link": "https://www.cnbc.com/2026/07/02/the-dollar-looks-ready-to-break-higher-heres-why-wall-street-is-turning-bullish.html",
-        "published": "Thu, 02 Jul 2026 03:43:24 GMT"
+        "title": "Amazon is designing its own AI chips for Echo, Fire TV and future devices, exec tells CNBC",
+        "link": "https://www.cnbc.com/2026/07/02/amazon-ai-chips-devices.html",
+        "published": "Thu, 02 Jul 2026 05:10:51 GMT"
       }
     ]
   }
