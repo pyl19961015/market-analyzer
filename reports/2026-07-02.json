@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-07-02T16:21:07",
+  "generated_at": "2026-07-02T18:12:38",
   "date": "2026-07-02",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7465.88,
-        "pct_change": -0.23
+        "last": 7452.79,
+        "pct_change": -0.41
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 25796.15,
-        "pct_change": -0.94
+        "last": 25751.08,
+        "pct_change": -1.11
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 52667.04,
-        "pct_change": 0.69
+        "last": 52580.64,
+        "pct_change": 0.53
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2994.03,
-        "pct_change": -0.62
+        "last": 2973.61,
+        "pct_change": -1.29
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 16.69,
-        "pct_change": 0.6
+        "last": 17.08,
+        "pct_change": 2.95
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.47,
-        "pct_change": 2.17
+        "last": 4.49,
+        "pct_change": 2.63
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 100.77,
-        "pct_change": -0.61
+        "last": 100.86,
+        "pct_change": -0.52
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 68.06,
-        "pct_change": -0.76
+        "last": 68.41,
+        "pct_change": -0.25
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4138.0,
-        "pct_change": 1.71
+        "last": 4121.7,
+        "pct_change": 1.31
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 180.89,
-        "pct_change": -2.55
+        "last": 180.15,
+        "pct_change": -2.95
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 55.38,
-        "pct_change": 1.09
+        "last": 55.35,
+        "pct_change": 1.05
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 53.08,
-        "pct_change": 0.51
+        "last": 52.97,
+        "pct_change": 0.31
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 163.04,
-        "pct_change": 2.19
+        "last": 162.86,
+        "pct_change": 2.08
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 117.47,
-        "pct_change": -0.53
+        "last": 116.93,
+        "pct_change": -0.98
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 84.7,
-        "pct_change": 1.68
+        "last": 84.62,
+        "pct_change": 1.59
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 183.32,
-        "pct_change": -0.02
+        "last": 182.67,
+        "pct_change": -0.38
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 45.35,
-        "pct_change": 1.31
+        "last": 45.47,
+        "pct_change": 1.56
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 51.74,
-        "pct_change": 1.41
+        "last": 51.53,
+        "pct_change": 1.0
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.53,
-        "pct_change": 0.79
+        "last": 44.54,
+        "pct_change": 0.81
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 108.8,
-        "pct_change": -0.86
+        "last": 108.98,
+        "pct_change": -0.69
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 160.98,
-        "pct_change": -1.01
+        "last": 161.07,
+        "pct_change": -0.96
       }
     }
   },
@@ -137,58 +137,58 @@
       "yield": 2.711,
       "as_of": "2026-07-01"
     },
-    "spread_10y": 1.76
+    "spread_10y": 1.78
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 200.04,
-        "pct_change": -9.33
+        "last": 196.04,
+        "pct_change": -11.15
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 307.5,
-        "pct_change": 4.46
+        "last": 307.6,
+        "pct_change": 4.49
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 389.91,
-        "pct_change": 1.47
+        "last": 391.38,
+        "pct_change": 1.85
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 246.15,
-        "pct_change": 1.84
+        "last": 244.3,
+        "pct_change": 1.08
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 355.99,
-        "pct_change": -1.45
+        "last": 357.89,
+        "pct_change": -0.92
       },
       "Meta": {
         "symbol": "META",
-        "last": 585.86,
-        "pct_change": -4.41
+        "last": 585.8,
+        "pct_change": -4.42
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 732.25,
-        "pct_change": -8.6
+        "last": 719.64,
+        "pct_change": -10.18
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 337.17,
-        "pct_change": -8.54
+        "last": 329.26,
+        "pct_change": -10.68
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 163.72,
-        "pct_change": -4.94
+        "last": 163.66,
+        "pct_change": -4.97
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -639,24 +639,24 @@
         "published": "2026-07-01T23:17:00Z"
       },
       {
-        "title": "Mortgage rates hover near 6.5% as other housing metrics show modest improvement: Mortgage rates today, July 2, 2026",
-        "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-hover-near-65-as-other-housing-metrics-show-modest-improvement-mortgage-rates-today-july-2-2026-100000176.html",
-        "published": "2026-07-02T10:00:00Z"
+        "title": "Sun Life (SLF), Medzown Partner to Expand Access to Clinical Trials for Complex Conditions",
+        "link": "https://finance.yahoo.com/healthcare/articles/sun-life-slf-medzown-partner-081516585.html",
+        "published": "2026-07-01T08:15:16Z"
       },
       {
-        "title": "When will gas prices go down? What to know as you plan your July 4 road trip.",
-        "link": "https://finance.yahoo.com/personal-finance/banking/article/when-will-gas-prices-go-down-what-to-know-as-you-plan-your-july-4-road-trip-154506731.html",
-        "published": "2026-04-14T15:45:06Z"
+        "title": "Eni S.p.A. (E) Acquires 32% Stake in Vaca Muerta Shale Blocks to Supply Argentina LNG Project",
+        "link": "https://finance.yahoo.com/energy/articles/eni-p-e-acquires-32-081510196.html",
+        "published": "2026-07-01T08:15:10Z"
       },
       {
-        "title": "Follow Stock Market Leaders To Stay In Step With Broader Market Health",
-        "link": "https://www.investors.com/how-to-invest/investors-corner/stock-market-leaders-micron-amat-dell-sp500-health/?src=A00220&yptr=yahoo",
-        "published": "2026-07-02T15:59:07Z"
+        "title": "Energy Transfer (ET) Expands Nederland NGL Export Terminal to Increase Capacity by 295,000 Bpd",
+        "link": "https://finance.yahoo.com/energy/articles/energy-transfer-et-expands-nederland-081607112.html",
+        "published": "2026-07-01T08:16:07Z"
       },
       {
-        "title": "Stock market today: Dow rises, S&P 500 and Nasdaq dip after June jobs report falls short",
-        "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-2-223136955.html",
-        "published": "2026-07-01T22:31:36Z"
+        "title": "Equinor (EQNR) to Discontinue Offshore Wind Operations in Japan and Close Tokyo Office",
+        "link": "https://finance.yahoo.com/energy/articles/equinor-eqnr-discontinue-offshore-wind-081601050.html",
+        "published": "2026-07-01T08:16:01Z"
       },
       {
         "title": "Retail giant exits U.S. fashion after multi-million-dollar scandal",
@@ -664,17 +664,32 @@
         "published": "2026-07-02T03:46:51Z"
       },
       {
-        "title": "Flexport's CEO called remote work ‘white-collar fraud’ — then said it’s really for workers who’ll accept lower pay",
-        "link": "https://finance.yahoo.com/small-business/articles/flexports-ceo-called-remote-white-154637438.html",
-        "published": "2026-07-02T15:46:37Z"
+        "title": "BD (BDX) Receives Vizient Innovative Technology Contract for CentroVena One Insertion System",
+        "link": "https://finance.yahoo.com/healthcare/articles/bd-bdx-receives-vizient-innovative-081614285.html",
+        "published": "2026-07-01T08:16:14Z"
       },
       {
-        "title": "Reddit Says Buy This AI Energy Stock Before It’s Too Late",
-        "link": "https://finance.yahoo.com/energy/articles/reddit-says-buy-ai-energy-154026582.html",
-        "published": "2026-07-02T15:40:26Z"
+        "title": "AI, Data Centers, and the New Politics of Power Demand",
+        "link": "https://finance.yahoo.com/energy/articles/ai-data-centers-politics-power-083234091.html",
+        "published": "2026-07-01T08:32:34Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "Why Tesla’s stock is sinking toward its worst day in a year despite blowout delivery numbers",
+        "link": "https://www.marketwatch.com/story/tesla-crushes-delivery-estimates-giving-its-stock-a-boost-16c198da?mod=mw_rss_topstories",
+        "published": "Thu, 02 Jul 2026 17:44:00 GMT"
+      },
+      {
+        "title": "‘We were stunned’: My daughter, 39, said her mother-in-law gives her more money than we do. Do I call her out?",
+        "link": "https://www.marketwatch.com/story/we-were-stunned-my-daughter-39-said-her-mother-in-law-gives-her-more-money-than-we-do-do-i-call-her-out-b63d087c?mod=mw_rss_topstories",
+        "published": "Thu, 02 Jul 2026 17:43:00 GMT"
+      },
+      {
+        "title": "I have no kids. Will I cause family drama by leaving different amounts to my nieces and nephews?",
+        "link": "https://www.marketwatch.com/story/i-have-no-kids-will-i-cause-family-drama-by-leaving-different-amounts-to-my-nieces-and-nephews-14c0fdda?mod=mw_rss_topstories",
+        "published": "Thu, 02 Jul 2026 17:30:00 GMT"
+      },
       {
         "title": "If you lost money on Trump crypto ventures, don’t whine",
         "link": "https://www.marketwatch.com/story/if-you-lost-money-on-trump-crypto-ventures-dont-whine-1839a774?mod=mw_rss_topstories",
@@ -699,28 +714,13 @@
         "title": "Where can I invest my kid’s ‘Trump account’ money? The Treasury Department just answered that question.",
         "link": "https://www.marketwatch.com/story/where-can-i-invest-my-kids-trump-account-money-the-treasury-department-just-answered-that-question-4f656574?mod=mw_rss_topstories",
         "published": "Thu, 02 Jul 2026 14:50:00 GMT"
-      },
-      {
-        "title": "Why a founder at age 50 is twice as likely to find success as one at age 30",
-        "link": "https://www.marketwatch.com/story/older-workers-are-fighting-ageism-by-starting-their-own-businesses-and-theyre-outperforming-younger-entrepreneurs-5fc701fc?mod=mw_rss_topstories",
-        "published": "Thu, 02 Jul 2026 14:47:00 GMT"
-      },
-      {
-        "title": "I have no kids. Will I cause family drama by leaving different amounts to my nieces and nephews?",
-        "link": "https://www.marketwatch.com/story/i-have-no-kids-will-i-cause-family-drama-by-leaving-different-amounts-to-my-nieces-and-nephews-14c0fdda?mod=mw_rss_topstories",
-        "published": "Thu, 02 Jul 2026 14:34:00 GMT"
-      },
-      {
-        "title": "Tesla crushes delivery estimates as it’s seen ‘exiting the EV winter’",
-        "link": "https://www.marketwatch.com/story/tesla-crushes-delivery-estimates-giving-its-stock-a-boost-16c198da?mod=mw_rss_topstories",
-        "published": "Thu, 02 Jul 2026 13:52:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "U.S. job creation cools in June with payrolls growth of just 57,000; unemployment rate at 4.2%",
-        "link": "https://www.cnbc.com/2026/07/02/jobs-report-june-2026-.html",
-        "published": "Thu, 02 Jul 2026 15:55:25 GMT"
+        "title": "Job seekers giving up: Labor force participation rate falls to lowest in 50 years, outside of Covid era",
+        "link": "https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html",
+        "published": "Thu, 02 Jul 2026 18:09:31 GMT"
       },
       {
         "title": "Tesla stock sinks 7% despite strong deliveries report",
@@ -733,29 +733,29 @@
         "published": "Thu, 02 Jul 2026 14:30:01 GMT"
       },
       {
+        "title": "Stocks making the biggest moves midday: Rivian, Tesla, Sandisk, Blue Owl, AeroVironment & more",
+        "link": "https://www.cnbc.com/2026/07/02/stocks-making-the-biggest-moves-midday-rivn-tsla-sndk-owl-avav.html",
+        "published": "Thu, 02 Jul 2026 17:50:28 GMT"
+      },
+      {
         "title": "Microsoft commits $2.5 billion and 6,000 employees to new AI implementation unit",
         "link": "https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html",
         "published": "Thu, 02 Jul 2026 13:00:02 GMT"
       },
       {
-        "title": "Treasury says Trump Account investment options will include State Street, BlackRock and Vanguard ETFs",
-        "link": "https://www.cnbc.com/2026/07/02/trump-account-investment-picks-are-state-street-blackrock-vanguard-etfs.html",
-        "published": "Thu, 02 Jul 2026 16:03:24 GMT"
+        "title": "The charts on this biotech stock look attractive, says Jay Woods",
+        "link": "https://www.cnbc.com/2026/07/02/the-charts-on-this-biotech-stock-look-attractive-says-jay-woods.html",
+        "published": "Thu, 02 Jul 2026 17:00:01 GMT"
       },
       {
-        "title": "One of Josh Brown's favorite long-time holdings is now one of the Best Stocks in the Market",
-        "link": "https://www.cnbc.com/2026/07/02/one-of-josh-browns-favorite-long-time-holdings-is-now-one-of-the-best-stocks-in-the-market.html",
-        "published": "Thu, 02 Jul 2026 15:03:51 GMT"
+        "title": "Sandwich chain Jersey Mike's files for IPO, reports 50% same-store sales growth in recent years",
+        "link": "https://www.cnbc.com/2026/07/02/jersey-mikes-files-for-ipo.html",
+        "published": "Thu, 02 Jul 2026 17:38:30 GMT"
       },
       {
-        "title": "House lawmakers approved a bipartisan bill to protect older adults from financial fraud. Here's what to know",
-        "link": "https://www.cnbc.com/2026/07/02/lawmakers-approved-bipartisan-bill-to-battle-fraud-among-older-adults.html",
-        "published": "Thu, 02 Jul 2026 15:20:29 GMT"
-      },
-      {
-        "title": "Autonomous drone startup Quantum Systems raises $1.2 billion as investors pile into defense",
-        "link": "https://www.cnbc.com/2026/07/02/autonomous-defense-startup-quantum-systems.html",
-        "published": "Thu, 02 Jul 2026 15:13:11 GMT"
+        "title": "Married Americans tend to be wealthier and happier. Gen Z is forgoing the institution anyway",
+        "link": "https://www.cnbc.com/2026/07/02/gen-z-marriage-rates-american-dream.html",
+        "published": "Thu, 02 Jul 2026 16:34:27 GMT"
       }
     ]
   }
