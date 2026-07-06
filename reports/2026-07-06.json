@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-06T11:43:49",
+  "generated_at": "2026-07-06T14:45:44",
   "date": "2026-07-06",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7483.24,
-        "pct_change": 0.0
+        "last": 7524.62,
+        "pct_change": 0.55
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 25832.67,
-        "pct_change": -0.8
+        "last": 26124.55,
+        "pct_change": 1.13
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 52900.07,
-        "pct_change": 1.14
+        "last": 52780.71,
+        "pct_change": -0.23
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2996.11,
-        "pct_change": -0.55
+        "last": 3012.41,
+        "pct_change": 0.54
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 16.33,
-        "pct_change": 1.11
+        "last": 16.02,
+        "pct_change": -0.8
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.49,
-        "pct_change": 0.22
+        "last": 4.48,
+        "pct_change": -0.0
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
@@ -40,70 +40,70 @@
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 68.51,
-        "pct_change": -0.26
+        "last": 68.85,
+        "pct_change": 0.23
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4169.8,
-        "pct_change": 1.39
+        "last": 4152.5,
+        "pct_change": 0.97
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 180.59,
-        "pct_change": -2.71
+        "last": 185.59,
+        "pct_change": 2.77
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 55.62,
-        "pct_change": 1.53
+        "last": 55.65,
+        "pct_change": 0.05
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 53.22,
-        "pct_change": 0.78
+        "last": 53.31,
+        "pct_change": 0.18
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 163.74,
-        "pct_change": 2.63
+        "last": 161.03,
+        "pct_change": -1.66
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 117.12,
-        "pct_change": -0.82
+        "last": 116.38,
+        "pct_change": -0.63
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 84.99,
-        "pct_change": 2.03
+        "last": 83.5,
+        "pct_change": -1.75
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 183.91,
-        "pct_change": 0.3
+        "last": 185.53,
+        "pct_change": 0.88
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 45.76,
-        "pct_change": 2.21
+        "last": 45.28,
+        "pct_change": -1.05
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 52.01,
-        "pct_change": 1.94
+        "last": 51.38,
+        "pct_change": -1.21
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.68,
-        "pct_change": 1.13
+        "last": 44.24,
+        "pct_change": -0.98
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 109.6,
-        "pct_change": -0.13
+        "last": 109.18,
+        "pct_change": -0.38
       }
     }
   },
@@ -131,65 +131,65 @@
       "effr": 3.63,
       "target_low": 3.5,
       "target_high": 3.75,
-      "as_of": "2026-07-02"
+      "as_of": "2026-07-03"
     },
     "japan": {
       "yield": 2.768,
       "as_of": "2026-07-03",
       "prev_yield": 2.778
     },
-    "spread_10y": 1.72
+    "spread_10y": 1.71
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 196.79,
-        "pct_change": -10.81
+        "last": 202.4,
+        "pct_change": 2.85
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 308.63,
-        "pct_change": 4.84
+        "last": 311.56,
+        "pct_change": 0.95
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 390.49,
-        "pct_change": 1.62
+        "last": 384.26,
+        "pct_change": -1.6
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 242.67,
-        "pct_change": 0.4
+        "last": 242.8,
+        "pct_change": 0.05
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 359.91,
-        "pct_change": -0.36
+        "last": 361.28,
+        "pct_change": 0.38
       },
       "Meta": {
         "symbol": "META",
-        "last": 582.9,
-        "pct_change": -4.9
+        "last": 587.44,
+        "pct_change": 0.78
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 728.32,
-        "pct_change": -9.09
+        "last": 741.9,
+        "pct_change": 1.86
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 333.36,
-        "pct_change": -9.57
+        "last": 350.67,
+        "pct_change": 5.19
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 164.59,
-        "pct_change": -4.43
+        "last": 166.57,
+        "pct_change": 1.2
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -587,128 +587,128 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "Starling Bank to shed about 130 roles in restructuring drive – report",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/starling-bank-shed-130-roles-112730792.html",
-        "published": "2026-07-06T11:27:30Z"
-      },
-      {
-        "title": "Stock market today: Nasdaq leads S&P 500, Dow futures higher as tech jitters ease, oil slips",
-        "link": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-july-7-225645420.html",
+        "title": "Stock market today: Dow slips, Nasdaq and S&P 500 rise as tech jitters ease",
+        "link": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-july-6-nasdaq-sp-rise-225645420.html",
         "published": "2026-07-05T22:56:45Z"
       },
       {
-        "title": "Dow Jones Futures Rise, Nasdaq Set To Reclaim Key Level; Apple, SpaceX, Sandisk, Robinhood In Focus",
-        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-spacex-sandisk-robinhood/?src=A00220&yptr=yahoo",
-        "published": "2026-07-06T11:18:01Z"
+        "title": "Carlsberg, Sapporo to team up in SE Asia and UK",
+        "link": "https://finance.yahoo.com/small-business/articles/carlsberg-sapporo-form-jv-se-134538993.html",
+        "published": "2026-07-06T14:28:22Z"
       },
       {
-        "title": "Hedge funds dumped chip stocks for a fourth week as AI shares sold off",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/hedge-funds-dumped-chip-stocks-111514085.html",
-        "published": "2026-07-06T11:15:14Z"
+        "title": "Costco Wholesale Corporation (COST) Benefits from Investors’ Focus on Resilient Businesses",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/costco-wholesale-corporation-cost-benefits-142209292.html",
+        "published": "2026-07-06T14:22:09Z"
       },
       {
-        "title": "Britain should consider regulating AI models, FCA official says",
-        "link": "https://finance.yahoo.com/technology/ai/articles/britain-consider-regulating-ai-models-104539260.html",
-        "published": "2026-07-06T11:00:10Z"
+        "title": "Stock Market Today: Dow Slips But Nasdaq Jumps; Micron, Sandisk Bounce As Chip Players Shine (Live Coverage)",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-micron-mu-stock-sandisk-sndk-stock/?src=A00220&yptr=yahoo",
+        "published": "2026-07-06T14:20:44Z"
       },
       {
-        "title": "ISCA, IMDA roll out AI training initiative for accountancy sector",
-        "link": "https://finance.yahoo.com/technology/ai/articles/isca-imda-roll-ai-training-112425005.html",
-        "published": "2026-07-06T11:24:25Z"
+        "title": "Broadcom Stock Rises On New Apple Supply Deal",
+        "link": "https://www.investors.com/news/technology/broadcom-stock-rises-on-new-apple-supply-deal/?src=A00220&yptr=yahoo",
+        "published": "2026-07-06T14:18:12Z"
       },
       {
-        "title": "Truist Raises its Price Target on Cummins (CMI)",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/truist-raises-price-target-cummins-105104346.html",
-        "published": "2026-07-06T10:51:04Z"
+        "title": "Weekly Stock List",
+        "link": "https://finance.yahoo.com/research/reports/ARGUS_47521_StockPicks_1783337985000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+        "published": "2026-07-06T11:39:45Z"
       },
       {
-        "title": "Here’s Why HP (HPE) is Among the 15 Best Data Center Stocks to Buy and Hold for the Next Decade",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/why-hp-hpe-among-15-105057987.html",
-        "published": "2026-07-06T10:50:57Z"
+        "title": "Should You Consider Selling Veralto Corp (VLTO)?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/consider-selling-veralto-corp-vlto-141501266.html",
+        "published": "2026-07-06T14:15:01Z"
+      },
+      {
+        "title": "Why Vertiv and Eaton Are the Ultimate Infrastructure Plays for the AI Boom",
+        "link": "https://finance.yahoo.com/technology/ai/articles/why-vertiv-eaton-ultimate-infrastructure-142400179.html",
+        "published": "2026-07-06T14:24:00Z"
       }
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "Stocks rally when Congress goes on summer break. Here is the hidden reason.",
-        "link": "https://www.marketwatch.com/story/stocks-rally-when-congress-goes-on-summer-break-here-is-the-hidden-reason-e70a6be3?mod=mw_rss_topstories",
-        "published": "Mon, 06 Jul 2026 11:42:00 GMT"
+        "title": "Trump rings Wall Street opening bells and says the stock market ‘is going to go through the roof’",
+        "link": "https://www.marketwatch.com/story/trump-rings-wall-street-opening-bells-and-says-the-stock-market-is-going-to-go-through-the-roof-e949d970?mod=mw_rss_topstories",
+        "published": "Mon, 06 Jul 2026 14:42:00 GMT"
       },
       {
-        "title": "Your share of the AI wealth is a right — not a handout. Here is how we claw back our money.",
-        "link": "https://www.marketwatch.com/story/your-share-of-the-ai-wealth-is-a-right-not-a-handout-here-is-how-we-claw-back-our-money-7454b0e0?mod=mw_rss_topstories",
-        "published": "Mon, 06 Jul 2026 11:32:00 GMT"
-      },
-      {
-        "title": "Highflying hedge fund run by former OpenAI researcher will be cornerstone investor in SK Hynix U.S. listing",
-        "link": "https://www.marketwatch.com/story/highflying-hedge-fund-run-by-former-openai-researcher-will-be-cornerstone-investor-in-sk-hynix-u-s-listing-01299e0c?mod=mw_rss_topstories",
-        "published": "Mon, 06 Jul 2026 11:28:00 GMT"
-      },
-      {
-        "title": "As oil exits the ‘danger zone,’ here’s what history suggests happens next for stocks",
-        "link": "https://www.marketwatch.com/story/as-oil-exits-the-danger-zone-heres-what-history-suggests-happens-next-for-stocks-7724a8a9?mod=mw_rss_topstories",
-        "published": "Mon, 06 Jul 2026 11:20:00 GMT"
-      },
-      {
-        "title": "‘I’ve plenty of time on my hands’: Advisers bombard me with offers for free steak. Is it wrong to go for the food?",
-        "link": "https://www.marketwatch.com/story/ive-plenty-of-time-on-my-hands-advisers-bombard-me-with-offers-for-free-steak-is-it-wrong-to-go-for-the-food-1b139f98?mod=mw_rss_topstories",
-        "published": "Mon, 06 Jul 2026 10:30:00 GMT"
-      },
-      {
-        "title": "Two things Samsung might be considering: price hikes and a U.S. listing",
-        "link": "https://www.marketwatch.com/story/two-things-samsung-might-be-considering-price-hikes-and-a-u-s-listing-f03684f4?mod=mw_rss_topstories",
-        "published": "Mon, 06 Jul 2026 09:49:00 GMT"
-      },
-      {
-        "title": "EasyJet agrees to a takeover price. The market has its doubts on the deal.",
-        "link": "https://www.marketwatch.com/story/easyjet-agrees-to-a-takeover-price-the-market-has-its-doubts-on-the-deal-921257f3?mod=mw_rss_topstories",
-        "published": "Mon, 06 Jul 2026 09:30:00 GMT"
+        "title": "TeraWulf’s stock surges after a $19 billion deal with Anthropic",
+        "link": "https://www.marketwatch.com/story/terawulfs-stock-surges-after-a-19-billion-deal-with-anthropic-6899d3bc?mod=mw_rss_topstories",
+        "published": "Mon, 06 Jul 2026 14:28:00 GMT"
       },
       {
         "title": "‘The money would have been life-changing’: My father told my grandmother to slash my inheritance. Is that fair?",
         "link": "https://www.marketwatch.com/story/the-money-would-have-been-life-changing-my-father-told-my-grandmother-to-slash-my-inheritance-is-that-fair-3808b6d1?mod=mw_rss_topstories",
-        "published": "Mon, 06 Jul 2026 09:15:00 GMT"
+        "published": "Mon, 06 Jul 2026 14:15:00 GMT"
+      },
+      {
+        "title": "How parents can take advantage of the ‘best summer-camp tax break in years’",
+        "link": "https://www.marketwatch.com/story/how-parents-can-take-advantage-of-the-best-summer-camp-tax-break-in-years-cb7c2a1a?mod=mw_rss_topstories",
+        "published": "Mon, 06 Jul 2026 14:00:00 GMT"
+      },
+      {
+        "title": "As oil exits the ‘danger zone,’ here’s what history suggests happens next for stocks",
+        "link": "https://www.marketwatch.com/story/as-oil-exits-the-danger-zone-heres-what-history-suggests-happens-next-for-stocks-7724a8a9?mod=mw_rss_topstories",
+        "published": "Mon, 06 Jul 2026 13:30:00 GMT"
+      },
+      {
+        "title": "Global stocks may be headed for a summer swoon. Why AI won’t be the only story that matters, JPMorgan says",
+        "link": "https://www.marketwatch.com/story/global-stocks-may-be-headed-for-a-summer-swoon-why-ai-wont-be-the-only-story-that-matters-jpmorgan-says-d2ad9b1c?mod=mw_rss_topstories",
+        "published": "Mon, 06 Jul 2026 13:04:00 GMT"
+      },
+      {
+        "title": "Your investing expectations are more than double the reality. Here is the tough truth.",
+        "link": "https://www.marketwatch.com/story/your-investing-expectations-are-more-than-double-the-reality-here-is-the-tough-truth-dea61820?mod=mw_rss_topstories",
+        "published": "Mon, 06 Jul 2026 12:55:00 GMT"
+      },
+      {
+        "title": "AI hyperscalers are poised for a big comeback rally as chip gains cool, says Morgan Stanley",
+        "link": "https://www.marketwatch.com/story/the-chip-pullback-is-ushering-in-a-bumpy-market-these-sectors-are-the-best-bets-now-according-to-morgan-stanley-661566a7?mod=mw_rss_topstories",
+        "published": "Mon, 06 Jul 2026 12:02:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "S&P 500 and Nasdaq futures rise after a strong week on Wall Street, led by chip stocks: Live updates",
+        "title": "Microsoft cuts 4,800 jobs, as Xbox unit downsizes and plans to spin off four gaming studios",
+        "link": "https://www.cnbc.com/2026/07/06/microsoft-cuts-2point1percent-of-employees-as-xbox-unit-plans-to-spin-studios.html",
+        "published": "Mon, 06 Jul 2026 13:42:12 GMT"
+      },
+      {
+        "title": "Trump plugs Dell at first-ever White House opening bell, sending shares soaring",
+        "link": "https://www.cnbc.com/2026/07/06/trump-opening-bell-ceo-nyse-nasdaq-stocks-accounts.html",
+        "published": "Mon, 06 Jul 2026 14:34:26 GMT"
+      },
+      {
+        "title": "Nasdaq jumps to start new week led by chip stocks, Dow briefly tops 53,000 for first time: Live updates",
         "link": "https://www.cnbc.com/2026/07/05/stock-market-today-live-updates.html",
-        "published": "Mon, 06 Jul 2026 11:33:00 GMT"
+        "published": "Mon, 06 Jul 2026 14:34:09 GMT"
       },
       {
-        "title": "Belgium set to appeal as FIFA reverses Balogun's World Cup suspension after Trump reportedly intervenes",
-        "link": "https://www.cnbc.com/2026/07/05/trump-fifa-balogun-world-cup-red-card-suspension.html",
-        "published": "Mon, 06 Jul 2026 10:32:20 GMT"
+        "title": "Trump defends Balogun review call: 'It wasn't a foul'",
+        "link": "https://www.cnbc.com/2026/07/06/trump-balogun-fifa-world-cup-us-belgium.html",
+        "published": "Mon, 06 Jul 2026 14:44:10 GMT"
       },
       {
-        "title": "Trump's calls, Ukraine's strikes and Russia's barrage on Kyiv put markets on alert",
-        "link": "https://www.cnbc.com/2026/07/06/ukraine-russia-kyiv-trump-putin-zelenskyy.html",
-        "published": "Mon, 06 Jul 2026 10:53:27 GMT"
+        "title": "Here are Monday's biggest analyst calls: Nvidia, Netflix, AMD, First Solar, Micron, Sandisk, T-Mobile & more",
+        "link": "https://www.cnbc.com/2026/07/06/monday-wall-street-calls-by-analysts-like-nvidia.html",
+        "published": "Mon, 06 Jul 2026 12:08:01 GMT"
       },
       {
-        "title": "Record heat, crowds drive offseason boom in international travel",
-        "link": "https://www.cnbc.com/2026/07/06/travel-off-season-boom-in-flights-airlines-hotels.html",
-        "published": "Mon, 06 Jul 2026 10:00:01 GMT"
+        "title": "SpaceX President Gwynne Shotwell to donate stock to Trump Accounts",
+        "link": "https://www.cnbc.com/2026/07/06/spacex-spcx-gwynne-shotwell-stock-trump-accounts.html",
+        "published": "Mon, 06 Jul 2026 14:02:51 GMT"
       },
       {
-        "title": "Wells Fargo says this struggling solar stock to benefit from potential trade policy shift",
-        "link": "https://www.cnbc.com/2026/07/06/wells-fargo-says-this-struggling-solar-stock-to-benefit-from-potential-trade-policy-shift.html",
-        "published": "Mon, 06 Jul 2026 11:29:06 GMT"
-      },
-      {
-        "title": "Why Iran may find it difficult to clear its oil inventories even after sanctions relief",
-        "link": "https://www.cnbc.com/2026/07/06/iran-oil-supply-hormuz-china-energy.html",
-        "published": "Mon, 06 Jul 2026 06:50:12 GMT"
-      },
-      {
-        "title": "Feds seek lower prison term for $100M New Jersey deli fraudster — but some reasons why are hidden",
-        "link": "https://www.cnbc.com/2026/07/03/new-jersey-deli-stockfraud-sentence-patten.html",
-        "published": "Sat, 04 Jul 2026 01:04:34 GMT"
-      },
-      {
-        "title": "Lockheed Martin leading race for $3.5 billion purchase of naval defense firm Ultra Maritime",
+        "title": "Lockheed Martin to buy naval defense firm Ultra Maritime for $3.45 billion",
         "link": "https://www.cnbc.com/2026/07/06/lockheed-martin-leading-race-for-3point5-billion-buy-of-ultra-maritime-.html",
-        "published": "Mon, 06 Jul 2026 02:51:03 GMT"
+        "published": "Mon, 06 Jul 2026 12:54:26 GMT"
+      },
+      {
+        "title": "Versant agrees to buy golf simulator company Full Swing for $530 million",
+        "link": "https://www.cnbc.com/2026/07/06/versant-to-buy-golf-simulator-company-full-swing.html",
+        "published": "Mon, 06 Jul 2026 12:53:00 GMT"
       }
     ]
   }
