@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-07-06T19:22:49",
+  "generated_at": "2026-07-06T21:09:26",
   "date": "2026-07-06",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7549.48,
-        "pct_change": 0.89
+        "last": 7537.43,
+        "pct_change": 0.72
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26178.22,
-        "pct_change": 1.34
+        "last": 26121.16,
+        "pct_change": 1.12
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 52984.57,
-        "pct_change": 0.16
+        "last": 53055.91,
+        "pct_change": 0.29
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3012.74,
-        "pct_change": 0.56
+        "last": 3009.54,
+        "pct_change": 0.45
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.67,
-        "pct_change": -2.97
+        "last": 15.57,
+        "pct_change": -3.59
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
@@ -40,70 +40,70 @@
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 68.61,
-        "pct_change": -0.12
+        "last": 68.6,
+        "pct_change": -0.13
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4171.4,
-        "pct_change": 1.43
+        "last": 4176.9,
+        "pct_change": 1.56
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 184.27,
-        "pct_change": 2.04
+        "last": 183.57,
+        "pct_change": 1.65
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 56.11,
-        "pct_change": 0.88
+        "last": 56.14,
+        "pct_change": 0.93
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 53.08,
-        "pct_change": -0.27
+        "last": 53.13,
+        "pct_change": -0.17
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 162.15,
-        "pct_change": -0.97
+        "last": 161.96,
+        "pct_change": -1.09
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 118.05,
-        "pct_change": 0.79
+        "last": 118.01,
+        "pct_change": 0.76
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 84.03,
-        "pct_change": -1.14
+        "last": 84.1,
+        "pct_change": -1.05
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 185.44,
-        "pct_change": 0.83
+        "last": 185.56,
+        "pct_change": 0.9
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 45.35,
-        "pct_change": -0.9
+        "last": 45.3,
+        "pct_change": -1.01
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 51.87,
-        "pct_change": -0.28
+        "last": 51.98,
+        "pct_change": -0.06
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.28,
-        "pct_change": -0.88
+        "last": 44.29,
+        "pct_change": -0.87
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 110.18,
-        "pct_change": 0.53
+        "last": 110.21,
+        "pct_change": 0.56
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 162.1,
-        "pct_change": 0.4
+        "last": 162.05,
+        "pct_change": 0.37
       }
     }
   },
@@ -144,52 +144,52 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 196.29,
-        "pct_change": -0.25
+        "last": 194.8,
+        "pct_change": -1.01
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 313.42,
-        "pct_change": 1.55
+        "last": 312.66,
+        "pct_change": 1.31
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 386.08,
-        "pct_change": -1.13
+        "last": 386.74,
+        "pct_change": -0.96
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 245.46,
-        "pct_change": 1.15
+        "last": 244.16,
+        "pct_change": 0.61
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 366.95,
-        "pct_change": 1.95
+        "last": 366.46,
+        "pct_change": 1.82
       },
       "Meta": {
         "symbol": "META",
-        "last": 599.53,
-        "pct_change": 2.85
+        "last": 600.29,
+        "pct_change": 2.98
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 733.99,
-        "pct_change": 0.78
+        "last": 731.25,
+        "pct_change": 0.4
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 339.34,
-        "pct_change": 1.79
+        "last": 335.7,
+        "pct_change": 0.7
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 167.19,
-        "pct_change": 1.58
+        "last": 166.81,
+        "pct_change": 1.35
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -595,29 +595,29 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "Prediction: $1,000 Invested in SpaceX Today Will Be Worth This Much By 2030",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-1-000-invested-spacex-101200299.html",
-        "published": "2026-07-05T10:12:00Z"
+        "title": "Best Buy and Apple flag a price shock for shoppers",
+        "link": "https://finance.yahoo.com/economy/articles/best-buy-apple-flag-price-203300039.html",
+        "published": "2026-07-06T20:33:00Z"
       },
       {
-        "title": "Robert Kiyosaki says the ‘everything bubble’ is about to pop in the ‘worst crash in history.’ Protect yourself now",
-        "link": "https://finance.yahoo.com/economy/articles/robert-kiyosaki-says-everything-bubble-102500339.html",
-        "published": "2026-07-05T10:25:00Z"
+        "title": "Why Broadcom Inc.’s (AVGO) Custom AI Silicon Growth Still Supports Its Estimate Story",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/why-broadcom-inc-avgo-custom-120427288.html",
+        "published": "2026-07-05T12:04:27Z"
       },
       {
-        "title": "‘You have to be careful’: Personal finance expert warns travelers about the major mistake they're making at the airport",
-        "link": "https://finance.yahoo.com/markets/currencies/articles/careful-personal-finance-expert-warns-103000004.html",
-        "published": "2026-07-05T10:30:00Z"
+        "title": "AI bubble fears, the endless K-shaped economy, and insane hyperscaler capex spending",
+        "link": "https://finance.yahoo.com/markets/article/ai-bubble-fears-the-endless-k-shaped-economy-and-insane-hyperscaler-capex-spending-123000856.html",
+        "published": "2026-07-05T12:30:00Z"
       },
       {
-        "title": "OPEC+ set to approve another oil output increase, sources say",
-        "link": "https://finance.yahoo.com/news/opec-set-approve-another-oil-092944139.html",
-        "published": "2026-07-05T09:29:44Z"
+        "title": "Are Advisors Rethinking Index Investing?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/advisors-rethinking-index-investing-120000124.html",
+        "published": "2026-07-05T12:00:00Z"
       },
       {
-        "title": "Intel Corporation (INTC) Is One Of Jim Cramer’s Top Performing 2026 Stocks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/intel-corporation-intc-one-jim-111204127.html",
-        "published": "2026-07-05T11:12:04Z"
+        "title": "80% of retirees are sitting on their nest eggs too long — and a new $6,000 tax break is slipping away",
+        "link": "https://finance.yahoo.com/markets/articles/80-retirees-sitting-nest-eggs-123500382.html",
+        "published": "2026-07-05T12:35:00Z"
       },
       {
         "title": "Market Update: IQV",
@@ -625,17 +625,47 @@
         "published": "2026-07-06T17:33:02Z"
       },
       {
-        "title": "The SpaceX IPO Marks \"the Top of a Terrific Bubble,\" According to This Famous Wall Street Veteran",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-marks-top-terrific-101500361.html",
-        "published": "2026-07-05T10:15:00Z"
+        "title": "2 AI Stocks That Could Benefit as AI Moves Beyond the Data Center",
+        "link": "https://finance.yahoo.com/technology/ai/articles/2-ai-stocks-could-benefit-122000508.html",
+        "published": "2026-07-05T12:20:00Z"
       },
       {
-        "title": "Palo Alto Networks (PANW) Shares Up Significantly After Jim Cramer Said They Were A Buy",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-networks-panw-shares-111219536.html",
-        "published": "2026-07-05T11:12:19Z"
+        "title": "'I can't get on the AI train': A 3 a.m. rejection email pushed an engineer to leave tech and go into nursing",
+        "link": "https://finance.yahoo.com/technology/ai/articles/cant-ai-train-3-m-123500405.html",
+        "published": "2026-07-05T12:35:00Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "Your 5 biggest ‘Trump account’ questions, answered",
+        "link": "https://www.marketwatch.com/story/your-5-biggest-questions-about-trump-accounts-answered-421d9f6f?mod=mw_rss_topstories",
+        "published": "Mon, 06 Jul 2026 20:53:00 GMT"
+      },
+      {
+        "title": "Micron’s stock gains, signaling a ‘return to optimism’ about the chip sector",
+        "link": "https://www.marketwatch.com/story/microns-stock-gains-signaling-a-return-to-optimism-about-the-chip-sector-0b7f6a8c?mod=mw_rss_topstories",
+        "published": "Mon, 06 Jul 2026 20:33:00 GMT"
+      },
+      {
+        "title": "TeraWulf’s stock gains after a $19 billion deal with Anthropic",
+        "link": "https://www.marketwatch.com/story/terawulfs-stock-surges-after-a-19-billion-deal-with-anthropic-6899d3bc?mod=mw_rss_topstories",
+        "published": "Mon, 06 Jul 2026 20:25:00 GMT"
+      },
+      {
+        "title": "Strategy is losing a lot of money on bitcoin. Here’s why it’s selling anyway.",
+        "link": "https://www.marketwatch.com/story/strategy-is-losing-a-lot-of-money-on-bitcoin-heres-why-its-selling-anyway-02822bc5?mod=mw_rss_topstories",
+        "published": "Mon, 06 Jul 2026 20:21:00 GMT"
+      },
+      {
+        "title": "Dell’s stock gets another Trump bump — but this time it’s fading",
+        "link": "https://www.marketwatch.com/story/dells-stock-gets-another-trump-bump-but-this-time-its-fading-be5dd9cb?mod=mw_rss_topstories",
+        "published": "Mon, 06 Jul 2026 20:14:00 GMT"
+      },
+      {
+        "title": "How parents can take advantage of the ‘best summer-camp tax break in years’",
+        "link": "https://www.marketwatch.com/story/how-parents-can-take-advantage-of-the-best-summer-camp-tax-break-in-years-cb7c2a1a?mod=mw_rss_topstories",
+        "published": "Mon, 06 Jul 2026 19:21:00 GMT"
+      },
       {
         "title": "Silver has plunged 50% from its January peak to $60. Why it could hit $130 next year.",
         "link": "https://www.marketwatch.com/story/silver-has-plunged-50-from-its-january-peak-to-60-why-it-could-hit-130-next-year-4fe57e45?mod=mw_rss_topstories",
@@ -645,78 +675,48 @@
         "title": "Who should handle your estate plan: Your lawyer or your financial adviser?",
         "link": "https://www.marketwatch.com/story/who-should-handle-your-estate-plan-your-lawyer-or-your-financial-adviser-134189d7?mod=mw_rss_topstories",
         "published": "Mon, 06 Jul 2026 18:23:00 GMT"
-      },
-      {
-        "title": "‘The money would have been life-changing’: My father told my grandmother to slash my inheritance. Is that fair?",
-        "link": "https://www.marketwatch.com/story/the-money-would-have-been-life-changing-my-father-told-my-grandmother-to-slash-my-inheritance-is-that-fair-3808b6d1?mod=mw_rss_topstories",
-        "published": "Mon, 06 Jul 2026 18:15:00 GMT"
-      },
-      {
-        "title": "Your 5 biggest questions about ‘Trump accounts,’ answered",
-        "link": "https://www.marketwatch.com/story/your-5-biggest-questions-about-trump-accounts-answered-421d9f6f?mod=mw_rss_topstories",
-        "published": "Mon, 06 Jul 2026 17:59:00 GMT"
-      },
-      {
-        "title": "Eight microcap stocks of companies expected to grow sales by triple digits through 2028",
-        "link": "https://www.marketwatch.com/story/nine-microcap-stocks-of-companies-expected-to-grow-sales-by-triple-digits-through-2028-df96ab85?mod=mw_rss_topstories",
-        "published": "Mon, 06 Jul 2026 17:49:00 GMT"
-      },
-      {
-        "title": "Your data built the AI boom — but Big Tech is pocketing 100% of the equity",
-        "link": "https://www.marketwatch.com/story/your-share-of-the-ai-wealth-is-a-right-not-a-handout-here-is-how-we-claw-back-our-money-7454b0e0?mod=mw_rss_topstories",
-        "published": "Mon, 06 Jul 2026 17:45:00 GMT"
-      },
-      {
-        "title": "Strategy is losing a lot of money on bitcoin. Here’s why it’s selling anyway.",
-        "link": "https://www.marketwatch.com/story/strategy-is-losing-a-lot-of-money-on-bitcoin-heres-why-its-selling-anyway-02822bc5?mod=mw_rss_topstories",
-        "published": "Mon, 06 Jul 2026 17:43:00 GMT"
-      },
-      {
-        "title": "You want a portfolio that matches your morals. But that could sink your retirement plans.",
-        "link": "https://www.marketwatch.com/story/you-want-a-portfolio-that-matches-your-morals-but-that-could-sink-your-retirement-plans-0b6fb5bf?mod=mw_rss_topstories",
-        "published": "Mon, 06 Jul 2026 17:42:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "Trump plugs Dell at first-ever White House opening bell, sending shares soaring",
-        "link": "https://www.cnbc.com/2026/07/06/trump-opening-bell-ceo-nyse-nasdaq-stocks-accounts.html",
-        "published": "Mon, 06 Jul 2026 16:51:38 GMT"
+        "title": "Dow jumps 150 points for first close above 53,000; Nasdaq rises as chips rebound: Live updates",
+        "link": "https://www.cnbc.com/2026/07/05/stock-market-today-live-updates.html",
+        "published": "Mon, 06 Jul 2026 20:20:39 GMT"
       },
       {
         "title": "Microsoft cuts 4,800 jobs, as Xbox unit downsizes and plans to spin off four gaming studios",
         "link": "https://www.cnbc.com/2026/07/06/microsoft-cuts-2point1percent-of-employees-as-xbox-unit-plans-to-spin-studios.html",
-        "published": "Mon, 06 Jul 2026 17:24:49 GMT"
+        "published": "Mon, 06 Jul 2026 20:00:37 GMT"
+      },
+      {
+        "title": "Platner Senate campaign taking 'time to reflect' on path forward after sexual assault allegation",
+        "link": "https://www.cnbc.com/2026/07/06/graham-platner-maine-senate-allegation-response.html",
+        "published": "Mon, 06 Jul 2026 20:36:54 GMT"
       },
       {
         "title": "Belgium loses appeal of Balogun eligibility after Trump defends intervention with FIFA",
         "link": "https://www.cnbc.com/2026/07/05/trump-fifa-balogun-world-cup-red-card-suspension.html",
-        "published": "Mon, 06 Jul 2026 17:41:12 GMT"
+        "published": "Mon, 06 Jul 2026 20:11:06 GMT"
       },
       {
-        "title": "Trump Accounts are live. Here's how some families plan to use them",
-        "link": "https://www.cnbc.com/2026/07/06/how-families-are-using-trump-accounts.html",
-        "published": "Mon, 06 Jul 2026 18:29:50 GMT"
+        "title": "SpaceX joins the Nasdaq-100 on Tuesday. Here's what it means for the stock",
+        "link": "https://www.cnbc.com/2026/07/06/spacex-joins-the-nasdaq-100-on-tuesday-what-it-means-for-the-stock.html",
+        "published": "Mon, 06 Jul 2026 20:02:45 GMT"
       },
       {
-        "title": "Low volatility stocks like insurers and REITs are suddenly turning into market leaders, Katie Stockton says",
-        "link": "https://www.cnbc.com/2026/07/06/low-volatility-stocks-are-suddenly-turning-into-market-leaders-katie-stockton-says.html",
-        "published": "Mon, 06 Jul 2026 18:11:21 GMT"
+        "title": "Toyota to invest $3.6 billion to move Tacoma pickup truck production from Mexico to Texas",
+        "link": "https://www.cnbc.com/2026/07/06/toyota-tacoma-truck-san-antonio-plant.html",
+        "published": "Mon, 06 Jul 2026 20:30:01 GMT"
+      },
+      {
+        "title": "China's Alibaba bans Anthropic AI for employees after 'distillation attack' accusation",
+        "link": "https://www.cnbc.com/2026/07/06/alibaba-anthropic-ai-ban-claude-china.html",
+        "published": "Mon, 06 Jul 2026 20:56:35 GMT"
       },
       {
         "title": "Here's how SpaceX's Nasdaq-100 inclusion might affect options pricing",
         "link": "https://www.cnbc.com/2026/07/06/heres-how-spacexs-nasdaq-100-inclusion-might-affect-options-pricing.html",
         "published": "Mon, 06 Jul 2026 18:27:06 GMT"
-      },
-      {
-        "title": "Stocks making the biggest moves midday: AXT, Dell Technologies, Broadcom, O'Reilly Automotive & more",
-        "link": "https://www.cnbc.com/2026/07/06/stocks-making-the-biggest-moves-midday-axti-dell-avgo-orly.html",
-        "published": "Mon, 06 Jul 2026 18:34:11 GMT"
-      },
-      {
-        "title": "Nasdaq jumps to start new week led by chip stocks, Dow briefly tops 53,000 for first time: Live updates",
-        "link": "https://www.cnbc.com/2026/07/05/stock-market-today-live-updates.html",
-        "published": "Mon, 06 Jul 2026 19:10:22 GMT"
       }
     ]
   }
