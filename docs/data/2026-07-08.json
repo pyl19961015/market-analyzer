@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-07-08T12:03:49",
+  "generated_at": "2026-07-08T14:40:30",
   "date": "2026-07-08",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7503.85,
-        "pct_change": -0.45
+        "last": 7450.73,
+        "pct_change": -0.71
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 25818.69,
-        "pct_change": -1.16
+        "last": 25676.31,
+        "pct_change": -0.55
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 52925.15,
-        "pct_change": -0.25
+        "last": 52219.3,
+        "pct_change": -1.33
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2982.49,
-        "pct_change": -0.9
+        "last": 2959.24,
+        "pct_change": -0.78
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 17.74,
-        "pct_change": 9.98
+        "last": 17.44,
+        "pct_change": 8.12
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.53,
-        "pct_change": 0.98
+        "last": 4.58,
+        "pct_change": 1.19
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 101.22,
-        "pct_change": 0.08
+        "last": 101.13,
+        "pct_change": -0.01
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 73.95,
-        "pct_change": 4.98
+        "last": 75.46,
+        "pct_change": 7.13
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4071.2,
-        "pct_change": -1.79
+        "last": 4069.6,
+        "pct_change": -1.83
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 179.18,
-        "pct_change": -2.39
+        "last": 179.04,
+        "pct_change": -0.08
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 56.05,
-        "pct_change": -0.16
+        "last": 55.07,
+        "pct_change": -1.75
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 54.64,
-        "pct_change": 2.84
+        "last": 55.7,
+        "pct_change": 1.94
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 164.44,
-        "pct_change": 1.53
+        "last": 163.45,
+        "pct_change": -0.6
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 117.39,
-        "pct_change": -0.53
+        "last": 114.94,
+        "pct_change": -2.09
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 84.86,
-        "pct_change": 0.9
+        "last": 85.0,
+        "pct_change": 0.16
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 182.38,
-        "pct_change": -1.71
+        "last": 180.4,
+        "pct_change": -1.09
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 45.7,
-        "pct_change": 0.88
+        "last": 45.67,
+        "pct_change": -0.07
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 51.51,
-        "pct_change": -0.9
+        "last": 50.15,
+        "pct_change": -2.63
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.89,
-        "pct_change": 1.35
+        "last": 44.51,
+        "pct_change": -0.85
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 111.02,
-        "pct_change": 0.73
+        "last": 109.72,
+        "pct_change": -1.17
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 162.51,
-        "pct_change": 0.26
+        "last": 162.56,
+        "pct_change": 0.29
       }
     }
   },
@@ -131,65 +131,65 @@
       "effr": 3.63,
       "target_low": 3.5,
       "target_high": 3.75,
-      "as_of": "2026-07-06"
+      "as_of": "2026-07-07"
     },
     "japan": {
       "yield": 2.834,
       "as_of": "2026-07-07",
       "prev_yield": 2.823
     },
-    "spread_10y": 1.7
+    "spread_10y": 1.75
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 185.38,
-        "pct_change": -4.84
+        "last": 185.07,
+        "pct_change": -0.17
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 310.66,
-        "pct_change": -0.64
+        "last": 310.36,
+        "pct_change": -0.1
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 388.84,
-        "pct_change": 0.54
+        "last": 382.15,
+        "pct_change": -1.72
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 245.98,
-        "pct_change": 0.75
+        "last": 241.77,
+        "pct_change": -1.71
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 367.03,
-        "pct_change": 0.16
+        "last": 360.83,
+        "pct_change": -1.69
       },
       "Meta": {
         "symbol": "META",
-        "last": 615.58,
-        "pct_change": 2.55
+        "last": 601.24,
+        "pct_change": -2.33
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 698.91,
-        "pct_change": -4.42
+        "last": 709.59,
+        "pct_change": 1.53
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 314.13,
-        "pct_change": -6.43
+        "last": 317.0,
+        "pct_change": 0.91
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 158.61,
-        "pct_change": -4.92
+        "last": 155.41,
+        "pct_change": -2.01
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -600,29 +600,29 @@
         "published": "2026-07-07T20:23:00Z"
       },
       {
-        "title": "Stock market today: S&P 500, Nasdaq, Dow futures fall as oil surges, Trump declares ceasefire 'over'",
-        "link": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-wednedsay-july-8-230111117.html",
+        "title": "Tech stocks live: Chip stocks sell off, SpaceX joins Nasdaq-100",
+        "link": "https://finance.yahoo.com/technology/live/tech-stocks-live-chip-stocks-sell-off-spacex-joins-nasdaq-100-131003284.html",
+        "published": "2026-07-06T13:10:03Z"
+      },
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq fall as oil surges, Trump declares ceasefire 'over'",
+        "link": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-wednedsay-july-8-dow-sp-nasdaq-fall-oil-rise-230111117.html",
         "published": "2026-07-07T23:01:11Z"
       },
       {
-        "title": "ICON Public Limited Company (ICLR) Fell Due to Uncertainty Surrounding Reported Earnings",
-        "link": "https://finance.yahoo.com/healthcare/articles/icon-public-limited-company-iclr-114139877.html",
-        "published": "2026-07-08T11:41:39Z"
+        "title": "India To Prevent Banks From Owning Crypto",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/india-prevent-banks-owning-crypto-141700622.html",
+        "published": "2026-07-08T14:17:00Z"
       },
       {
-        "title": "Dow Jones Futures Tumble, Oil Prices Soar As Trump Says U.S.-Iran Ceasefire 'Over'",
-        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-jump-trump-us-iran-ceasefire-over/?src=A00220&yptr=yahoo",
-        "published": "2026-07-08T11:39:40Z"
+        "title": "Intel stock is currently trading at a level not seen even during the dot-com bubble",
+        "link": "https://finance.yahoo.com/markets/stocks/article/intel-stock-is-currently-trading-at-a-level-not-seen-even-during-the-dot-com-bubble-134449939.html",
+        "published": "2026-07-08T13:44:49Z"
       },
       {
-        "title": "Macroeconomic Headwinds Weighed on Pinterest (PINS) in Q1",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/macroeconomic-headwinds-weighed-pinterest-pins-113836757.html",
-        "published": "2026-07-08T11:38:36Z"
-      },
-      {
-        "title": "Market Digest: RCL",
-        "link": "https://finance.yahoo.com/research/reports/ARGUS_47539_MarketSummary_1783507894000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-        "published": "2026-07-08T10:51:34Z"
+        "title": "Daily Spotlight: Equities Post Strong First Half",
+        "link": "https://finance.yahoo.com/research/reports/ARGUS_47545_MarketOutlook_1783509782000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+        "published": "2026-07-08T11:23:02Z"
       },
       {
         "title": "CoreWeave stock sinks as mag 7 move rattles investors",
@@ -630,78 +630,83 @@
         "published": "2026-07-07T21:33:00Z"
       },
       {
-        "title": "Gartner (IT) Declines Amid Signs of Slowing Growth",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/gartner-declines-amid-signs-slowing-113544780.html",
-        "published": "2026-07-08T11:35:44Z"
+        "title": "Stock Market Today: Dow Dives As Trump Says Iran Ceasefire Is 'Over'; Micron, Sandisk Reverse (Live Coverage)",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-us-iran-ceasefire-micron-sandisk/?src=A00220&yptr=yahoo",
+        "published": "2026-07-08T13:44:48Z"
       }
     ],
     "MarketWatch Top Stories": [
       {
+        "title": "‘I’ll happily wait’: Does delaying Social Security make sense for high earners like me?",
+        "link": "https://www.marketwatch.com/story/ill-happily-wait-does-delaying-social-security-make-sense-for-high-earners-like-me-17dca69b?mod=mw_rss_topstories",
+        "published": "Wed, 08 Jul 2026 14:00:00 GMT"
+      },
+      {
+        "title": "‘Our family is broken beyond repair’: My brother took over my parents’ finances. What can I do?",
+        "link": "https://www.marketwatch.com/story/our-family-is-broken-beyond-repair-my-brother-took-over-my-parents-finances-what-can-i-do-95239fb9?mod=mw_rss_topstories",
+        "published": "Wed, 08 Jul 2026 14:00:00 GMT"
+      },
+      {
+        "title": "I started retirement with $3 million. Now I’m 89 and down to $2 million. What if I get sick?",
+        "link": "https://www.marketwatch.com/story/i-started-retirement-with-3-million-now-im-89-and-down-to-2-million-what-if-i-get-sick-7401056a?mod=mw_rss_topstories",
+        "published": "Wed, 08 Jul 2026 14:00:00 GMT"
+      },
+      {
         "title": "As a red-hot global stock market stumbles into bear territory, this Wall Street bull spots a dip worth buying",
         "link": "https://www.marketwatch.com/story/as-a-once-hot-stock-market-tumbles-into-bear-territory-this-wall-street-bull-says-its-time-to-buy-the-dip-c8c2c72f?mod=mw_rss_topstories",
-        "published": "Wed, 08 Jul 2026 11:02:00 GMT"
+        "published": "Wed, 08 Jul 2026 13:41:00 GMT"
       },
       {
-        "title": "I found a simple way to save money on frozen pizza. What’s your best money-saving trick?",
-        "link": "https://www.marketwatch.com/story/i-make-my-own-pizza-whats-the-best-way-youve-found-to-save-money-25412399?mod=mw_rss_topstories",
-        "published": "Wed, 08 Jul 2026 11:00:00 GMT"
+        "title": "We’re spending $7,000 to attend 7 weddings this year — and that’s after cutting corners",
+        "link": "https://www.marketwatch.com/story/were-spending-7-000-to-attend-7-weddings-this-year-and-thats-after-cutting-corners-8e467037?mod=mw_rss_topstories",
+        "published": "Wed, 08 Jul 2026 13:31:00 GMT"
       },
       {
-        "title": "Kevin Warsh plans to stop scripting the Fed’s next moves. It could trigger a wild ride for traders.",
-        "link": "https://www.marketwatch.com/story/kevin-warsh-plans-to-stop-scripting-the-feds-next-moves-it-could-trigger-a-wild-ride-for-traders-0bb39b9e?mod=mw_rss_topstories",
-        "published": "Wed, 08 Jul 2026 11:00:00 GMT"
-      },
-      {
-        "title": "It was the world’s hottest stock market. Now South Korea has entered bear territory.",
-        "link": "https://www.marketwatch.com/story/it-was-the-worlds-hottest-stock-market-now-south-koreas-stock-market-index-has-entered-bear-market-territory-95d70e3d?mod=mw_rss_topstories",
-        "published": "Wed, 08 Jul 2026 10:57:00 GMT"
-      },
-      {
-        "title": "Oil prices jump by the most in two months after Trump suggests U.S.-Iran cease-fire is over",
+        "title": "Oil prices surge after Trump suggests U.S.-Iran cease-fire is over",
         "link": "https://www.marketwatch.com/story/oil-prices-jump-by-the-most-in-two-months-after-trump-suggests-u-s-iran-cease-fire-is-over-9fa7caee?mod=mw_rss_topstories",
-        "published": "Wed, 08 Jul 2026 09:21:00 GMT"
+        "published": "Wed, 08 Jul 2026 13:29:00 GMT"
       },
       {
-        "title": "‘I’d hate to end up with an unexpected tax bill’: I’m 73 and still work full time. Can I avoid paying taxes on my Social Security benefits?",
-        "link": "https://www.marketwatch.com/story/im-73-and-still-work-full-time-can-i-avoid-paying-taxes-on-my-social-security-benefits-06ecc7c2?mod=mw_rss_topstories",
-        "published": "Wed, 08 Jul 2026 09:16:00 GMT"
+        "title": "Alibaba just had its best day in 10 months. Is it time for China techs to catch up?",
+        "link": "https://www.marketwatch.com/story/alibaba-just-had-its-best-day-in-10-months-is-it-time-for-china-techs-to-catch-up-8ccc3f7c?mod=mw_rss_topstories",
+        "published": "Wed, 08 Jul 2026 13:09:00 GMT"
       },
       {
-        "title": "Dakota Johnson quickly sells $6 million midcentury modern home in L.A.",
-        "link": "https://www.marketwatch.com/story/dakota-johnson-quickly-sells-6-million-midcentury-modern-home-in-l-a-b6fb5e00?mod=mw_rss_topstories",
-        "published": "Wed, 08 Jul 2026 09:01:00 GMT"
-      },
-      {
-        "title": "After selling her $5 million Westchester home, Drew Barrymore shows off her RV",
-        "link": "https://www.marketwatch.com/story/after-selling-her-5-million-westchester-home-drew-barrymore-shows-off-her-rv-1d2cccf7?mod=mw_rss_topstories",
-        "published": "Wed, 08 Jul 2026 08:58:00 GMT"
+        "title": "Iran war will leave an inflation scar on the U.S. through 2027, IMF says",
+        "link": "https://www.marketwatch.com/story/iran-war-will-leave-an-inflation-scar-on-the-u-s-through-2027-imf-says-909818b8?mod=mw_rss_topstories",
+        "published": "Wed, 08 Jul 2026 13:03:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "Trump says Iran ceasefire is 'over' after latest round of strikes",
+        "title": "Trump says Iran ceasefire is 'over,' U.S. will 'hit them hard tonight'",
         "link": "https://www.cnbc.com/2026/07/08/trump-says-iran-ceasefire-is-over-after-latest-round-of-strikes.html",
-        "published": "Wed, 08 Jul 2026 10:30:33 GMT"
+        "published": "Wed, 08 Jul 2026 13:59:28 GMT"
       },
       {
         "title": "Fed meeting minutes to show 'family fight' over rates. The squabble could drag on for a while",
         "link": "https://www.cnbc.com/2026/07/08/with-minutes-due-feds-family-fight-over-interest-rates-could-drag-on.html",
-        "published": "Wed, 08 Jul 2026 11:40:31 GMT"
+        "published": "Wed, 08 Jul 2026 14:28:30 GMT"
       },
       {
-        "title": "Apple commits $30 billion to Broadcom for U.S. chipmaking push",
-        "link": "https://www.cnbc.com/2026/07/08/apple-commits-30-billion-to-broadcom-for-us-chipmaking-push.html",
-        "published": "Wed, 08 Jul 2026 10:36:15 GMT"
+        "title": "Delta launches 'basic business' fares without lounge access, seat selection",
+        "link": "https://www.cnbc.com/2026/07/08/delta-basic-business-fares.html",
+        "published": "Wed, 08 Jul 2026 13:16:30 GMT"
       },
       {
-        "title": "Stocks making the biggest moves premarket: United Airlines, Micron, Chevron & more",
-        "link": "https://www.cnbc.com/2026/07/08/stocks-making-the-biggest-moves-premarket-ual-mu-cvx.html",
-        "published": "Wed, 08 Jul 2026 11:41:39 GMT"
+        "title": "Kentucky Gov. Beshear presses McConnell to provide health update as speculation grows",
+        "link": "https://www.cnbc.com/2026/07/08/mcconnell-health-update-beshear-hospitalization-kentucky.html",
+        "published": "Wed, 08 Jul 2026 14:18:18 GMT"
       },
       {
-        "title": "This telecommunications giant could lose ground to SpaceX's Starlink, Wells Fargo says",
-        "link": "https://www.cnbc.com/2026/07/08/att-could-sink-as-starlink-use-soars-wells-fargo-says.html",
-        "published": "Wed, 08 Jul 2026 10:48:50 GMT"
+        "title": "Why the drop in stocks and oil market reaction is not worse after Trump's comments",
+        "link": "https://www.cnbc.com/2026/07/08/why-the-drop-in-stocks-and-oil-market-reaction-is-not-worse-after-trumps-comments.html",
+        "published": "Wed, 08 Jul 2026 13:35:21 GMT"
+      },
+      {
+        "title": "Waymo starts driverless rides in four more U.S. markets as expansion accelerates",
+        "link": "https://www.cnbc.com/2026/07/08/waymo-starts-driverless-rides-in-san-diego-las-vegas-tampa-denver.html",
+        "published": "Wed, 08 Jul 2026 14:00:01 GMT"
       },
       {
         "title": "Trump opposes Carroll getting $5 million damages verdict, cites last-ditch Supreme Court bid",
@@ -709,14 +714,9 @@
         "published": "Wed, 08 Jul 2026 10:16:56 GMT"
       },
       {
-        "title": "Mitch McConnell's health concerns grow amid 4th week in hospital with few details from aides",
-        "link": "https://www.cnbc.com/2026/07/07/mitch-mcconnell-health-senate-gop.html",
-        "published": "Tue, 07 Jul 2026 19:57:01 GMT"
-      },
-      {
-        "title": "China warns about AI risks with Anthropic's Claude Code",
-        "link": "https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html",
-        "published": "Wed, 08 Jul 2026 08:14:28 GMT"
+        "title": "The American Dream is missing one key ingredient, says Harvard happiness expert: Without it, 'life is pretty grim'",
+        "link": "https://www.cnbc.com/2026/07/08/the-american-dream-is-missing-a-key-ingredient-says-expert-without-it-life-is-pretty-grim.html",
+        "published": "Wed, 08 Jul 2026 14:00:01 GMT"
       }
     ]
   }
