@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-10T06:28:29",
+  "generated_at": "2026-07-10T10:01:11",
   "date": "2026-07-10",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": null,
-        "pct_change": null
+        "last": 7543.64,
+        "pct_change": 0.81
       },
       "Nasdaq": {
         "symbol": "^IXIC",
@@ -25,8 +25,8 @@
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.84,
-        "pct_change": -6.27
+        "last": 16.01,
+        "pct_change": 1.07
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
@@ -35,18 +35,18 @@
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 100.75,
-        "pct_change": -0.19
+        "last": 100.87,
+        "pct_change": -0.07
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 71.82,
-        "pct_change": -0.36
+        "last": 71.89,
+        "pct_change": -0.26
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4127.6,
-        "pct_change": -0.07
+        "last": 4111.8,
+        "pct_change": -0.46
       }
     },
     "sectors": {
@@ -111,18 +111,18 @@
     "indices": {
       "Nikkei 225": {
         "symbol": "^N225",
-        "last": 68652.58,
-        "pct_change": 1.34
+        "last": 68557.73,
+        "pct_change": 1.2
       },
       "TOPIX (ETF代理)": {
         "symbol": "1306.T",
-        "last": 421.4,
-        "pct_change": 0.55
+        "last": 422.1,
+        "pct_change": 0.72
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 161.53,
-        "pct_change": -0.62
+        "last": 161.81,
+        "pct_change": -0.45
       }
     }
   },
@@ -193,8 +193,8 @@
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 6406.0,
-        "pct_change": -1.13
+        "last": 6426.0,
+        "pct_change": -0.82
       }
     }
   },
@@ -595,51 +595,66 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "AT&T leaves rivals flat-footed as bankrupt carrier folds",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/t-leaves-rivals-flat-footed-183300288.html",
-        "published": "2026-07-08T18:33:00Z"
-      },
-      {
-        "title": "1 Smart Way to Keep 95% of Your Capital Without Giving Up Long-Term Growth",
-        "link": "https://finance.yahoo.com/markets/options/articles/1-smart-way-keep-95-182346996.html",
-        "published": "2026-07-08T18:23:46Z"
-      },
-      {
-        "title": "From Rockets to Red Flags: Here Is How to Play SPCX Stock After AI Safety Controversy",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/rockets-red-flags-play-spcx-182545287.html",
-        "published": "2026-07-08T18:25:45Z"
-      },
-      {
-        "title": "These 3 Niche ETFs Might Just Buck A Bear Trend",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/3-niche-etfs-might-just-182751749.html",
-        "published": "2026-07-08T18:27:51Z"
-      },
-      {
-        "title": "Nissan CEO: News 'coming soon' on potential Honda  partnership",
-        "link": "https://finance.yahoo.com/markets/article/nissan-ceo-news-coming-soon-on-potential-honda-partnership-183802707.html",
-        "published": "2026-07-08T18:38:02Z"
-      },
-      {
         "title": "Fed minutes expose deep divide over interest-rate outlook",
         "link": "https://finance.yahoo.com/economy/policy/articles/fed-minutes-expose-deep-divide-141700465.html",
         "published": "2026-07-09T14:17:00Z"
       },
       {
-        "title": "Bull vs Bear case of Advanced Micro Devices, Inc. (AMD)",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/bull-vs-bear-case-advanced-184827819.html",
-        "published": "2026-07-08T18:48:27Z"
+        "title": "What drives the price of gold?",
+        "link": "https://finance.yahoo.com/personal-finance/investing/article/what-drives-gold-price-171825145.html",
+        "published": "2026-07-08T17:18:25Z"
       },
       {
-        "title": "How Lumentum Holdings Inc. (LITE) Became a Critical Piece of the AI Boom",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/lumentum-holdings-inc-lite-became-184834647.html",
-        "published": "2026-07-08T18:48:34Z"
+        "title": "The US-Iran conflict could still drive up food prices. How to get ahead of it.",
+        "link": "https://finance.yahoo.com/personal-finance/banking/article/the-us-iran-conflict-could-still-drive-up-food-prices-how-to-get-ahead-of-it-135110483.html",
+        "published": "2026-04-16T13:51:10Z"
+      },
+      {
+        "title": "When will gas prices go down? What to know as you plan your summer road trip.",
+        "link": "https://finance.yahoo.com/personal-finance/banking/article/when-will-gas-prices-go-down-what-to-know-as-you-plan-your-summer-road-trip-154506731.html",
+        "published": "2026-04-14T15:45:06Z"
+      },
+      {
+        "title": "Raisin review (2026): Is this high-yield savings marketplace trustworthy?",
+        "link": "https://finance.yahoo.com/personal-finance/banking/review/raisin-review-154213864.html",
+        "published": "2025-04-29T15:42:13Z"
+      },
+      {
+        "title": "If you invested $10,000 in Bitcoin, Trump meme coin, and gold when Trump took office, here's what you'd have today",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/invested-10-000-bitcoin-trump-222200005.html",
+        "published": "2026-07-09T22:22:00Z"
+      },
+      {
+        "title": "Mortgage rate predictions for the next five years: What you can expect",
+        "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rate-predictions-for-the-next-five-years-what-you-can-expect-195826935.html",
+        "published": "2025-08-18T19:58:26Z"
+      },
+      {
+        "title": "First Foundation Bank review (2026): Personal and business banking with competitive online rates",
+        "link": "https://finance.yahoo.com/personal-finance/banking/review/first-foundation-bank-review-135949322.html",
+        "published": "2025-05-30T13:59:49Z"
       }
     ],
     "MarketWatch Top Stories": [
       {
+        "title": "As AI spending concerns grow, here’s the bet to make ahead of critical stress test, says veteran Jefferies strategist",
+        "link": "https://www.marketwatch.com/story/as-ai-spending-concerns-grow-heres-the-bet-to-make-ahead-of-critical-stress-test-says-veteran-jefferies-strategist-4503ba4f?mod=mw_rss_topstories",
+        "published": "Fri, 10 Jul 2026 09:31:00 GMT"
+      },
+      {
+        "title": "My insurance company said my roof lost a few tiles. Loss adjusters found $10,000 in storm damage. How could this happen?",
+        "link": "https://www.marketwatch.com/story/my-insurance-company-said-my-roof-lost-a-few-tiles-loss-adjusters-found-10-000-in-storm-damage-how-could-this-happen-8e1cb8bf?mod=mw_rss_topstories",
+        "published": "Fri, 10 Jul 2026 09:15:00 GMT"
+      },
+      {
         "title": "SK Hynix raises $26.5 billion in U.S. offering. What to know about the stock.",
         "link": "https://www.marketwatch.com/story/sk-hynix-is-about-to-hit-the-u-s-market-heres-what-to-know-about-the-deal-1c873fa4?mod=mw_rss_topstories",
-        "published": "Fri, 10 Jul 2026 02:38:00 GMT"
+        "published": "Fri, 10 Jul 2026 07:28:00 GMT"
+      },
+      {
+        "title": "Bidding war breaks out for easyJet as Apollo tops rival private-equity group’s bid",
+        "link": "https://www.marketwatch.com/story/bidding-war-breaks-out-for-easyjet-as-apollo-tops-rival-private-equity-groups-bid-d75ffd3c?mod=mw_rss_topstories",
+        "published": "Fri, 10 Jul 2026 06:40:00 GMT"
       },
       {
         "title": "Taco Bell is reportedly pulling produce from some stores. Here’s what to know.",
@@ -660,43 +675,33 @@
         "title": "Can Walmart help the Fed harness real-time U.S. economic data? We’re about to find out.",
         "link": "https://www.marketwatch.com/story/can-walmart-help-the-fed-harness-real-time-u-s-economic-data-were-about-to-find-out-e625925a?mod=mw_rss_topstories",
         "published": "Thu, 09 Jul 2026 21:52:00 GMT"
-      },
-      {
-        "title": "A junior employee saved this company six figures using AI. Here’s how.",
-        "link": "https://www.marketwatch.com/story/a-junior-employee-saved-this-company-six-figures-using-ai-heres-how-ca4335d3?mod=mw_rss_topstories",
-        "published": "Thu, 09 Jul 2026 21:29:00 GMT"
-      },
-      {
-        "title": "The dot-com crash was a $5 trillion blip. Why the next financial crisis could hit 4 times harder.",
-        "link": "https://www.marketwatch.com/story/the-dot-com-crash-was-a-5-trillion-blip-why-the-next-financial-crisis-could-hit-4-times-harder-29f4aa57?mod=mw_rss_topstories",
-        "published": "Thu, 09 Jul 2026 21:09:00 GMT"
-      },
-      {
-        "title": "‘The money would have been life-changing’: My father told my grandmother to slash my inheritance. Is that fair?",
-        "link": "https://www.marketwatch.com/story/the-money-would-have-been-life-changing-my-father-told-my-grandmother-to-slash-my-inheritance-is-that-fair-3808b6d1?mod=mw_rss_topstories",
-        "published": "Thu, 09 Jul 2026 21:00:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "Inside NATO's extraordinary 48 hours that revealed Trump's grip on global diplomacy",
-        "link": "https://www.cnbc.com/2026/07/09/nato-trump-rutte-ukraine-russia-us-iran.html",
-        "published": "Thu, 09 Jul 2026 23:00:52 GMT"
+        "title": "Meet SK Hynix, the trillion-dollar South Korean chipmaker debuting on U.S. markets",
+        "link": "https://www.cnbc.com/2026/07/09/meet-sk-hynix-the-trillion-dollar-chipmaker-debuting-on-us-markets-.html",
+        "published": "Thu, 09 Jul 2026 15:13:29 GMT"
       },
       {
-        "title": "Will SK Hynix’s Wall Street debut narrow its 'Korea discount'?",
-        "link": "https://www.cnbc.com/2026/07/10/sk-hynix-debuts-on-nasdaq-will-that-bridge-its-korea-discount-.html",
-        "published": "Fri, 10 Jul 2026 06:21:42 GMT"
+        "title": "World oil demand set for first annual decline since 2020, IEA says",
+        "link": "https://www.cnbc.com/2026/07/10/iea-world-oil-demand-declines-iran-war.html",
+        "published": "Fri, 10 Jul 2026 09:15:22 GMT"
       },
       {
-        "title": "U.S. to continue 'technical talks' with Iran after Trump said ceasefire was 'over'",
-        "link": "https://www.cnbc.com/2026/07/10/us-iran-war-strikes-strait-of-hormuz-technical-talks-progress-.html",
-        "published": "Fri, 10 Jul 2026 02:51:57 GMT"
+        "title": "New Fed task force members share Chairman Kevin Warsh's embrace of AI",
+        "link": "https://www.cnbc.com/2026/07/09/fed-task-force-member-chairman-kevin-warsh-ai.html",
+        "published": "Thu, 09 Jul 2026 23:00:10 GMT"
       },
       {
-        "title": "Stock futures dip after chip-led rally; SoftBank soars 11% as Asia tech stocks rise: Live updates",
+        "title": "Stock futures mixed as investors await SK Hynix U.S. debut; chip stocks retreat from rally: Live updates",
         "link": "https://www.cnbc.com/2026/07/09/stock-market-today-live-updates.html",
-        "published": "Fri, 10 Jul 2026 06:18:43 GMT"
+        "published": "Fri, 10 Jul 2026 09:39:56 GMT"
+      },
+      {
+        "title": "OpenAI exec Fidji Simo says she's stepping down due to chronic illness, will transition to advisor",
+        "link": "https://www.cnbc.com/2026/07/09/openai-exec-fidji-simo-says-she-will-step-down-and-transition-to-part-time-advisor.html",
+        "published": "Thu, 09 Jul 2026 23:38:13 GMT"
       },
       {
         "title": "Here are analysts' favorite Nasdaq 100 stocks for the second half",
@@ -704,19 +709,14 @@
         "published": "Thu, 09 Jul 2026 20:00:33 GMT"
       },
       {
-        "title": "Kevin Warsh names members of his Federal Reserve task forces, including Marc Andreessen, Doug McMillon",
-        "link": "https://www.cnbc.com/2026/07/09/kevin-warsh-names-members-of-his-federal-reserve-task-forces-including-marc-andreessen-doug-mcmillon.html",
-        "published": "Thu, 09 Jul 2026 19:53:20 GMT"
+        "title": "U.S. to continue 'technical talks' with Iran after Trump said ceasefire was 'over'",
+        "link": "https://www.cnbc.com/2026/07/10/us-iran-war-strikes-strait-of-hormuz-technical-talks-progress-.html",
+        "published": "Fri, 10 Jul 2026 02:51:57 GMT"
       },
       {
-        "title": "A huge trade just happened on the Nasdaq 100. Bulls are taking notice",
-        "link": "https://www.cnbc.com/2026/07/09/a-huge-trade-just-happened-on-the-nasdaq-100-bulls-are-taking-notice.html",
-        "published": "Thu, 09 Jul 2026 19:26:44 GMT"
-      },
-      {
-        "title": "Alleged Reflecting Pool vandal David Hearn pleads not guilty; lawyer calls him 'scapegoat'",
-        "link": "https://www.cnbc.com/2026/07/09/reflecting-pool-david-hearn-washington-trump-olympian.html",
-        "published": "Thu, 09 Jul 2026 17:35:10 GMT"
+        "title": "EasyJet pops 13% as airline weighs $7.7 billion rival takeover bid from Apollo",
+        "link": "https://www.cnbc.com/2026/07/10/easyjet-apollo-takeover-bid-castlelake-share-price.html",
+        "published": "Fri, 10 Jul 2026 08:00:03 GMT"
       }
     ]
   }
