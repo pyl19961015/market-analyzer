@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-07-10T12:36:55",
+  "generated_at": "2026-07-10T15:19:39",
   "date": "2026-07-10",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7543.64,
-        "pct_change": 0.81
+        "last": 7551.3,
+        "pct_change": 0.1
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26206.89,
-        "pct_change": 1.3
+        "last": 26170.02,
+        "pct_change": -0.14
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 52487.41,
-        "pct_change": 0.27
+        "last": 52613.33,
+        "pct_change": 0.24
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2992.54,
-        "pct_change": 1.22
+        "last": 2968.04,
+        "pct_change": -0.82
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.82,
-        "pct_change": -0.13
+        "last": 15.81,
+        "pct_change": -0.19
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.54,
-        "pct_change": 0.09
+        "last": 4.56,
+        "pct_change": 0.4
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 100.85,
-        "pct_change": -0.09
+        "last": 100.88,
+        "pct_change": -0.06
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 72.12,
-        "pct_change": 0.06
+        "last": 71.54,
+        "pct_change": -0.75
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4115.5,
-        "pct_change": -0.37
+        "last": 4107.7,
+        "pct_change": -0.55
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 185.35,
-        "pct_change": 2.18
+        "last": 184.65,
+        "pct_change": -0.38
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 55.54,
-        "pct_change": 1.04
+        "last": 55.64,
+        "pct_change": 0.18
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 54.82,
-        "pct_change": -1.4
+        "last": 54.76,
+        "pct_change": -0.12
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 162.17,
-        "pct_change": -0.08
+        "last": 160.9,
+        "pct_change": -0.78
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 116.85,
-        "pct_change": 1.34
+        "last": 117.61,
+        "pct_change": 0.65
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 83.2,
-        "pct_change": -1.41
+        "last": 84.06,
+        "pct_change": 1.03
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 181.11,
-        "pct_change": 0.38
+        "last": 182.04,
+        "pct_change": 0.51
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 45.13,
-        "pct_change": -0.51
+        "last": 45.37,
+        "pct_change": 0.52
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 50.26,
-        "pct_change": 0.2
+        "last": 50.97,
+        "pct_change": 1.42
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.23,
-        "pct_change": 0.18
+        "last": 44.21,
+        "pct_change": -0.06
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 110.51,
-        "pct_change": 0.96
+        "last": 111.58,
+        "pct_change": 0.97
       }
     }
   },
@@ -111,8 +111,8 @@
     "indices": {
       "Nikkei 225": {
         "symbol": "^N225",
-        "last": 68557.73,
-        "pct_change": 1.2
+        "last": 67743.85,
+        "pct_change": 1.38
       },
       "TOPIX (ETF代理)": {
         "symbol": "1306.T",
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 161.85,
-        "pct_change": -0.42
+        "last": 161.63,
+        "pct_change": -0.56
       }
     }
   },
@@ -131,70 +131,70 @@
       "effr": 3.62,
       "target_low": 3.5,
       "target_high": 3.75,
-      "as_of": "2026-07-08"
+      "as_of": "2026-07-09"
     },
     "japan": {
       "yield": 2.866,
       "as_of": "2026-07-09",
       "prev_yield": 2.856
     },
-    "spread_10y": 1.67
+    "spread_10y": 1.69
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 192.38,
-        "pct_change": 4.54
+        "last": 188.54,
+        "pct_change": -1.99
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 316.22,
-        "pct_change": 0.9
+        "last": 313.95,
+        "pct_change": -0.72
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 384.36,
-        "pct_change": 0.27
+        "last": 382.69,
+        "pct_change": -0.43
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 247.04,
-        "pct_change": 1.4
+        "last": 245.69,
+        "pct_change": -0.55
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 358.89,
-        "pct_change": -0.84
+        "last": 354.11,
+        "pct_change": -1.33
       },
       "Meta": {
         "symbol": "META",
-        "last": 631.48,
-        "pct_change": 4.7
+        "last": 672.85,
+        "pct_change": 6.55
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 785.77,
-        "pct_change": 11.13
+        "last": 777.0,
+        "pct_change": -1.12
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 327.24,
-        "pct_change": 3.21
+        "last": 320.39,
+        "pct_change": -2.09
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 162.24,
-        "pct_change": 2.54
+        "last": 158.16,
+        "pct_change": -2.51
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 6426.0,
-        "pct_change": -0.82
+        "last": 6479.0,
+        "pct_change": 0.95
       }
     }
   },
@@ -434,7 +434,7 @@
     {
       "title": "Fed Monetary Policy Report",
       "country": "USD",
-      "date": "2026-07-10T11:00:00-04:00",
+      "date": "2026-07-10T11:08:00-04:00",
       "impact": "Low",
       "forecast": "",
       "previous": ""
@@ -600,24 +600,24 @@
         "published": "2026-07-09T14:17:00Z"
       },
       {
-        "title": "Mortgage rate predictions for the next five years: What you can expect",
-        "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rate-predictions-for-the-next-five-years-what-you-can-expect-195826935.html",
-        "published": "2025-08-18T19:58:26Z"
+        "title": "Yen strengthens as Japan considers nudging pension funds into domestic assets",
+        "link": "https://finance.yahoo.com/news/fragile-yen-set-weekly-decline-004342790.html",
+        "published": "2026-07-10T14:46:38Z"
       },
       {
-        "title": "Raisin review (2026): Is this high-yield savings marketplace trustworthy?",
-        "link": "https://finance.yahoo.com/personal-finance/banking/review/raisin-review-154213864.html",
-        "published": "2025-04-29T15:42:13Z"
+        "title": "Seagate Stock Rises After Analyst Upgrades To Buy. Western Digital Nabs Price-Target Hike.",
+        "link": "https://www.investors.com/news/technology/seagate-stock-upgrade-western-digital-wells-fargo/?src=A00220&yptr=yahoo",
+        "published": "2026-07-10T14:46:21Z"
       },
       {
-        "title": "First Foundation Bank review (2026): Personal and business banking with competitive online rates",
-        "link": "https://finance.yahoo.com/personal-finance/banking/review/first-foundation-bank-review-135949322.html",
-        "published": "2025-05-30T13:59:49Z"
+        "title": "Stock market today: Dow, S&P 500, Nasdaq waver ahead of SK Hynix's mega US IPO",
+        "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-july-10-dow-sp-nasdaq-113921604.html",
+        "published": "2026-07-10T11:39:21Z"
       },
       {
-        "title": "SK Hynix raises $26.5 billion in US offering after pricing ADRs at $149",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-us-listing-more-013843971.html",
-        "published": "2026-07-09T01:38:43Z"
+        "title": "Shein's secretive founder Sky Xu faces biggest public test with Hong Kong IPO",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/sheins-secretive-founder-sky-xu-143345011.html",
+        "published": "2026-07-10T14:33:45Z"
       },
       {
         "title": "Technical Assessment: Bullish in the Intermediate-Term",
@@ -630,58 +630,83 @@
         "published": "2026-07-09T22:22:00Z"
       },
       {
-        "title": "China's Xiaomi unveils SUV series dubbed Sky Nomad",
-        "link": "https://finance.yahoo.com/technology/articles/chinas-xiaomi-unveils-suv-series-034319134.html",
-        "published": "2026-07-09T03:43:19Z"
+        "title": "Workers at GE Appliances say they love app-based gig work despite no benefits and lower pay",
+        "link": "https://finance.yahoo.com/small-business/articles/workers-ge-appliances-love-app-143000692.html",
+        "published": "2026-07-10T14:30:00Z"
       }
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "Delta absorbs highest fuel costs in its history, but also books record revenue",
-        "link": "https://www.marketwatch.com/story/delta-reports-record-revenue-and-a-profit-beat-even-as-fuel-costs-surge-b1e33336?mod=mw_rss_topstories",
-        "published": "Fri, 10 Jul 2026 12:28:00 GMT"
+        "title": "The space race is on as China takes a big step toward rivaling SpaceX",
+        "link": "https://www.marketwatch.com/story/the-space-race-is-on-as-china-takes-a-big-step-toward-rivaling-spacex-851e935f?mod=mw_rss_topstories",
+        "published": "Fri, 10 Jul 2026 15:15:00 GMT"
       },
       {
-        "title": "The bar is high for S&P 500 earnings, but these as-yet-unrewarded sectors are where real surprises could be hiding",
-        "link": "https://www.marketwatch.com/story/the-bar-is-high-for-s-p-500-earnings-but-these-as-yet-unrewarded-sectors-are-where-real-surprises-could-be-hiding-b79874d9?mod=mw_rss_topstories",
-        "published": "Fri, 10 Jul 2026 12:26:00 GMT"
+        "title": "Half of small-business owners hope to sell their companies and retire in the next decade. What happens to their workers?",
+        "link": "https://www.marketwatch.com/story/half-of-small-business-owners-hope-to-sell-their-companies-and-retire-in-the-next-decade-what-happens-to-their-workers-a03ae979?mod=mw_rss_topstories",
+        "published": "Fri, 10 Jul 2026 15:08:00 GMT"
       },
       {
-        "title": "‘I’d hate to end up with an unexpected tax bill’: I’m 73 and still work full time. Can I avoid paying taxes on my Social Security benefits?",
-        "link": "https://www.marketwatch.com/story/im-73-and-still-work-full-time-can-i-avoid-paying-taxes-on-my-social-security-benefits-06ecc7c2?mod=mw_rss_topstories",
-        "published": "Fri, 10 Jul 2026 12:00:00 GMT"
+        "title": "Only 5% of U.S. adults can ace this 8-question financial-literacy test. Can you?",
+        "link": "https://www.marketwatch.com/story/only-5-of-u-s-adults-can-ace-this-8-question-financial-literacy-test-can-you-93a57cc6?mod=mw_rss_topstories",
+        "published": "Fri, 10 Jul 2026 14:59:00 GMT"
       },
       {
-        "title": "Slumping AI stocks could be really good news for your nontech holdings, says market strategist",
-        "link": "https://www.marketwatch.com/story/slumping-ai-stocks-could-be-really-good-news-for-your-nontech-holdings-says-market-strategist-561942a7?mod=mw_rss_topstories",
-        "published": "Fri, 10 Jul 2026 11:59:00 GMT"
+        "title": "‘She wants him gone’: My friend took in a homeless man as a caretaker. After 10 years, how can she evict him?",
+        "link": "https://www.marketwatch.com/story/she-wants-him-gone-my-friend-took-in-a-homeless-man-as-a-caretaker-after-10-years-how-can-she-evict-him-01672de2?mod=mw_rss_topstories",
+        "published": "Fri, 10 Jul 2026 14:35:00 GMT"
       },
       {
-        "title": "Corporate America is pumping $1 trillion into stock buybacks — but look at what insiders are doing",
-        "link": "https://www.marketwatch.com/story/corporate-america-is-pumping-1-trillion-into-stock-buybacks-but-look-at-what-insiders-are-doing-44854835?mod=mw_rss_topstories",
-        "published": "Fri, 10 Jul 2026 11:28:00 GMT"
+        "title": "Can you pass this money quiz?",
+        "link": "https://www.marketwatch.com/story/can-you-pass-this-money-quiz-e1163a9e?mod=mw_rss_topstories",
+        "published": "Fri, 10 Jul 2026 14:33:00 GMT"
       },
       {
-        "title": "As SK Hynix lands in the U.S., here’s why investors should be wary of the chip sector’s ‘bubblelike’ volatility",
-        "link": "https://www.marketwatch.com/story/as-sk-hynix-lands-in-the-u-s-heres-why-investors-should-be-wary-of-the-chip-sectors-bubble-like-volatility-3db579c6?mod=mw_rss_topstories",
-        "published": "Fri, 10 Jul 2026 11:14:00 GMT"
+        "title": "SK Hynix’s stock looks primed for a pop in its Nasdaq debut",
+        "link": "https://www.marketwatch.com/story/sk-hynixs-stock-looks-primed-for-a-pop-in-its-nasdaq-debut-38054370?mod=mw_rss_topstories",
+        "published": "Fri, 10 Jul 2026 14:32:00 GMT"
       },
       {
-        "title": "Stocks are seeing increasingly wild swings post-earnings. Why even good numbers often aren’t enough to impress.",
-        "link": "https://www.marketwatch.com/story/stocks-are-seeing-increasingly-wild-swings-post-earnings-why-even-good-numbers-often-arent-enough-to-impress-f4ce5169?mod=mw_rss_topstories",
-        "published": "Fri, 10 Jul 2026 11:04:00 GMT"
+        "title": "My insurance company said my roof lost a few tiles. Loss adjusters found $10,000 in storm damage. How could this happen?",
+        "link": "https://www.marketwatch.com/story/my-insurance-company-said-my-roof-lost-a-few-tiles-loss-adjusters-found-10-000-in-storm-damage-how-could-this-happen-8e1cb8bf?mod=mw_rss_topstories",
+        "published": "Fri, 10 Jul 2026 14:15:00 GMT"
       },
       {
-        "title": "‘I’ve no idea how they got her number’: My student-loan servicer called a friend after I missed a payment. Is that legal?",
-        "link": "https://www.marketwatch.com/story/ive-no-idea-how-they-got-her-number-my-student-loan-servicer-called-a-friend-after-i-missed-a-payment-is-that-legal-28ef698e?mod=mw_rss_topstories",
-        "published": "Fri, 10 Jul 2026 11:00:00 GMT"
+        "title": "Condos are getting cheaper — but list prices don’t include this fast-growing hidden cost",
+        "link": "https://www.marketwatch.com/story/condos-are-getting-cheaper-but-list-prices-dont-include-this-fast-growing-hidden-cost-042bcdfd?mod=mw_rss_topstories",
+        "published": "Fri, 10 Jul 2026 14:14:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "Meet SK Hynix, the trillion-dollar South Korean chipmaker debuting on U.S. markets",
-        "link": "https://www.cnbc.com/2026/07/09/meet-sk-hynix-the-trillion-dollar-chipmaker-debuting-on-us-markets-.html",
-        "published": "Thu, 09 Jul 2026 15:13:29 GMT"
+        "title": "Trump says he won't sign housing bill, which would become law automatically",
+        "link": "https://www.cnbc.com/2026/07/10/trump-housing-bill-save-act-law.html",
+        "published": "Fri, 10 Jul 2026 14:17:24 GMT"
+      },
+      {
+        "title": "SK Hynix stock set for Nasdaq debut, opening the trillion-dollar chip giant to U.S. investors",
+        "link": "https://www.cnbc.com/2026/07/10/sk-hynix-skhy-stock-nasdaq.html",
+        "published": "Fri, 10 Jul 2026 14:47:07 GMT"
+      },
+      {
+        "title": "Stablecoin issuer Circle just got the greenlight to operate as a bank. The shares are up 7%",
+        "link": "https://www.cnbc.com/2026/07/10/circle-gets-an-occ-bank-charter-as-stablecoin-competition-heats-up-shares-surge-14percent.html",
+        "published": "Fri, 10 Jul 2026 14:55:07 GMT"
+      },
+      {
+        "title": "S&P 500 is little changed as index heads for winning week: Live updates",
+        "link": "https://www.cnbc.com/2026/07/09/stock-market-today-live-updates.html",
+        "published": "Fri, 10 Jul 2026 15:01:25 GMT"
+      },
+      {
+        "title": "Kraken to launch agentic trading as crypto exchanges evolve beyond crypto",
+        "link": "https://www.cnbc.com/2026/07/10/kraken-to-launch-agentic-trading-as-crypto-exchanges-evolve-beyond-crypto.html",
+        "published": "Fri, 10 Jul 2026 15:18:14 GMT"
+      },
+      {
+        "title": "Seize the advantage in Micron options against the SK Hynix listing, Jeff Kilburg says",
+        "link": "https://www.cnbc.com/2026/07/10/a-micron-options-trade-is-a-play-on-sk-hynix-listing-jeff-kilburg-says.html",
+        "published": "Fri, 10 Jul 2026 15:06:14 GMT"
       },
       {
         "title": "Delta expects higher airfare to last, bringing 2026 profit goal in reach, CEO says",
@@ -689,34 +714,9 @@
         "published": "Fri, 10 Jul 2026 11:59:16 GMT"
       },
       {
-        "title": "Stablecoin issuer Circle just got the greenlight to operate as a bank. The shares are up 12%",
-        "link": "https://www.cnbc.com/2026/07/10/circle-gets-an-occ-bank-charter-as-stablecoin-competition-heats-up-shares-surge-14percent.html",
-        "published": "Fri, 10 Jul 2026 12:31:40 GMT"
-      },
-      {
-        "title": "Stocks making the biggest moves premarket: Delta, Circle, Vodafone, Intel and more",
-        "link": "https://www.cnbc.com/2026/07/10/stocks-making-the-biggest-moves-premarket-dal-crcl-intc-more-.html",
-        "published": "Fri, 10 Jul 2026 11:52:28 GMT"
-      },
-      {
-        "title": "S&P 500 futures are little changed as index heads for winning week: Live updates",
-        "link": "https://www.cnbc.com/2026/07/09/stock-market-today-live-updates.html",
-        "published": "Fri, 10 Jul 2026 12:29:49 GMT"
-      },
-      {
-        "title": "Here are Friday's biggest analyst calls: Nvidia, SpaceX, Toll, Shopify, Twilio, Seagate, Chipotle & more",
-        "link": "https://www.cnbc.com/2026/07/10/fridays-biggest-analyst-calls-on-wall-street-include-nvidia-and-spacex.html",
-        "published": "Fri, 10 Jul 2026 12:22:59 GMT"
-      },
-      {
         "title": "Meta found to breach EU laws with 'addictive' Instagram, Facebook designs",
         "link": "https://www.cnbc.com/2026/07/10/meta-instagram-facebook-addictive-design-breach-eu-laws.html",
         "published": "Fri, 10 Jul 2026 11:48:12 GMT"
-      },
-      {
-        "title": "AI, data center fears could be key in closely watched Michigan Democratic Senate primary",
-        "link": "https://www.cnbc.com/2026/07/10/ai-data-center-fears-michigan-democratic-senate-primary.html",
-        "published": "Fri, 10 Jul 2026 11:00:01 GMT"
       }
     ]
   }
