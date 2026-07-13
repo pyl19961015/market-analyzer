@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T02:29:10",
+  "generated_at": "2026-07-13T05:53:26",
   "date": "2026-07-13",
   "market_sentiment": {
     "indices": {
@@ -35,18 +35,18 @@
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 101.14,
-        "pct_change": 0.17
+        "last": null,
+        "pct_change": null
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 74.5,
-        "pct_change": 4.33
+        "last": 74.78,
+        "pct_change": 4.72
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4080.9,
-        "pct_change": -0.57
+        "last": 4071.6,
+        "pct_change": -0.79
       }
     },
     "sectors": {
@@ -111,18 +111,18 @@
     "indices": {
       "Nikkei 225": {
         "symbol": "^N225",
-        "last": 67535.23,
-        "pct_change": -1.49
+        "last": 67140.64,
+        "pct_change": -2.07
       },
       "TOPIX (ETF代理)": {
         "symbol": "1306.T",
-        "last": 418.8,
-        "pct_change": -0.78
+        "last": 417.2,
+        "pct_change": -1.16
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 162.05,
-        "pct_change": -0.19
+        "last": 162.15,
+        "pct_change": -0.13
       }
     }
   },
@@ -193,8 +193,8 @@
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 6342.0,
-        "pct_change": -1.31
+        "last": 6318.0,
+        "pct_change": -1.68
       }
     }
   },
@@ -723,51 +723,51 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "Big fast-food burger chain franchisee files Chapter 11 bankruptcy",
-        "link": "https://finance.yahoo.com/small-business/articles/big-fast-food-burger-chain-164700124.html",
-        "published": "2026-07-11T16:47:00Z"
-      },
-      {
         "title": "Salesforce receives double blow over an AI product",
         "link": "https://finance.yahoo.com/technology/ai/articles/salesforce-receives-double-blow-over-181700627.html",
         "published": "2026-07-11T18:17:00Z"
       },
       {
-        "title": "Robinhood, AI Plays Lead Five Stocks Near Buy Points",
-        "link": "https://www.investors.com/news/robinhood-ai-plays-lead-five-stocks-near-buy-points/?src=A00220&yptr=yahoo",
-        "published": "2026-07-11T15:34:00Z"
+        "title": "Bitcoin dropped 2% then rebounded after Trump said he's 'a big crypto guy' — here are experts takes on buying the dip",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-dropped-2-then-rebounded-180000405.html",
+        "published": "2026-07-11T18:00:00Z"
       },
       {
-        "title": "Fiserv Stock Seems Undervalued with a Potential Payments Infrastructure Business Sale Catalyst",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/fiserv-stock-seems-undervalued-potential-150002080.html",
-        "published": "2026-07-11T15:00:02Z"
+        "title": "Intel Future Price Hikes Send Huge Demand Signal to Wall Street",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/intel-future-price-hikes-send-193002083.html",
+        "published": "2026-07-11T19:30:02Z"
       },
       {
-        "title": "The 2 Best (and 1 Worst) Single-Country ETFs to Buy from the World Cup’s Round of 16",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/2-best-1-worst-single-150002136.html",
-        "published": "2026-07-11T15:00:02Z"
+        "title": "Why Ciena (CIEN) Is Positioned to Benefit From Multi-Year AI Networking Demand Despite Elevated Expectations",
+        "link": "https://finance.yahoo.com/technology/ai/articles/why-ciena-cien-positioned-benefit-195239343.html",
+        "published": "2026-07-11T19:52:39Z"
       },
       {
-        "title": "A $225 Million Reason to Sell FuelCell Energy Stock Now",
-        "link": "https://finance.yahoo.com/energy/articles/225-million-reason-sell-fuelcell-154501593.html",
-        "published": "2026-07-11T15:45:01Z"
+        "title": "How Vertiv (VRT) Is Expanding Its AI Data Center Cooling Platform Through the ThermoKey Acquisition",
+        "link": "https://finance.yahoo.com/technology/ai/articles/vertiv-vrt-expanding-ai-data-195901778.html",
+        "published": "2026-07-11T19:59:01Z"
       },
       {
-        "title": "Costco and Walmart capture grocery-store crowns",
-        "link": "https://finance.yahoo.com/economy/articles/costco-walmart-capture-grocery-store-221534002.html",
-        "published": "2026-07-11T22:15:34Z"
+        "title": "Pizza chain closing up to 50 locations after years of declines",
+        "link": "https://finance.yahoo.com/small-business/articles/pizza-chain-closing-50-locations-023300151.html",
+        "published": "2026-07-12T02:33:00Z"
       },
       {
-        "title": "Williams (WMB) in Advanced Talks to Acquire Momentum Midstream for $5.5B",
-        "link": "https://finance.yahoo.com/energy/articles/williams-wmb-advanced-talks-acquire-155939693.html",
-        "published": "2026-07-11T15:59:39Z"
+        "title": "Why Lumentum (LITE) Could Benefit From AI Optical Networking Demand as Co-Packaged Optics Adoption Accelerates",
+        "link": "https://finance.yahoo.com/technology/ai/articles/why-lumentum-lite-could-benefit-201023391.html",
+        "published": "2026-07-11T20:10:23Z"
+      },
+      {
+        "title": "Why Applied Optoelectronics (AAOI) Is Well Positioned to Capitalize on Hyperscale AI Networking Demand With Its Expanding Optical Order Backlog",
+        "link": "https://finance.yahoo.com/technology/ai/articles/why-applied-optoelectronics-aaoi-well-201727325.html",
+        "published": "2026-07-11T20:17:27Z"
       }
     ],
     "MarketWatch Top Stories": [
       {
         "title": "Oil prices rise, stock futures dip after latest flare-up of strikes between U.S. and Iran",
         "link": "https://www.marketwatch.com/story/oil-prices-rise-stock-futures-dip-after-latest-flare-up-of-strikes-between-u-s-and-iran-fef7f856?mod=mw_rss_topstories",
-        "published": "Mon, 13 Jul 2026 01:47:00 GMT"
+        "published": "Mon, 13 Jul 2026 03:03:00 GMT"
       },
       {
         "title": "‘Trump accounts’ are great — if you’re already rich",
@@ -807,9 +807,9 @@
     ],
     "CNBC Top News": [
       {
-        "title": "Stock futures slip after U.S., Iran exchange airstrikes again: Live updates",
+        "title": "Stock futures slip after U.S., Iran exchange airstrikes again; Kospi plunges 7%: Live updates",
         "link": "https://www.cnbc.com/2026/07/12/stock-market-today-live-updates.html",
-        "published": "Mon, 13 Jul 2026 02:19:41 GMT"
+        "published": "Mon, 13 Jul 2026 05:02:27 GMT"
       },
       {
         "title": "Sen. Lindsey Graham, influential lawmaker and Trump ally,  dies at 71 after a brief illness",
@@ -817,9 +817,9 @@
         "published": "Sun, 12 Jul 2026 21:23:23 GMT"
       },
       {
-        "title": "SK Hynix shares slide 10% in Seoul after stellar Nasdaq debut",
-        "link": "https://www.cnbc.com/2026/07/13/sk-hynix-shares-fall-after-stellar-nasdaq-debut.html",
-        "published": "Mon, 13 Jul 2026 02:18:37 GMT"
+        "title": "TSMC, the world's largest contract chipmaker, reports 68% surge in June revenue",
+        "link": "https://www.cnbc.com/2026/07/13/tsmc-june-revenue-rises-percent-ahead-second-quarter.html",
+        "published": "Mon, 13 Jul 2026 05:49:07 GMT"
       },
       {
         "title": "McConnell provides health update after long unexplained absence; says he suffered fall, pneumonia",
@@ -832,6 +832,11 @@
         "published": "Sun, 12 Jul 2026 12:02:15 GMT"
       },
       {
+        "title": "SK Hynix shares slide 12% in Seoul after stellar Nasdaq debut",
+        "link": "https://www.cnbc.com/2026/07/13/sk-hynix-shares-fall-after-stellar-nasdaq-debut.html",
+        "published": "Mon, 13 Jul 2026 03:33:59 GMT"
+      },
+      {
         "title": "Graham’s death complicates myriad GOP goals in Congress",
         "link": "https://www.cnbc.com/2026/07/12/grahams-death-policy-washington-save-america-ukraine-blanche-reconciliation.html",
         "published": "Sun, 12 Jul 2026 18:22:11 GMT"
@@ -840,11 +845,6 @@
         "title": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit",
         "link": "https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html",
         "published": "Sun, 12 Jul 2026 20:29:06 GMT"
-      },
-      {
-        "title": "Federal monitor says UAW head Shawn Fain abused authority; Fain denies findings",
-        "link": "https://www.cnbc.com/2026/07/12/watchdog-says-uaw-head-shawn-fain-abused-authority-he-denies-findings.html",
-        "published": "Sun, 12 Jul 2026 20:17:26 GMT"
       }
     ]
   }
