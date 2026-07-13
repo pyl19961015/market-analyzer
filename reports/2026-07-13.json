@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-07-13T18:58:22",
+  "generated_at": "2026-07-13T20:15:41",
   "date": "2026-07-13",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7522.77,
-        "pct_change": -0.69
+        "last": 7515.34,
+        "pct_change": -0.79
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 25909.01,
-        "pct_change": -1.42
+        "last": 25873.18,
+        "pct_change": -1.55
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 52498.53,
+        "last": 52498.64,
         "pct_change": -0.26
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2952.25,
-        "pct_change": -0.86
+        "last": 2953.17,
+        "pct_change": -0.83
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 16.91,
-        "pct_change": 12.51
+        "last": 17.09,
+        "pct_change": 13.71
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
         "last": 4.61,
-        "pct_change": 0.98
+        "pct_change": 0.88
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 101.24,
-        "pct_change": 0.27
+        "last": 101.27,
+        "pct_change": 0.3
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 77.73,
-        "pct_change": 8.85
+        "last": 77.75,
+        "pct_change": 8.88
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4007.3,
-        "pct_change": -2.36
+        "last": 4011.5,
+        "pct_change": -2.26
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 181.29,
+        "last": 181.28,
         "pct_change": -2.42
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 55.96,
-        "pct_change": 0.45
+        "last": 56.07,
+        "pct_change": 0.65
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 56.93,
-        "pct_change": 3.36
+        "last": 56.74,
+        "pct_change": 3.01
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 161.43,
-        "pct_change": 0.36
+        "last": 161.41,
+        "pct_change": 0.35
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 116.26,
-        "pct_change": -0.84
+        "last": 116.04,
+        "pct_change": -1.02
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 84.75,
-        "pct_change": 0.75
+        "last": 84.59,
+        "pct_change": 0.56
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 180.09,
-        "pct_change": -1.01
+        "last": 180.37,
+        "pct_change": -0.85
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 45.75,
-        "pct_change": 0.74
+        "last": 45.72,
+        "pct_change": 0.68
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 50.44,
-        "pct_change": -0.87
+        "last": 50.58,
+        "pct_change": -0.61
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.62,
-        "pct_change": 0.38
+        "last": 44.7,
+        "pct_change": 0.56
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 112.01,
-        "pct_change": 0.33
+        "last": 111.59,
+        "pct_change": -0.04
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 162.38,
-        "pct_change": 0.01
+        "last": 162.47,
+        "pct_change": 0.06
       }
     }
   },
@@ -144,52 +144,52 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 182.39,
-        "pct_change": -4.45
+        "last": 183.36,
+        "pct_change": -3.94
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 317.27,
-        "pct_change": 0.62
+        "last": 317.31,
+        "pct_change": 0.63
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 393.23,
-        "pct_change": 2.11
+        "last": 390.99,
+        "pct_change": 1.53
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 249.02,
-        "pct_change": 1.5
+        "last": 247.31,
+        "pct_change": 0.8
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 354.95,
-        "pct_change": -0.62
+        "last": 352.51,
+        "pct_change": -1.31
       },
       "Meta": {
         "symbol": "META",
-        "last": 660.98,
-        "pct_change": -1.23
+        "last": 656.73,
+        "pct_change": -1.86
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 765.71,
-        "pct_change": -4.53
+        "last": 768.15,
+        "pct_change": -4.22
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 308.26,
-        "pct_change": -5.0
+        "last": 307.39,
+        "pct_change": -5.27
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 155.51,
-        "pct_change": -2.23
+        "last": 155.99,
+        "pct_change": -1.93
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -728,24 +728,24 @@
         "published": "2026-07-12T14:37:00Z"
       },
       {
-        "title": "A 70-year-old blew through one-third of his $3 million nest egg in 3 years — financial advisors say he needs to act now",
-        "link": "https://finance.yahoo.com/markets/articles/70-old-blew-one-third-094500291.html",
-        "published": "2026-07-12T09:45:00Z"
+        "title": "When is a retiree considered ‘wealthy’ in America? Here’s what the data shows (and what to do if you’re not there yet)",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/retiree-considered-wealthy-america-data-111000505.html",
+        "published": "2026-07-12T11:10:00Z"
       },
       {
-        "title": "Mortgage and refinance interest rates today, Sunday, July 12, 2026: Mostly down from last week",
-        "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-july-12-2026-mostly-down-from-last-week-100000227.html",
-        "published": "2026-07-12T10:00:00Z"
+        "title": "Borderlands Mexico: Toyota bets big on Texas, moves Tacoma line to San Antonio",
+        "link": "https://finance.yahoo.com/economy/policy/articles/borderlands-mexico-toyota-bets-big-110000813.html",
+        "published": "2026-07-12T11:00:00Z"
       },
       {
-        "title": "Best CD rates today, Sunday, July 12, 2026: Lock in up to 4.10% APY",
-        "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-july-12-2026-lock-in-up-to-410-apy-100000577.html",
-        "published": "2026-07-12T10:00:00Z"
+        "title": "‘Total economic collapse’ is likely in the next decade, say 42% of Americans. Here’s how you can prepare",
+        "link": "https://finance.yahoo.com/economy/articles/total-economic-collapse-likely-next-104500289.html",
+        "published": "2026-07-12T10:45:00Z"
       },
       {
-        "title": "The new ‘magic number’ for retirees is a lie for millions of Americans — fight the fear and focus on this figure instead",
-        "link": "https://finance.yahoo.com/markets/articles/magic-number-retirees-lie-millions-101500384.html",
-        "published": "2026-07-12T10:15:00Z"
+        "title": "My father doesn't trust banks. All of his money is sitting in a checking account. It is quietly costing him a fortune?",
+        "link": "https://finance.yahoo.com/markets/articles/father-doesnt-trust-banks-money-103000700.html",
+        "published": "2026-07-12T10:30:00Z"
       },
       {
         "title": "Mark Cuban has strong words on AI companies and job losses",
@@ -753,17 +753,37 @@
         "published": "2026-07-12T14:07:00Z"
       },
       {
-        "title": "He works two hours a month to make six figures a year — why he says ditching the 9-to-5 is ‘the ultimate power’",
-        "link": "https://finance.yahoo.com/small-business/articles/works-two-hours-month-six-090000123.html",
-        "published": "2026-07-12T09:00:00Z"
+        "title": "The first 5 years of retirement decide everything — especially with Trump in the White House. Foolproof your riches now",
+        "link": "https://finance.yahoo.com/markets/articles/first-5-years-retirement-decide-114500926.html",
+        "published": "2026-07-12T11:45:00Z"
       },
       {
-        "title": "My father doesn't trust banks. All of his money is sitting in a checking account. It is quietly costing him a fortune?",
-        "link": "https://finance.yahoo.com/markets/articles/father-doesnt-trust-banks-money-103000700.html",
-        "published": "2026-07-12T10:30:00Z"
+        "title": "Retail investing is booming — but the trade is getting pickier: Chart of the Day",
+        "link": "https://finance.yahoo.com/markets/article/retail-investing-is-booming--but-the-trade-is-getting-pickier-chart-of-the-day-114708776.html",
+        "published": "2026-07-12T11:47:08Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "SpaceX’s stock threatens to fall below the IPO price. Do investors face a ‘crisis’ if it does?",
+        "link": "https://www.marketwatch.com/story/spacexs-stock-threatens-to-fall-below-the-ipo-price-do-investors-face-a-crisis-if-it-does-2f330b09?mod=mw_rss_topstories",
+        "published": "Mon, 13 Jul 2026 19:57:00 GMT"
+      },
+      {
+        "title": "Global oil prices top $83 a barrel, logging biggest jump in 6 years after Trump reimposes Strait of Hormuz blockade",
+        "link": "https://www.marketwatch.com/story/oil-prices-surge-as-much-as-5-after-iran-declares-strait-of-hormuz-is-closed-6905599b?mod=mw_rss_topstories",
+        "published": "Mon, 13 Jul 2026 19:43:00 GMT"
+      },
+      {
+        "title": "AI-related debt jumped 99% over the past year. It’s a ‘shock to the system’ for investors.",
+        "link": "https://www.marketwatch.com/story/ai-related-debt-jumped-99-over-the-past-year-its-a-shock-to-the-system-for-investors-b47ce4ea?mod=mw_rss_topstories",
+        "published": "Mon, 13 Jul 2026 19:30:00 GMT"
+      },
+      {
+        "title": "‘It’s heartbreaking’: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?",
+        "link": "https://www.marketwatch.com/story/its-heartbreaking-my-brother-claimed-social-security-at-70-he-died-from-cancer-after-one-payment-why-wait-to-claim-491669b6?mod=mw_rss_topstories",
+        "published": "Mon, 13 Jul 2026 19:00:00 GMT"
+      },
       {
         "title": "Meta and Amazon are leading a trillion-dollar Big Tech spending spree",
         "link": "https://www.marketwatch.com/story/meta-and-amazon-are-leading-a-trillion-dollar-big-tech-spending-spree-17a8156d?mod=mw_rss_topstories",
@@ -775,11 +795,6 @@
         "published": "Mon, 13 Jul 2026 18:30:00 GMT"
       },
       {
-        "title": "Global oil prices top $82 a barrel, heading for biggest jump in 3 months after Trump reimposes Strait of Hormuz blockade",
-        "link": "https://www.marketwatch.com/story/oil-prices-surge-as-much-as-5-after-iran-declares-strait-of-hormuz-is-closed-6905599b?mod=mw_rss_topstories",
-        "published": "Mon, 13 Jul 2026 18:19:00 GMT"
-      },
-      {
         "title": "Inflation is primed to fall for the first time in 6 years. Will high prices drop too?",
         "link": "https://www.marketwatch.com/story/inflation-is-primed-to-fall-for-the-first-time-in-6-years-will-high-prices-drop-too-285ecf10?mod=mw_rss_topstories",
         "published": "Mon, 13 Jul 2026 18:13:00 GMT"
@@ -788,63 +803,48 @@
         "title": "I’m 67 with a $140,000 pension. Should I wait until 70 to claim Social Security so my wife gets more?",
         "link": "https://www.marketwatch.com/story/im-67-with-a-140-000-pension-should-i-wait-until-70-to-claim-social-security-so-my-wife-gets-more-63759d48?mod=mw_rss_topstories",
         "published": "Mon, 13 Jul 2026 17:45:00 GMT"
-      },
-      {
-        "title": "A hot inflation reading this week could mean a rate hike soon, Fed’s Waller says",
-        "link": "https://www.marketwatch.com/story/a-hot-inflation-reading-this-week-could-mean-a-rate-hike-soon-feds-waller-says-15acf7a2?mod=mw_rss_topstories",
-        "published": "Mon, 13 Jul 2026 17:10:00 GMT"
-      },
-      {
-        "title": "Billionaires are loading up on these superior stocks. Why it pays to follow their money.",
-        "link": "https://www.marketwatch.com/story/billionaires-are-loading-up-on-these-superior-stocks-why-it-pays-to-follow-their-money-9120c242?mod=mw_rss_topstories",
-        "published": "Mon, 13 Jul 2026 16:40:00 GMT"
-      },
-      {
-        "title": "Micron and other chip stocks feel the pain of imported volatility — blame SK Hynix",
-        "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-feel-the-pain-of-imported-volatility-blame-sk-hynix-f705a0fd?mod=mw_rss_topstories",
-        "published": "Mon, 13 Jul 2026 15:26:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
         "title": "Trump proposes 20% toll on cargo through Strait of Hormuz; restarts Iran blockade",
         "link": "https://www.cnbc.com/2026/07/13/trump-iran-hormuz-strait-charge-reimburse.html",
-        "published": "Mon, 13 Jul 2026 18:35:19 GMT"
+        "published": "Mon, 13 Jul 2026 20:15:22 GMT"
       },
       {
-        "title": "Paramount, WBD hit with lawsuit from 12 states, including California, to block merger",
-        "link": "https://www.cnbc.com/2026/07/13/paramount-wbd-merger-lawsuit.html",
-        "published": "Mon, 13 Jul 2026 18:11:29 GMT"
-      },
-      {
-        "title": "Trump recommends Lindsey Graham's sister serve as interim senator for South Carolina",
+        "title": "South Carolina governor taps Lindsey Graham's sister to serve as interim senator",
         "link": "https://www.cnbc.com/2026/07/13/trump-lindsey-graham-darline-south-carolina-senator.html",
-        "published": "Mon, 13 Jul 2026 17:40:33 GMT"
-      },
-      {
-        "title": "Stocks drop after Trump reimposes Strait of Hormuz blockade, SK Hynix leads chip stocks lower: Live updates",
-        "link": "https://www.cnbc.com/2026/07/12/stock-market-today-live-updates.html",
-        "published": "Mon, 13 Jul 2026 18:40:04 GMT"
-      },
-      {
-        "title": "UN maritime agency opposes Hormuz transit fees after Trump demands protection money",
-        "link": "https://www.cnbc.com/2026/07/13/imo-maritime-organization-strait-hormuz-tolls-trump-iran.html",
-        "published": "Mon, 13 Jul 2026 18:28:04 GMT"
-      },
-      {
-        "title": "Brazilian ETF shows constructive chart action, giving a bullish outlook for the third quarter, Katie Stockton says",
-        "link": "https://www.cnbc.com/2026/07/13/brazilian-etf-shows-constructive-chart-action-katie-stockton-says.html",
-        "published": "Mon, 13 Jul 2026 17:01:49 GMT"
+        "published": "Mon, 13 Jul 2026 20:07:30 GMT"
       },
       {
         "title": "Judge says Trump sued IRS for 'improper purpose'; refers his lawyer to bar",
         "link": "https://www.cnbc.com/2026/07/13/trump-irs-doj-lawsuit-blanche.html",
-        "published": "Mon, 13 Jul 2026 18:56:22 GMT"
+        "published": "Mon, 13 Jul 2026 20:00:10 GMT"
       },
       {
-        "title": "Waller says Fed shouldn't 'fight the last war' on inflation but warns hikes still possible",
-        "link": "https://www.cnbc.com/2026/07/13/waller-says-fed-shouldnt-fight-the-last-war-on-inflation-but-warns-hikes-still-possible.html",
-        "published": "Mon, 13 Jul 2026 16:33:49 GMT"
+        "title": "Stocks end lower as oil prices surge on renewed Hormuz tensions, SK Hynix leads chip stock sell-off: Live updates",
+        "link": "https://www.cnbc.com/2026/07/12/stock-market-today-live-updates.html",
+        "published": "Mon, 13 Jul 2026 20:12:48 GMT"
+      },
+      {
+        "title": "Inflation reports expected to show improvement with a caveat; Warsh heads to Capitol Hill",
+        "link": "https://www.cnbc.com/2026/07/13/inflation-reports-expected-to-show-improvement-with-a-caveat-warsh-heads-to-capitol-hill.html",
+        "published": "Mon, 13 Jul 2026 20:01:16 GMT"
+      },
+      {
+        "title": "Protect your portfolio from volatility with these high-dividend stocks, Jefferies says",
+        "link": "https://www.cnbc.com/2026/07/13/protect-your-portfolio-from-volatility-with-these-high-dividend-stocks-jefferies-says.html",
+        "published": "Mon, 13 Jul 2026 19:00:41 GMT"
+      },
+      {
+        "title": "Trump to claim declassified intel reveals 2020 election interference: MS NOW",
+        "link": "https://www.cnbc.com/2026/07/13/trump-2020-election-intelligence-speech.html",
+        "published": "Mon, 13 Jul 2026 20:02:34 GMT"
+      },
+      {
+        "title": "Chipotle is opening its first restaurant in Mexico",
+        "link": "https://www.cnbc.com/2026/07/13/chipotle-opening-first-restaurant-in-mexico.html",
+        "published": "Mon, 13 Jul 2026 20:10:01 GMT"
       }
     ]
   }
