@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-07-14T18:37:38",
+  "generated_at": "2026-07-14T19:55:22",
   "date": "2026-07-14",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7551.12,
-        "pct_change": 0.48
+        "last": 7547.09,
+        "pct_change": 0.42
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26161.41,
-        "pct_change": 1.11
+        "last": 26116.68,
+        "pct_change": 0.94
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 52488.34,
-        "pct_change": -0.02
+        "last": 52554.33,
+        "pct_change": 0.11
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2966.83,
-        "pct_change": 0.46
+        "last": 2962.46,
+        "pct_change": 0.31
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 16.34,
-        "pct_change": -4.78
+        "last": 16.48,
+        "pct_change": -3.96
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.58,
-        "pct_change": -0.61
+        "last": 4.59,
+        "pct_change": -0.52
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 100.93,
-        "pct_change": -0.34
+        "last": 100.91,
+        "pct_change": -0.37
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 79.2,
-        "pct_change": 1.36
+        "last": 79.67,
+        "pct_change": 1.96
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4065.6,
-        "pct_change": 1.72
+        "last": 4059.9,
+        "pct_change": 1.57
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 184.35,
-        "pct_change": 1.7
+        "last": 183.67,
+        "pct_change": 1.32
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 56.17,
-        "pct_change": 0.19
+        "last": 56.19,
+        "pct_change": 0.22
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 56.74,
-        "pct_change": 0.01
+        "last": 56.9,
+        "pct_change": 0.27
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 158.24,
-        "pct_change": -1.97
+        "last": 158.35,
+        "pct_change": -1.9
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 115.83,
-        "pct_change": -0.18
+        "last": 116.06,
+        "pct_change": 0.01
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 83.41,
-        "pct_change": -1.39
+        "last": 83.5,
+        "pct_change": -1.29
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 180.23,
-        "pct_change": -0.08
+        "last": 180.42,
+        "pct_change": 0.03
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 45.64,
-        "pct_change": -0.19
+        "last": 45.71,
+        "pct_change": -0.03
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 50.67,
-        "pct_change": 0.19
+        "last": 50.66,
+        "pct_change": 0.16
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.46,
-        "pct_change": -0.54
+        "last": 44.56,
+        "pct_change": -0.32
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 111.52,
-        "pct_change": -0.06
+        "last": 111.49,
+        "pct_change": -0.09
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 162.22,
-        "pct_change": 0.21
+        "last": 162.18,
+        "pct_change": 0.19
       }
     }
   },
@@ -138,58 +138,58 @@
       "as_of": "2026-07-13",
       "prev_yield": 2.761
     },
-    "spread_10y": 1.79
+    "spread_10y": 1.8
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 187.82,
-        "pct_change": 2.57
+        "last": 188.34,
+        "pct_change": 2.85
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 315.33,
-        "pct_change": -0.62
+        "last": 314.9,
+        "pct_change": -0.76
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 386.65,
-        "pct_change": -1.11
+        "last": 385.28,
+        "pct_change": -1.46
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 247.12,
-        "pct_change": -0.08
+        "last": 248.2,
+        "pct_change": 0.36
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 357.68,
-        "pct_change": 1.47
+        "last": 359.28,
+        "pct_change": 1.92
       },
       "Meta": {
         "symbol": "META",
-        "last": 660.94,
-        "pct_change": 0.64
+        "last": 659.91,
+        "pct_change": 0.48
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 809.4,
-        "pct_change": 5.37
+        "last": 815.72,
+        "pct_change": 6.19
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 309.76,
-        "pct_change": 0.77
+        "last": 310.82,
+        "pct_change": 1.12
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 158.57,
-        "pct_change": 1.65
+        "last": 158.31,
+        "pct_change": 1.49
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -629,6 +629,12 @@
     ],
     "Speeches": [
       {
+        "title": "Bowman, Responsible Innovation and Financial Inclusion",
+        "link": "https://www.federalreserve.gov/newsevents/speech/bowman20260714a.htm",
+        "published": "Tue, 14 Jul 2026 18:55:00 GMT",
+        "summary": "Speech At “Next-Gen Financial Inclusion,” the third annual Financial Inclusion Conference hosted by the Federal Reserve Board, Washington, D.C. (via pre-recorded video)"
+      },
+      {
         "title": "Barr, Will Artificial Intelligence Broadly Raise Living Standards or Drive Income and Wealth Inequality?",
         "link": "https://www.federalreserve.gov/newsevents/speech/barr20260714a.htm",
         "published": "Tue, 14 Jul 2026 16:40:00 GMT",
@@ -669,12 +675,6 @@
         "link": "https://www.federalreserve.gov/newsevents/speech/waller20260622a.htm",
         "published": "Mon, 22 Jun 2026 13:00:00 GMT",
         "summary": "Speech At the Fifth Conference on the International Roles of the Dollar, Board of Governors of the Federal Reserve System, Washington, D.C."
-      },
-      {
-        "title": "Barr, Deregulating in a Financial Boom: What Could Go Wrong?",
-        "link": "https://www.federalreserve.gov/newsevents/speech/barr20260606a.htm",
-        "published": "Sat, 6 Jun 2026 16:00:00 GMT",
-        "summary": "Speech At American University, Washington, D.C."
       }
     ],
     "FOMC Press Releases": [
@@ -736,24 +736,24 @@
         "published": "2026-07-13T20:10:58Z"
       },
       {
-        "title": "Why Citi Recommends Buying Loar Holdings Inc (LOAR) Stock Now",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/why-citi-recommends-buying-loar-092152104.html",
-        "published": "2026-07-13T09:21:52Z"
+        "title": "Morning Bid: Crude up, chips down",
+        "link": "https://finance.yahoo.com/news/morning-bid-crude-chips-down-104017483.html",
+        "published": "2026-07-13T10:40:17Z"
       },
       {
-        "title": "Alphabet Inc (GOOGL) Stock: Looking Beyond the $4.7 Billion EU Fine",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-inc-googl-stock-looking-092159590.html",
-        "published": "2026-07-13T09:21:59Z"
+        "title": "Stocks Set to Open Lower as SK Hynix Sparks Chip Selloff, U.S. Inflation Data and Big Bank Earnings Awaited",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-set-open-lower-sk-104235187.html",
+        "published": "2026-07-13T10:42:35Z"
       },
       {
-        "title": "ICICI Bank Ltd (IBN) Joins TPG to Acquire Aseem Infrastructure",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/icici-bank-ltd-ibn-joins-092959530.html",
-        "published": "2026-07-13T09:29:59Z"
+        "title": "Blue Origin’s First Quest for Outside Capital Gives Rival SpaceX a Boost",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/blue-origin-first-quest-outside-110000461.html",
+        "published": "2026-07-13T11:00:00Z"
       },
       {
-        "title": "SouthState Bank Corp (SSB) Stock Price Target Updated At JPMorgan",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/southstate-bank-corp-ssb-stock-092948824.html",
-        "published": "2026-07-13T09:29:48Z"
+        "title": "Alibaba Surges as Cheaper AI Undermines US Dominance",
+        "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-surges-cheaper-ai-undermines-110000837.html",
+        "published": "2026-07-13T11:00:00Z"
       },
       {
         "title": "Analyst Report: Fedex Corp",
@@ -766,93 +766,93 @@
         "published": "2026-07-14T03:33:00Z"
       },
       {
-        "title": "Why Analysts Are Still Recommending Coupang Inc (CPNG) Stock",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/why-analysts-still-recommending-coupang-092625946.html",
-        "published": "2026-07-13T09:26:25Z"
+        "title": "Bank Earnings Bonanza Offers Top-to-Bottom Review of US Economy",
+        "link": "https://finance.yahoo.com/economy/articles/bank-earnings-bonanza-offers-top-110000517.html",
+        "published": "2026-07-13T11:00:00Z"
       }
     ],
     "MarketWatch Top Stories": [
       {
+        "title": "My husband and I are retired. Our financial adviser, who is in his 30s, called us ‘you guyses.’ Is that unprofessional?",
+        "link": "https://www.marketwatch.com/story/my-husband-and-i-are-retired-our-financial-adviser-who-is-in-his-30s-called-us-you-guyses-is-that-unprofessional-ccddaa9f?mod=mw_rss_topstories",
+        "published": "Tue, 14 Jul 2026 19:49:00 GMT"
+      },
+      {
+        "title": "The next boost to Apple’s stock could come from an iPhone price hike",
+        "link": "https://www.marketwatch.com/story/the-next-boost-to-apples-stock-could-come-from-an-iphone-price-hike-126150cf?mod=mw_rss_topstories",
+        "published": "Tue, 14 Jul 2026 19:49:00 GMT"
+      },
+      {
+        "title": "My wife’s 2011 Ford Fiesta was totaled. Should we accept a $2,000 insurance settlement or give up the car for $2,700?",
+        "link": "https://www.marketwatch.com/story/my-wifes-2011-ford-fiesta-was-totaled-should-we-accept-a-2-000-insurance-settlement-or-give-up-the-car-for-2-700-f2cf2a86?mod=mw_rss_topstories",
+        "published": "Tue, 14 Jul 2026 19:44:00 GMT"
+      },
+      {
+        "title": "IBM workers pay a $400 million price for investing in company stock",
+        "link": "https://www.marketwatch.com/story/ibm-workers-pay-a-400-million-price-for-investing-in-company-stock-fb02f5fa?mod=mw_rss_topstories",
+        "published": "Tue, 14 Jul 2026 19:36:00 GMT"
+      },
+      {
+        "title": "Global oil prices notch back-to-back rise, remain ‘tethered to the Hormuz narrative’",
+        "link": "https://www.marketwatch.com/story/oil-prices-see-largest-two-day-percentage-gain-in-four-months-on-u-s-iran-fighting-040d7163?mod=mw_rss_topstories",
+        "published": "Tue, 14 Jul 2026 19:17:00 GMT"
+      },
+      {
+        "title": "Brace for $4 gas again: How U.S.-Iran tensions are threatening to end the price break at the pump",
+        "link": "https://www.marketwatch.com/story/brace-for-4-gas-again-how-u-s-iran-tensions-are-threatening-to-end-the-price-break-at-the-pump-343a76e1?mod=mw_rss_topstories",
+        "published": "Tue, 14 Jul 2026 19:08:00 GMT"
+      },
+      {
+        "title": "IBM’s stock is having its worst day ever after the surprise release of an earnings miss",
+        "link": "https://www.marketwatch.com/story/ibms-stock-dives-toward-worst-day-in-nearly-40-years-after-the-surprise-release-of-an-earnings-miss-8519741e?mod=mw_rss_topstories",
+        "published": "Tue, 14 Jul 2026 18:37:00 GMT"
+      },
+      {
         "title": "Homes are getting more affordable. So how come you still can’t afford to buy one?",
         "link": "https://www.marketwatch.com/story/homes-are-getting-more-affordable-so-how-come-you-still-cant-afford-to-buy-one-f2d69d02?mod=mw_rss_topstories",
         "published": "Tue, 14 Jul 2026 18:33:00 GMT"
-      },
-      {
-        "title": "These are the obstacles still keeping women from retirement security",
-        "link": "https://www.marketwatch.com/story/these-are-the-obstacles-still-keeping-women-from-retirement-security-eea48a95?mod=mw_rss_topstories",
-        "published": "Tue, 14 Jul 2026 18:23:00 GMT"
-      },
-      {
-        "title": "This overlooked index is a better investment than the S&P 500",
-        "link": "https://www.marketwatch.com/story/this-overlooked-index-is-a-better-investment-than-the-s-p-500-74c7e698?mod=mw_rss_topstories",
-        "published": "Tue, 14 Jul 2026 18:12:00 GMT"
-      },
-      {
-        "title": "Paychecks are rising faster than prices for a change — but when will consumers feel the relief?",
-        "link": "https://www.marketwatch.com/story/your-paycheck-is-rising-faster-than-prices-for-a-change-but-when-will-you-feel-the-relief-cbbcb8bd?mod=mw_rss_topstories",
-        "published": "Tue, 14 Jul 2026 17:55:00 GMT"
-      },
-      {
-        "title": "Global oil prices on track to notch back-to-back rise, remain ‘tethered to the Hormuz narrative’",
-        "link": "https://www.marketwatch.com/story/oil-prices-see-largest-two-day-percentage-gain-in-four-months-on-u-s-iran-fighting-040d7163?mod=mw_rss_topstories",
-        "published": "Tue, 14 Jul 2026 17:40:00 GMT"
-      },
-      {
-        "title": "‘It’s heartbreaking’: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?",
-        "link": "https://www.marketwatch.com/story/its-heartbreaking-my-brother-claimed-social-security-at-70-he-died-from-cancer-after-one-payment-why-wait-to-claim-491669b6?mod=mw_rss_topstories",
-        "published": "Tue, 14 Jul 2026 17:31:00 GMT"
-      },
-      {
-        "title": "Taco Bell reportedly being investigated by health officials, as cyclosporiasis outbreak spreads",
-        "link": "https://www.marketwatch.com/story/officials-are-reportedly-looking-into-taco-bell-as-source-of-parasite-outbreak-remains-elusive-3ead0a1f?mod=mw_rss_topstories",
-        "published": "Tue, 14 Jul 2026 17:28:00 GMT"
-      },
-      {
-        "title": "Sky-high returns and earnings expectations could mean the end is near for this stock-market bull run",
-        "link": "https://www.marketwatch.com/story/sky-high-returns-and-earnings-expectations-could-mean-the-end-is-near-for-this-stock-market-bull-run-429b4085?mod=mw_rss_topstories",
-        "published": "Tue, 14 Jul 2026 17:12:00 GMT"
       }
     ],
     "CNBC Top News": [
+      {
+        "title": "Here’s the inflation breakdown for June 2026 — in one chart",
+        "link": "https://www.cnbc.com/2026/07/14/inflation-cpi-june-2026-in-one-chart.html",
+        "published": "Tue, 14 Jul 2026 19:53:54 GMT"
+      },
       {
         "title": "Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people",
         "link": "https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html",
         "published": "Tue, 14 Jul 2026 17:29:07 GMT"
       },
       {
+        "title": "U.S. strikes Iran before Hormuz Strait blockade restarts",
+        "link": "https://www.cnbc.com/2026/07/14/iran-strikes-hormuz-strait-blockade-trump-tolls.html",
+        "published": "Tue, 14 Jul 2026 19:46:44 GMT"
+      },
+      {
+        "title": "SK Hynix options begin trading. But another group of stocks is stealing its thunder",
+        "link": "https://www.cnbc.com/2026/07/14/sk-hynix-options-begin-trading-but-another-group-of-stocks-is-stealing-its-thunder.html",
+        "published": "Tue, 14 Jul 2026 19:18:57 GMT"
+      },
+      {
+        "title": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
+        "link": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html",
+        "published": "Tue, 14 Jul 2026 19:50:48 GMT"
+      },
+      {
+        "title": "Caution warranted on this red hot AI cloud data stock that's now 'priced for perfection,' says Todd Gordon",
+        "link": "https://www.cnbc.com/2026/07/14/red-hot-ai-cloud-data-stock-now-priced-for-perfection-says-todd-gordon.html",
+        "published": "Tue, 14 Jul 2026 18:54:49 GMT"
+      },
+      {
         "title": "New York becomes first U.S. state to impose AI data center ban",
         "link": "https://www.cnbc.com/2026/07/14/new-york-ai-data-center-ban.html",
-        "published": "Tue, 14 Jul 2026 18:29:48 GMT"
+        "published": "Tue, 14 Jul 2026 18:49:14 GMT"
       },
       {
-        "title": "Bank earnings takeaways: From Goldman Sach's SpaceX IPO fees to JPMorgan's AI job cuts",
-        "link": "https://www.cnbc.com/2026/07/14/jpm-bank-of-america-citi-bank-earnings-live-updates.html",
-        "published": "Tue, 14 Jul 2026 17:49:25 GMT"
-      },
-      {
-        "title": "Oil prices off highs after Trump abandons 20% protection fee on Strait of Hormuz traffic",
-        "link": "https://www.cnbc.com/2026/07/14/oil-prices-today-brent-wti-hormuz-trump-toll-iran.html",
-        "published": "Tue, 14 Jul 2026 17:43:40 GMT"
-      },
-      {
-        "title": "Zipline adds ex-Tesla, Uber, Waymo execs to make drone delivery mainstream across U.S.",
-        "link": "https://www.cnbc.com/2026/07/14/zipline-drone-delivery-tesla-uber-waymo-executives.html",
-        "published": "Tue, 14 Jul 2026 18:29:41 GMT"
-      },
-      {
-        "title": "Barclays believes SK Hynix's U.S. shares can double. Here's why",
-        "link": "https://www.cnbc.com/2026/07/14/barclays-believes-sk-hynixs-us-shares-can-double-heres-why.html",
-        "published": "Tue, 14 Jul 2026 17:09:10 GMT"
-      },
-      {
-        "title": "U.S. trade official says 'very few' Nvidia H200 AI chips have been shipped to China",
-        "link": "https://www.cnbc.com/2026/07/14/nvidia-h200-ai-chips-china.html",
-        "published": "Tue, 14 Jul 2026 16:50:28 GMT"
-      },
-      {
-        "title": "IBM stock craters 23% after issuing second-quarter earnings warning",
-        "link": "https://www.cnbc.com/2026/07/14/ibm-warns-second-quarter-earnings-fell-short-of-expectations.html",
-        "published": "Tue, 14 Jul 2026 15:16:11 GMT"
+        "title": "Bipartisan group of senators propose Social Security reform process ahead of funding shortfall",
+        "link": "https://www.cnbc.com/2026/07/14/social-security-reform.html",
+        "published": "Tue, 14 Jul 2026 19:30:01 GMT"
       }
     ]
   }
