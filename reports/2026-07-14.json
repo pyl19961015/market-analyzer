@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-07-14T17:22:41",
+  "generated_at": "2026-07-14T18:37:38",
   "date": "2026-07-14",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7549.58,
-        "pct_change": 0.46
+        "last": 7551.12,
+        "pct_change": 0.48
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": null,
-        "pct_change": null
+        "last": 26161.41,
+        "pct_change": 1.11
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 52446.36,
-        "pct_change": -0.1
+        "last": 52488.34,
+        "pct_change": -0.02
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2963.3,
-        "pct_change": 0.34
+        "last": 2966.83,
+        "pct_change": 0.46
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 16.46,
-        "pct_change": -4.08
+        "last": 16.34,
+        "pct_change": -4.78
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
         "last": 4.58,
-        "pct_change": -0.56
+        "pct_change": -0.61
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 100.91,
-        "pct_change": -0.36
+        "last": 100.93,
+        "pct_change": -0.34
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 78.96,
-        "pct_change": 1.05
+        "last": 79.2,
+        "pct_change": 1.36
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4064.7,
-        "pct_change": 1.69
+        "last": 4065.6,
+        "pct_change": 1.72
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 184.23,
-        "pct_change": 1.63
+        "last": 184.35,
+        "pct_change": 1.7
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 56.26,
-        "pct_change": 0.33
+        "last": 56.17,
+        "pct_change": 0.19
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 56.6,
-        "pct_change": -0.25
+        "last": 56.74,
+        "pct_change": 0.01
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 158.45,
-        "pct_change": -1.83
+        "last": 158.24,
+        "pct_change": -1.97
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 115.68,
-        "pct_change": -0.31
+        "last": 115.83,
+        "pct_change": -0.18
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 83.61,
-        "pct_change": -1.16
+        "last": 83.41,
+        "pct_change": -1.39
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 180.24,
-        "pct_change": -0.07
+        "last": 180.23,
+        "pct_change": -0.08
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 45.62,
-        "pct_change": -0.21
+        "last": 45.64,
+        "pct_change": -0.19
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 50.63,
-        "pct_change": 0.11
+        "last": 50.67,
+        "pct_change": 0.19
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.42,
-        "pct_change": -0.64
+        "last": 44.46,
+        "pct_change": -0.54
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 111.64,
-        "pct_change": 0.04
+        "last": 111.52,
+        "pct_change": -0.06
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 162.2,
-        "pct_change": 0.2
+        "last": 162.22,
+        "pct_change": 0.21
       }
     }
   },
@@ -144,52 +144,52 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 187.18,
-        "pct_change": 2.22
+        "last": 187.82,
+        "pct_change": 2.57
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 314.46,
-        "pct_change": -0.9
+        "last": 315.33,
+        "pct_change": -0.62
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 386.56,
-        "pct_change": -1.13
+        "last": 386.65,
+        "pct_change": -1.11
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 246.01,
-        "pct_change": -0.53
+        "last": 247.12,
+        "pct_change": -0.08
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 357.74,
-        "pct_change": 1.48
+        "last": 357.68,
+        "pct_change": 1.47
       },
       "Meta": {
         "symbol": "META",
-        "last": 662.52,
-        "pct_change": 0.88
+        "last": 660.94,
+        "pct_change": 0.64
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 807.34,
-        "pct_change": 5.1
+        "last": 809.4,
+        "pct_change": 5.37
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 308.99,
-        "pct_change": 0.52
+        "last": 309.76,
+        "pct_change": 0.77
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 158.3,
-        "pct_change": 1.48
+        "last": 158.57,
+        "pct_change": 1.65
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -348,7 +348,7 @@
       "country": "USD",
       "date": "2026-07-15T08:30:00-04:00",
       "impact": "High",
-      "forecast": "0.4%",
+      "forecast": "0.3%",
       "previous": "0.4%"
     },
     {
@@ -364,7 +364,7 @@
       "country": "USD",
       "date": "2026-07-15T08:30:00-04:00",
       "impact": "Low",
-      "forecast": "9.4",
+      "forecast": "9.3",
       "previous": "5.7"
     },
     {
@@ -388,7 +388,7 @@
       "country": "USD",
       "date": "2026-07-15T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "-2.4M",
+      "forecast": "-1.8M",
       "previous": "3.0M"
     },
     {
@@ -468,7 +468,7 @@
       "country": "USD",
       "date": "2026-07-16T10:00:00-04:00",
       "impact": "Low",
-      "forecast": "-0.4%",
+      "forecast": "-0.5%",
       "previous": "3.8%"
     },
     {
@@ -476,7 +476,7 @@
       "country": "USD",
       "date": "2026-07-16T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "45B",
       "previous": "61B"
     },
     {
@@ -579,6 +579,12 @@
   "fed_policy": {
     "Press Releases": [
       {
+        "title": "Minutes of the Board's discount rate meetings on June 8 and June 17, 2026",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260714a.htm",
+        "published": "Tue, 14 Jul 2026 18:00:00 GMT",
+        "summary": "Minutes of the Board's discount rate meetings on June 8 and June 17, 2026"
+      },
+      {
         "title": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
         "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
         "published": "Thu, 9 Jul 2026 19:00:00 GMT",
@@ -619,12 +625,6 @@
         "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260630a.htm",
         "published": "Tue, 30 Jun 2026 14:00:00 GMT",
         "summary": "Agencies release list of distressed or underserved nonmetropolitan middle-income geographies"
-      },
-      {
-        "title": "Federal Reserve Board announces termination of enforcement action with Jiko Group, Inc.",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625a.htm",
-        "published": "Thu, 25 Jun 2026 15:00:00 GMT",
-        "summary": "Federal Reserve Board announces termination of enforcement action with Jiko Group, Inc."
       }
     ],
     "Speeches": [
@@ -679,6 +679,12 @@
     ],
     "FOMC Press Releases": [
       {
+        "title": "Minutes of the Board's discount rate meetings on June 8 and June 17, 2026",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260714a.htm",
+        "published": "Tue, 14 Jul 2026 18:00:00 GMT",
+        "summary": "Minutes of the Board's discount rate meetings on June 8 and June 17, 2026"
+      },
+      {
         "title": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
         "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
         "published": "Thu, 9 Jul 2026 19:00:00 GMT",
@@ -719,12 +725,6 @@
         "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm",
         "published": "Wed, 29 Apr 2026 18:00:00 GMT",
         "summary": "Federal Reserve issues FOMC statement"
-      },
-      {
-        "title": "Minutes of the Board’s discount rate meetings on February 9 and March 18, 2026",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260414a.htm",
-        "published": "Tue, 14 Apr 2026 18:00:00 GMT",
-        "summary": "Minutes of the Board’s discount rate meetings on February 9 and March 18, 2026"
       }
     ]
   },
@@ -736,24 +736,29 @@
         "published": "2026-07-13T20:10:58Z"
       },
       {
-        "title": "TL, LTL rates to hit new highs in Q3",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/tl-ltl-rates-hit-highs-165834221.html",
-        "published": "2026-07-14T16:58:34Z"
+        "title": "Why Citi Recommends Buying Loar Holdings Inc (LOAR) Stock Now",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/why-citi-recommends-buying-loar-092152104.html",
+        "published": "2026-07-13T09:21:52Z"
       },
       {
-        "title": "CrowdStrike, Fortinet and others surge on IBM warning of customer spending shift",
-        "link": "https://finance.yahoo.com/markets/stocks/article/crowdstrike-fortinet-and-others-surge-on-ibm-warning-of-customer-spending-shift-165538094.html",
-        "published": "2026-07-14T16:55:38Z"
+        "title": "Alphabet Inc (GOOGL) Stock: Looking Beyond the $4.7 Billion EU Fine",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-inc-googl-stock-looking-092159590.html",
+        "published": "2026-07-13T09:21:59Z"
       },
       {
-        "title": "Wallet check: Gas prices are cooling, but inflation still stings",
-        "link": "https://finance.yahoo.com/economy/article/wallet-check-gas-prices-are-cooling-but-inflation-still-stings-174715796.html",
-        "published": "2026-04-10T17:47:15Z"
+        "title": "ICICI Bank Ltd (IBN) Joins TPG to Acquire Aseem Infrastructure",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/icici-bank-ltd-ibn-joins-092959530.html",
+        "published": "2026-07-13T09:29:59Z"
       },
       {
-        "title": "These Chip Stocks Are Staying Strong In A Choppy Market",
-        "link": "https://www.investors.com/news/technology/chip-stocks-whipsaw-astera-labs-maintains-support/?src=A00220&yptr=yahoo",
-        "published": "2026-07-14T16:38:36Z"
+        "title": "SouthState Bank Corp (SSB) Stock Price Target Updated At JPMorgan",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/southstate-bank-corp-ssb-stock-092948824.html",
+        "published": "2026-07-13T09:29:48Z"
+      },
+      {
+        "title": "Analyst Report: Fedex Corp",
+        "link": "https://finance.yahoo.com/research/reports/ARGUS_2965_AnalystReport_1784050731000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+        "published": "2026-07-14T17:38:51Z"
       },
       {
         "title": "BMW's U.S. business is delivering when it matters most",
@@ -761,73 +766,83 @@
         "published": "2026-07-14T03:33:00Z"
       },
       {
-        "title": "'We are committed to the 2% inflation goal,' Warsh tells House lawmakers",
-        "link": "https://finance.yahoo.com/economy/policy/article/we-are-committed-to-the-2-inflation-goal-warsh-tells-house-lawmakers-123000475.html",
-        "published": "2026-07-14T12:30:00Z"
-      },
-      {
-        "title": "Tech giants spending $700 billion on AI data centers are recruiting military veterans to fill thousands of jobs",
-        "link": "https://finance.yahoo.com/technology/ai/articles/tech-giants-spending-700-billion-163000838.html",
-        "published": "2026-07-14T16:30:00Z"
+        "title": "Why Analysts Are Still Recommending Coupang Inc (CPNG) Stock",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/why-analysts-still-recommending-coupang-092625946.html",
+        "published": "2026-07-13T09:26:25Z"
       }
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "Your paycheck is rising faster than prices for a change — but when will you feel the relief?",
+        "title": "Homes are getting more affordable. So how come you still can’t afford to buy one?",
+        "link": "https://www.marketwatch.com/story/homes-are-getting-more-affordable-so-how-come-you-still-cant-afford-to-buy-one-f2d69d02?mod=mw_rss_topstories",
+        "published": "Tue, 14 Jul 2026 18:33:00 GMT"
+      },
+      {
+        "title": "These are the obstacles still keeping women from retirement security",
+        "link": "https://www.marketwatch.com/story/these-are-the-obstacles-still-keeping-women-from-retirement-security-eea48a95?mod=mw_rss_topstories",
+        "published": "Tue, 14 Jul 2026 18:23:00 GMT"
+      },
+      {
+        "title": "This overlooked index is a better investment than the S&P 500",
+        "link": "https://www.marketwatch.com/story/this-overlooked-index-is-a-better-investment-than-the-s-p-500-74c7e698?mod=mw_rss_topstories",
+        "published": "Tue, 14 Jul 2026 18:12:00 GMT"
+      },
+      {
+        "title": "Paychecks are rising faster than prices for a change — but when will consumers feel the relief?",
         "link": "https://www.marketwatch.com/story/your-paycheck-is-rising-faster-than-prices-for-a-change-but-when-will-you-feel-the-relief-cbbcb8bd?mod=mw_rss_topstories",
-        "published": "Tue, 14 Jul 2026 17:17:00 GMT"
+        "published": "Tue, 14 Jul 2026 17:55:00 GMT"
+      },
+      {
+        "title": "Global oil prices on track to notch back-to-back rise, remain ‘tethered to the Hormuz narrative’",
+        "link": "https://www.marketwatch.com/story/oil-prices-see-largest-two-day-percentage-gain-in-four-months-on-u-s-iran-fighting-040d7163?mod=mw_rss_topstories",
+        "published": "Tue, 14 Jul 2026 17:40:00 GMT"
+      },
+      {
+        "title": "‘It’s heartbreaking’: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?",
+        "link": "https://www.marketwatch.com/story/its-heartbreaking-my-brother-claimed-social-security-at-70-he-died-from-cancer-after-one-payment-why-wait-to-claim-491669b6?mod=mw_rss_topstories",
+        "published": "Tue, 14 Jul 2026 17:31:00 GMT"
+      },
+      {
+        "title": "Taco Bell reportedly being investigated by health officials, as cyclosporiasis outbreak spreads",
+        "link": "https://www.marketwatch.com/story/officials-are-reportedly-looking-into-taco-bell-as-source-of-parasite-outbreak-remains-elusive-3ead0a1f?mod=mw_rss_topstories",
+        "published": "Tue, 14 Jul 2026 17:28:00 GMT"
       },
       {
         "title": "Sky-high returns and earnings expectations could mean the end is near for this stock-market bull run",
         "link": "https://www.marketwatch.com/story/sky-high-returns-and-earnings-expectations-could-mean-the-end-is-near-for-this-stock-market-bull-run-429b4085?mod=mw_rss_topstories",
         "published": "Tue, 14 Jul 2026 17:12:00 GMT"
-      },
-      {
-        "title": "‘They are relentless’: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?",
-        "link": "https://www.marketwatch.com/story/they-are-relentless-a-scammer-is-trying-to-change-the-email-on-my-empty-robinhood-account-what-do-they-have-to-gain-26103dac?mod=mw_rss_topstories",
-        "published": "Tue, 14 Jul 2026 17:00:00 GMT"
-      },
-      {
-        "title": "‘I’d hate to end up with an unexpected tax bill’: I’m 73 and still work full time. Can I avoid paying taxes on my Social Security benefits?",
-        "link": "https://www.marketwatch.com/story/im-73-and-still-work-full-time-can-i-avoid-paying-taxes-on-my-social-security-benefits-06ecc7c2?mod=mw_rss_topstories",
-        "published": "Tue, 14 Jul 2026 16:30:00 GMT"
-      },
-      {
-        "title": "I’m 67 with a $140,000 pension. Should I wait until 70 to claim Social Security so my wife gets more?",
-        "link": "https://www.marketwatch.com/story/im-67-with-a-140-000-pension-should-i-wait-until-70-to-claim-social-security-so-my-wife-gets-more-63759d48?mod=mw_rss_topstories",
-        "published": "Tue, 14 Jul 2026 16:00:00 GMT"
-      },
-      {
-        "title": "My husband and I are retired. Our financial adviser, who is in his 30s, called us ‘you guyses.’ Is that unprofessional?",
-        "link": "https://www.marketwatch.com/story/my-husband-and-i-are-retired-our-financial-adviser-who-is-in-his-30s-called-us-you-guyses-is-that-unprofessional-ccddaa9f?mod=mw_rss_topstories",
-        "published": "Tue, 14 Jul 2026 15:30:00 GMT"
-      },
-      {
-        "title": "Lindsey Graham died from a rare heart condition. Here’s how to know if you’re at risk.",
-        "link": "https://www.marketwatch.com/story/lindsey-graham-died-from-a-rare-heart-condition-heres-how-to-know-if-youre-at-risk-8ca5a618?mod=mw_rss_topstories",
-        "published": "Tue, 14 Jul 2026 15:21:00 GMT"
-      },
-      {
-        "title": "Jamie Dimon says ‘booming’ markets and a ‘fine’ consumer fueled JPMorgan’s blowout profits",
-        "link": "https://www.marketwatch.com/story/jpmorgan-beats-profit-expectations-by-the-most-in-five-years-as-equity-markets-revenue-surges-9a0d8805?mod=mw_rss_topstories",
-        "published": "Tue, 14 Jul 2026 15:20:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
         "title": "Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people",
         "link": "https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html",
-        "published": "Tue, 14 Jul 2026 15:39:29 GMT"
+        "published": "Tue, 14 Jul 2026 17:29:07 GMT"
+      },
+      {
+        "title": "New York becomes first U.S. state to impose AI data center ban",
+        "link": "https://www.cnbc.com/2026/07/14/new-york-ai-data-center-ban.html",
+        "published": "Tue, 14 Jul 2026 18:29:48 GMT"
+      },
+      {
+        "title": "Bank earnings takeaways: From Goldman Sach's SpaceX IPO fees to JPMorgan's AI job cuts",
+        "link": "https://www.cnbc.com/2026/07/14/jpm-bank-of-america-citi-bank-earnings-live-updates.html",
+        "published": "Tue, 14 Jul 2026 17:49:25 GMT"
       },
       {
         "title": "Oil prices off highs after Trump abandons 20% protection fee on Strait of Hormuz traffic",
         "link": "https://www.cnbc.com/2026/07/14/oil-prices-today-brent-wti-hormuz-trump-toll-iran.html",
-        "published": "Tue, 14 Jul 2026 16:31:08 GMT"
+        "published": "Tue, 14 Jul 2026 17:43:40 GMT"
       },
       {
-        "title": "Bank earnings takeaways: What JPMorgan, BofA, Goldman, Citi and Wells Fargo said",
-        "link": "https://www.cnbc.com/2026/07/14/jpm-bank-of-america-citi-bank-earnings-live-updates.html",
-        "published": "Tue, 14 Jul 2026 17:19:11 GMT"
+        "title": "Zipline adds ex-Tesla, Uber, Waymo execs to make drone delivery mainstream across U.S.",
+        "link": "https://www.cnbc.com/2026/07/14/zipline-drone-delivery-tesla-uber-waymo-executives.html",
+        "published": "Tue, 14 Jul 2026 18:29:41 GMT"
+      },
+      {
+        "title": "Barclays believes SK Hynix's U.S. shares can double. Here's why",
+        "link": "https://www.cnbc.com/2026/07/14/barclays-believes-sk-hynixs-us-shares-can-double-heres-why.html",
+        "published": "Tue, 14 Jul 2026 17:09:10 GMT"
       },
       {
         "title": "U.S. trade official says 'very few' Nvidia H200 AI chips have been shipped to China",
@@ -835,24 +850,9 @@
         "published": "Tue, 14 Jul 2026 16:50:28 GMT"
       },
       {
-        "title": "Stocks making the biggest moves midday: IBM, Goldman Sachs, CleanSpark, HCA Healthcare & more",
-        "link": "https://www.cnbc.com/2026/07/14/stocks-making-big-moves-midday-ibm-goldman-cleanspark-hca-more-.html",
-        "published": "Tue, 14 Jul 2026 16:48:07 GMT"
-      },
-      {
-        "title": "Bank of America says investors are too bullish so forget about summer market upside",
-        "link": "https://www.cnbc.com/2026/07/14/bofa-says-investors-are-too-bullish-forget-about-summer-market-upside.html",
-        "published": "Tue, 14 Jul 2026 16:40:56 GMT"
-      },
-      {
         "title": "IBM stock craters 23% after issuing second-quarter earnings warning",
         "link": "https://www.cnbc.com/2026/07/14/ibm-warns-second-quarter-earnings-fell-short-of-expectations.html",
         "published": "Tue, 14 Jul 2026 15:16:11 GMT"
-      },
-      {
-        "title": "Supreme Court Justice Barrett says 'the threat level is really high' in budget testimony",
-        "link": "https://www.cnbc.com/2026/07/14/supreme-court-budget-congress-kagan-barrett.html",
-        "published": "Tue, 14 Jul 2026 17:14:26 GMT"
       }
     ]
   }
