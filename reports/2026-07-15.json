@@ -1,99 +1,99 @@
 {
-  "generated_at": "2026-07-15T02:06:27",
+  "generated_at": "2026-07-15T05:09:50",
   "date": "2026-07-15",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7543.59,
-        "pct_change": 0.38
+        "last": 7515.34,
+        "pct_change": -0.79
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26107.01,
-        "pct_change": 0.9
+        "last": 25873.18,
+        "pct_change": -1.55
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 52508.27,
-        "pct_change": 0.02
+        "last": 52498.64,
+        "pct_change": -0.26
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2964.76,
-        "pct_change": 0.39
+        "last": 2953.17,
+        "pct_change": -0.83
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 16.5,
-        "pct_change": -3.85
+        "last": 17.16,
+        "pct_change": 14.17
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.59,
-        "pct_change": -0.52
+        "last": 4.61,
+        "pct_change": 0.88
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
         "last": 100.82,
-        "pct_change": -0.45
+        "pct_change": -0.46
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 80.19,
-        "pct_change": 2.62
+        "last": 79.78,
+        "pct_change": 0.55
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4045.5,
-        "pct_change": 1.21
+        "last": 4039.1,
+        "pct_change": -0.54
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 183.62,
-        "pct_change": 1.29
+        "last": 181.28,
+        "pct_change": -2.42
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 56.18,
-        "pct_change": 0.2
+        "last": 56.07,
+        "pct_change": 0.65
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 56.95,
-        "pct_change": 0.37
+        "last": 56.74,
+        "pct_change": 3.01
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 158.29,
-        "pct_change": -1.93
+        "last": 161.41,
+        "pct_change": 0.35
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 115.9,
-        "pct_change": -0.12
+        "last": 116.04,
+        "pct_change": -1.02
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 83.42,
-        "pct_change": -1.38
+        "last": 84.59,
+        "pct_change": 0.56
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 180.45,
-        "pct_change": 0.04
+        "last": 180.37,
+        "pct_change": -0.85
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 45.69,
-        "pct_change": -0.07
+        "last": 45.72,
+        "pct_change": 0.68
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 50.64,
-        "pct_change": 0.12
+        "last": 50.58,
+        "pct_change": -0.61
       },
       "Real Estate": {
         "symbol": "XLRE",
@@ -111,18 +111,18 @@
     "indices": {
       "Nikkei 225": {
         "symbol": "^N225",
-        "last": 68107.97,
-        "pct_change": 1.29
+        "last": 68563.96,
+        "pct_change": 1.96
       },
       "TOPIX (ETF代理)": {
         "symbol": "1306.T",
-        "last": 421.6,
-        "pct_change": 0.07
+        "last": 424.4,
+        "pct_change": 0.74
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 162.04,
-        "pct_change": -0.24
+        "last": 162.2,
+        "pct_change": -0.14
       }
     }
   },
@@ -138,36 +138,36 @@
       "as_of": "2026-07-14",
       "prev_yield": 2.786
     },
-    "spread_10y": 1.88
+    "spread_10y": 1.9
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 187.64,
-        "pct_change": 2.47
+        "last": 183.11,
+        "pct_change": -4.08
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 314.86,
-        "pct_change": -0.77
+        "last": 317.31,
+        "pct_change": 0.63
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 384.93,
-        "pct_change": -1.55
+        "last": 390.99,
+        "pct_change": 1.53
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 247.49,
-        "pct_change": 0.07
+        "last": 247.31,
+        "pct_change": 0.8
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 359.51,
-        "pct_change": 1.99
+        "last": 352.51,
+        "pct_change": -1.31
       },
       "Meta": {
         "symbol": "META",
@@ -183,18 +183,18 @@
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 310.77,
-        "pct_change": 1.1
+        "last": 307.39,
+        "pct_change": -5.27
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 158.37,
-        "pct_change": 1.53
+        "last": 155.99,
+        "pct_change": -1.93
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 6439.0,
-        "pct_change": 0.26
+        "last": 6487.0,
+        "pct_change": 1.01
       }
     }
   },
@@ -736,24 +736,24 @@
         "published": "2026-07-13T20:10:58Z"
       },
       {
-        "title": "Alternative Power Demand Drives Bloom Energy (BE) Higher",
-        "link": "https://finance.yahoo.com/energy/articles/alternative-power-demand-drives-bloom-135743376.html",
-        "published": "2026-07-13T13:57:43Z"
+        "title": "Mark Yusko compares SpaceX's $2 trillion valuation to Dogecoin, warns lockup expiry could trigger deeper selloff",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/mark-yusko-compares-spacexs-2-171500659.html",
+        "published": "2026-07-13T17:15:00Z"
       },
       {
-        "title": "What to Expect From Vertex Pharmaceuticals' Next Quarterly Earnings Report",
-        "link": "https://finance.yahoo.com/healthcare/articles/expect-vertex-pharmaceuticals-next-quarterly-135725890.html",
-        "published": "2026-07-13T13:57:25Z"
+        "title": "Cotton Fading Back Lower on Monday",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/cotton-fading-back-lower-monday-171646261.html",
+        "published": "2026-07-13T17:16:46Z"
       },
       {
-        "title": "Major U.S. Banks Join U.K. Government's Tokenization Taskforce",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/major-u-banks-join-u-135800646.html",
-        "published": "2026-07-13T13:58:00Z"
+        "title": "Soybeans Posting Monday Rally",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/soybeans-posting-monday-rally-171645392.html",
+        "published": "2026-07-13T17:16:45Z"
       },
       {
-        "title": "Bitmine Purchases More Ethereum As Price Languishes",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/bitmine-purchases-more-ethereum-price-135900603.html",
-        "published": "2026-07-13T13:59:00Z"
+        "title": "Corn Holding Higher at Monday’s Midday",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/corn-holding-higher-monday-midday-171645450.html",
+        "published": "2026-07-13T17:16:45Z"
       },
       {
         "title": "BMW's U.S. business is delivering when it matters most",
@@ -761,14 +761,14 @@
         "published": "2026-07-14T03:33:00Z"
       },
       {
-        "title": "Dear Google Stock Fans, Mark Your Calendars for July 13",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/dear-google-stock-fans-mark-140258657.html",
-        "published": "2026-07-13T14:02:58Z"
+        "title": "Ahead of Taiwan Semiconductor Earnings, Here's What Barchart Data Says Comes Next for TSM Stock",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/ahead-taiwan-semiconductor-earnings-heres-171216380.html",
+        "published": "2026-07-13T17:12:16Z"
       },
       {
-        "title": "IDEXX Laboratories Earnings Preview: What to Expect",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/idexx-laboratories-earnings-preview-expect-140051462.html",
-        "published": "2026-07-13T14:00:51Z"
+        "title": "These overlooked chip stocks are getting an AI boost",
+        "link": "https://finance.yahoo.com/markets/article/these-overlooked-chip-stocks-are-getting-an-ai-boost-170342519.html",
+        "published": "2026-07-13T17:03:42Z"
       }
     ],
     "MarketWatch Top Stories": [
@@ -815,29 +815,29 @@
     ],
     "CNBC Top News": [
       {
+        "title": "Oil rises after another round of U.S. strikes against Iran, naval blockade of the country's ports",
+        "link": "https://www.cnbc.com/2026/07/15/oil-prices-today-brent-wti-hormuz-blockade.html",
+        "published": "Wed, 15 Jul 2026 04:40:58 GMT"
+      },
+      {
+        "title": "China posts slowest quarterly growth since 2022 as investment slumps, fanning stimulus calls",
+        "link": "https://www.cnbc.com/2026/07/15/china-gdp-retail-sales-investment-june-.html",
+        "published": "Wed, 15 Jul 2026 04:37:57 GMT"
+      },
+      {
         "title": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
         "link": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html",
         "published": "Tue, 14 Jul 2026 19:50:48 GMT"
       },
       {
-        "title": "Stock futures are flat after soft inflation reading lifts market: Live updates",
+        "title": "Stock futures rise as soft inflation reading lifts market: Live updates",
         "link": "https://www.cnbc.com/2026/07/14/stock-market-today-live-updates.html",
-        "published": "Wed, 15 Jul 2026 01:52:28 GMT"
+        "published": "Wed, 15 Jul 2026 04:17:45 GMT"
       },
       {
-        "title": "SK Hynix South Korean shares jump 11% as Asia tech stocks rally",
-        "link": "https://www.cnbc.com/2026/07/15/sk-hynix-asia-tech-stocks-rally-.html",
-        "published": "Wed, 15 Jul 2026 01:22:34 GMT"
-      },
-      {
-        "title": "U.S. strikes Iran before Hormuz Strait blockade restarts",
-        "link": "https://www.cnbc.com/2026/07/14/iran-strikes-hormuz-strait-blockade-trump-tolls.html",
-        "published": "Wed, 15 Jul 2026 00:24:59 GMT"
-      },
-      {
-        "title": "IBM stock craters 25%, the worst day on record, after company issues second-quarter earnings warning",
-        "link": "https://www.cnbc.com/2026/07/14/ibm-warns-second-quarter-earnings-fell-short-of-expectations.html",
-        "published": "Tue, 14 Jul 2026 21:01:06 GMT"
+        "title": "Stripe, Advent offer to buy PayPal for more than $53 billion: Reuters",
+        "link": "https://www.cnbc.com/2026/07/15/stripe-advent-offer-to-buy-paypal-for-more-than-53-billion-reuters.html",
+        "published": "Wed, 15 Jul 2026 05:04:46 GMT"
       },
       {
         "title": "Caution warranted on this red hot AI cloud data stock that's now 'priced for perfection,' says Todd Gordon",
@@ -845,14 +845,14 @@
         "published": "Tue, 14 Jul 2026 18:54:49 GMT"
       },
       {
-        "title": "Here’s the inflation breakdown for June 2026 — in one chart",
-        "link": "https://www.cnbc.com/2026/07/14/inflation-cpi-june-2026-in-one-chart.html",
-        "published": "Tue, 14 Jul 2026 21:02:45 GMT"
+        "title": "SK Hynix South Korean shares jump 11% as Asia tech stocks rally",
+        "link": "https://www.cnbc.com/2026/07/15/sk-hynix-asia-tech-stocks-rally-.html",
+        "published": "Wed, 15 Jul 2026 01:22:34 GMT"
       },
       {
-        "title": "Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people",
-        "link": "https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html",
-        "published": "Tue, 14 Jul 2026 17:29:07 GMT"
+        "title": "IBM stock craters 25%, the worst day on record, after company issues second-quarter earnings warning",
+        "link": "https://www.cnbc.com/2026/07/14/ibm-warns-second-quarter-earnings-fell-short-of-expectations.html",
+        "published": "Tue, 14 Jul 2026 21:01:06 GMT"
       }
     ]
   }
