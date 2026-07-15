@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-07-15T18:45:30",
+  "generated_at": "2026-07-15T20:05:44",
   "date": "2026-07-15",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7564.46,
-        "pct_change": 0.28
+        "last": 7572.4,
+        "pct_change": 0.38
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26225.87,
-        "pct_change": 0.46
+        "last": 26269.23,
+        "pct_change": 0.62
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 52638.63,
-        "pct_change": 0.25
+        "last": 52658.64,
+        "pct_change": 0.29
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2978.23,
-        "pct_change": 0.45
+        "last": 2974.6,
+        "pct_change": 0.33
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.68,
-        "pct_change": -4.97
+        "last": 15.69,
+        "pct_change": -4.91
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
@@ -35,75 +35,75 @@
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 100.38,
-        "pct_change": -0.55
+        "last": 100.51,
+        "pct_change": -0.42
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 79.88,
-        "pct_change": 0.68
+        "last": 80.29,
+        "pct_change": 1.2
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4079.1,
-        "pct_change": 0.44
+        "last": 4061.2,
+        "pct_change": 0.0
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 180.91,
-        "pct_change": -1.48
+        "last": 181.64,
+        "pct_change": -1.08
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 56.53,
-        "pct_change": 0.62
+        "last": 56.54,
+        "pct_change": 0.65
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 56.26,
-        "pct_change": -1.21
+        "last": 56.48,
+        "pct_change": -0.83
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 158.99,
-        "pct_change": 0.45
+        "last": 158.33,
+        "pct_change": 0.03
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 117.29,
-        "pct_change": 1.2
+        "last": 116.98,
+        "pct_change": 0.93
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 83.68,
-        "pct_change": 0.31
+        "last": 83.47,
+        "pct_change": 0.06
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 179.66,
-        "pct_change": -0.44
+        "last": 180.07,
+        "pct_change": -0.21
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 45.31,
-        "pct_change": -0.83
+        "last": 45.22,
+        "pct_change": -1.04
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 50.54,
-        "pct_change": -0.19
+        "last": 50.5,
+        "pct_change": -0.28
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.58,
-        "pct_change": 0.21
+        "last": 44.55,
+        "pct_change": 0.16
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 113.12,
-        "pct_change": 1.5
+        "last": 113.38,
+        "pct_change": 1.73
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 161.98,
-        "pct_change": -0.28
+        "last": 162.21,
+        "pct_change": -0.14
       }
     }
   },
@@ -144,52 +144,52 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 173.19,
-        "pct_change": -7.7
+        "last": 174.44,
+        "pct_change": -7.03
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 327.62,
-        "pct_change": 4.05
+        "last": 327.5,
+        "pct_change": 4.01
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 396.44,
-        "pct_change": 2.99
+        "last": 395.63,
+        "pct_change": 2.78
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 254.97,
+        "last": 254.96,
         "pct_change": 3.02
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 371.7,
-        "pct_change": 3.39
+        "last": 370.92,
+        "pct_change": 3.17
       },
       "Meta": {
         "symbol": "META",
-        "last": 674.21,
-        "pct_change": 1.99
+        "last": 681.31,
+        "pct_change": 3.07
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 750.35,
-        "pct_change": -7.91
+        "last": 752.0,
+        "pct_change": -7.71
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 294.2,
-        "pct_change": -5.33
+        "last": 299.35,
+        "pct_change": -3.67
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 157.55,
-        "pct_change": -0.52
+        "last": 157.09,
+        "pct_change": -0.81
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -736,24 +736,24 @@
         "published": "2026-07-15T03:07:00Z"
       },
       {
-        "title": "Fed Chairman Kevin Warsh on tap to make his first appearance before Congress",
-        "link": "https://finance.yahoo.com/economy/policy/article/fed-chairman-kevin-warsh-on-tap-to-make-his-first-appearance-before-congress-160111719.html",
-        "published": "2026-07-10T16:01:11Z"
+        "title": "Visualizing Annual MLP Distribution Growth",
+        "link": "https://finance.yahoo.com/energy/articles/visualizing-annual-mlp-distribution-growth-110029206.html",
+        "published": "2026-07-14T11:00:29Z"
       },
       {
-        "title": "China Cuts Saudi Crude Orders as Hormuz Risks and Discounts Reshape Trade",
-        "link": "https://finance.yahoo.com/energy/articles/china-cuts-saudi-crude-orders-093000618.html",
-        "published": "2026-07-14T09:30:00Z"
+        "title": "Trump's promotion of 'Freedom Fuel' gas stations sparks accusations of a double standard",
+        "link": "https://finance.yahoo.com/energy/articles/trumps-promotion-freedom-fuel-gas-110000934.html",
+        "published": "2026-07-14T11:00:00Z"
       },
       {
-        "title": "Welcome to the Tokenpocalypse: Companies rapidly backtrack after encouraging workers to spend with abandon on AI",
-        "link": "https://finance.yahoo.com/technology/ai/articles/welcome-tokenpocalypse-companies-rapidly-backtrack-100000461.html",
-        "published": "2026-07-14T10:00:00Z"
+        "title": "European biotech chases record VC funding",
+        "link": "https://finance.yahoo.com/healthcare/articles/european-biotech-chases-record-vc-105336852.html",
+        "published": "2026-07-14T10:53:36Z"
       },
       {
-        "title": "Micron and Nvidia are powering a $700 billion chip profit boom: Chart of the Day",
-        "link": "https://finance.yahoo.com/markets/article/micron-and-nvidia-are-powering-a-700-billion-chip-profit-boom-chart-of-the-day-100000068.html",
-        "published": "2026-07-14T10:00:00Z"
+        "title": "How To Find Options Trades This Earnings Season",
+        "link": "https://finance.yahoo.com/markets/options/articles/options-trades-earnings-season-110002572.html",
+        "published": "2026-07-14T11:00:02Z"
       },
       {
         "title": "Market Update: MS, NKE, W",
@@ -766,12 +766,37 @@
         "published": "2026-07-14T09:03:00Z"
       },
       {
-        "title": "ECB picks 36 payment firms for digital euro pilot",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/ecb-picks-36-payment-providers-090650568.html",
-        "published": "2026-07-14T09:06:50Z"
+        "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/ibm-expects-second-quarter-revenue-111029599.html",
+        "published": "2026-07-14T11:10:29Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "AI is killing the cover letter — but here’s when it still pays to send one",
+        "link": "https://www.marketwatch.com/story/ai-is-killing-the-cover-letter-heres-when-it-pays-off-to-send-one-and-when-to-skip-it-e8800ef0?mod=mw_rss_topstories",
+        "published": "Wed, 15 Jul 2026 20:03:00 GMT"
+      },
+      {
+        "title": "My wife’s 2011 Ford Fiesta was totaled. Should we accept a $2,000 insurance settlement or give up the car for $2,700?",
+        "link": "https://www.marketwatch.com/story/my-wifes-2011-ford-fiesta-was-totaled-should-we-accept-a-2-000-insurance-settlement-or-give-up-the-car-for-2-700-f2cf2a86?mod=mw_rss_topstories",
+        "published": "Wed, 15 Jul 2026 20:00:00 GMT"
+      },
+      {
+        "title": "I’m 67 with a $140,000 pension. Should I wait until 70 to claim Social Security so my wife gets more?",
+        "link": "https://www.marketwatch.com/story/im-67-with-a-140-000-pension-should-i-wait-until-70-to-claim-social-security-so-my-wife-gets-more-63759d48?mod=mw_rss_topstories",
+        "published": "Wed, 15 Jul 2026 19:30:00 GMT"
+      },
+      {
+        "title": "This isn’t a plan to save Social Security. It’s a plan to have a plan.",
+        "link": "https://www.marketwatch.com/story/this-isnt-a-plan-to-save-social-security-its-a-plan-to-have-a-plan-d55860af?mod=mw_rss_topstories",
+        "published": "Wed, 15 Jul 2026 19:11:00 GMT"
+      },
+      {
+        "title": "‘They cut off online access’: My mother’s bank balance plummeted after her death. What’s going on?",
+        "link": "https://www.marketwatch.com/story/they-cut-off-online-access-my-mothers-bank-balance-plummeted-after-her-death-whats-going-on-8e8f3aa2?mod=mw_rss_topstories",
+        "published": "Wed, 15 Jul 2026 19:01:00 GMT"
+      },
       {
         "title": "IBM employees losing $400 million on the company’s stock should be a wake-up call",
         "link": "https://www.marketwatch.com/story/ibm-workers-pay-a-400-million-price-for-investing-in-company-stock-fb02f5fa?mod=mw_rss_topstories",
@@ -786,38 +811,28 @@
         "title": "What the launch of SK Hynix leveraged ETFs tells us about the hottest trade on Wall Street",
         "link": "https://www.marketwatch.com/story/what-the-launch-of-sk-hynix-leveraged-etfs-tells-us-about-the-hottest-trade-on-wall-street-2110c484?mod=mw_rss_topstories",
         "published": "Wed, 15 Jul 2026 18:02:00 GMT"
-      },
-      {
-        "title": "My husband and I are retired. Our financial adviser, who is in his 30s, called us ‘you guyses.’ Is that unprofessional?",
-        "link": "https://www.marketwatch.com/story/my-husband-and-i-are-retired-our-financial-adviser-who-is-in-his-30s-called-us-you-guyses-is-that-unprofessional-ccddaa9f?mod=mw_rss_topstories",
-        "published": "Wed, 15 Jul 2026 18:01:00 GMT"
-      },
-      {
-        "title": "Permanent daylight-saving time would be a win for tourism, but other sectors have big concerns",
-        "link": "https://www.marketwatch.com/story/permanent-daylight-saving-time-would-be-a-win-for-tourism-but-other-sectors-have-big-concerns-dd3076f8?mod=mw_rss_topstories",
-        "published": "Wed, 15 Jul 2026 17:48:00 GMT"
-      },
-      {
-        "title": "Small-cap outperformance is persisting — and these 15 quality stocks pay rich dividends",
-        "link": "https://www.marketwatch.com/story/small-cap-outperformance-is-persisting-and-these-15-quality-stocks-pay-rich-dividends-5a814386?mod=mw_rss_topstories",
-        "published": "Wed, 15 Jul 2026 17:47:00 GMT"
-      },
-      {
-        "title": "Your Social Security check could go up by $74 a month next year",
-        "link": "https://www.marketwatch.com/story/your-social-security-check-could-go-up-by-74-a-month-next-year-58877142?mod=mw_rss_topstories",
-        "published": "Wed, 15 Jul 2026 17:45:00 GMT"
-      },
-      {
-        "title": "SpaceX’s stock breaks below its IPO price for the first time. Why it could still fall further.",
-        "link": "https://www.marketwatch.com/story/spacexs-stock-breaks-below-its-ipo-price-for-the-first-time-8826dc9a?mod=mw_rss_topstories",
-        "published": "Wed, 15 Jul 2026 17:34:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
+        "title": "Fed Chairman Warsh says he meets 'often' with Trump administration, defends independence",
+        "link": "https://www.cnbc.com/2026/07/15/feds-warsh-says-he-meets-often-with-trump-administration.html",
+        "published": "Wed, 15 Jul 2026 17:16:14 GMT"
+      },
+      {
         "title": "Warren Buffett on the market today: 'It's tough to find values when everybody is preferring gambling'",
         "link": "https://www.cnbc.com/2026/07/15/warren-buffett-on-the-market-today-its-tough-to-find-values-when-everybody-is-preferring-gambling.html",
         "published": "Wed, 15 Jul 2026 15:08:40 GMT"
+      },
+      {
+        "title": "Trump's pick to head national intelligence, Jay Clayton, won't tell senators Biden won the 2020 election",
+        "link": "https://www.cnbc.com/2026/07/15/trump-dni-jay-clayton-senate-2020-election.html",
+        "published": "Wed, 15 Jul 2026 19:48:29 GMT"
+      },
+      {
+        "title": "Stocks close higher on Big Tech gains, encouraging inflation signs: Live updates",
+        "link": "https://www.cnbc.com/2026/07/14/stock-market-today-live-updates.html",
+        "published": "Wed, 15 Jul 2026 20:05:10 GMT"
       },
       {
         "title": "Historic IBM stock crash sets up unique options strategy",
@@ -825,34 +840,19 @@
         "published": "Wed, 15 Jul 2026 17:17:38 GMT"
       },
       {
-        "title": "Trump's DNI pick Jay Clayton won't tell senators Biden won the 2020 election",
-        "link": "https://www.cnbc.com/2026/07/15/trump-dni-jay-clayton-senate-2020-election.html",
-        "published": "Wed, 15 Jul 2026 16:54:26 GMT"
+        "title": "Munis are having a solid 2026. Investors can still grab 'generationally attractive yields'",
+        "link": "https://www.cnbc.com/2026/07/15/munis-are-having-a-solid-2026-.html",
+        "published": "Wed, 15 Jul 2026 19:12:19 GMT"
       },
       {
-        "title": "Stocks rise on Big Tech gains, encouraging inflation signs: Live updates",
-        "link": "https://www.cnbc.com/2026/07/14/stock-market-today-live-updates.html",
-        "published": "Wed, 15 Jul 2026 18:12:18 GMT"
+        "title": "Trump blasts New York AI data center ban, says state should change policy 'immediately'",
+        "link": "https://www.cnbc.com/2026/07/15/trump-blasts-new-york-gov-hochul-over-ai-data-center-moratorium.html",
+        "published": "Wed, 15 Jul 2026 19:56:15 GMT"
       },
       {
         "title": "Anthropic moves closer to mega-IPO as bankers line up investor meetings",
         "link": "https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html",
         "published": "Wed, 15 Jul 2026 17:22:51 GMT"
-      },
-      {
-        "title": "SpaceX stock sinks below $135 IPO price for the first time",
-        "link": "https://www.cnbc.com/2026/07/15/spacex-spcx-stock-ipo-price.html",
-        "published": "Wed, 15 Jul 2026 17:07:11 GMT"
-      },
-      {
-        "title": "Public Service Loan Forgiveness has new rules — 3 changes borrowers should know about",
-        "link": "https://www.cnbc.com/2026/07/15/public-service-loan-forgiveness-pslf-changes.html",
-        "published": "Wed, 15 Jul 2026 17:58:41 GMT"
-      },
-      {
-        "title": "Bullish charts and fundamentals are lining up for JPMorgan Chase, says Frank Cappelleri",
-        "link": "https://www.cnbc.com/2026/07/15/bullish-charts-and-fundamentals-are-lining-up-for-jpmorgan-chase-says-frank-cappelleri.html",
-        "published": "Wed, 15 Jul 2026 17:38:25 GMT"
       }
     ]
   }
