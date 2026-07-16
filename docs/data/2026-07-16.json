@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-07-16T19:04:30",
+  "generated_at": "2026-07-16T20:11:15",
   "date": "2026-07-16",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7531.7,
-        "pct_change": -0.54
+        "last": 7533.77,
+        "pct_change": -0.51
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 25926.86,
-        "pct_change": -1.3
+        "last": null,
+        "pct_change": null
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 52491.74,
-        "pct_change": -0.32
+        "last": 52552.97,
+        "pct_change": -0.2
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2971.73,
-        "pct_change": -0.15
+        "last": 2971.43,
+        "pct_change": -0.16
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 16.51,
-        "pct_change": 5.36
+        "last": 16.64,
+        "pct_change": 6.19
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
@@ -35,75 +35,75 @@
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 100.77,
-        "pct_change": 0.27
+        "last": 100.75,
+        "pct_change": 0.25
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 78.27,
-        "pct_change": -1.67
+        "last": 78.42,
+        "pct_change": -1.48
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 3986.1,
-        "pct_change": -1.43
+        "last": 3982.7,
+        "pct_change": -1.52
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 177.51,
-        "pct_change": -2.24
+        "last": 177.46,
+        "pct_change": -2.27
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 56.57,
-        "pct_change": 0.02
+        "last": 56.76,
+        "pct_change": 0.34
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 57.06,
-        "pct_change": 1.0
+        "last": 57.01,
+        "pct_change": 0.9
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 161.41,
-        "pct_change": 1.97
+        "last": 161.81,
+        "pct_change": 2.22
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 117.46,
-        "pct_change": 0.39
+        "last": 117.34,
+        "pct_change": 0.29
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 85.61,
-        "pct_change": 2.56
+        "last": 85.81,
+        "pct_change": 2.8
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 179.41,
-        "pct_change": -0.36
+        "last": 180.15,
+        "pct_change": 0.05
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 45.26,
-        "pct_change": 0.1
+        "last": 45.48,
+        "pct_change": 0.57
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 50.69,
-        "pct_change": 0.39
+        "last": 50.87,
+        "pct_change": 0.73
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 45.3,
-        "pct_change": 1.66
+        "last": 45.47,
+        "pct_change": 2.03
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 112.88,
-        "pct_change": -0.45
+        "last": 112.65,
+        "pct_change": -0.64
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 162.37,
-        "pct_change": 0.11
+        "last": 162.38,
+        "pct_change": 0.12
       }
     }
   },
@@ -144,52 +144,52 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 156.35,
-        "pct_change": -10.35
+        "last": 158.46,
+        "pct_change": -9.15
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 333.11,
-        "pct_change": 1.71
+        "last": 333.26,
+        "pct_change": 1.76
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 405.05,
-        "pct_change": 2.38
+        "last": 401.1,
+        "pct_change": 1.38
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 252.97,
-        "pct_change": -0.78
+        "last": 249.89,
+        "pct_change": -1.99
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 356.08,
-        "pct_change": -4.0
+        "last": 354.46,
+        "pct_change": -4.44
       },
       "Meta": {
         "symbol": "META",
-        "last": 667.29,
-        "pct_change": -2.06
+        "last": 664.54,
+        "pct_change": -2.46
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 700.35,
-        "pct_change": -6.87
+        "last": 706.23,
+        "pct_change": -6.09
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 275.72,
-        "pct_change": -7.9
+        "last": 276.94,
+        "pct_change": -7.5
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 153.55,
-        "pct_change": -2.22
+        "last": 153.19,
+        "pct_change": -2.45
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -731,47 +731,52 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "Lucid Dismisses Bankruptcy Rumors After Nasdaq Halts Trading. Here’s Why the Stock Plunged Anyway.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/lucid-dismisses-bankruptcy-rumors-nasdaq-090018988.html",
-        "published": "2026-07-15T09:00:18Z"
+        "title": "AbbVie vs Baxter: One Golden Cross Is Real, One Is a Trap",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/abbvie-vs-baxter-one-golden-114554679.html",
+        "published": "2026-07-15T11:45:54Z"
       },
       {
-        "title": "Is It Better to Take a $150,000 Lump Sum or $1,200 Monthly Pension Payments?",
-        "link": "https://finance.yahoo.com/markets/options/articles/150-000-lump-sum-1-132703737.html",
-        "published": "2026-07-15T09:00:00Z"
+        "title": "Sales Gains Send Carpenter Technology Higher Before Earnings Report",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/sales-gains-send-carpenter-technology-113733690.html",
+        "published": "2026-07-15T11:37:33Z"
       },
       {
-        "title": "B. Riley Lifts PT on Angel Studios (ANGX) – Here’s Why",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/b-riley-lifts-pt-angel-085344540.html",
-        "published": "2026-07-15T08:53:44Z"
+        "title": "Why NVIDIA (NVDA) Is Expanding Its AI Leadership Beyond GPUs With Networking, CPUs, and Full-Stack Infrastructure",
+        "link": "https://finance.yahoo.com/technology/ai/articles/why-nvidia-nvda-expanding-ai-114820881.html",
+        "published": "2026-07-15T11:48:20Z"
       },
       {
-        "title": "Here’s What Wells Fargo Thinks About Comcast Corporation (CMCSA)",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-thinks-comcast-corporation-085523391.html",
-        "published": "2026-07-15T08:55:23Z"
+        "title": "Why ASML (ASML) Remains Critical to the AI Chip Supply Chain as Advanced Semiconductor Demand Grows",
+        "link": "https://finance.yahoo.com/technology/ai/articles/why-asml-asml-remains-critical-113926884.html",
+        "published": "2026-07-15T11:39:26Z"
       },
       {
-        "title": "Zcash Technicals Reveal A 45% ZEC Price Breakout In Motion",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/zcash-technicals-reveal-45-zec-085821335.html",
-        "published": "2026-07-15T08:58:21Z"
+        "title": "IBM stock price still in the 'penalty box' after epic 25% crash",
+        "link": "https://finance.yahoo.com/markets/stocks/article/ibm-stock-price-still-in-the-penalty-box-after-epic-25-crash-115344708.html",
+        "published": "2026-07-15T11:53:44Z"
       },
       {
-        "title": "Billionaire Irish brothers in £40bn swoop for PayPal",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-irish-brothers-40bn-swoop-085921223.html",
-        "published": "2026-07-15T08:59:21Z"
+        "title": "Analyst Report: United Airlines Holdings Inc",
+        "link": "https://finance.yahoo.com/research/reports/ARGUS_4407_AnalystReport_1784226582000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+        "published": "2026-07-16T18:29:42Z"
       },
       {
-        "title": "Why Kopin Corporation (KOPN) is One of the Best Strong Buy Penny Stocks to Invest in Now",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/why-kopin-corporation-kopn-one-085335940.html",
-        "published": "2026-07-15T08:53:35Z"
+        "title": "Elevance Health Logs Lower Membership Amid Rate Hikes",
+        "link": "https://www.wsj.com/business/earnings/elevance-health-raises-earnings-outlook-on-higher-sales-18c2c449?siteid=yhoof2&yptr=yahoo",
+        "published": "2026-07-15T11:43:00Z"
       },
       {
-        "title": "Prime Medicine (PRME) Reaches Positive Resolution to Arbitration with Beam Therapeutics",
-        "link": "https://finance.yahoo.com/healthcare/articles/prime-medicine-prme-reaches-positive-085317803.html",
-        "published": "2026-07-15T08:53:17Z"
+        "title": "Jim Cramer Continued To Believe In International Business Machines (IBM)",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-continued-believe-international-113433052.html",
+        "published": "2026-07-15T11:34:33Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "Wildfire smoke ‘a growing cardiovascular threat’ as Chicago, Detroit, NYC among world’s most polluted cities today",
+        "link": "https://www.marketwatch.com/story/these-cities-are-blanketed-with-wildfire-smoke-heres-what-to-know-about-bad-air-quality-cd3a8fa7?mod=mw_rss_topstories",
+        "published": "Thu, 16 Jul 2026 19:30:00 GMT"
+      },
       {
         "title": "It’s a buyer’s market for bonds",
         "link": "https://www.marketwatch.com/story/its-a-buyers-market-for-bonds-aeba3adc?mod=mw_rss_topstories",
@@ -806,18 +811,33 @@
         "title": "SpaceX’s Starship is set for takeoff — and its floundering stock could use the lift",
         "link": "https://www.marketwatch.com/story/spacexs-starship-is-set-for-takeoff-and-its-floundering-stock-could-use-the-lift-ec5629d5?mod=mw_rss_topstories",
         "published": "Thu, 16 Jul 2026 17:01:00 GMT"
-      },
-      {
-        "title": "My wife’s 2011 Ford Fiesta was totaled. Should we accept a $2,000 insurance settlement or give up the car for $2,700?",
-        "link": "https://www.marketwatch.com/story/my-wifes-2011-ford-fiesta-was-totaled-should-we-accept-a-2-000-insurance-settlement-or-give-up-the-car-for-2-700-f2cf2a86?mod=mw_rss_topstories",
-        "published": "Thu, 16 Jul 2026 17:00:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
         "title": "Here's why the housing market is hurting so much this summer",
         "link": "https://www.cnbc.com/2026/07/16/housing-market-mortgages-homebuilding.html",
-        "published": "Thu, 16 Jul 2026 18:38:03 GMT"
+        "published": "Thu, 16 Jul 2026 20:06:13 GMT"
+      },
+      {
+        "title": "Netflix reports earnings in line with expectations, says company will give fewer engagement updates",
+        "link": "https://www.cnbc.com/2026/07/16/netflix-nflx-earnings-q2-2026.html",
+        "published": "Thu, 16 Jul 2026 20:02:57 GMT"
+      },
+      {
+        "title": "Alphabet shares fall on report its most powerful AI model Gemini 3.5 Pro is delayed",
+        "link": "https://www.cnbc.com/2026/07/16/alphabet-stock-gemini-3-5-pro-ai.html",
+        "published": "Thu, 16 Jul 2026 19:07:42 GMT"
+      },
+      {
+        "title": "Dow drops 100 points; S&P 500 closes lower as Alphabet and chip shares sell off: Live updates",
+        "link": "https://www.cnbc.com/2026/07/15/stock-market-today-live-updates.html",
+        "published": "Thu, 16 Jul 2026 20:05:04 GMT"
+      },
+      {
+        "title": "AG pick Blanche to meet with Epstein survivors after 2 GOP senators hedge on nomination",
+        "link": "https://www.cnbc.com/2026/07/16/todd-blanche-attorney-general-nomination-cornyn.html",
+        "published": "Thu, 16 Jul 2026 20:07:00 GMT"
       },
       {
         "title": "Trump is set to deliver an election-focused national address tonight. Here's what to know",
@@ -827,27 +847,7 @@
       {
         "title": "Trump suspends teleprompter operator over Kalshi bets allegations, White House says",
         "link": "https://www.cnbc.com/2026/07/16/trump-kalshi-teleprompter-cftc-investigation.html",
-        "published": "Thu, 16 Jul 2026 18:32:27 GMT"
-      },
-      {
-        "title": "S&P 500 falls as chip stocks weigh on market again: Live updates",
-        "link": "https://www.cnbc.com/2026/07/15/stock-market-today-live-updates.html",
-        "published": "Thu, 16 Jul 2026 18:56:27 GMT"
-      },
-      {
-        "title": "Dallas Fed President Logan calls for 'modestly' higher interest rates",
-        "link": "https://www.cnbc.com/2026/07/16/dallas-fed-president-logan-calls-for-modestly-higher-interest-rates.html",
-        "published": "Thu, 16 Jul 2026 18:50:42 GMT"
-      },
-      {
-        "title": "Here's what to expect when Netflix reports earnings after the bell",
-        "link": "https://www.cnbc.com/2026/07/16/netflix-nflx-earnings-q2-2026.html",
-        "published": "Thu, 16 Jul 2026 16:12:11 GMT"
-      },
-      {
-        "title": "42% of adults rely on their parents for financial support—there are no 'bad guys' here, says financial therapist",
-        "link": "https://www.cnbc.com/2026/07/16/42percent-of-adults-rely-on-their-parents-for-financial-supportthere-are-no-bad-guys-here-says-financial-therapist.html",
-        "published": "Thu, 16 Jul 2026 16:30:01 GMT"
+        "published": "Thu, 16 Jul 2026 20:04:38 GMT"
       },
       {
         "title": "Buy the contractor before the renovation is complete: This stock's next growth phase is taking shape",
