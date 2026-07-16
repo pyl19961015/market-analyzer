@@ -1,64 +1,64 @@
 {
-  "generated_at": "2026-07-16T16:42:19",
+  "generated_at": "2026-07-16T17:52:48",
   "date": "2026-07-16",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7544.39,
-        "pct_change": -0.37
+        "last": 7539.86,
+        "pct_change": -0.43
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26008.11,
-        "pct_change": -0.99
+        "last": 25975.73,
+        "pct_change": -1.12
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 52619.02,
-        "pct_change": -0.08
+        "last": 52551.28,
+        "pct_change": -0.2
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2975.03,
-        "pct_change": -0.04
+        "last": 2974.04,
+        "pct_change": -0.07
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 16.43,
-        "pct_change": 4.85
+        "last": 16.29,
+        "pct_change": 3.96
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.59,
-        "pct_change": 0.9
+        "last": 4.57,
+        "pct_change": 0.53
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 100.77,
-        "pct_change": 0.27
+        "last": 100.8,
+        "pct_change": 0.3
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 78.83,
-        "pct_change": -0.97
+        "last": 78.29,
+        "pct_change": -1.65
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 3993.5,
-        "pct_change": -1.25
+        "last": 3986.1,
+        "pct_change": -1.43
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 177.26,
-        "pct_change": -2.38
+        "last": 176.71,
+        "pct_change": -2.68
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 56.58,
-        "pct_change": 0.04
+        "last": 56.54,
+        "pct_change": -0.04
       },
       "Energy": {
         "symbol": "XLE",
@@ -67,43 +67,43 @@
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 161.62,
-        "pct_change": 2.1
+        "last": 161.88,
+        "pct_change": 2.27
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 117.5,
-        "pct_change": 0.42
+        "last": 117.48,
+        "pct_change": 0.41
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 85.4,
-        "pct_change": 2.31
+        "last": 85.7,
+        "pct_change": 2.67
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 179.24,
-        "pct_change": -0.45
+        "last": 179.04,
+        "pct_change": -0.57
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 45.18,
-        "pct_change": -0.09
+        "last": 45.25,
+        "pct_change": 0.07
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 50.68,
-        "pct_change": 0.36
+        "last": 50.54,
+        "pct_change": 0.09
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 45.25,
-        "pct_change": 1.55
+        "last": 45.24,
+        "pct_change": 1.54
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 113.72,
-        "pct_change": 0.3
+        "last": 113.84,
+        "pct_change": 0.41
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 162.51,
-        "pct_change": 0.2
+        "last": 162.41,
+        "pct_change": 0.14
       }
     }
   },
@@ -138,58 +138,58 @@
       "as_of": "2026-07-15",
       "prev_yield": 2.713
     },
-    "spread_10y": 1.89
+    "spread_10y": 1.87
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 156.2,
-        "pct_change": -10.44
+        "last": 155.12,
+        "pct_change": -11.06
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 330.22,
-        "pct_change": 0.83
+        "last": 332.05,
+        "pct_change": 1.39
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 401.4,
-        "pct_change": 1.46
+        "last": 402.16,
+        "pct_change": 1.65
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 255.56,
-        "pct_change": 0.24
+        "last": 256.03,
+        "pct_change": 0.42
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 371.33,
-        "pct_change": 0.11
+        "last": 371.76,
+        "pct_change": 0.23
       },
       "Meta": {
         "symbol": "META",
-        "last": 668.12,
-        "pct_change": -1.94
+        "last": 669.38,
+        "pct_change": -1.75
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 700.36,
-        "pct_change": -6.87
+        "last": 695.58,
+        "pct_change": -7.5
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 277.09,
-        "pct_change": -7.45
+        "last": 275.23,
+        "pct_change": -8.07
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 153.55,
-        "pct_change": -2.22
+        "last": 153.14,
+        "pct_change": -2.48
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -731,47 +731,77 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "Billionaire Leon Cooperman’s Top 3 Stocks: Buy, Sell or Hold",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-leon-cooperman-top-3-163016721.html",
-        "published": "2026-07-16T16:30:16Z"
+        "title": "Stock market today: Dow rises, S&P 500 and Nasdaq fall as chip stocks slide amid AI jitters",
+        "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-16-dow-sp-500-nasdaq-chip-stocks-slide-103116735.html",
+        "published": "2026-07-16T10:31:16Z"
       },
       {
-        "title": "Visa Launches Stablecoin Platform for Minting, Wallets and Payments",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/visa-launches-stablecoin-platform-minting-162300938.html",
-        "published": "2026-07-16T16:23:00Z"
+        "title": "You Don’t Need Pershing Square to Own Bill Ackman’s Favorite Stocks. Here’s the Backdoor",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/don-t-pershing-square-own-172404384.html",
+        "published": "2026-07-16T17:24:04Z"
       },
       {
-        "title": "‘Goose egg!’: CNBC anchor stunned by largest US inflation decline in over 6 years — is Trump’s plan working?",
-        "link": "https://finance.yahoo.com/economy/articles/goose-egg-cnbc-anchor-stunned-162000953.html",
-        "published": "2026-07-16T16:20:00Z"
+        "title": "It's Not The Next Nvidia, But This Stock's Steady Climb Rewards Patient Investors",
+        "link": "https://www.investors.com/stock-lists/stock-spotlight/healthcare-services-group-hcsg-stock/?src=A00220&yptr=yahoo",
+        "published": "2026-07-16T17:16:48Z"
       },
       {
-        "title": "Slate Medicines Appoints Mark W. Hahn to Board of Directors",
-        "link": "https://finance.yahoo.com/healthcare/articles/slate-medicines-appoints-mark-w-161853217.html",
-        "published": "2026-07-16T16:18:53Z"
+        "title": "Oracle Stock Slides To 52-Week Low Amid AI Spending Fears",
+        "link": "https://www.investors.com/news/technology/oracle-stock-slump-open-ai/?src=A00220&yptr=yahoo",
+        "published": "2026-07-16T17:03:31Z"
       },
       {
-        "title": "Chipmakers put pressure on equity indexes globally, oil edges down",
-        "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-slump-chipmaker-drag-022037813.html",
-        "published": "2026-07-16T16:18:25Z"
+        "title": "Morgan Stanley Expands Retail Crypto Access Through E*TRADE Rollout",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/morgan-stanley-expands-retail-crypto-170300323.html",
+        "published": "2026-07-16T17:03:00Z"
       },
       {
-        "title": "Small Caps Are Beating the S&P 500 by the Widest Margin Since 2003.  These ETFs Let You Ride the Rally",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/small-caps-beating-p-500-162321967.html",
-        "published": "2026-07-16T16:23:21Z"
+        "title": "International Seaways, IBD Stock Of The Day, Rises — But Hiked Tanker Rates Aren't All They Seem",
+        "link": "https://www.investors.com/research/ibd-stock-of-the-day/oil-tanker-operator-international-seaways-insw-pops-energy-crunch/?src=A00220&yptr=yahoo",
+        "published": "2026-07-16T17:02:44Z"
       },
       {
-        "title": "This Trade Offers Two Ways To Profit From Hims & Hers Stock",
-        "link": "https://www.investors.com/research/options/hims-and-hers-stock-cash-secured-put-options/?src=A00220&yptr=yahoo",
-        "published": "2026-07-16T16:11:57Z"
+        "title": "The great bank migration: Banking loyalty must now be earned",
+        "link": "https://finance.yahoo.com/small-business/articles/great-bank-migration-banking-loyalty-172319837.html",
+        "published": "2026-07-16T17:23:19Z"
       },
       {
-        "title": "Stock Market Today: Nasdaq Slides While TSMC Hits Sell Rule; Abbott Soars (Live Coverage)",
-        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-sandisk-sk-khynix-tsmc-earnings/?src=A00220&yptr=yahoo",
-        "published": "2026-07-16T16:08:01Z"
+        "title": "FreightWaves Announces 2026 AI Excellence in Supply Chain Awards Winners",
+        "link": "https://finance.yahoo.com/technology/ai/articles/freightwaves-announces-2026-ai-excellence-165648529.html",
+        "published": "2026-07-16T16:56:48Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "Palo Alto Networks’ stock has been on a tear — and it could go even higher, according to these bulls",
+        "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-has-been-on-a-tear-and-it-could-go-even-higher-according-to-these-bulls-1ddde6f4?mod=mw_rss_topstories",
+        "published": "Thu, 16 Jul 2026 17:42:00 GMT"
+      },
+      {
+        "title": "SpaceX’s Starship is set for takeoff — and its floundering stock could use the lift",
+        "link": "https://www.marketwatch.com/story/spacexs-starship-is-set-for-takeoff-and-its-floundering-stock-could-use-the-lift-ec5629d5?mod=mw_rss_topstories",
+        "published": "Thu, 16 Jul 2026 17:01:00 GMT"
+      },
+      {
+        "title": "My wife’s 2011 Ford Fiesta was totaled. Should we accept a $2,000 insurance settlement or give up the car for $2,700?",
+        "link": "https://www.marketwatch.com/story/my-wifes-2011-ford-fiesta-was-totaled-should-we-accept-a-2-000-insurance-settlement-or-give-up-the-car-for-2-700-f2cf2a86?mod=mw_rss_topstories",
+        "published": "Thu, 16 Jul 2026 17:00:00 GMT"
+      },
+      {
+        "title": "‘They cut off online access’: My mother’s bank balance plummeted after her death. What’s going on?",
+        "link": "https://www.marketwatch.com/story/they-cut-off-online-access-my-mothers-bank-balance-plummeted-after-her-death-whats-going-on-8e8f3aa2?mod=mw_rss_topstories",
+        "published": "Thu, 16 Jul 2026 17:00:00 GMT"
+      },
+      {
+        "title": "I’m 67, own two homes outright worth $2.8 million, but I have $19,000 in credit-card debt. Should I get a HELOC?",
+        "link": "https://www.marketwatch.com/story/im-67-own-two-mortgage-free-homes-worth-2-8-million-but-i-have-19-000-in-credit-card-debt-should-i-get-a-heloc-7b6c5192?mod=mw_rss_topstories",
+        "published": "Thu, 16 Jul 2026 17:00:00 GMT"
+      },
+      {
+        "title": "Americans say they need $1.2 million to retire. Most are too deep in debt to get there.",
+        "link": "https://www.marketwatch.com/story/americans-say-they-need-1-2-million-to-retire-most-are-too-deep-in-debt-to-get-there-689c683b?mod=mw_rss_topstories",
+        "published": "Thu, 16 Jul 2026 16:41:00 GMT"
+      },
       {
         "title": "This isn’t a plan to save Social Security. It’s a plan to have a plan.",
         "link": "https://www.marketwatch.com/story/this-isnt-a-plan-to-save-social-security-its-a-plan-to-have-a-plan-d55860af?mod=mw_rss_topstories",
@@ -781,63 +811,33 @@
         "title": "‘I don’t want to sound callous’: Why base your Social Security claim on life expectancy? We could die at any time.",
         "link": "https://www.marketwatch.com/story/i-dont-want-to-sound-callous-nobody-knows-when-theyll-die-dont-base-when-you-claim-social-security-on-that-53370fad?mod=mw_rss_topstories",
         "published": "Thu, 16 Jul 2026 16:30:00 GMT"
-      },
-      {
-        "title": "Is SpaceX’s stock a bust because it fell below $135? Look what happened after Meta’s IPO.",
-        "link": "https://www.marketwatch.com/story/is-spacexs-stock-a-bust-because-it-fell-below-135-look-what-happened-after-metas-ipo-baed7e68?mod=mw_rss_topstories",
-        "published": "Thu, 16 Jul 2026 16:12:00 GMT"
-      },
-      {
-        "title": "Mortgage rates jump to the highest level of 2026",
-        "link": "https://www.marketwatch.com/story/mortgage-rates-jump-to-the-highest-level-of-2026-7a35f79e?mod=mw_rss_topstories",
-        "published": "Thu, 16 Jul 2026 16:04:00 GMT"
-      },
-      {
-        "title": "I’m 67 with a $140,000 pension. Should I wait until 70 to claim Social Security so my wife gets more?",
-        "link": "https://www.marketwatch.com/story/im-67-with-a-140-000-pension-should-i-wait-until-70-to-claim-social-security-so-my-wife-gets-more-63759d48?mod=mw_rss_topstories",
-        "published": "Thu, 16 Jul 2026 16:00:00 GMT"
-      },
-      {
-        "title": "AST SpaceMobile’s stock is sinking as the SpaceX rival looks to raise more cash",
-        "link": "https://www.marketwatch.com/story/ast-spacemobiles-stock-is-sinking-as-the-spacex-rival-looks-to-raise-more-cash-e358cae1?mod=mw_rss_topstories",
-        "published": "Thu, 16 Jul 2026 15:51:00 GMT"
-      },
-      {
-        "title": "The No. 1 decision for aging retirees: Stay at home or move into a senior community?",
-        "link": "https://www.marketwatch.com/story/the-no-1-decision-for-aging-retirees-stay-at-home-or-move-into-a-senior-community-4ea23d02?mod=mw_rss_topstories",
-        "published": "Thu, 16 Jul 2026 15:33:00 GMT"
-      },
-      {
-        "title": "These cities are blanketed with wildfire smoke. Here’s what to know about bad air quality.",
-        "link": "https://www.marketwatch.com/story/these-cities-are-blanketed-with-wildfire-smoke-heres-what-to-know-about-bad-air-quality-cd3a8fa7?mod=mw_rss_topstories",
-        "published": "Thu, 16 Jul 2026 15:30:00 GMT"
       }
     ],
     "CNBC Top News": [
+      {
+        "title": "As prediction markets boom, questions arise over who will be the watchdog",
+        "link": "https://www.cnbc.com/2026/07/16/the-sec-may-get-involved-as-prediction-market-bring-new-contracts.html",
+        "published": "Thu, 16 Jul 2026 16:57:33 GMT"
+      },
+      {
+        "title": "Trump is set to deliver an election-focused national address tonight. Here's what to know",
+        "link": "https://www.cnbc.com/2026/07/16/trump-primetime-address-elections-2020.html",
+        "published": "Thu, 16 Jul 2026 16:40:46 GMT"
+      },
       {
         "title": "U.S. grocery slowdown deepens as shoppers buy fewer items, raising pressure on food companies",
         "link": "https://www.cnbc.com/2026/07/16/us-grocery-spending-slows-in-hit-to-food-companies.html",
         "published": "Thu, 16 Jul 2026 15:58:15 GMT"
       },
       {
-        "title": "Trump teleprompter operator allegedly made Kalshi bets on president's statements; CFTC investigating",
-        "link": "https://www.cnbc.com/2026/07/16/trump-kalshi-teleprompter-cftc-investigation.html",
-        "published": "Thu, 16 Jul 2026 16:18:27 GMT"
-      },
-      {
-        "title": "Sen. Warren says Trump's CFPB overhaul has cost Americans $26.5 billion",
-        "link": "https://www.cnbc.com/2026/07/16/trumps-cfpb-overhaul-cost-americans-26point5-billion-sen-warren-says.html",
-        "published": "Thu, 16 Jul 2026 16:36:23 GMT"
-      },
-      {
         "title": "S&P 500 falls as chip stocks weigh on market again: Live updates",
         "link": "https://www.cnbc.com/2026/07/15/stock-market-today-live-updates.html",
-        "published": "Thu, 16 Jul 2026 16:39:54 GMT"
+        "published": "Thu, 16 Jul 2026 17:47:28 GMT"
       },
       {
-        "title": "Stocks making the biggest moves midday: Manpower, Abbott, UnitedHealth, TSMC & more",
-        "link": "https://www.cnbc.com/2026/07/16/stocks-making-the-biggest-moves-midday-man-abt-unh-tsm-more.html",
-        "published": "Thu, 16 Jul 2026 16:06:13 GMT"
+        "title": "Dallas Fed President Logan calls for 'modestly' higher interest rates",
+        "link": "https://www.cnbc.com/2026/07/16/dallas-fed-president-logan-calls-for-modestly-higher-interest-rates.html",
+        "published": "Thu, 16 Jul 2026 17:18:17 GMT"
       },
       {
         "title": "Here's what to expect when Netflix reports earnings after the bell",
@@ -845,14 +845,14 @@
         "published": "Thu, 16 Jul 2026 16:12:11 GMT"
       },
       {
-        "title": "July Monthly Meeting: Jim Cramer puts our battleground stocks to the test",
-        "link": "https://www.cnbc.com/search/?query=July%20Monthly%20Meeting:%20Jim%20Cramer%20puts%20our%20battleground%20stocks%20to%20the%20test",
-        "published": "Thu, 16 Jul 2026 13:08:44 GMT"
+        "title": "Here's why the housing market is hurting so much this summer",
+        "link": "https://www.cnbc.com/2026/07/16/housing-market-mortgages-homebuilding.html",
+        "published": "Thu, 16 Jul 2026 17:18:19 GMT"
       },
       {
-        "title": "As prediction markets boom, questions arise over who will be the watchdog",
-        "link": "https://www.cnbc.com/2026/07/16/the-sec-may-get-involved-as-prediction-market-bring-new-contracts.html",
-        "published": "Thu, 16 Jul 2026 16:26:25 GMT"
+        "title": "42% of adults rely on their parents for financial support—there are no 'bad guys' here, says financial therapist",
+        "link": "https://www.cnbc.com/2026/07/16/42percent-of-adults-rely-on-their-parents-for-financial-supportthere-are-no-bad-guys-here-says-financial-therapist.html",
+        "published": "Thu, 16 Jul 2026 16:30:01 GMT"
       }
     ]
   }
