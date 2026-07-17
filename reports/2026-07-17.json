@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-07-17T16:45:54",
+  "generated_at": "2026-07-17T18:02:58",
   "date": "2026-07-17",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7488.95,
-        "pct_change": -0.59
+        "last": 7473.77,
+        "pct_change": -0.8
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 25644.44,
-        "pct_change": -0.92
+        "last": 25602.85,
+        "pct_change": -1.08
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 52367.72,
-        "pct_change": -0.35
+        "last": 52283.53,
+        "pct_change": -0.51
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2963.63,
-        "pct_change": -0.37
+        "last": 2971.11,
+        "pct_change": -0.12
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 18.16,
-        "pct_change": 8.55
+        "last": 18.03,
+        "pct_change": 7.77
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.54,
-        "pct_change": -0.57
+        "last": 4.55,
+        "pct_change": -0.48
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 100.74,
-        "pct_change": 0.01
+        "last": 100.78,
+        "pct_change": 0.05
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 81.43,
-        "pct_change": 3.14
+        "last": 81.74,
+        "pct_change": 3.53
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4021.5,
-        "pct_change": 0.9
+        "last": 4013.7,
+        "pct_change": 0.71
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 176.95,
-        "pct_change": -0.32
+        "last": 176.67,
+        "pct_change": -0.48
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 56.4,
-        "pct_change": -0.63
+        "last": 56.33,
+        "pct_change": -0.73
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 57.4,
-        "pct_change": 0.68
+        "last": 57.53,
+        "pct_change": 0.89
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 161.48,
-        "pct_change": -0.2
+        "last": 161.1,
+        "pct_change": -0.43
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 116.11,
-        "pct_change": -1.05
+        "last": 115.64,
+        "pct_change": -1.45
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 85.39,
-        "pct_change": -0.5
+        "last": 84.86,
+        "pct_change": -1.11
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 180.18,
-        "pct_change": 0.02
+        "last": 179.84,
+        "pct_change": -0.17
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 45.37,
-        "pct_change": -0.23
+        "last": 45.19,
+        "pct_change": -0.63
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 50.62,
-        "pct_change": -0.52
+        "last": 50.53,
+        "pct_change": -0.7
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 45.38,
-        "pct_change": -0.16
+        "last": 45.29,
+        "pct_change": -0.38
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 110.83,
-        "pct_change": -1.62
+        "last": 110.64,
+        "pct_change": -1.79
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 162.49,
-        "pct_change": 0.26
+        "last": 162.45,
+        "pct_change": 0.23
       }
     }
   },
@@ -138,58 +138,58 @@
       "as_of": "2026-07-16",
       "prev_yield": 2.697
     },
-    "spread_10y": 1.82
+    "spread_10y": 1.83
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 156.45,
-        "pct_change": -1.23
+        "last": 155.77,
+        "pct_change": -1.65
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 332.05,
-        "pct_change": -0.36
+        "last": 332.09,
+        "pct_change": -0.35
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 393.58,
-        "pct_change": -1.87
+        "last": 395.02,
+        "pct_change": -1.52
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 248.85,
-        "pct_change": -0.41
+        "last": 247.69,
+        "pct_change": -0.88
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 346.68,
-        "pct_change": -2.19
+        "last": 344.29,
+        "pct_change": -2.87
       },
       "Meta": {
         "symbol": "META",
-        "last": 645.82,
-        "pct_change": -2.82
+        "last": 649.81,
+        "pct_change": -2.22
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 726.93,
-        "pct_change": 2.93
+        "last": 738.57,
+        "pct_change": 4.58
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 281.18,
-        "pct_change": 1.52
+        "last": 279.75,
+        "pct_change": 1.01
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 152.56,
-        "pct_change": -0.38
+        "last": 151.88,
+        "pct_change": -0.82
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -731,29 +731,29 @@
   "news": {
     "Yahoo Finance": [
       {
+        "title": "The Chip Selloff Has 'Gone Too Far.' The SOX Index Turns Positive.",
+        "link": "https://www.barrons.com/livecoverage/stock-market-news-today-071726/card/the-chip-selloff-has-gone-too-far-the-sox-index-turns-positive--dXKMv5ZY1UywY4rjITbc?siteid=yhoof2&yptr=yahoo",
+        "published": "2026-07-17T17:40:42Z"
+      },
+      {
+        "title": "Fidelity data breach: Deadline looms for up to $5,000 per customer settlement payouts",
+        "link": "https://finance.yahoo.com/personal-finance/banking/article/fidelity-data-breach-deadline-looms-for-up-to-5000-per-customer-settlement-payouts-174013618.html",
+        "published": "2026-07-17T17:40:13Z"
+      },
+      {
         "title": "Stock market today: Nasdaq hammered by chips sell-off, Dow and S&P 500 fall after Netflix whiff",
         "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-july-17-dow-sp-500-nasdaq-092345307.html",
         "published": "2026-07-17T09:23:45Z"
       },
       {
-        "title": "Why Did Nvidia Stock Sink Today?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-nvidia-stock-sink-162358226.html",
-        "published": "2026-07-17T16:23:58Z"
-      },
-      {
-        "title": "Stock Market Today: Nasdaq Weighed By Tech Sell-Off; Outbreak News Boosts Restaurant Stock (Live Coverage)",
+        "title": "Stock Market Today: Dow Sees Red While Amgen Shares Tease A Buy Point (Live Coverage)",
         "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-netflix-earnings-nflx-stock-spacex-stock/?src=A00220&yptr=yahoo",
-        "published": "2026-07-17T16:20:18Z"
+        "published": "2026-07-17T17:24:04Z"
       },
       {
-        "title": "Apple warns scammers are using FaceTime to steal bank account passwords — here's what to watch for",
-        "link": "https://finance.yahoo.com/technology/articles/apple-warns-scammers-using-facetime-160500714.html",
-        "published": "2026-07-17T16:05:00Z"
-      },
-      {
-        "title": "Credit vs Factoring in Trucking: It’s About Financial Fit",
-        "link": "https://finance.yahoo.com/small-business/articles/credit-vs-factoring-trucking-financial-155316489.html",
-        "published": "2026-07-17T15:53:16Z"
+        "title": "Trump Media will sell Wall Street ‘the fastest’ access to Trump’s market-moving Truth Social posts in pay-to-win model",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/trump-media-sell-wall-street-172000415.html",
+        "published": "2026-07-17T17:20:00Z"
       },
       {
         "title": "The Argus Min Vol Model Portfolio",
@@ -761,17 +761,37 @@
         "published": "2026-07-17T14:06:57Z"
       },
       {
-        "title": "US dollar set for a strong second half of the year, Bank of America says",
-        "link": "https://finance.yahoo.com/markets/article/us-dollar-set-for-a-strong-second-half-of-the-year-bank-of-america-says-154650544.html",
-        "published": "2026-07-17T15:46:50Z"
+        "title": "SpaceX Stock Drops on Friday. Should Investors Cheer?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-drops-friday-investors-173227536.html",
+        "published": "2026-07-17T17:32:27Z"
       },
       {
-        "title": "The Roth Conversion Trick That Could Save You More Than $50,000",
-        "link": "https://finance.yahoo.com/markets/options/articles/roth-conversion-trick-could-save-162359378.html",
-        "published": "2026-07-17T16:23:59Z"
+        "title": "How To Profit From Amazon Stock Facing Big Price Swings With Earnings On Deck",
+        "link": "https://www.investors.com/research/options/how-to-profit-from-amazon-stock-facing-big-price-swings-with-earnings-on-deck/?src=A00220&yptr=yahoo",
+        "published": "2026-07-17T17:16:21Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "A bad health diagnosis will upend your financial plan, but you can set it right again",
+        "link": "https://www.marketwatch.com/story/what-its-like-to-get-end-of-life-financial-advice-from-a-cfp-whos-also-a-death-doula-903a270a?mod=mw_rss_topstories",
+        "published": "Fri, 17 Jul 2026 17:27:00 GMT"
+      },
+      {
+        "title": "Here’s the net worth you need to start getting ahead in your 20s, 30s, 40s and beyond in the U.S.",
+        "link": "https://www.marketwatch.com/story/heres-the-net-worth-you-need-to-start-getting-ahead-in-your-20s-30s-40s-and-beyond-in-the-u-s-520c8d72?mod=mw_rss_topstories",
+        "published": "Fri, 17 Jul 2026 17:19:00 GMT"
+      },
+      {
+        "title": "Are you silently freaking out about retirement? It may not be as bad as you think.",
+        "link": "https://www.marketwatch.com/story/silently-freaking-out-about-retirement-why-it-may-not-be-as-bad-as-you-think-3175d0e1?mod=mw_rss_topstories",
+        "published": "Fri, 17 Jul 2026 17:13:00 GMT"
+      },
+      {
+        "title": "Bond yields are sending a new signal about Fed rate hikes",
+        "link": "https://www.marketwatch.com/story/bond-yields-are-sending-a-new-signal-about-fed-rate-hikes-856e81f7?mod=mw_rss_topstories",
+        "published": "Fri, 17 Jul 2026 16:45:00 GMT"
+      },
       {
         "title": "I racked up $35,000 in credit-card debt. Should I file for bankruptcy?",
         "link": "https://www.marketwatch.com/story/i-have-racked-up-35-000-in-credit-card-debt-should-i-file-for-bankruptcy-4c92d9e5?mod=mw_rss_topstories",
@@ -791,33 +811,13 @@
         "title": "Iran war hasn’t hurt the U.S. economy too badly — but the danger isn’t over yet",
         "link": "https://www.marketwatch.com/story/iran-war-hasnt-hurt-the-u-s-economy-too-badly-but-the-danger-isnt-over-yet-82f7d46a?mod=mw_rss_topstories",
         "published": "Fri, 17 Jul 2026 15:55:00 GMT"
-      },
-      {
-        "title": "Taylor Farms to recall produce that may be the cause of the cyclospora outbreak: report",
-        "link": "https://www.marketwatch.com/story/taylor-farms-to-recall-produce-that-may-be-the-cause-of-the-cyclospora-outbreak-report-e2c4cc0b?mod=mw_rss_topstories",
-        "published": "Fri, 17 Jul 2026 15:47:00 GMT"
-      },
-      {
-        "title": "‘I am at a loss’: My brother is dying. We are not close. What responsibility do I have to help him?",
-        "link": "https://www.marketwatch.com/story/i-am-at-a-loss-my-brother-is-dying-we-are-not-close-what-responsibility-do-i-have-to-help-him-08af705a?mod=mw_rss_topstories",
-        "published": "Fri, 17 Jul 2026 15:16:00 GMT"
-      },
-      {
-        "title": "Why Trump’s speech on U.S. elections could be bad for markets",
-        "link": "https://www.marketwatch.com/story/why-trumps-speech-on-u-s-elections-could-be-bad-for-markets-e617dc64?mod=mw_rss_topstories",
-        "published": "Fri, 17 Jul 2026 15:06:00 GMT"
-      },
-      {
-        "title": "SpaceX postponed a crucial launch — and now its stock is sliding further below the IPO price",
-        "link": "https://www.marketwatch.com/story/spacex-postponed-a-crucial-launch-now-its-stock-is-set-to-slide-even-further-below-the-ipo-price-143adfe0?mod=mw_rss_topstories",
-        "published": "Fri, 17 Jul 2026 15:03:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "S&P 500 falls, heads for losing week, led by chipmakers; Netflix plunges: Live updates",
-        "link": "https://www.cnbc.com/2026/07/16/stock-market-today-live-updates.html",
-        "published": "Fri, 17 Jul 2026 16:45:31 GMT"
+        "title": "Inside the Chinese fraud rings stealing billions from banks and retailers",
+        "link": "https://www.cnbc.com/2026/07/17/tap-pay-fraud-retail-crime.html",
+        "published": "Fri, 17 Jul 2026 13:12:11 GMT"
       },
       {
         "title": "Economic outlook is worsening and Trump is getting blamed, CNBC survey finds",
@@ -825,34 +825,34 @@
         "published": "Fri, 17 Jul 2026 16:38:57 GMT"
       },
       {
-        "title": "Inside the Chinese fraud rings stealing billions from banks and retailers",
-        "link": "https://www.cnbc.com/2026/07/17/tap-pay-fraud-retail-crime.html",
-        "published": "Fri, 17 Jul 2026 13:12:11 GMT"
+        "title": "Epstein victims blast Trump attorney general nominee Todd Blanche after meeting",
+        "link": "https://www.cnbc.com/2026/07/17/epstein-victims-todd-blanche-doj-trump-tillis.html",
+        "published": "Fri, 17 Jul 2026 17:21:51 GMT"
+      },
+      {
+        "title": "S&P 500 falls, heads for losing week, led by chipmakers; Netflix plunges: Live updates",
+        "link": "https://www.cnbc.com/2026/07/16/stock-market-today-live-updates.html",
+        "published": "Fri, 17 Jul 2026 17:41:56 GMT"
+      },
+      {
+        "title": "Anthropic in early talks with Meta to acquire compute power",
+        "link": "https://www.cnbc.com/2026/07/17/anthropic-meta-ai-compute.html",
+        "published": "Fri, 17 Jul 2026 17:38:26 GMT"
+      },
+      {
+        "title": "The cyclosporiasis outbreak linked to Taco Bell is hitting some restaurant stocks, but don't expect a long-term impact",
+        "link": "https://www.cnbc.com/2026/07/17/cyclosporiasis-outbreak-linked-to-taco-bell-may-not-have-major-impact.html",
+        "published": "Fri, 17 Jul 2026 17:17:50 GMT"
+      },
+      {
+        "title": "Retail and Wall Street are underwater on SpaceX — but not going down without a fight",
+        "link": "https://www.cnbc.com/2026/07/17/retail-and-wall-street-are-underwater-on-spacex-but-not-going-down-without-a-fight.html",
+        "published": "Fri, 17 Jul 2026 17:27:41 GMT"
       },
       {
         "title": "Amazon's Zoox issues software recall after robotaxi drove into heavy smoke",
         "link": "https://www.cnbc.com/2026/07/17/amazon-zoox-recalls-robotaxi-smoke.html",
         "published": "Fri, 17 Jul 2026 14:42:04 GMT"
-      },
-      {
-        "title": "Apple, Nvidia vie for title of world's most valuable company",
-        "link": "https://www.cnbc.com/2026/07/17/apple-nvidia-aapl-nvda-market-cap.html",
-        "published": "Fri, 17 Jul 2026 14:43:28 GMT"
-      },
-      {
-        "title": "Dow member 3M reports earnings next week. JPMorgan is bullish ahead of the report",
-        "link": "https://www.cnbc.com/2026/07/17/3m-reports-earnings-next-week-jpmorgan-is-bullish-ahead-of-the-report.html",
-        "published": "Fri, 17 Jul 2026 14:30:48 GMT"
-      },
-      {
-        "title": "California's billionaire tax: What's at risk for the biggest state economy in America",
-        "link": "https://www.cnbc.com/2026/07/17/california-billionaire-tax.html",
-        "published": "Fri, 17 Jul 2026 15:02:57 GMT"
-      },
-      {
-        "title": "Chinese automakers are taking on the UK — and many Brits are embracing it",
-        "link": "https://www.cnbc.com/2026/07/17/chinese-automakers-uk.html",
-        "published": "Fri, 17 Jul 2026 15:24:16 GMT"
       }
     ]
   }
