@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-07-17T14:11:33",
+  "generated_at": "2026-07-17T15:39:57",
   "date": "2026-07-17",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7491.8,
-        "pct_change": -0.56
+        "last": 7481.41,
+        "pct_change": -0.7
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 25576.57,
-        "pct_change": -1.18
+        "last": 25542.87,
+        "pct_change": -1.31
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 52539.47,
-        "pct_change": -0.03
+        "last": 52490.53,
+        "pct_change": -0.12
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2964.93,
-        "pct_change": -0.32
+        "last": 2956.46,
+        "pct_change": -0.61
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 18.49,
-        "pct_change": 10.52
+        "last": 18.41,
+        "pct_change": 10.04
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.52,
-        "pct_change": -1.14
+        "last": 4.53,
+        "pct_change": -0.83
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 100.77,
-        "pct_change": 0.04
+        "last": 100.72,
+        "pct_change": -0.01
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 81.11,
-        "pct_change": 2.74
+        "last": 80.45,
+        "pct_change": 1.9
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 3998.3,
-        "pct_change": 0.32
+        "last": 4017.4,
+        "pct_change": 0.8
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 175.75,
-        "pct_change": -1.0
+        "last": 175.51,
+        "pct_change": -1.13
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 56.62,
-        "pct_change": -0.23
+        "last": 56.47,
+        "pct_change": -0.48
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 57.81,
-        "pct_change": 1.38
+        "last": 57.42,
+        "pct_change": 0.71
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 162.54,
-        "pct_change": 0.46
+        "last": 162.42,
+        "pct_change": 0.38
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 116.38,
-        "pct_change": -0.82
+        "last": 116.19,
+        "pct_change": -0.98
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 86.32,
-        "pct_change": 0.59
+        "last": 86.14,
+        "pct_change": 0.38
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 181.27,
-        "pct_change": 0.62
+        "last": 180.39,
+        "pct_change": 0.13
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 45.95,
-        "pct_change": 1.06
+        "last": 45.72,
+        "pct_change": 0.56
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 51.15,
-        "pct_change": 0.51
+        "last": 50.89,
+        "pct_change": 0.0
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 45.74,
-        "pct_change": 0.63
+        "last": 45.62,
+        "pct_change": 0.36
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 110.85,
-        "pct_change": -1.6
+        "last": 110.55,
+        "pct_change": -1.86
       }
     }
   },
@@ -111,8 +111,8 @@
     "indices": {
       "Nikkei 225": {
         "symbol": "^N225",
-        "last": 64141.12,
-        "pct_change": -4.03
+        "last": 66835.54,
+        "pct_change": -2.79
       },
       "TOPIX (ETF代理)": {
         "symbol": "1306.T",
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 162.34,
-        "pct_change": 0.16
+        "last": 162.4,
+        "pct_change": 0.2
       }
     }
   },
@@ -138,63 +138,63 @@
       "as_of": "2026-07-16",
       "prev_yield": 2.697
     },
-    "spread_10y": 1.8
+    "spread_10y": 1.81
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 155.23,
-        "pct_change": -2.0
+        "last": 153.79,
+        "pct_change": -2.91
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 329.6,
-        "pct_change": -1.1
+        "last": 333.65,
+        "pct_change": 0.12
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 391.67,
-        "pct_change": -2.35
+        "last": 391.84,
+        "pct_change": -2.31
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 247.51,
-        "pct_change": -0.95
+        "last": 248.62,
+        "pct_change": -0.51
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 347.12,
-        "pct_change": -2.07
+        "last": 347.52,
+        "pct_change": -1.96
       },
       "Meta": {
         "symbol": "META",
-        "last": 635.43,
-        "pct_change": -4.38
+        "last": 629.97,
+        "pct_change": -5.2
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 718.51,
-        "pct_change": 1.74
+        "last": 723.3,
+        "pct_change": 2.42
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 276.12,
-        "pct_change": -0.3
+        "last": 277.0,
+        "pct_change": 0.01
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 151.42,
-        "pct_change": -1.12
+        "last": 152.1,
+        "pct_change": -0.68
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 6135.0,
-        "pct_change": -4.47
+        "last": 6422.0,
+        "pct_change": -1.44
       }
     }
   },
@@ -731,9 +731,9 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "Canadian baker FGF buys Metro production site",
-        "link": "https://finance.yahoo.com/small-business/articles/canadian-baker-fgf-buys-metro-140414046.html",
-        "published": "2026-07-17T14:04:14Z"
+        "title": "Netflix Just Changed How Often It Reports Engagement. Should Investors Worry?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-just-changed-often-reports-151826251.html",
+        "published": "2026-07-17T15:18:26Z"
       },
       {
         "title": "Semiconductor stocks keep falling as investors go risk-off, Chinese startup releases powerful new AI model",
@@ -741,83 +741,83 @@
         "published": "2026-07-17T13:09:20Z"
       },
       {
-        "title": "Cass: TL linehaul rates advance in June, volume inflection delayed",
-        "link": "https://finance.yahoo.com/economy/articles/cass-tl-linehaul-rates-advance-135247135.html",
-        "published": "2026-07-17T13:52:47Z"
+        "title": "Leveraged loan issuers lean in to amend-and-extend deals to push back maturities",
+        "link": "https://finance.yahoo.com/markets/options/articles/leveraged-loan-issuers-lean-amend-150016854.html",
+        "published": "2026-07-17T15:00:16Z"
       },
       {
-        "title": "Hedge Fund Citadel Securities Invests $400 Million In Crypto.com",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/hedge-fund-citadel-securities-invests-135200558.html",
-        "published": "2026-07-17T13:52:00Z"
+        "title": "What are mortgage discount points, and should you pay for them?",
+        "link": "https://finance.yahoo.com/personal-finance/mortgages/article/discount-points-224440130.html",
+        "published": "2024-02-06T22:44:40Z"
       },
       {
-        "title": "Chipmakers and other high-flying stocks slide as AI trade wobbles",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/chipmakers-other-high-flying-stocks-135145992.html",
-        "published": "2026-07-17T13:51:45Z"
+        "title": "JPMorgan sexual harassment lawsuit dismissed, refiling expected",
+        "link": "https://finance.yahoo.com/small-business/articles/jpmorgan-sexual-harassment-lawsuit-dismissed-145625174.html",
+        "published": "2026-07-17T14:56:25Z"
       },
       {
-        "title": "Technical Assessment: Bullish in the Intermediate-Term",
-        "link": "https://finance.yahoo.com/research/reports/ARGUS_47645_TechnicalAnalysis_1784286640000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-        "published": "2026-07-17T11:10:40Z"
+        "title": "The Argus Min Vol Model Portfolio",
+        "link": "https://finance.yahoo.com/research/reports/ARGUS_47656_ThematicPortfolio_1784297217000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+        "published": "2026-07-17T14:06:57Z"
       },
       {
-        "title": "FAF Trustees open nominations for 2027 FASAC intake",
-        "link": "https://finance.yahoo.com/economy/policy/articles/faf-trustees-open-nominations-2027-140023046.html",
-        "published": "2026-07-17T14:00:23Z"
+        "title": "Analysts Still See Massive Upside for SK Hynix — The AI Cycle Isn’t Done But Questions Remain",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/analysts-still-see-massive-upside-151554133.html",
+        "published": "2026-07-17T15:15:54Z"
       },
       {
-        "title": "Wedgewood Partners’ Views on Microsoft’s (MSFT) Capital Expenditure",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/wedgewood-partners-views-microsoft-msft-134959413.html",
-        "published": "2026-07-17T13:49:59Z"
+        "title": "Here are the Compelling Reasons to Own Extreme Networks (EXTR)",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/compelling-reasons-own-extreme-networks-145257888.html",
+        "published": "2026-07-17T14:52:57Z"
       }
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "Netflix is spending big money on sports. Is the company making the right bets?",
-        "link": "https://www.marketwatch.com/story/netflix-is-paying-up-for-costly-sports-rights-is-the-company-making-the-right-bets-9ce54df7?mod=mw_rss_topstories",
-        "published": "Fri, 17 Jul 2026 14:03:00 GMT"
+        "title": "‘I am at a loss’: My brother is dying. We are not close. What responsibility do I have to help him?",
+        "link": "https://www.marketwatch.com/story/i-am-at-a-loss-my-brother-is-dying-we-are-not-close-what-responsibility-do-i-have-to-help-him-08af705a?mod=mw_rss_topstories",
+        "published": "Fri, 17 Jul 2026 15:16:00 GMT"
       },
       {
-        "title": "‘I don’t want to sound callous’: Why base your Social Security claim on life expectancy? We could die at any time.",
-        "link": "https://www.marketwatch.com/story/i-dont-want-to-sound-callous-nobody-knows-when-theyll-die-dont-base-when-you-claim-social-security-on-that-53370fad?mod=mw_rss_topstories",
-        "published": "Fri, 17 Jul 2026 14:00:00 GMT"
+        "title": "Why Trump’s speech on U.S. elections could be bad for markets",
+        "link": "https://www.marketwatch.com/story/why-trumps-speech-on-u-s-elections-could-be-bad-for-markets-e617dc64?mod=mw_rss_topstories",
+        "published": "Fri, 17 Jul 2026 15:06:00 GMT"
       },
       {
-        "title": "Can former employers withhold money from your 401(k) when you’re laid off?",
-        "link": "https://www.marketwatch.com/story/can-former-employers-withhold-money-from-your-401-k-when-youre-laid-off-5ceb4d4e?mod=mw_rss_topstories",
-        "published": "Fri, 17 Jul 2026 14:00:00 GMT"
+        "title": "SpaceX postponed a crucial launch — and now its stock is sliding further below the IPO price",
+        "link": "https://www.marketwatch.com/story/spacex-postponed-a-crucial-launch-now-its-stock-is-set-to-slide-even-further-below-the-ipo-price-143adfe0?mod=mw_rss_topstories",
+        "published": "Fri, 17 Jul 2026 15:03:00 GMT"
       },
       {
-        "title": "Bad week for the ‘ants’ as ripple effects of Korean crash spread out across Asia",
-        "link": "https://www.marketwatch.com/story/bad-week-for-the-ants-as-ripple-effects-of-korean-crash-spread-out-across-asia-8a5e4a43?mod=mw_rss_topstories",
-        "published": "Fri, 17 Jul 2026 13:55:00 GMT"
+        "title": "I’m 67 with a $140,000 pension. Should I wait until 70 to claim Social Security so my wife gets more?",
+        "link": "https://www.marketwatch.com/story/im-67-with-a-140-000-pension-should-i-wait-until-70-to-claim-social-security-so-my-wife-gets-more-63759d48?mod=mw_rss_topstories",
+        "published": "Fri, 17 Jul 2026 15:01:00 GMT"
       },
       {
-        "title": "End of an era for this long-term bond bull as inflation takes hold and yields trend higher",
-        "link": "https://www.marketwatch.com/story/end-of-an-era-for-this-long-term-bond-bull-as-inflation-takes-hold-and-yields-trend-higher-a7f59e1f?mod=mw_rss_topstories",
-        "published": "Fri, 17 Jul 2026 13:39:00 GMT"
+        "title": "Apple’s stock is beating the S&P 500 by a remarkable degree — and it may have more room to run",
+        "link": "https://www.marketwatch.com/story/apples-stock-is-beating-the-s-p-500-by-a-remarkable-degree-and-it-may-have-more-room-to-run-1b0a1454?mod=mw_rss_topstories",
+        "published": "Fri, 17 Jul 2026 14:58:00 GMT"
       },
       {
-        "title": "As semiconductor stocks slump, one AI-adjacent sector is thriving — and these are the stocks to buy there",
-        "link": "https://www.marketwatch.com/story/as-semiconductor-stocks-slump-one-ai-adjacent-sector-is-thriving-and-these-are-the-stocks-to-buy-9c34937c?mod=mw_rss_topstories",
-        "published": "Fri, 17 Jul 2026 13:31:00 GMT"
+        "title": "‘They are relentless’: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?",
+        "link": "https://www.marketwatch.com/story/they-are-relentless-a-scammer-is-trying-to-change-the-email-on-my-empty-robinhood-account-what-do-they-have-to-gain-26103dac?mod=mw_rss_topstories",
+        "published": "Fri, 17 Jul 2026 14:45:00 GMT"
       },
       {
-        "title": "Is SpaceX’s stock a bust because it fell below $135? Look what happened after Meta’s IPO.",
-        "link": "https://www.marketwatch.com/story/is-spacexs-stock-a-bust-because-it-fell-below-135-look-what-happened-after-metas-ipo-baed7e68?mod=mw_rss_topstories",
-        "published": "Fri, 17 Jul 2026 13:25:00 GMT"
+        "title": "18 tech stocks that have fallen at least 30% during July",
+        "link": "https://www.marketwatch.com/story/18-tech-stocks-that-have-fallen-at-least-30-during-july-4c373d5e?mod=mw_rss_topstories",
+        "published": "Fri, 17 Jul 2026 14:40:00 GMT"
       },
       {
-        "title": "He backed Tesla and SpaceX before anyone else — here is the ‘impossible’ bet Tim Draper is making now",
-        "link": "https://www.marketwatch.com/story/he-backed-tesla-and-spacex-before-anyone-else-here-is-the-impossible-bet-he-is-making-now-025e00ef?mod=mw_rss_topstories",
-        "published": "Fri, 17 Jul 2026 13:17:00 GMT"
+        "title": "AI may force these workers to retire earlier than planned",
+        "link": "https://www.marketwatch.com/story/ai-may-force-these-workers-to-retire-earlier-than-planned-b590f0a8?mod=mw_rss_topstories",
+        "published": "Fri, 17 Jul 2026 14:30:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "Stocks tumble, head for losing week, led by chipmakers; Netflix plunges: Live updates",
+        "title": "S&P 500 falls, heads for losing week, led by chipmakers; Netflix plunges: Live updates",
         "link": "https://www.cnbc.com/2026/07/16/stock-market-today-live-updates.html",
-        "published": "Fri, 17 Jul 2026 14:03:58 GMT"
+        "published": "Fri, 17 Jul 2026 15:29:31 GMT"
       },
       {
         "title": "Economic outlook is worsening and Trump is getting blamed, CNBC survey finds",
@@ -830,29 +830,29 @@
         "published": "Fri, 17 Jul 2026 13:12:11 GMT"
       },
       {
-        "title": "Apple dethrones Nvidia as world's most valuable company, ending the chipmaker's long run at the top",
+        "title": "Amazon's Zoox issues software recall after robotaxi drove into heavy smoke",
+        "link": "https://www.cnbc.com/2026/07/17/amazon-zoox-recalls-robotaxi-smoke.html",
+        "published": "Fri, 17 Jul 2026 14:42:04 GMT"
+      },
+      {
+        "title": "Apple, Nvidia vie for title of world's most valuable company",
         "link": "https://www.cnbc.com/2026/07/17/apple-nvidia-aapl-nvda-market-cap.html",
-        "published": "Fri, 17 Jul 2026 14:10:47 GMT"
+        "published": "Fri, 17 Jul 2026 14:43:28 GMT"
+      },
+      {
+        "title": "Netflix earnings were a 'murky mosaic.' Analysts say stock upside will be limited by growth concerns",
+        "link": "https://www.cnbc.com/2026/07/17/netflix-gets-price-target-cuts-from-analysts-amid-growth-concerns.html",
+        "published": "Fri, 17 Jul 2026 14:22:16 GMT"
+      },
+      {
+        "title": "California's billionaire tax: What's at risk for the biggest state economy in America",
+        "link": "https://www.cnbc.com/2026/07/17/california-billionaire-tax.html",
+        "published": "Fri, 17 Jul 2026 15:02:57 GMT"
       },
       {
         "title": "Chinese automakers are taking on the UK — and many Brits are embracing it",
         "link": "https://www.cnbc.com/2026/07/17/chinese-automakers-uk.html",
-        "published": "Fri, 17 Jul 2026 14:04:19 GMT"
-      },
-      {
-        "title": "Here are Friday's biggest analyst calls: Nvidia, SpaceX, Netflix, Apple, Tesla, Alphabet, 3M, Moody's & more",
-        "link": "https://www.cnbc.com/2026/07/17/fridays-biggest-analyst-calls-include-nvidia-and-spacex.html",
-        "published": "Fri, 17 Jul 2026 12:32:52 GMT"
-      },
-      {
-        "title": "Import prices post surprise gain as costs of goods from China hit highest since 2008",
-        "link": "https://www.cnbc.com/2026/07/17/import-prices-post-surprise-gain-as-costs-of-goods-from-china-hit-highest-since-2008.html",
-        "published": "Fri, 17 Jul 2026 13:34:48 GMT"
-      },
-      {
-        "title": "Netflix stock falls nearly 10% as earnings forecast disappoints, company says it will give fewer engagement updates",
-        "link": "https://www.cnbc.com/2026/07/16/netflix-nflx-earnings-q2-2026.html",
-        "published": "Fri, 17 Jul 2026 14:04:53 GMT"
+        "published": "Fri, 17 Jul 2026 15:24:16 GMT"
       }
     ]
   }
