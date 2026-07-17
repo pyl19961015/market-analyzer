@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-07-17T19:31:37",
+  "generated_at": "2026-07-17T20:31:43",
   "date": "2026-07-17",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7455.58,
-        "pct_change": -1.04
+        "last": 7457.69,
+        "pct_change": -1.01
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 25529.21,
-        "pct_change": -1.36
+        "last": 25520.24,
+        "pct_change": -1.4
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 52128.65,
-        "pct_change": -0.81
+        "last": 52146.42,
+        "pct_change": -0.77
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2953.02,
-        "pct_change": -0.72
+        "last": 2962.22,
+        "pct_change": -0.42
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 18.79,
-        "pct_change": 12.31
+        "last": 18.77,
+        "pct_change": 12.19
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
@@ -35,75 +35,75 @@
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 100.77,
-        "pct_change": 0.04
+        "last": 100.75,
+        "pct_change": 0.02
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 81.46,
-        "pct_change": 3.18
+        "last": 81.66,
+        "pct_change": 3.43
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4010.3,
-        "pct_change": 0.62
+        "last": 4015.3,
+        "pct_change": 0.75
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 175.91,
-        "pct_change": -0.91
+        "last": 175.59,
+        "pct_change": -1.09
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 56.15,
-        "pct_change": -1.06
+        "last": 56.26,
+        "pct_change": -0.86
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 57.46,
-        "pct_change": 0.77
+        "last": 57.68,
+        "pct_change": 1.16
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 161.0,
-        "pct_change": -0.49
+        "last": 161.09,
+        "pct_change": -0.44
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 115.43,
-        "pct_change": -1.63
+        "last": 115.44,
+        "pct_change": -1.62
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 85.03,
-        "pct_change": -0.91
+        "last": 85.19,
+        "pct_change": -0.72
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 179.33,
-        "pct_change": -0.46
+        "last": 179.41,
+        "pct_change": -0.41
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 45.1,
-        "pct_change": -0.82
+        "last": 45.17,
+        "pct_change": -0.66
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 50.4,
-        "pct_change": -0.95
+        "last": 50.53,
+        "pct_change": -0.71
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 45.35,
-        "pct_change": -0.25
+        "last": 45.42,
+        "pct_change": -0.09
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 110.49,
-        "pct_change": -1.92
+        "last": 110.65,
+        "pct_change": -1.78
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 162.45,
-        "pct_change": 0.23
+        "last": 162.41,
+        "pct_change": 0.21
       }
     }
   },
@@ -144,52 +144,52 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 155.24,
-        "pct_change": -1.99
+        "last": 154.61,
+        "pct_change": -2.39
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 332.67,
-        "pct_change": -0.18
+        "last": 333.74,
+        "pct_change": 0.14
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 395.2,
-        "pct_change": -1.47
+        "last": 393.82,
+        "pct_change": -1.82
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 247.08,
-        "pct_change": -1.12
+        "last": 247.23,
+        "pct_change": -1.06
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 345.16,
-        "pct_change": -2.62
+        "last": 346.77,
+        "pct_change": -2.17
       },
       "Meta": {
         "symbol": "META",
-        "last": 643.98,
-        "pct_change": -3.09
+        "last": 646.01,
+        "pct_change": -2.79
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 735.41,
-        "pct_change": 4.13
+        "last": 732.82,
+        "pct_change": 3.77
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 277.87,
-        "pct_change": 0.33
+        "last": 277.6,
+        "pct_change": 0.23
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 151.54,
-        "pct_change": -1.05
+        "last": 151.2,
+        "pct_change": -1.27
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -731,47 +731,72 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "PureCycle alliance targets 2027 launch for recycled BOPP films in Japan",
-        "link": "https://finance.yahoo.com/technology/articles/purecycle-alliance-targets-2027-launch-094345354.html",
-        "published": "2026-07-16T09:43:45Z"
+        "title": "Uber agrees to buy Delivery Hero in $14.8 billion deal to expand global food delivery business (UBER)",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/uber-agrees-buy-delivery-hero-104433226.html",
+        "published": "2026-07-16T10:44:33Z"
       },
       {
-        "title": "What to Expect From Public Service Enterprise’s Next Quarterly Earnings Report",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/expect-public-enterprise-next-quarterly-092837063.html",
-        "published": "2026-07-16T09:28:37Z"
+        "title": "Shein IPO faces lower valuation as e-commerce crackdown starts to bite",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/shein-ipo-faces-lower-valuation-104330697.html",
+        "published": "2026-07-16T10:43:30Z"
       },
       {
-        "title": "BHP Greenlights $900 Million Pilbara Iron Ore Expansion",
-        "link": "https://finance.yahoo.com/energy/articles/bhp-greenlights-900-million-pilbara-092942660.html",
-        "published": "2026-07-16T09:29:42Z"
+        "title": "What to Expect From Yum! Brands’ Next Quarterly Earnings Report",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/expect-yum-brands-next-quarterly-104444279.html",
+        "published": "2026-07-16T10:44:44Z"
       },
       {
-        "title": "What to Expect From DuPont’s Q2 2026 Earnings Report",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/expect-dupont-q2-2026-earnings-095242377.html",
-        "published": "2026-07-16T09:52:42Z"
+        "title": "What to Expect From CRH plc’s Q2 2026 Earnings Report",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/expect-crh-plc-q2-2026-103930849.html",
+        "published": "2026-07-16T10:39:30Z"
       },
       {
-        "title": "Gartner Earnings Preview: What to Expect",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/gartner-earnings-preview-expect-095640679.html",
-        "published": "2026-07-16T09:56:40Z"
+        "title": "US probes Samsung for alleged infringement of Netlist's memory-chip patents",
+        "link": "https://finance.yahoo.com/technology/ai/articles/us-probes-samsung-alleged-infringement-105613259.html",
+        "published": "2026-07-16T10:56:13Z"
       },
       {
-        "title": "Thor Explorations, Kenmare Resources, Gooch & Housego - Small Cap Snapshot",
-        "link": "https://finance.yahoo.com/video/thor-explorations-kenmare-resources-gooch-092919074.html",
-        "published": "2026-07-16T09:29:19Z"
+        "title": "A Common S&P 500 ETF Blunder That's Costing Investors Money",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/common-p-500-etf-blunder-104300787.html",
+        "published": "2026-07-16T10:43:00Z"
       },
       {
-        "title": "Best CD rates today, Thursday, July 16, 2026: Lock in up to 4.10% APY",
-        "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-thursday-july-16-2026-lock-in-up-to-410-apy-100000749.html",
-        "published": "2026-07-16T10:00:00Z"
+        "title": "Assurant’s Quarterly Earnings Preview: What You Need to Know",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/assurant-quarterly-earnings-preview-know-105926969.html",
+        "published": "2026-07-16T10:59:26Z"
       },
       {
-        "title": "Mortgage and refinance interest rates today, Thursday, July 16, 2026: Rates on the rise",
-        "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-thursday-july-16-2026-rates-on-the-rise-100000973.html",
-        "published": "2026-07-16T10:00:00Z"
+        "title": "Micron Technology Bear Call Spread Could Net 16% in Five Weeks",
+        "link": "https://finance.yahoo.com/markets/options/articles/micron-technology-bear-call-spread-110002881.html",
+        "published": "2026-07-16T11:00:02Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "I racked up $35,000 in credit-card debt. Should I file for bankruptcy?",
+        "link": "https://www.marketwatch.com/story/i-have-racked-up-35-000-in-credit-card-debt-should-i-file-for-bankruptcy-4c92d9e5?mod=mw_rss_topstories",
+        "published": "Fri, 17 Jul 2026 20:15:00 GMT"
+      },
+      {
+        "title": "Chip stocks enter bear-market territory. A BofA analyst says not to panic.",
+        "link": "https://www.marketwatch.com/story/chip-stocks-enter-bear-market-territory-a-bofa-analyst-says-not-to-panic-4d34df17?mod=mw_rss_topstories",
+        "published": "Fri, 17 Jul 2026 20:01:00 GMT"
+      },
+      {
+        "title": "‘I am at a loss’: My brother is dying. We are not close. What responsibility do I have to help him?",
+        "link": "https://www.marketwatch.com/story/i-am-at-a-loss-my-brother-is-dying-we-are-not-close-what-responsibility-do-i-have-to-help-him-08af705a?mod=mw_rss_topstories",
+        "published": "Fri, 17 Jul 2026 19:45:00 GMT"
+      },
+      {
+        "title": "Taylor Farms to recall iceberg lettuce that may be the cause of the cyclospora outbreak",
+        "link": "https://www.marketwatch.com/story/taylor-farms-to-recall-produce-that-may-be-the-cause-of-the-cyclospora-outbreak-report-e2c4cc0b?mod=mw_rss_topstories",
+        "published": "Fri, 17 Jul 2026 19:41:00 GMT"
+      },
+      {
+        "title": "Why Trump’s speech on U.S. elections may have been bad for markets",
+        "link": "https://www.marketwatch.com/story/why-trumps-speech-on-u-s-elections-could-be-bad-for-markets-e617dc64?mod=mw_rss_topstories",
+        "published": "Fri, 17 Jul 2026 19:38:00 GMT"
+      },
       {
         "title": "‘They are relentless’: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?",
         "link": "https://www.marketwatch.com/story/they-are-relentless-a-scammer-is-trying-to-change-the-email-on-my-empty-robinhood-account-what-do-they-have-to-gain-26103dac?mod=mw_rss_topstories",
@@ -786,31 +811,6 @@
         "title": "How to find the best mortgage rate — it could save you $3,300 a year",
         "link": "https://www.marketwatch.com/story/how-to-find-the-best-mortgage-rate-it-could-save-you-3-300-a-year-e973e520?mod=mw_rss_topstories",
         "published": "Fri, 17 Jul 2026 18:19:00 GMT"
-      },
-      {
-        "title": "A bad health diagnosis will upend your financial plan, but you can set it right again",
-        "link": "https://www.marketwatch.com/story/what-its-like-to-get-end-of-life-financial-advice-from-a-cfp-whos-also-a-death-doula-903a270a?mod=mw_rss_topstories",
-        "published": "Fri, 17 Jul 2026 17:27:00 GMT"
-      },
-      {
-        "title": "Here’s the net worth you need to start getting ahead in your 20s, 30s, 40s and beyond in the U.S.",
-        "link": "https://www.marketwatch.com/story/heres-the-net-worth-you-need-to-start-getting-ahead-in-your-20s-30s-40s-and-beyond-in-the-u-s-520c8d72?mod=mw_rss_topstories",
-        "published": "Fri, 17 Jul 2026 17:19:00 GMT"
-      },
-      {
-        "title": "Are you silently freaking out about retirement? It may not be as bad as you think.",
-        "link": "https://www.marketwatch.com/story/silently-freaking-out-about-retirement-why-it-may-not-be-as-bad-as-you-think-3175d0e1?mod=mw_rss_topstories",
-        "published": "Fri, 17 Jul 2026 17:13:00 GMT"
-      },
-      {
-        "title": "Bond yields are sending a new signal about Fed rate hikes",
-        "link": "https://www.marketwatch.com/story/bond-yields-are-sending-a-new-signal-about-fed-rate-hikes-856e81f7?mod=mw_rss_topstories",
-        "published": "Fri, 17 Jul 2026 16:45:00 GMT"
-      },
-      {
-        "title": "I racked up $35,000 in credit-card debt. Should I file for bankruptcy?",
-        "link": "https://www.marketwatch.com/story/i-have-racked-up-35-000-in-credit-card-debt-should-i-file-for-bankruptcy-4c92d9e5?mod=mw_rss_topstories",
-        "published": "Fri, 17 Jul 2026 16:30:00 GMT"
       }
     ],
     "CNBC Top News": [
@@ -822,17 +822,27 @@
       {
         "title": "Economic outlook is worsening and Trump is getting blamed, CNBC survey finds",
         "link": "https://www.cnbc.com/2026/07/17/economic-outlook-is-worsening-and-trump-is-getting-blamed-cnbc-survey-finds.html",
-        "published": "Fri, 17 Jul 2026 19:30:15 GMT"
+        "published": "Fri, 17 Jul 2026 19:49:17 GMT"
+      },
+      {
+        "title": "Trump rips Canada as wildfire smoke spreads, says U.S. will add pollution cost to tariffs",
+        "link": "https://www.cnbc.com/2026/07/17/trump-canada-wildfire-tariffs.html",
+        "published": "Fri, 17 Jul 2026 20:17:58 GMT"
+      },
+      {
+        "title": "S&P 500 closes lower, Nasdaq falls more than 1% as chip stocks suffer: Live updates",
+        "link": "https://www.cnbc.com/2026/07/16/stock-market-today-live-updates.html",
+        "published": "Fri, 17 Jul 2026 20:22:57 GMT"
       },
       {
         "title": "Epstein victims blast Trump attorney general nominee Todd Blanche after meeting",
         "link": "https://www.cnbc.com/2026/07/17/epstein-victims-todd-blanche-doj-trump-tillis.html",
-        "published": "Fri, 17 Jul 2026 17:21:51 GMT"
+        "published": "Fri, 17 Jul 2026 19:51:42 GMT"
       },
       {
-        "title": "S&P 500 falls 1%, heads for losing week, led by chipmakers; Netflix plunges: Live updates",
-        "link": "https://www.cnbc.com/2026/07/16/stock-market-today-live-updates.html",
-        "published": "Fri, 17 Jul 2026 19:12:09 GMT"
+        "title": "Prepare your portfolio for inflation risk with these moves",
+        "link": "https://www.cnbc.com/2026/07/17/prepare-your-portfolio-for-inflation-risk-with-these-moves.html",
+        "published": "Fri, 17 Jul 2026 20:10:38 GMT"
       },
       {
         "title": "Oil tankers face 'worst case scenario' in Hormuz as Iran steps up attacks on ships, maritime risk CEO says",
@@ -840,19 +850,9 @@
         "published": "Fri, 17 Jul 2026 18:20:37 GMT"
       },
       {
-        "title": "SpaceX's sagging stock 'dampens the mood' for blockbuster IPOs",
-        "link": "https://www.cnbc.com/2026/07/17/spacexs-sagging-stock-dampens-the-mood-for-blockbuster-ipos.html",
-        "published": "Fri, 17 Jul 2026 18:45:01 GMT"
-      },
-      {
         "title": "FAA lets Boeing sign off on 737 Max, 787 airworthiness certificates again",
         "link": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
-        "published": "Fri, 17 Jul 2026 19:14:43 GMT"
-      },
-      {
-        "title": "Iraq and Syria sign agreement to restore oil pipeline that would provide alternative to Strait of Hormuz",
-        "link": "https://www.cnbc.com/2026/07/17/iran-war-iraq-syria-oil-pipeline-strait-hormuz.html",
-        "published": "Fri, 17 Jul 2026 18:47:39 GMT"
+        "published": "Fri, 17 Jul 2026 19:38:06 GMT"
       }
     ]
   }
