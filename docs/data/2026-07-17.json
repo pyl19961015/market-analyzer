@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-07-17T18:02:58",
+  "generated_at": "2026-07-17T19:31:37",
   "date": "2026-07-17",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7473.77,
-        "pct_change": -0.8
+        "last": 7455.58,
+        "pct_change": -1.04
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 25602.85,
-        "pct_change": -1.08
+        "last": 25529.21,
+        "pct_change": -1.36
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 52283.53,
-        "pct_change": -0.51
+        "last": 52128.65,
+        "pct_change": -0.81
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2971.11,
-        "pct_change": -0.12
+        "last": 2953.02,
+        "pct_change": -0.72
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 18.03,
-        "pct_change": 7.77
+        "last": 18.79,
+        "pct_change": 12.31
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.55,
-        "pct_change": -0.48
+        "last": 4.54,
+        "pct_change": -0.61
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 100.78,
-        "pct_change": 0.05
+        "last": 100.77,
+        "pct_change": 0.04
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 81.74,
-        "pct_change": 3.53
+        "last": 81.46,
+        "pct_change": 3.18
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4013.7,
-        "pct_change": 0.71
+        "last": 4010.3,
+        "pct_change": 0.62
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 176.67,
-        "pct_change": -0.48
+        "last": 175.91,
+        "pct_change": -0.91
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 56.33,
-        "pct_change": -0.73
+        "last": 56.15,
+        "pct_change": -1.06
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 57.53,
-        "pct_change": 0.89
+        "last": 57.46,
+        "pct_change": 0.77
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 161.1,
-        "pct_change": -0.43
+        "last": 161.0,
+        "pct_change": -0.49
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 115.64,
-        "pct_change": -1.45
+        "last": 115.43,
+        "pct_change": -1.63
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 84.86,
-        "pct_change": -1.11
+        "last": 85.03,
+        "pct_change": -0.91
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 179.84,
-        "pct_change": -0.17
+        "last": 179.33,
+        "pct_change": -0.46
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 45.19,
-        "pct_change": -0.63
+        "last": 45.1,
+        "pct_change": -0.82
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 50.53,
-        "pct_change": -0.7
+        "last": 50.4,
+        "pct_change": -0.95
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 45.29,
-        "pct_change": -0.38
+        "last": 45.35,
+        "pct_change": -0.25
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 110.64,
-        "pct_change": -1.79
+        "last": 110.49,
+        "pct_change": -1.92
       }
     }
   },
@@ -138,58 +138,58 @@
       "as_of": "2026-07-16",
       "prev_yield": 2.697
     },
-    "spread_10y": 1.83
+    "spread_10y": 1.82
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 155.77,
-        "pct_change": -1.65
+        "last": 155.24,
+        "pct_change": -1.99
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 332.09,
-        "pct_change": -0.35
+        "last": 332.67,
+        "pct_change": -0.18
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 395.02,
-        "pct_change": -1.52
+        "last": 395.2,
+        "pct_change": -1.47
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 247.69,
-        "pct_change": -0.88
+        "last": 247.08,
+        "pct_change": -1.12
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 344.29,
-        "pct_change": -2.87
+        "last": 345.16,
+        "pct_change": -2.62
       },
       "Meta": {
         "symbol": "META",
-        "last": 649.81,
-        "pct_change": -2.22
+        "last": 643.98,
+        "pct_change": -3.09
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 738.57,
-        "pct_change": 4.58
+        "last": 735.41,
+        "pct_change": 4.13
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 279.75,
-        "pct_change": 1.01
+        "last": 277.87,
+        "pct_change": 0.33
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 151.88,
-        "pct_change": -0.82
+        "last": 151.54,
+        "pct_change": -1.05
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -731,47 +731,62 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "The Chip Selloff Has 'Gone Too Far.' The SOX Index Turns Positive.",
-        "link": "https://www.barrons.com/livecoverage/stock-market-news-today-071726/card/the-chip-selloff-has-gone-too-far-the-sox-index-turns-positive--dXKMv5ZY1UywY4rjITbc?siteid=yhoof2&yptr=yahoo",
-        "published": "2026-07-17T17:40:42Z"
+        "title": "PureCycle alliance targets 2027 launch for recycled BOPP films in Japan",
+        "link": "https://finance.yahoo.com/technology/articles/purecycle-alliance-targets-2027-launch-094345354.html",
+        "published": "2026-07-16T09:43:45Z"
       },
       {
-        "title": "Fidelity data breach: Deadline looms for up to $5,000 per customer settlement payouts",
-        "link": "https://finance.yahoo.com/personal-finance/banking/article/fidelity-data-breach-deadline-looms-for-up-to-5000-per-customer-settlement-payouts-174013618.html",
-        "published": "2026-07-17T17:40:13Z"
+        "title": "What to Expect From Public Service Enterprise’s Next Quarterly Earnings Report",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/expect-public-enterprise-next-quarterly-092837063.html",
+        "published": "2026-07-16T09:28:37Z"
       },
       {
-        "title": "Stock market today: Nasdaq hammered by chips sell-off, Dow and S&P 500 fall after Netflix whiff",
-        "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-july-17-dow-sp-500-nasdaq-092345307.html",
-        "published": "2026-07-17T09:23:45Z"
+        "title": "BHP Greenlights $900 Million Pilbara Iron Ore Expansion",
+        "link": "https://finance.yahoo.com/energy/articles/bhp-greenlights-900-million-pilbara-092942660.html",
+        "published": "2026-07-16T09:29:42Z"
       },
       {
-        "title": "Stock Market Today: Dow Sees Red While Amgen Shares Tease A Buy Point (Live Coverage)",
-        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-netflix-earnings-nflx-stock-spacex-stock/?src=A00220&yptr=yahoo",
-        "published": "2026-07-17T17:24:04Z"
+        "title": "What to Expect From DuPont’s Q2 2026 Earnings Report",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/expect-dupont-q2-2026-earnings-095242377.html",
+        "published": "2026-07-16T09:52:42Z"
       },
       {
-        "title": "Trump Media will sell Wall Street ‘the fastest’ access to Trump’s market-moving Truth Social posts in pay-to-win model",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/trump-media-sell-wall-street-172000415.html",
-        "published": "2026-07-17T17:20:00Z"
+        "title": "Gartner Earnings Preview: What to Expect",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/gartner-earnings-preview-expect-095640679.html",
+        "published": "2026-07-16T09:56:40Z"
       },
       {
-        "title": "The Argus Min Vol Model Portfolio",
-        "link": "https://finance.yahoo.com/research/reports/ARGUS_47656_ThematicPortfolio_1784297217000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-        "published": "2026-07-17T14:06:57Z"
+        "title": "Thor Explorations, Kenmare Resources, Gooch & Housego - Small Cap Snapshot",
+        "link": "https://finance.yahoo.com/video/thor-explorations-kenmare-resources-gooch-092919074.html",
+        "published": "2026-07-16T09:29:19Z"
       },
       {
-        "title": "SpaceX Stock Drops on Friday. Should Investors Cheer?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-drops-friday-investors-173227536.html",
-        "published": "2026-07-17T17:32:27Z"
+        "title": "Best CD rates today, Thursday, July 16, 2026: Lock in up to 4.10% APY",
+        "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-thursday-july-16-2026-lock-in-up-to-410-apy-100000749.html",
+        "published": "2026-07-16T10:00:00Z"
       },
       {
-        "title": "How To Profit From Amazon Stock Facing Big Price Swings With Earnings On Deck",
-        "link": "https://www.investors.com/research/options/how-to-profit-from-amazon-stock-facing-big-price-swings-with-earnings-on-deck/?src=A00220&yptr=yahoo",
-        "published": "2026-07-17T17:16:21Z"
+        "title": "Mortgage and refinance interest rates today, Thursday, July 16, 2026: Rates on the rise",
+        "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-thursday-july-16-2026-rates-on-the-rise-100000973.html",
+        "published": "2026-07-16T10:00:00Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "‘They are relentless’: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?",
+        "link": "https://www.marketwatch.com/story/they-are-relentless-a-scammer-is-trying-to-change-the-email-on-my-empty-robinhood-account-what-do-they-have-to-gain-26103dac?mod=mw_rss_topstories",
+        "published": "Fri, 17 Jul 2026 18:30:00 GMT"
+      },
+      {
+        "title": "My wife’s 2011 Ford Fiesta was totaled. Should we accept a $2,000 insurance settlement or give up the car for $2,700?",
+        "link": "https://www.marketwatch.com/story/my-wifes-2011-ford-fiesta-was-totaled-should-we-accept-a-2-000-insurance-settlement-or-give-up-the-car-for-2-700-f2cf2a86?mod=mw_rss_topstories",
+        "published": "Fri, 17 Jul 2026 18:27:00 GMT"
+      },
+      {
+        "title": "How to find the best mortgage rate — it could save you $3,300 a year",
+        "link": "https://www.marketwatch.com/story/how-to-find-the-best-mortgage-rate-it-could-save-you-3-300-a-year-e973e520?mod=mw_rss_topstories",
+        "published": "Fri, 17 Jul 2026 18:19:00 GMT"
+      },
       {
         "title": "A bad health diagnosis will upend your financial plan, but you can set it right again",
         "link": "https://www.marketwatch.com/story/what-its-like-to-get-end-of-life-financial-advice-from-a-cfp-whos-also-a-death-doula-903a270a?mod=mw_rss_topstories",
@@ -796,21 +811,6 @@
         "title": "I racked up $35,000 in credit-card debt. Should I file for bankruptcy?",
         "link": "https://www.marketwatch.com/story/i-have-racked-up-35-000-in-credit-card-debt-should-i-file-for-bankruptcy-4c92d9e5?mod=mw_rss_topstories",
         "published": "Fri, 17 Jul 2026 16:30:00 GMT"
-      },
-      {
-        "title": "EchoStar’s stock has fallen alongside SpaceX’s — but it may now be worth another look",
-        "link": "https://www.marketwatch.com/story/echostars-stock-has-fallen-alongside-spacexs-but-it-may-now-be-worth-another-look-d9208e67?mod=mw_rss_topstories",
-        "published": "Fri, 17 Jul 2026 16:18:00 GMT"
-      },
-      {
-        "title": "My dad wants to buy me a big suburban home — but I don’t want to live there. Am I ungrateful if I turn him down?",
-        "link": "https://www.marketwatch.com/story/my-dad-wants-to-buy-me-a-big-suburban-home-but-i-dont-want-to-live-there-am-i-ungrateful-for-turning-down-his-offer-ab4e9827?mod=mw_rss_topstories",
-        "published": "Fri, 17 Jul 2026 15:56:00 GMT"
-      },
-      {
-        "title": "Iran war hasn’t hurt the U.S. economy too badly — but the danger isn’t over yet",
-        "link": "https://www.marketwatch.com/story/iran-war-hasnt-hurt-the-u-s-economy-too-badly-but-the-danger-isnt-over-yet-82f7d46a?mod=mw_rss_topstories",
-        "published": "Fri, 17 Jul 2026 15:55:00 GMT"
       }
     ],
     "CNBC Top News": [
@@ -822,7 +822,7 @@
       {
         "title": "Economic outlook is worsening and Trump is getting blamed, CNBC survey finds",
         "link": "https://www.cnbc.com/2026/07/17/economic-outlook-is-worsening-and-trump-is-getting-blamed-cnbc-survey-finds.html",
-        "published": "Fri, 17 Jul 2026 16:38:57 GMT"
+        "published": "Fri, 17 Jul 2026 19:30:15 GMT"
       },
       {
         "title": "Epstein victims blast Trump attorney general nominee Todd Blanche after meeting",
@@ -830,29 +830,29 @@
         "published": "Fri, 17 Jul 2026 17:21:51 GMT"
       },
       {
-        "title": "S&P 500 falls, heads for losing week, led by chipmakers; Netflix plunges: Live updates",
+        "title": "S&P 500 falls 1%, heads for losing week, led by chipmakers; Netflix plunges: Live updates",
         "link": "https://www.cnbc.com/2026/07/16/stock-market-today-live-updates.html",
-        "published": "Fri, 17 Jul 2026 17:41:56 GMT"
+        "published": "Fri, 17 Jul 2026 19:12:09 GMT"
       },
       {
-        "title": "Anthropic in early talks with Meta to acquire compute power",
-        "link": "https://www.cnbc.com/2026/07/17/anthropic-meta-ai-compute.html",
-        "published": "Fri, 17 Jul 2026 17:38:26 GMT"
+        "title": "Oil tankers face 'worst case scenario' in Hormuz as Iran steps up attacks on ships, maritime risk CEO says",
+        "link": "https://www.cnbc.com/2026/07/17/iran-war-oil-tanker-strait-hormuz-traffic-attacks-trump.html",
+        "published": "Fri, 17 Jul 2026 18:20:37 GMT"
       },
       {
-        "title": "The cyclosporiasis outbreak linked to Taco Bell is hitting some restaurant stocks, but don't expect a long-term impact",
-        "link": "https://www.cnbc.com/2026/07/17/cyclosporiasis-outbreak-linked-to-taco-bell-may-not-have-major-impact.html",
-        "published": "Fri, 17 Jul 2026 17:17:50 GMT"
+        "title": "SpaceX's sagging stock 'dampens the mood' for blockbuster IPOs",
+        "link": "https://www.cnbc.com/2026/07/17/spacexs-sagging-stock-dampens-the-mood-for-blockbuster-ipos.html",
+        "published": "Fri, 17 Jul 2026 18:45:01 GMT"
       },
       {
-        "title": "Retail and Wall Street are underwater on SpaceX — but not going down without a fight",
-        "link": "https://www.cnbc.com/2026/07/17/retail-and-wall-street-are-underwater-on-spacex-but-not-going-down-without-a-fight.html",
-        "published": "Fri, 17 Jul 2026 17:27:41 GMT"
+        "title": "FAA lets Boeing sign off on 737 Max, 787 airworthiness certificates again",
+        "link": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
+        "published": "Fri, 17 Jul 2026 19:14:43 GMT"
       },
       {
-        "title": "Amazon's Zoox issues software recall after robotaxi drove into heavy smoke",
-        "link": "https://www.cnbc.com/2026/07/17/amazon-zoox-recalls-robotaxi-smoke.html",
-        "published": "Fri, 17 Jul 2026 14:42:04 GMT"
+        "title": "Iraq and Syria sign agreement to restore oil pipeline that would provide alternative to Strait of Hormuz",
+        "link": "https://www.cnbc.com/2026/07/17/iran-war-iraq-syria-oil-pipeline-strait-hormuz.html",
+        "published": "Fri, 17 Jul 2026 18:47:39 GMT"
       }
     ]
   }
