@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-07-21T17:44:18",
+  "generated_at": "2026-07-21T18:57:26",
   "date": "2026-07-21",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7511.75,
-        "pct_change": 0.92
+        "last": 7508.17,
+        "pct_change": 0.87
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 25861.63,
-        "pct_change": 1.39
+        "last": 25839.62,
+        "pct_change": 1.3
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 52274.01,
-        "pct_change": 0.84
+        "last": 52213.05,
+        "pct_change": 0.72
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2979.01,
-        "pct_change": 1.24
+        "last": 2981.29,
+        "pct_change": 1.32
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 17.11,
-        "pct_change": -8.26
+        "last": 17.09,
+        "pct_change": -8.36
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
         "last": 4.63,
-        "pct_change": 0.61
+        "pct_change": 0.74
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 101.11,
-        "pct_change": 0.11
+        "last": 101.18,
+        "pct_change": 0.19
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 84.44,
-        "pct_change": 1.45
+        "last": 84.25,
+        "pct_change": 1.23
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4074.2,
-        "pct_change": 1.59
+        "last": 4086.7,
+        "pct_change": 1.91
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 180.55,
-        "pct_change": 2.75
+        "last": 180.6,
+        "pct_change": 2.78
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 56.22,
-        "pct_change": 0.33
+        "last": 56.12,
+        "pct_change": 0.13
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 58.26,
-        "pct_change": 0.56
+        "last": 58.41,
+        "pct_change": 0.81
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 159.63,
-        "pct_change": 0.24
+        "last": 159.66,
+        "pct_change": 0.26
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 115.02,
-        "pct_change": 0.36
+        "last": 114.74,
+        "pct_change": 0.11
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 84.07,
-        "pct_change": -0.93
+        "last": 84.14,
+        "pct_change": -0.85
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 179.43,
-        "pct_change": 0.74
+        "last": 178.89,
+        "pct_change": 0.43
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 44.97,
-        "pct_change": 0.07
+        "last": 44.88,
+        "pct_change": -0.12
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 50.35,
-        "pct_change": 0.64
+        "last": 50.26,
+        "pct_change": 0.45
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 45.18,
-        "pct_change": -0.11
+        "last": 45.12,
+        "pct_change": -0.25
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 110.17,
-        "pct_change": -0.57
+        "last": 110.22,
+        "pct_change": -0.52
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 163.0,
-        "pct_change": 0.3
+        "last": 163.2,
+        "pct_change": 0.42
       }
     }
   },
@@ -144,52 +144,52 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 162.83,
-        "pct_change": 6.36
+        "last": 161.95,
+        "pct_change": 5.78
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 326.86,
-        "pct_change": 0.08
+        "last": 328.18,
+        "pct_change": 0.49
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 399.17,
-        "pct_change": -0.78
+        "last": 398.15,
+        "pct_change": -1.03
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 248.45,
-        "pct_change": -0.62
+        "last": 247.48,
+        "pct_change": -1.01
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 349.14,
-        "pct_change": -0.81
+        "last": 348.86,
+        "pct_change": -0.89
       },
       "Meta": {
         "symbol": "META",
-        "last": 648.21,
-        "pct_change": 0.36
+        "last": 647.22,
+        "pct_change": 0.21
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 839.43,
-        "pct_change": 9.65
+        "last": 834.51,
+        "pct_change": 9.01
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 318.7,
-        "pct_change": 11.67
+        "last": 315.73,
+        "pct_change": 10.63
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 157.84,
-        "pct_change": 4.87
+        "last": 157.62,
+        "pct_change": 4.72
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -472,42 +472,52 @@
         "published": "2026-07-21T02:17:00Z"
       },
       {
-        "title": "Stock market today: Nasdaq leads Dow, S&P 500 higher as chip stocks revive",
-        "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-21-dow-sp-500-nasdaq-084631499.html",
-        "published": "2026-07-21T08:46:31Z"
+        "title": "The S&P 500 is breaking the earnings playbook: Chart of the Day",
+        "link": "https://finance.yahoo.com/markets/article/the-sp-500-is-breaking-the-earnings-playbook-chart-of-the-day-115602014.html",
+        "published": "2026-07-18T11:56:02Z"
       },
       {
-        "title": "3M stock jumps on raised outlook as company's turnaround gains traction",
-        "link": "https://finance.yahoo.com/markets/article/3m-stock-jumps-on-raised-outlook-as-companys-turnaround-gains-traction-131529020.html",
-        "published": "2026-07-21T13:15:29Z"
+        "title": "'Earnings need to be strong': Wall Street assesses next catalyst for AI trade",
+        "link": "https://finance.yahoo.com/markets/article/earnings-need-to-be-strong-wall-street-assesses-next-catalyst-for-ai-trade-120841127.html",
+        "published": "2026-07-19T12:08:41Z"
       },
       {
-        "title": "Monolithic Power Systems (MPWR) vs. TXN and ADI: Are Investors Paying Too Much for AI Power Growth?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/monolithic-power-systems-mpwr-vs-170019451.html",
-        "published": "2026-07-21T17:00:19Z"
+        "title": "Big Tech earnings test tech's big rotation: What to watch this week",
+        "link": "https://finance.yahoo.com/markets/article/big-tech-earnings-test-techs-big-rotation-what-to-watch-this-week-122359843.html",
+        "published": "2026-07-19T12:23:59Z"
       },
       {
-        "title": "Michael Burry says 95% of investors don't know what they own — and they like it that way. Is that such a bad thing?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-says-95-investors-163753432.html",
-        "published": "2026-07-21T16:37:53Z"
+        "title": "A lawyer took 10 years off to care for her autistic daughter — then got an interview in hours. Here's how she did it",
+        "link": "https://finance.yahoo.com/small-business/articles/lawyer-took-10-years-off-100000186.html",
+        "published": "2026-07-20T10:00:00Z"
       },
       {
-        "title": "Daily Spotlight: Financially Healthy, Wealthy, and Wise",
-        "link": "https://finance.yahoo.com/research/reports/ARGUS_47678_MarketOutlook_1784633207000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-        "published": "2026-07-21T11:26:47Z"
+        "title": "Analyst Report: General Electric Co",
+        "link": "https://finance.yahoo.com/research/reports/ARGUS_2999_AnalystReport_1784654558000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+        "published": "2026-07-21T17:22:38Z"
       },
       {
-        "title": "Palantir Stock Is Down More Than 35% from Its Peak. Is It Finally a Buy?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-down-more-35-172000141.html",
-        "published": "2026-07-21T17:20:00Z"
+        "title": "Jim Cramer says it may be time to trim comeback stock after 441% surge",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-may-time-181700105.html",
+        "published": "2026-07-20T18:17:00Z"
       },
       {
-        "title": "TikTok US chief security officer to testify before US House on September 15",
-        "link": "https://finance.yahoo.com/news/tiktok-us-chief-security-officer-163435488.html",
-        "published": "2026-07-21T16:36:40Z"
+        "title": "Chipmakers head for big profit gains, but will it be enough?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/chipmakers-head-big-profit-gains-100309114.html",
+        "published": "2026-07-20T10:03:09Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "Trump looks set to roll out a new set of tariffs. Will markets care?",
+        "link": "https://www.marketwatch.com/story/trump-looks-set-to-roll-out-a-new-set-of-tariffs-will-markets-care-71097833?mod=mw_rss_topstories",
+        "published": "Tue, 21 Jul 2026 18:16:00 GMT"
+      },
+      {
+        "title": "Your healthcare could now cost $185,500 in retirement — and that doesn’t include long-term care",
+        "link": "https://www.marketwatch.com/story/your-healthcare-could-now-cost-185-500-in-retirement-and-that-doesnt-include-long-term-care-5f4f6da8?mod=mw_rss_topstories",
+        "published": "Tue, 21 Jul 2026 17:51:00 GMT"
+      },
       {
         "title": "Oil prices may fall, but gasoline prices won’t. Look at the trap we’re in.",
         "link": "https://www.marketwatch.com/story/oil-prices-may-fall-but-gasoline-prices-wont-look-at-the-trap-were-in-7f4c3738?mod=mw_rss_topstories",
@@ -537,16 +547,6 @@
         "title": "Microsoft has 3 secret weapons that could drive its stock 50% higher, analyst says",
         "link": "https://www.marketwatch.com/story/microsoft-has-3-secret-weapons-that-could-drive-its-stock-50-higher-analyst-says-f1afb554?mod=mw_rss_topstories",
         "published": "Tue, 21 Jul 2026 16:25:00 GMT"
-      },
-      {
-        "title": "These signs suggest investors should give the software sector a second chance",
-        "link": "https://www.marketwatch.com/story/here-are-some-signs-that-say-investors-should-give-the-software-sector-a-second-chance-f4143255?mod=mw_rss_topstories",
-        "published": "Tue, 21 Jul 2026 16:10:00 GMT"
-      },
-      {
-        "title": "Pro stock pickers cannot beat simple math — war in the Middle East is proving it",
-        "link": "https://www.marketwatch.com/story/if-timing-the-stock-market-were-easy-the-iran-war-would-have-proven-it-its-done-the-opposite-ac090ad3?mod=mw_rss_topstories",
-        "published": "Tue, 21 Jul 2026 15:12:00 GMT"
       }
     ],
     "CNBC Top News": [
@@ -563,12 +563,22 @@
       {
         "title": "IRS chief Frank Bisignano dismisses JPMorgan spying allegations",
         "link": "https://www.cnbc.com/2026/07/21/irs-chief-frank-bisignano-laughs-off-jpmorgan-spying-allegations.html",
-        "published": "Tue, 21 Jul 2026 17:19:31 GMT"
+        "published": "Tue, 21 Jul 2026 18:21:57 GMT"
       },
       {
         "title": "Stocks making the biggest moves midday: Coinbase, Micron, Nebius, Hasbro, Utz Brands & more",
         "link": "https://www.cnbc.com/2026/07/21/stocks-making-the-biggest-moves-midday-coin-mu-nbis-has-utz.html",
-        "published": "Tue, 21 Jul 2026 16:51:54 GMT"
+        "published": "Tue, 21 Jul 2026 18:34:38 GMT"
+      },
+      {
+        "title": "RFK Jr. says cyclospora outbreak is 'under control'",
+        "link": "https://www.cnbc.com/2026/07/21/cyclospora-rfk-jr-says-outbreak-is-under-control.html",
+        "published": "Tue, 21 Jul 2026 18:43:24 GMT"
+      },
+      {
+        "title": "Ready for takeoff: This stock’s next growth runway is securing identity in an AI age",
+        "link": "https://www.cnbc.com/2026/07/21/ready-for-takeoff-this-stocks-next-growth-runway-is-securing-identity-in-an-ai-age.html",
+        "published": "Tue, 21 Jul 2026 17:57:28 GMT"
       },
       {
         "title": "The worst dotcom bubble investing mistakes are coming for your portfolio. Avoid them",
@@ -576,19 +586,9 @@
         "published": "Tue, 21 Jul 2026 16:58:35 GMT"
       },
       {
-        "title": "Healthcare students are turning to Kalshi and betting platforms to pay for their degrees, survey shows",
-        "link": "https://www.cnbc.com/2026/07/21/healthcare-students-turn-to-kalshi-betting-platforms-to-pay-for-degrees-survey-shows.html",
-        "published": "Tue, 21 Jul 2026 17:24:57 GMT"
-      },
-      {
-        "title": "Want to diversify away from AI? Goldman says look at these stocks",
-        "link": "https://www.cnbc.com/2026/07/21/want-to-diversify-away-from-ai-goldman-says-look-at-these-stocks.html",
-        "published": "Tue, 21 Jul 2026 16:46:14 GMT"
-      },
-      {
-        "title": "OpenAI, Anthropic boost lobbying as legacy tech and defense spending slips",
-        "link": "https://www.cnbc.com/2026/07/21/openai-anthropic-ai-lobbying-spending-q2-2026.html",
-        "published": "Tue, 21 Jul 2026 16:30:11 GMT"
+        "title": "$100M New Jersey deli fraudster James Patten sentenced to 21 months in prison",
+        "link": "https://www.cnbc.com/2026/07/21/new-jersey-deli-fraud-james-patten-sentenced.html",
+        "published": "Tue, 21 Jul 2026 18:56:48 GMT"
       }
     ]
   }
