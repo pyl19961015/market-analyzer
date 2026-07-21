@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T02:23:46",
+  "generated_at": "2026-07-21T05:35:09",
   "date": "2026-07-21",
   "market_sentiment": {
     "indices": {
@@ -35,18 +35,18 @@
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 100.96,
-        "pct_change": 0.2
+        "last": 100.95,
+        "pct_change": -0.04
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
         "last": 82.31,
-        "pct_change": -0.22
+        "pct_change": -1.11
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4028.6,
-        "pct_change": 0.4
+        "last": 4056.0,
+        "pct_change": 1.14
       }
     },
     "sectors": {
@@ -111,13 +111,13 @@
     "indices": {
       "Nikkei 225": {
         "symbol": "^N225",
-        "last": 65296.15,
-        "pct_change": 1.8
+        "last": 65656.06,
+        "pct_change": 2.36
       },
       "TOPIX (ETF代理)": {
         "symbol": "1306.T",
-        "last": 416.2,
-        "pct_change": 2.03
+        "last": 415.9,
+        "pct_change": 1.96
       },
       "USD/JPY": {
         "symbol": "JPY=X",
@@ -193,8 +193,8 @@
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 6170.0,
-        "pct_change": 0.57
+        "last": 6167.0,
+        "pct_change": 0.52
       }
     }
   },
@@ -467,29 +467,34 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "Major car dealer cuts 40% of its locations, issues serious warning",
-        "link": "https://finance.yahoo.com/small-business/articles/major-car-dealer-cuts-40-014700349.html",
-        "published": "2026-07-19T16:54:17Z"
+        "title": "Jim Cramer says it may be time to trim comeback stock after 441% surge",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-may-time-181700105.html",
+        "published": "2026-07-20T18:17:00Z"
       },
       {
-        "title": "Synopsys Should Benefit No Matter Who Wins The AI Race. Here’s What Explains Its Poor Stock Performance.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/synopsys-benefit-no-matter-wins-150002706.html",
-        "published": "2026-07-19T15:00:02Z"
+        "title": "Jensen Huang's staggering $4 trillion bet shifts Nvidia",
+        "link": "https://finance.yahoo.com/technology/ai/articles/jensen-huangs-staggering-4-trillion-210300335.html",
+        "published": "2026-07-20T21:03:00Z"
       },
       {
-        "title": "Taiwan Semiconductor’s $100 Billion Arizona Expansion Is a Bullish Sign for Investors",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-100-billion-arizona-150002813.html",
-        "published": "2026-07-19T15:00:02Z"
+        "title": "3 Numbers That Will Matter Most in IBM’s Upcoming Q2 Earnings",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/3-numbers-matter-most-ibm-173002550.html",
+        "published": "2026-07-19T17:30:02Z"
       },
       {
-        "title": "What a New Uber Eats Deal Means for GameStop Stock",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/uber-eats-deal-means-gamestop-150002665.html",
-        "published": "2026-07-19T15:00:02Z"
+        "title": "What Are Mineral Rights? The Complete Guide to Owning, Leasing and Selling Them",
+        "link": "https://finance.yahoo.com/energy/articles/mineral-rights-complete-guide-owning-190000632.html",
+        "published": "2026-07-19T19:00:00Z"
       },
       {
-        "title": "Nearly half of retirees leave work earlier than planned — the 3 reasons Americans are retiring at 62 instead of 65",
-        "link": "https://finance.yahoo.com/small-business/articles/nearly-half-retirees-leave-earlier-144653221.html",
-        "published": "2026-07-19T14:46:53Z"
+        "title": "Alibaba Stock Just Got Apple’s Biggest AI Endorsement. This Could Be a Game Changer for BABA.",
+        "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-stock-just-got-apple-193002597.html",
+        "published": "2026-07-19T19:30:02Z"
+      },
+      {
+        "title": "Europe Was Supposed to Run Out of Jet Fuel by June. It Didn’t",
+        "link": "https://finance.yahoo.com/energy/articles/europe-supposed-run-jet-fuel-210000258.html",
+        "published": "2026-07-19T21:00:00Z"
       },
       {
         "title": "Amazon closes another major facility, nearly 500 workers affected",
@@ -497,17 +502,17 @@
         "published": "2026-07-19T21:47:00Z"
       },
       {
-        "title": "A couple with $6.1 million can't agree on when to retire — Ramit Sethi says 'it's not the numbers' holding them back",
-        "link": "https://finance.yahoo.com/markets/articles/couple-6-1-million-cant-150000535.html",
-        "published": "2026-07-19T15:00:00Z"
-      },
-      {
-        "title": "A financial planner explains why splitting your partner's $2,100 mortgage will leave you with nothing. And it's okay",
-        "link": "https://finance.yahoo.com/real-estate/articles/financial-planner-explains-why-splitting-143000499.html",
-        "published": "2026-07-19T14:30:00Z"
+        "title": "Venture Global (VG) Soars as Geopolitical Tensions Fuel Natural Gas Rally",
+        "link": "https://finance.yahoo.com/energy/articles/venture-global-vg-soars-geopolitical-210724730.html",
+        "published": "2026-07-19T21:07:24Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "Your healthcare could now cost $185,500 in retirement — and that doesn’t include long-term care",
+        "link": "https://www.marketwatch.com/story/your-healthcare-could-now-cost-185-500-in-retirement-and-that-doesnt-include-long-term-care-5f4f6da8?mod=mw_rss_topstories",
+        "published": "Tue, 21 Jul 2026 04:01:00 GMT"
+      },
       {
         "title": "U.S. hits Canada with stiff new tariffs, escalating trade tensions",
         "link": "https://www.marketwatch.com/story/u-s-hits-canada-with-stiff-new-tariffs-escalating-trade-tensions-4a97065f?mod=mw_rss_topstories",
@@ -542,18 +547,18 @@
         "title": "Americans are skipping lettuce and salads as investigation into cyclospora outbreak continues",
         "link": "https://www.marketwatch.com/story/americans-are-skipping-lettuce-and-salads-as-investigation-into-cyclospora-outbreak-continues-562499b6?mod=mw_rss_topstories",
         "published": "Mon, 20 Jul 2026 21:44:00 GMT"
-      },
-      {
-        "title": "Global oil prices settle at one-month high despite new Iran ceasefire proposal, as blockade on Saudi Arabia by Yemen’s Houthis keeps market on edge",
-        "link": "https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79?mod=mw_rss_topstories",
-        "published": "Mon, 20 Jul 2026 21:11:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
+        "title": "Ships shun Strait of Hormuz as renewed fighting strains key oil corridor",
+        "link": "https://www.cnbc.com/2026/07/21/strait-of-hormuz-traffic-renewed-us-iran-conflict-chokes-hormuz.html",
+        "published": "Tue, 21 Jul 2026 02:33:54 GMT"
+      },
+      {
         "title": "U.S. condemns China's 'dangerous and aggressive' acts after Philippine sailor injured at disputed shoal",
         "link": "https://www.cnbc.com/2026/07/21/china-philippines-south-china-sea-disputes-sailor-injured-.html",
-        "published": "Tue, 21 Jul 2026 02:20:51 GMT"
+        "published": "Tue, 21 Jul 2026 03:28:20 GMT"
       },
       {
         "title": "Trump imposing 50% tariffs on certain Canadian goods over alleged trade discrimination",
@@ -561,19 +566,19 @@
         "published": "Mon, 20 Jul 2026 22:13:57 GMT"
       },
       {
-        "title": "Oil prices rise after Trump says Iran will pay for killing U.S. service members",
-        "link": "https://www.cnbc.com/2026/07/20/oil-prices-today-brent-wti-crude-us-iran-centcom-hormuz.html",
-        "published": "Mon, 20 Jul 2026 19:04:16 GMT"
+        "title": "Iran War update: Five things to know after the resumption of hostilities",
+        "link": "https://www.cnbc.com/2026/07/21/iran-war-update-five-things-to-know-after-resumption-of-hostilities.html",
+        "published": "Tue, 21 Jul 2026 05:13:14 GMT"
       },
       {
-        "title": "The FDA made a big reversal in its cyclosporiasis probe, but it still thinks iceberg lettuce is to blame",
-        "link": "https://www.cnbc.com/2026/07/20/cyclosporiasis-fda-taylor-farms-lettuce-false-positive.html",
-        "published": "Mon, 20 Jul 2026 19:42:30 GMT"
+        "title": "Inflation fears are back in the spotlight as the Middle East conflict keeps oil prices elevated, analysts say",
+        "link": "https://www.cnbc.com/2026/07/21/inflation-fears-return-as-iran-war-keeps-oil-prices-high-analysts.html",
+        "published": "Tue, 21 Jul 2026 04:01:09 GMT"
       },
       {
-        "title": "Trump says Netanyahu won't be arrested in New York, pushing back on Mamdani",
-        "link": "https://www.cnbc.com/2026/07/20/trump-netanyahu-arrest-mamdani-new-york-israel.html",
-        "published": "Mon, 20 Jul 2026 21:50:17 GMT"
+        "title": "General Motors is set to report earnings before the bell. Here's what Wall Street expects",
+        "link": "https://www.cnbc.com/2026/07/21/general-motors-gm-earnings-q2-2026.html",
+        "published": "Tue, 21 Jul 2026 04:01:01 GMT"
       },
       {
         "title": "Tech stocks to buy after the big semiconductor pullback, according to UBS",
@@ -581,14 +586,9 @@
         "published": "Mon, 20 Jul 2026 20:12:04 GMT"
       },
       {
-        "title": "Paramount and Warner Bros. merger hit with temporary restraining order",
-        "link": "https://www.cnbc.com/2026/07/20/paramount-wbd-merger-delay.html",
-        "published": "Mon, 20 Jul 2026 19:20:38 GMT"
-      },
-      {
-        "title": "Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
-        "link": "https://www.cnbc.com/2026/07/20/jpmorgan-chase-ceo-jamie-dimon-market-risk.html",
-        "published": "Mon, 20 Jul 2026 23:01:01 GMT"
+        "title": "The FDA made a big reversal in its cyclosporiasis probe, but it still thinks iceberg lettuce is to blame",
+        "link": "https://www.cnbc.com/2026/07/20/cyclosporiasis-fda-taylor-farms-lettuce-false-positive.html",
+        "published": "Mon, 20 Jul 2026 19:42:30 GMT"
       }
     ]
   }
