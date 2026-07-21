@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-07-21T12:09:10",
+  "generated_at": "2026-07-21T14:20:46",
   "date": "2026-07-21",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7443.28,
-        "pct_change": -0.19
+        "last": 7485.47,
+        "pct_change": 0.57
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 25508.07,
-        "pct_change": -0.05
+        "last": 25740.37,
+        "pct_change": 0.91
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": null,
-        "pct_change": null
+        "last": 52153.87,
+        "pct_change": 0.61
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2942.43,
-        "pct_change": -0.67
+        "last": 2961.22,
+        "pct_change": 0.64
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 17.8,
-        "pct_change": -4.56
+        "last": 17.79,
+        "pct_change": -4.61
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.6,
-        "pct_change": 1.26
+        "last": 4.63,
+        "pct_change": 0.65
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 100.98,
-        "pct_change": -0.01
+        "last": 101.05,
+        "pct_change": 0.06
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 83.91,
-        "pct_change": 0.82
+        "last": 84.52,
+        "pct_change": 1.55
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4060.7,
-        "pct_change": 1.26
+        "last": 4062.5,
+        "pct_change": 1.3
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 175.71,
-        "pct_change": 0.07
+        "last": 178.95,
+        "pct_change": 1.84
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 56.04,
-        "pct_change": -0.39
+        "last": 56.13,
+        "pct_change": 0.16
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 57.94,
-        "pct_change": 0.45
+        "last": 58.05,
+        "pct_change": 0.19
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 159.25,
-        "pct_change": -1.14
+        "last": 160.12,
+        "pct_change": 0.55
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 114.61,
-        "pct_change": -0.72
+        "last": 114.83,
+        "pct_change": 0.19
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 84.86,
-        "pct_change": -0.39
+        "last": 84.25,
+        "pct_change": -0.72
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 178.12,
-        "pct_change": -0.72
+        "last": 178.85,
+        "pct_change": 0.41
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 44.94,
-        "pct_change": -0.51
+        "last": 44.78,
+        "pct_change": -0.36
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 50.03,
-        "pct_change": -0.99
+        "last": 50.26,
+        "pct_change": 0.45
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 45.23,
-        "pct_change": -0.42
+        "last": 45.31,
+        "pct_change": 0.17
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 110.8,
-        "pct_change": 0.14
+        "last": 110.26,
+        "pct_change": -0.49
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 162.73,
-        "pct_change": 0.14
+        "last": 162.91,
+        "pct_change": 0.24
       }
     }
   },
@@ -131,65 +131,65 @@
       "effr": 3.63,
       "target_low": 3.5,
       "target_high": 3.75,
-      "as_of": "2026-07-17"
+      "as_of": "2026-07-20"
     },
     "japan": {
       "yield": 2.715,
       "as_of": "2026-07-17",
       "prev_yield": 2.719
     },
-    "spread_10y": 1.88
+    "spread_10y": 1.92
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 153.1,
-        "pct_change": -0.98
+        "last": 158.19,
+        "pct_change": 3.32
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 326.59,
-        "pct_change": -2.14
+        "last": 325.99,
+        "pct_change": -0.18
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 402.29,
-        "pct_change": 2.15
+        "last": 400.13,
+        "pct_change": -0.54
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 249.99,
-        "pct_change": 1.12
+        "last": 247.45,
+        "pct_change": -1.02
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 351.99,
-        "pct_change": 1.51
+        "last": 349.44,
+        "pct_change": -0.72
       },
       "Meta": {
         "symbol": "META",
-        "last": 645.85,
-        "pct_change": -0.02
+        "last": 647.11,
+        "pct_change": 0.2
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 765.55,
-        "pct_change": 4.47
+        "last": 813.53,
+        "pct_change": 6.27
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 285.4,
-        "pct_change": 2.81
+        "last": 306.57,
+        "pct_change": 7.42
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 150.51,
-        "pct_change": -0.46
+        "last": 153.87,
+        "pct_change": 2.23
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -467,128 +467,128 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "Targa Telematics partners with Hyundai  on fleet operators’ data",
-        "link": "https://finance.yahoo.com/technology/articles/targa-telematics-partners-hyundai-fleet-115531932.html",
-        "published": "2026-07-21T11:55:31Z"
+        "title": "Jim Cramer says it may be time to trim comeback stock after 441% surge",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-may-time-181700105.html",
+        "published": "2026-07-20T18:17:00Z"
       },
       {
-        "title": "Stock Market Today: Sandisk, Micron, AMD Jump As AI Rebounds; GM, 3M Lead Earnings Movers",
-        "link": "https://www.investors.com/market-trend/stock-market-today/stock-market-today-dow-jones-nasdaq-sandisk-micron-amd-jump-ai-rebounds-gm-3m-lead-earnings-movers/?src=A00220&yptr=yahoo",
-        "published": "2026-07-21T11:42:17Z"
+        "title": "Charles Schwab profits surge as retail traders bought the dip in a volatile quarter",
+        "link": "https://finance.yahoo.com/markets/article/charles-schwab-profits-surge-as-retail-traders-bought-the-dip-in-a-volatile-quarter-115800025.html",
+        "published": "2026-07-21T11:58:00Z"
       },
       {
-        "title": "Stock market today: Nasdaq leads Dow, S&P 500 futures higher as chip stocks revive",
-        "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-21-dow-sp-500-nasdaq-084631499.html",
-        "published": "2026-07-21T08:46:31Z"
+        "title": "What Construction Of Elon Musk's Terafab Would Mean For Tesla, SpaceX",
+        "link": "https://www.investors.com/news/tesla-spacex-terafab-elon-musk-ai-chips-nvidia-tsmc/?src=A00220&yptr=yahoo",
+        "published": "2026-07-21T13:57:52Z"
       },
       {
-        "title": "$170,660 Invested In This Stock In January Is Now Worth $1 Million",
-        "link": "https://www.investors.com/etfs-and-funds/sectors/sp500-just-investing-in-this-stock-in-january-made-you-a-million/?src=A00220&yptr=yahoo",
-        "published": "2026-07-21T11:13:06Z"
+        "title": "Should You Be Bullish on Forte Biosciences (FBRX)",
+        "link": "https://finance.yahoo.com/healthcare/articles/bullish-forte-biosciences-fbrx-135715938.html",
+        "published": "2026-07-21T13:57:15Z"
       },
       {
-        "title": "Is AMC Entertainment’s (AMC) Record Revenue Proof That the Theater Recovery Is Finally Real?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/amc-entertainment-amc-record-revenue-111110279.html",
-        "published": "2026-07-21T11:11:10Z"
+        "title": "Oracle stock has crashed 50% since June",
+        "link": "https://finance.yahoo.com/markets/stocks/article/oracle-stock-has-crashed-50-since-june-135647277.html",
+        "published": "2026-07-21T13:56:47Z"
       },
       {
-        "title": "Analyst Report: Truist Financial Corp",
-        "link": "https://finance.yahoo.com/research/reports/ARGUS_3641_AnalystReport_1784631143000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-        "published": "2026-07-21T10:52:23Z"
+        "title": "Daily Spotlight: Financially Healthy, Wealthy, and Wise",
+        "link": "https://finance.yahoo.com/research/reports/ARGUS_47678_MarketOutlook_1784633207000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+        "published": "2026-07-21T11:26:47Z"
       },
       {
-        "title": "Novo Nordisk sues Eli Lilly over misleading weight loss drug ads",
-        "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-sues-eli-lilly-115203540.html",
-        "published": "2026-07-21T11:52:03Z"
+        "title": "Eagle Mountain and Nittetsu Mining to assess new mineral projects",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/eagle-mountain-nittetsu-mining-assess-140957252.html",
+        "published": "2026-07-21T14:09:57Z"
       },
       {
-        "title": "U.S. auto industry races to purge Chinese connected-car hardware amid federal push",
-        "link": "https://finance.yahoo.com/technology/articles/u-auto-industry-races-purge-110403742.html",
-        "published": "2026-07-21T11:04:03Z"
+        "title": "Forward Air secures deal to keep at least 50% of $250M account",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/forward-air-secures-deal-keep-135140731.html",
+        "published": "2026-07-21T13:51:40Z"
       }
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "Alphabet is pouring record cash into data centers, and earnings will show if that’s paying off",
-        "link": "https://www.marketwatch.com/story/alphabet-is-pouring-record-cash-into-data-centers-and-earnings-will-show-if-thats-paying-off-fad38a2c?mod=mw_rss_topstories",
-        "published": "Tue, 21 Jul 2026 12:06:00 GMT"
-      },
-      {
-        "title": "Why are gasoline prices rising faster than oil prices? Blame it on the ‘crack.’",
-        "link": "https://www.marketwatch.com/story/why-are-gasoline-prices-rising-faster-than-oil-prices-blame-it-on-the-crack-22b454e7?mod=mw_rss_topstories",
-        "published": "Tue, 21 Jul 2026 11:53:00 GMT"
-      },
-      {
-        "title": "The co-founder of Stocktwits dumped chip stocks before their 20% slide. Where he’s putting his money now.",
-        "link": "https://www.marketwatch.com/story/the-co-founder-of-stocktwits-dumped-chip-stocks-before-a-20-slide-where-hes-putting-his-money-now-07e8724f?mod=mw_rss_topstories",
-        "published": "Tue, 21 Jul 2026 11:47:00 GMT"
+        "title": "‘I have a $2,000 deductible’: I reported a cracked windshield on my Hertz rental car. Can they charge me?",
+        "link": "https://www.marketwatch.com/story/i-have-a-2-000-deductible-i-reported-a-cracked-windshield-on-my-hertz-rental-car-can-they-charge-me-1e07d28a?mod=mw_rss_topstories",
+        "published": "Tue, 21 Jul 2026 14:15:00 GMT"
       },
       {
         "title": "Do I use $300,000 of my $1.2 million retirement savings so my daughter can attend her dream college?",
         "link": "https://www.marketwatch.com/story/do-i-use-300-000-of-my-1-2-million-retirement-savings-so-my-daughter-can-attend-her-dream-college-50842e7a?mod=mw_rss_topstories",
-        "published": "Tue, 21 Jul 2026 11:15:00 GMT"
+        "published": "Tue, 21 Jul 2026 14:15:00 GMT"
       },
       {
-        "title": "China has been buying the gold dip, and these analysts say a comeback is brewing",
-        "link": "https://www.marketwatch.com/story/china-has-been-buying-the-gold-dip-and-these-analysts-say-a-comeback-is-brewing-6b0400d3?mod=mw_rss_topstories",
-        "published": "Tue, 21 Jul 2026 11:06:00 GMT"
+        "title": "The co-founder of Stocktwits dumped chip stocks before their 20% slide. Where he’s putting his money now.",
+        "link": "https://www.marketwatch.com/story/the-co-founder-of-stocktwits-dumped-chip-stocks-before-a-20-slide-where-hes-putting-his-money-now-07e8724f?mod=mw_rss_topstories",
+        "published": "Tue, 21 Jul 2026 13:50:00 GMT"
       },
       {
-        "title": "We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit?",
-        "link": "https://www.marketwatch.com/story/we-have-8-million-in-traditional-iras-should-we-tap-them-to-buy-a-house-and-take-the-tax-hit-c2478daa?mod=mw_rss_topstories",
-        "published": "Tue, 21 Jul 2026 11:00:00 GMT"
+        "title": "How to successfully deal with a micromanaging boss",
+        "link": "https://www.marketwatch.com/story/how-to-successfully-deal-with-a-micromanaging-boss-d9151b50?mod=mw_rss_topstories",
+        "published": "Tue, 21 Jul 2026 13:49:00 GMT"
       },
       {
-        "title": "Adobe stock has been crushed by AI fears. Now Morgan Stanley has cut its rating to underweight.",
-        "link": "https://www.marketwatch.com/story/adobe-stock-has-been-crushed-by-ai-fears-now-morgan-stanley-has-cut-its-rating-to-underweight-38378183?mod=mw_rss_topstories",
-        "published": "Tue, 21 Jul 2026 10:58:00 GMT"
+        "title": "If timing the stock market were easy, the Iran war would have proven it. It’s done the opposite.",
+        "link": "https://www.marketwatch.com/story/if-timing-the-stock-market-were-easy-the-iran-war-would-have-proven-it-its-done-the-opposite-ac090ad3?mod=mw_rss_topstories",
+        "published": "Tue, 21 Jul 2026 13:38:00 GMT"
       },
       {
-        "title": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
-        "link": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
-        "published": "Tue, 21 Jul 2026 10:31:00 GMT"
+        "title": "Americans are skipping lettuce and salads as investigation into cyclospora outbreak continues",
+        "link": "https://www.marketwatch.com/story/americans-are-skipping-lettuce-and-salads-as-investigation-into-cyclospora-outbreak-continues-562499b6?mod=mw_rss_topstories",
+        "published": "Tue, 21 Jul 2026 13:32:00 GMT"
+      },
+      {
+        "title": "Welcome to the ‘Roaring ’20s’: Here’s how this earnings season will keep the bull market strong",
+        "link": "https://www.marketwatch.com/story/welcome-to-the-roaring-20s-heres-how-this-earnings-season-will-keep-the-bull-market-strong-4a70be72?mod=mw_rss_topstories",
+        "published": "Tue, 21 Jul 2026 13:32:00 GMT"
+      },
+      {
+        "title": "Time to buy the dip in momentum stocks after a punishing July drawdown? Here’s what history tells us.",
+        "link": "https://www.marketwatch.com/story/time-to-buy-the-dip-in-momentum-stocks-after-a-punishing-july-drawdown-heres-what-history-tells-us-bc5c0c4e?mod=mw_rss_topstories",
+        "published": "Tue, 21 Jul 2026 13:25:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "U.S. strikes Iran and Houthis threaten Saudi Arabia shipping as mediators push 10-day ceasefire",
-        "link": "https://www.cnbc.com/2026/07/21/us-iran-war-trump-hormuz-houthis.html",
-        "published": "Tue, 21 Jul 2026 11:39:17 GMT"
+        "title": "Greer hints new Trump tariffs coming on dozens of countries: 'Expect action soon'",
+        "link": "https://www.cnbc.com/2026/07/21/trump-trade-tariffs-greer-section-301.html",
+        "published": "Tue, 21 Jul 2026 13:38:59 GMT"
       },
       {
-        "title": "As the U.S.-Iran war heats up again, these parts of the stock market and economy could be affected",
-        "link": "https://www.cnbc.com/2026/07/21/iran-war-economy-markets-trump.html",
-        "published": "Tue, 21 Jul 2026 11:56:14 GMT"
+        "title": "U.S. strikes Iran and Houthis threaten Saudi Arabia shipping as mediators push 10-day ceasefire",
+        "link": "https://www.cnbc.com/2026/07/21/us-iran-war-trump-hormuz-houthis.html",
+        "published": "Tue, 21 Jul 2026 13:00:19 GMT"
+      },
+      {
+        "title": "SpaceX sets earnings date, triggering first lock-up expiration for millions of shares",
+        "link": "https://www.cnbc.com/2026/07/21/spacex-spcx-earnings-lock-up-expiration.html",
+        "published": "Tue, 21 Jul 2026 14:15:54 GMT"
+      },
+      {
+        "title": "Stocks are higher, boosted by chipmakers and strong earnings: Live updates",
+        "link": "https://www.cnbc.com/2026/07/20/stock-market-today-live-updates.html",
+        "published": "Tue, 21 Jul 2026 14:15:17 GMT"
       },
       {
         "title": "Novo Nordisk sues Eli Lilly, alleging misleading GLP-1 advertising",
         "link": "https://www.cnbc.com/2026/07/21/novo-nordisk-sues-eli-lilly-glp-1-ads.html",
-        "published": "Tue, 21 Jul 2026 11:35:46 GMT"
+        "published": "Tue, 21 Jul 2026 13:54:46 GMT"
       },
       {
-        "title": "Stock futures are higher as Wall Street awaits latest earnings report: Live updates",
-        "link": "https://www.cnbc.com/2026/07/20/stock-market-today-live-updates.html",
-        "published": "Tue, 21 Jul 2026 11:55:46 GMT"
+        "title": "Here are Tuesday's biggest analyst calls: Nvidia, SpaceX, Tesla, Meta, Micron, Oracle, Five Below & more",
+        "link": "https://www.cnbc.com/2026/07/21/tuesdays-biggest-analyst-calls-include-nvidia-spacex.html",
+        "published": "Tue, 21 Jul 2026 12:15:41 GMT"
       },
       {
-        "title": "GM beats on earnings, raises guidance amid 'resilient' consumer, pricing",
-        "link": "https://www.cnbc.com/2026/07/21/general-motors-gm-earnings-q2-2026.html",
-        "published": "Tue, 21 Jul 2026 11:27:25 GMT"
+        "title": "Property taxes are poised for major midterm elections ballot battles across many U.S. states",
+        "link": "https://www.cnbc.com/2026/07/21/property-taxes-midterm-elections-ballots-issues.html",
+        "published": "Tue, 21 Jul 2026 14:15:35 GMT"
       },
       {
-        "title": "Meta has a 'multibillion-dollar' opportunity with its glasses, says Jefferies",
-        "link": "https://www.cnbc.com/2026/07/21/meta-has-a-multi-billion-dollar-opportunity-says-jefferies.html",
-        "published": "Tue, 21 Jul 2026 11:49:16 GMT"
-      },
-      {
-        "title": "Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
-        "link": "https://www.cnbc.com/2026/07/21/jpmorgan-chase-ceo-jamie-dimon-market-risk.html",
-        "published": "Tue, 21 Jul 2026 10:24:07 GMT"
-      },
-      {
-        "title": "Stocks making the biggest moves premarket: General Motors, 3M, Novartis, Nebius & more",
-        "link": "https://www.cnbc.com/2026/07/21/stocks-making-the-biggest-moves-premarket-gm-mmm-nvs-nbis.html",
-        "published": "Tue, 21 Jul 2026 11:38:25 GMT"
+        "title": "Wall Street is selling more rental homes, as buying ban takes effect",
+        "link": "https://www.cnbc.com/2026/07/21/wall-street-selling-homes-real-estate.html",
+        "published": "Tue, 21 Jul 2026 12:56:09 GMT"
       }
     ]
   }
