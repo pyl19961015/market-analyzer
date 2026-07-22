@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-07-22T12:13:17",
+  "generated_at": "2026-07-22T14:23:32",
   "date": "2026-07-22",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7509.2,
-        "pct_change": 0.89
+        "last": 7499.91,
+        "pct_change": -0.12
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 25837.21,
-        "pct_change": 1.29
+        "last": 25713.42,
+        "pct_change": -0.48
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 52224.64,
-        "pct_change": 0.74
+        "last": 52353.89,
+        "pct_change": 0.25
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2987.4,
-        "pct_change": 1.53
+        "last": 2981.47,
+        "pct_change": -0.2
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 17.63,
-        "pct_change": 3.4
+        "last": 16.86,
+        "pct_change": -1.11
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.63,
-        "pct_change": 0.65
+        "last": 4.65,
+        "pct_change": 0.39
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 101.13,
-        "pct_change": -0.05
+        "last": 101.06,
+        "pct_change": -0.11
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 87.43,
-        "pct_change": 2.97
+        "last": 87.06,
+        "pct_change": 2.53
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4130.2,
-        "pct_change": 1.45
+        "last": 4163.3,
+        "pct_change": 2.26
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 180.78,
-        "pct_change": 2.89
+        "last": 179.84,
+        "pct_change": -0.52
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 56.11,
-        "pct_change": 0.12
+        "last": 56.06,
+        "pct_change": -0.09
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 58.5,
-        "pct_change": 0.97
+        "last": 59.5,
+        "pct_change": 1.71
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 160.25,
-        "pct_change": 0.63
+        "last": 160.14,
+        "pct_change": -0.07
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 114.87,
-        "pct_change": 0.23
+        "last": 114.51,
+        "pct_change": -0.31
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 84.06,
-        "pct_change": -0.94
+        "last": 84.71,
+        "pct_change": 0.78
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 178.66,
-        "pct_change": 0.3
+        "last": 179.34,
+        "pct_change": 0.38
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 44.92,
-        "pct_change": -0.04
+        "last": 45.73,
+        "pct_change": 1.8
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 50.1,
-        "pct_change": 0.14
+        "last": 50.92,
+        "pct_change": 1.63
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 45.2,
-        "pct_change": -0.07
+        "last": 45.3,
+        "pct_change": 0.22
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 110.03,
-        "pct_change": -0.69
+        "last": 109.88,
+        "pct_change": -0.14
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 163.05,
-        "pct_change": 0.35
+        "last": 163.07,
+        "pct_change": 0.36
       }
     }
   },
@@ -131,65 +131,65 @@
       "effr": 3.63,
       "target_low": 3.5,
       "target_high": 3.75,
-      "as_of": "2026-07-20"
+      "as_of": "2026-07-21"
     },
     "japan": {
       "yield": 2.731,
       "as_of": "2026-07-21",
       "prev_yield": 2.715
     },
-    "spread_10y": 1.9
+    "spread_10y": 1.92
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 162.41,
-        "pct_change": 6.08
+        "last": 159.03,
+        "pct_change": -2.08
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 327.74,
-        "pct_change": 0.35
+        "last": 324.67,
+        "pct_change": -0.94
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 397.75,
-        "pct_change": -1.13
+        "last": 389.69,
+        "pct_change": -2.03
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 247.55,
-        "pct_change": -0.98
+        "last": 244.33,
+        "pct_change": -1.3
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 347.15,
-        "pct_change": -1.38
+        "last": 347.41,
+        "pct_change": 0.07
       },
       "Meta": {
         "symbol": "META",
-        "last": 643.81,
-        "pct_change": -0.32
+        "last": 628.95,
+        "pct_change": -2.31
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 837.56,
-        "pct_change": 9.41
+        "last": 835.81,
+        "pct_change": -0.21
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 317.22,
-        "pct_change": 11.15
+        "last": 313.48,
+        "pct_change": -1.18
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 157.81,
-        "pct_change": 4.85
+        "last": 155.6,
+        "pct_change": -1.4
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -480,88 +480,88 @@
         "published": "2026-07-21T03:33:00Z"
       },
       {
+        "title": "What Fuels Credo Technology Group Holding Ltd’s (CRDO) Exceptional Return in Q2?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/fuels-credo-technology-group-holding-141032078.html",
+        "published": "2026-07-22T14:10:32Z"
+      },
+      {
+        "title": "Super Micro Soars On Booming Margins, Orders; Dell, HP Enterprise Also Rally",
+        "link": "https://www.investors.com/news/technology/super-micro-soars-booming-margins-orders-dell-hp-enterprise/?src=A00220&yptr=yahoo",
+        "published": "2026-07-22T14:02:57Z"
+      },
+      {
+        "title": "Rising oil prices weigh on US stocks ahead of Big Tech results",
+        "link": "https://finance.yahoo.com/news/asian-stocks-extend-gains-us-010802317.html",
+        "published": "2026-07-22T14:01:36Z"
+      },
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq mixed with Alphabet, Tesla earnings on deck",
+        "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-083644887.html",
+        "published": "2026-07-22T08:36:44Z"
+      },
+      {
+        "title": "Daily Spotlight: Gold Prices Down from the Clouds",
+        "link": "https://finance.yahoo.com/research/reports/ARGUS_47693_MarketOutlook_1784719618000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+        "published": "2026-07-22T11:26:58Z"
+      },
+      {
         "title": "Spain just opened a door America slammed shut",
         "link": "https://finance.yahoo.com/economy/policy/articles/spain-just-opened-door-america-021700849.html",
         "published": "2026-07-21T02:17:00Z"
       },
       {
-        "title": "Oil climbs over 3% to near six-week high as conflict threatens key oil transit routes",
-        "link": "https://finance.yahoo.com/news/oil-prices-rise-slightly-us-002859952.html",
-        "published": "2026-07-22T11:56:04Z"
-      },
-      {
-        "title": "Earnings live: GE Vernova stock falls despite surge in orders, AT&T stock pops",
-        "link": "https://finance.yahoo.com/markets/live/earnings-live-second-quarter-results-tesla-google-july-115324842.html",
-        "published": "2026-07-20T11:53:24Z"
-      },
-      {
-        "title": "Dow Jones Futures Fall As Oil Prices Jump; Two Big AI Earnings Movers With Google, Tesla Earnings Due",
-        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-sandisk-micron-google-tesla-earnings/?src=A00220&yptr=yahoo",
-        "published": "2026-07-22T11:45:40Z"
-      },
-      {
-        "title": "Market Digest: BNY, EFX, FITB, AA, CRWD",
-        "link": "https://finance.yahoo.com/research/reports/ARGUS_47689_MarketSummary_1784717561000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-        "published": "2026-07-22T10:52:41Z"
-      },
-      {
-        "title": "George Foreman got $5M/month from his popular grill — $240M total. Here’s his tactic for max riches (you can mimic it)",
-        "link": "https://finance.yahoo.com/small-business/articles/george-foreman-got-5m-month-114500345.html",
-        "published": "2026-07-22T11:45:00Z"
-      },
-      {
-        "title": "Charles Schwab Q2 2026 earnings: record revenue, stock falls",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/charles-schwab-q2-2026-earnings-115701690.html",
-        "published": "2026-07-22T11:57:01Z"
+        "title": "Multiple Catalysts Spur Upslope Capital Management’s Latest Buy: Magnum Ice Cream (MICC)",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/multiple-catalysts-spur-upslope-capital-135435531.html",
+        "published": "2026-07-22T13:54:35Z"
       }
     ],
     "MarketWatch Top Stories": [
       {
+        "title": "Global oil prices rise above $95 a barrel for the first time in 6 weeks as hopes dim for de-escalation of Iran war",
+        "link": "https://www.marketwatch.com/story/oil-prices-climb-to-six-week-high-as-hopes-of-de-escalation-in-iran-diminish-b5fb0942?mod=mw_rss_topstories",
+        "published": "Wed, 22 Jul 2026 14:07:00 GMT"
+      },
+      {
+        "title": "This ‘incredibly disrespectful’ interview habit could be costing Gen Z jobs",
+        "link": "https://www.marketwatch.com/story/its-incredibly-disrespectful-to-do-a-virtual-job-interview-by-phone-but-gen-z-is-doing-it-anyway-0d8486d7?mod=mw_rss_topstories",
+        "published": "Wed, 22 Jul 2026 14:05:00 GMT"
+      },
+      {
+        "title": "Is Microsoft’s stock set for a breakout? This analyst says a major inflection is in the cards.",
+        "link": "https://www.marketwatch.com/story/is-microsofts-stock-set-for-a-breakout-this-analyst-says-a-major-inflection-is-in-the-cards-53c312e4?mod=mw_rss_topstories",
+        "published": "Wed, 22 Jul 2026 14:03:00 GMT"
+      },
+      {
+        "title": "How to ask strangers on the internet for financial advice",
+        "link": "https://www.marketwatch.com/story/how-to-ask-strangers-on-the-internet-for-financial-advice-ba5b3fb7?mod=mw_rss_topstories",
+        "published": "Wed, 22 Jul 2026 14:00:00 GMT"
+      },
+      {
+        "title": "AT&T’s stock rises toward best day in six months. Why investors are cheering the latest earnings.",
+        "link": "https://www.marketwatch.com/story/at-ts-stock-rises-after-earnings-heres-why-investors-are-cheering-41508d59?mod=mw_rss_topstories",
+        "published": "Wed, 22 Jul 2026 13:51:00 GMT"
+      },
+      {
         "title": "Artificial intelligence will drive an unprecedented natural-gas deficit, this investor warns. Here are the stocks to buy before the crunch.",
         "link": "https://www.marketwatch.com/story/artificial-intelligence-will-drive-an-unprecedented-natural-gas-deficit-this-investor-warns-here-are-the-stocks-to-buy-before-a-crunch-0d011a29?mod=mw_rss_topstories",
-        "published": "Wed, 22 Jul 2026 12:05:00 GMT"
+        "published": "Wed, 22 Jul 2026 13:35:00 GMT"
       },
       {
-        "title": "Having $100,000 invested was once the gateway to building real wealth. For young people today, it’s double that.",
-        "link": "https://www.marketwatch.com/story/having-100-000-invested-was-once-the-gateway-to-building-real-wealth-for-young-people-today-its-double-that-dc96fcc7?mod=mw_rss_topstories",
-        "published": "Wed, 22 Jul 2026 12:00:00 GMT"
+        "title": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
+        "link": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
+        "published": "Wed, 22 Jul 2026 13:30:00 GMT"
       },
       {
-        "title": "Do I use $300,000 of my $1.2 million retirement savings so my daughter can attend her dream college?",
-        "link": "https://www.marketwatch.com/story/do-i-use-300-000-of-my-1-2-million-retirement-savings-so-my-daughter-can-attend-her-dream-college-50842e7a?mod=mw_rss_topstories",
-        "published": "Wed, 22 Jul 2026 11:30:00 GMT"
-      },
-      {
-        "title": "Bond-market weakness makes a strong investment case for this unloved sector, strategist says",
-        "link": "https://www.marketwatch.com/story/bond-market-weakness-makes-a-strong-investment-case-for-this-unloved-sector-strategist-says-2cf258f8?mod=mw_rss_topstories",
-        "published": "Wed, 22 Jul 2026 11:26:00 GMT"
-      },
-      {
-        "title": "Oil prices climb to six-week high as hopes of de-escalation in Iran diminish",
-        "link": "https://www.marketwatch.com/story/oil-prices-climb-to-six-week-high-as-hopes-of-de-escalation-in-iran-diminish-b5fb0942?mod=mw_rss_topstories",
-        "published": "Wed, 22 Jul 2026 11:19:00 GMT"
-      },
-      {
-        "title": "The Treasury market is on the verge of a worrying milestone not seen since 2007",
-        "link": "https://www.marketwatch.com/story/the-treasury-market-is-on-the-verge-of-a-worrying-milestone-not-seen-since-2007-81158082?mod=mw_rss_topstories",
-        "published": "Wed, 22 Jul 2026 11:15:00 GMT"
-      },
-      {
-        "title": "AT&T’s stock rises after earnings. Here’s why investors are cheering.",
-        "link": "https://www.marketwatch.com/story/at-ts-stock-rises-after-earnings-heres-why-investors-are-cheering-41508d59?mod=mw_rss_topstories",
-        "published": "Wed, 22 Jul 2026 10:42:00 GMT"
-      },
-      {
-        "title": "I wanted to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?",
-        "link": "https://www.marketwatch.com/story/i-wanted-to-transfer-17-000-in-credit-card-debt-why-did-wells-fargo-offer-me-only-a-4-000-credit-limit-7ad0a3f0?mod=mw_rss_topstories",
-        "published": "Wed, 22 Jul 2026 10:15:00 GMT"
+        "title": "Shares of GE Vernova fall in premarket trading despite raised revenue outlook",
+        "link": "https://www.marketwatch.com/story/shares-of-ge-vernova-fall-in-premarket-trading-despite-raised-revenue-outlook-6eec9263?mod=mw_rss_topstories",
+        "published": "Wed, 22 Jul 2026 13:26:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "Brent oil price hovers near $95 as Rubio says U.S. will 'continue to protect shipping' in Hormuz",
-        "link": "https://www.cnbc.com/2026/07/22/oil-prices-iran-war-macro-rubio-brent-wti.html",
-        "published": "Wed, 22 Jul 2026 11:51:33 GMT"
+        "title": "Trump vows to bomb Iran's bridges, power plants if it shoots at ships in Hormuz Strait",
+        "link": "https://www.cnbc.com/2026/07/22/us-iran-war-trump-hormuz-.html",
+        "published": "Wed, 22 Jul 2026 14:16:37 GMT"
       },
       {
         "title": "Mortgage rates are rising again, but homebuyers are seeing some advantages",
@@ -569,34 +569,34 @@
         "published": "Wed, 22 Jul 2026 11:31:31 GMT"
       },
       {
-        "title": "Trump's push for American-made AI chips hits TSMC's margins",
-        "link": "https://www.cnbc.com/2026/07/22/trump-pressure-ai-chips-us-tsmc-margins.html",
-        "published": "Wed, 22 Jul 2026 05:00:01 GMT"
+        "title": "Sen. Wyden introduces bill to curb Trump's tariff powers",
+        "link": "https://www.cnbc.com/2026/07/22/trump-tariffs-wyden-bill-congress.html",
+        "published": "Wed, 22 Jul 2026 13:00:15 GMT"
       },
       {
-        "title": "Stock futures slip as oil prices jump, traders gear up for more earnings: Live updates",
+        "title": "S&P 500 is little changed as oil prices jump, traders gear up for more earnings: Live updates",
         "link": "https://www.cnbc.com/2026/07/21/stock-market-today-live-updates.html",
-        "published": "Wed, 22 Jul 2026 12:10:44 GMT"
+        "published": "Wed, 22 Jul 2026 14:23:07 GMT"
       },
       {
-        "title": "Stocks making the biggest moves premarket: Super Micro Computer, GE Vernova, Rocket Lab and more",
-        "link": "https://www.cnbc.com/2026/07/22/stocks-making-the-biggest-moves-premarket-smci-gev-rklb.html",
-        "published": "Wed, 22 Jul 2026 11:54:30 GMT"
+        "title": "Samsung ups prices as it launches new foldable smartphones ahead of expected Apple debut",
+        "link": "https://www.cnbc.com/2026/07/22/samsung-galaxy-z-fold8-ultra-z-fold8-z-flip8-launch.html",
+        "published": "Wed, 22 Jul 2026 13:00:01 GMT"
       },
       {
-        "title": "An 'intersection of several tailwinds' could boost this buy now, pay later stock, Bernstein says",
-        "link": "https://www.cnbc.com/2026/07/22/several-tailwinds-could-boost-this-payment-stock-bernstein-says-.html",
-        "published": "Wed, 22 Jul 2026 11:41:24 GMT"
+        "title": "Wall Street will get its first health check on Big Tech",
+        "link": "https://www.cnbc.com/2026/07/22/wall-street-will-get-its-first-health-check-on-big-tech.html",
+        "published": "Wed, 22 Jul 2026 13:33:07 GMT"
+      },
+      {
+        "title": "AMD to invest up to $5 billion in Anthropic as part of computing power deal",
+        "link": "https://www.cnbc.com/2026/07/22/amd-anthropic-ai-chip-investment.html",
+        "published": "Wed, 22 Jul 2026 13:58:10 GMT"
       },
       {
         "title": "Peacock is getting a lift from World Cup, Spanish-language content",
         "link": "https://www.cnbc.com/2026/07/22/peacock-is-getting-a-lift-from-world-cup-spanish-language-content.html",
         "published": "Wed, 22 Jul 2026 11:00:01 GMT"
-      },
-      {
-        "title": "Citizens United provision allowing foreign campaign contributions draws Democratic bill",
-        "link": "https://www.cnbc.com/2026/07/22/citizens-united-foreign-campaign-contributions-raskin-whitehouse-bill.html",
-        "published": "Wed, 22 Jul 2026 09:00:02 GMT"
       }
     ]
   }
