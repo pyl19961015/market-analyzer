@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-07-22T15:57:58",
+  "generated_at": "2026-07-22T17:24:10",
   "date": "2026-07-22",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7518.8,
-        "pct_change": 0.13
+        "last": 7517.34,
+        "pct_change": 0.11
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 25819.55,
-        "pct_change": -0.07
+        "last": 25804.71,
+        "pct_change": -0.13
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 52393.85,
-        "pct_change": 0.32
+        "last": 52307.79,
+        "pct_change": 0.16
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2969.19,
-        "pct_change": -0.61
+        "last": 2966.53,
+        "pct_change": -0.7
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 16.89,
-        "pct_change": -0.94
+        "last": 16.74,
+        "pct_change": -1.82
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
         "last": 4.65,
-        "pct_change": 0.39
+        "pct_change": 0.56
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 101.11,
-        "pct_change": -0.07
+        "last": 101.12,
+        "pct_change": -0.06
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 86.15,
-        "pct_change": 1.46
+        "last": 86.64,
+        "pct_change": 2.04
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4164.6,
-        "pct_change": 2.3
+        "last": 4151.0,
+        "pct_change": 1.96
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 180.96,
-        "pct_change": 0.1
+        "last": 181.01,
+        "pct_change": 0.12
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 56.12,
-        "pct_change": 0.01
+        "last": 56.03,
+        "pct_change": -0.14
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 59.0,
-        "pct_change": 0.85
+        "last": 59.23,
+        "pct_change": 1.25
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 160.29,
-        "pct_change": 0.02
+        "last": 159.62,
+        "pct_change": -0.39
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 114.41,
-        "pct_change": -0.4
+        "last": 114.24,
+        "pct_change": -0.55
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 84.43,
-        "pct_change": 0.45
+        "last": 84.37,
+        "pct_change": 0.37
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 179.25,
-        "pct_change": 0.33
+        "last": 179.23,
+        "pct_change": 0.32
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 45.61,
-        "pct_change": 1.54
+        "last": 45.83,
+        "pct_change": 2.01
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 50.76,
-        "pct_change": 1.33
+        "last": 50.81,
+        "pct_change": 1.43
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 45.04,
-        "pct_change": -0.34
+        "last": 45.06,
+        "pct_change": -0.32
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 109.93,
-        "pct_change": -0.09
+        "last": 109.87,
+        "pct_change": -0.15
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 163.07,
-        "pct_change": 0.36
+        "last": 163.13,
+        "pct_change": 0.39
       }
     }
   },
@@ -144,52 +144,52 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 157.94,
-        "pct_change": -2.75
+        "last": 156.61,
+        "pct_change": -3.57
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 325.06,
-        "pct_change": -0.82
+        "last": 323.59,
+        "pct_change": -1.27
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 389.35,
-        "pct_change": -2.11
+        "last": 387.36,
+        "pct_change": -2.61
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 243.69,
-        "pct_change": -1.56
+        "last": 243.26,
+        "pct_change": -1.73
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 347.92,
-        "pct_change": 0.22
+        "last": 348.4,
+        "pct_change": 0.36
       },
       "Meta": {
         "symbol": "META",
-        "last": 628.99,
-        "pct_change": -2.3
+        "last": 629.29,
+        "pct_change": -2.26
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 843.52,
-        "pct_change": 0.71
+        "last": 832.74,
+        "pct_change": -0.58
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 317.22,
-        "pct_change": 0.0
+        "last": 315.92,
+        "pct_change": -0.41
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 155.82,
-        "pct_change": -1.26
+        "last": 157.23,
+        "pct_change": -0.37
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -480,24 +480,24 @@
         "published": "2026-07-21T21:38:33Z"
       },
       {
+        "title": "Mortgage and refinance rates today, Wednesday, July 22, 2026: Back to 6.5%",
+        "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-wednesday-july-22-2026-interest-creeps-up-100000132.html",
+        "published": "2026-07-22T10:00:00Z"
+      },
+      {
+        "title": "Oil Shocks Spur Energy Name To Highs; Stock Nears Pivot With Earnings Ahead",
+        "link": "https://www.investors.com/research/energy-iran-war-technipfmc-fti-stock/?src=A00220&yptr=yahoo",
+        "published": "2026-07-22T17:10:27Z"
+      },
+      {
+        "title": "Is Apple stock overvalued? Here's what AlphaSpace valuation metrics say.",
+        "link": "https://finance.yahoo.com/markets/stocks/article/is-apple-stock-overvalued-heres-what-alphaspace-valuation-metrics-say-170806881.html",
+        "published": "2026-07-22T17:08:06Z"
+      },
+      {
         "title": "Stock market today: Dow, S&P 500, Nasdaq waver with Alphabet, Tesla earnings on deck",
         "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-earnings-083644887.html",
         "published": "2026-07-22T08:36:44Z"
-      },
-      {
-        "title": "AT&T Earnings Beat. CEO Stankey: Starlink Deal Not Needed At All",
-        "link": "https://www.investors.com/news/technology/att-stock-q2-2026-earnings-wireless-fiber-growth/?src=A00220&yptr=yahoo",
-        "published": "2026-07-22T15:39:19Z"
-      },
-      {
-        "title": "Interactive Brokers, Charles Schwab Slide Despite Earnings Surge",
-        "link": "https://www.investors.com/news/charles-schwab-earnings-q2-interactive-brokers-earnings/?src=A00220&yptr=yahoo",
-        "published": "2026-07-22T15:38:18Z"
-      },
-      {
-        "title": "SpaceX stock is treading water as Elon's other company — Tesla — reports Wednesday night",
-        "link": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-is-treading-water-as-elons-other-company--tesla--reports-wednesday-night-153703005.html",
-        "published": "2026-07-22T15:37:03Z"
       },
       {
         "title": "Daily Spotlight: Gold Prices Down from the Clouds",
@@ -505,63 +505,63 @@
         "published": "2026-07-22T11:26:58Z"
       },
       {
-        "title": "Want Income for Life? Here Are 3 Stocks to Buy Now and Never Sell.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/want-income-life-3-stocks-154300682.html",
-        "published": "2026-07-22T15:43:00Z"
+        "title": "Dow Jones Shrugs Off Oil Shock While Nasdaq Takes a Breather",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/dow-jones-shrugs-off-oil-171219228.html",
+        "published": "2026-07-22T17:12:19Z"
       },
       {
-        "title": "Bitcoin and ethereum prices today, Wednesday, July 22, 2026: Both cryptos open higher before losing steam",
-        "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-july-22-2026-both-cryptos-open-higher-before-losing-steam-153454067.html",
-        "published": "2026-07-22T15:34:54Z"
+        "title": "Tesla Earnings, Elon Musk Loom: What Investors Want To Know (Live Coverage)",
+        "link": "https://www.investors.com/news/tesla-earnings-elon-musk-robotaxi-optimus-electric-vehicle-evs/?src=A00220&yptr=yahoo",
+        "published": "2026-07-22T17:04:33Z"
       }
     ],
     "MarketWatch Top Stories": [
       {
+        "title": "This the best way to ask strangers on the internet for financial advice",
+        "link": "https://www.marketwatch.com/story/how-to-ask-strangers-on-the-internet-for-financial-advice-ba5b3fb7?mod=mw_rss_topstories",
+        "published": "Wed, 22 Jul 2026 17:06:00 GMT"
+      },
+      {
+        "title": "AMD plans to invest to up $5 billion into Anthropic as it seeks to cut into Nvidia’s dominance",
+        "link": "https://www.marketwatch.com/story/amd-is-investing-5-billion-into-anthropic-as-it-seeks-to-cut-into-nvidias-dominance-b882654d?mod=mw_rss_topstories",
+        "published": "Wed, 22 Jul 2026 16:58:00 GMT"
+      },
+      {
+        "title": "Can you beat the market? Maybe with this strategy.",
+        "link": "https://www.marketwatch.com/story/this-could-be-the-right-time-to-buy-a-momentum-fund-05e7a1fa?mod=mw_rss_topstories",
+        "published": "Wed, 22 Jul 2026 16:33:00 GMT"
+      },
+      {
+        "title": "This is the ideal retirement strategy if you want to keep your healthcare costs down",
+        "link": "https://www.marketwatch.com/story/heres-how-to-time-your-retirement-to-keep-your-healthcare-costs-down-b1a4d427?mod=mw_rss_topstories",
+        "published": "Wed, 22 Jul 2026 16:31:00 GMT"
+      },
+      {
+        "title": "Do I use $300,000 of my $1.2 million retirement savings so my daughter can attend her dream college?",
+        "link": "https://www.marketwatch.com/story/do-i-use-300-000-of-my-1-2-million-retirement-savings-so-my-daughter-can-attend-her-dream-college-50842e7a?mod=mw_rss_topstories",
+        "published": "Wed, 22 Jul 2026 16:30:00 GMT"
+      },
+      {
+        "title": "Global oil prices hold gains after topping $95 a barrel for the first time in 6 weeks as hopes dim for de-escalation of Iran war",
+        "link": "https://www.marketwatch.com/story/oil-prices-climb-to-six-week-high-as-hopes-of-de-escalation-in-iran-diminish-b5fb0942?mod=mw_rss_topstories",
+        "published": "Wed, 22 Jul 2026 16:28:00 GMT"
+      },
+      {
+        "title": "My second husband and I have kids from previous relationships. Should my house go to him or my children if I die first?",
+        "link": "https://www.marketwatch.com/story/i-have-children-from-my-first-marriage-should-my-second-husband-inherit-my-house-if-i-die-d9bd8687?mod=mw_rss_topstories",
+        "published": "Wed, 22 Jul 2026 16:00:00 GMT"
+      },
+      {
         "title": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
         "link": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
         "published": "Wed, 22 Jul 2026 15:45:00 GMT"
-      },
-      {
-        "title": "Fed’s favorite inflation tracker is getting an overhaul — just as the central bank weighs interest-rate hikes. What’s going on?",
-        "link": "https://www.marketwatch.com/story/feds-favorite-inflation-tracker-is-getting-an-overhaul-just-as-the-central-bank-weighs-interest-rate-hikes-whats-going-on-3ecb3a1c?mod=mw_rss_topstories",
-        "published": "Wed, 22 Jul 2026 15:44:00 GMT"
-      },
-      {
-        "title": "I want to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?",
-        "link": "https://www.marketwatch.com/story/i-wanted-to-transfer-17-000-in-credit-card-debt-why-did-wells-fargo-offer-me-only-a-4-000-credit-limit-7ad0a3f0?mod=mw_rss_topstories",
-        "published": "Wed, 22 Jul 2026 15:31:00 GMT"
-      },
-      {
-        "title": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.",
-        "link": "https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories",
-        "published": "Wed, 22 Jul 2026 15:24:00 GMT"
-      },
-      {
-        "title": "AMD is investing $5 billion into Anthropic as it seeks to cut into Nvidia’s dominance",
-        "link": "https://www.marketwatch.com/story/amd-is-investing-5-billion-into-anthropic-as-it-seeks-to-cut-into-nvidias-dominance-b882654d?mod=mw_rss_topstories",
-        "published": "Wed, 22 Jul 2026 15:04:00 GMT"
-      },
-      {
-        "title": "We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit?",
-        "link": "https://www.marketwatch.com/story/we-have-8-million-in-traditional-iras-should-we-tap-them-to-buy-a-house-and-take-the-tax-hit-c2478daa?mod=mw_rss_topstories",
-        "published": "Wed, 22 Jul 2026 14:31:00 GMT"
-      },
-      {
-        "title": "Global oil prices rise above $95 a barrel for the first time in 6 weeks as hopes dim for de-escalation of Iran war",
-        "link": "https://www.marketwatch.com/story/oil-prices-climb-to-six-week-high-as-hopes-of-de-escalation-in-iran-diminish-b5fb0942?mod=mw_rss_topstories",
-        "published": "Wed, 22 Jul 2026 14:07:00 GMT"
-      },
-      {
-        "title": "This ‘incredibly disrespectful’ interview habit could be costing Gen Z jobs",
-        "link": "https://www.marketwatch.com/story/its-incredibly-disrespectful-to-do-a-virtual-job-interview-by-phone-but-gen-z-is-doing-it-anyway-0d8486d7?mod=mw_rss_topstories",
-        "published": "Wed, 22 Jul 2026 14:05:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
         "title": "Houthis deploy missiles and drones to attack ships in southern Red Sea, naval group says",
         "link": "https://www.cnbc.com/2026/07/22/houthis-red-sea-bab-el-mandeb-saudi-oil-iran.html",
-        "published": "Wed, 22 Jul 2026 14:58:36 GMT"
+        "published": "Wed, 22 Jul 2026 16:30:33 GMT"
       },
       {
         "title": "OpenAI cyber models broke out of training environment to hack Hugging Face",
@@ -569,34 +569,34 @@
         "published": "Wed, 22 Jul 2026 15:54:48 GMT"
       },
       {
-        "title": "Sen. Wyden introduces bill to curb Trump's tariff powers",
-        "link": "https://www.cnbc.com/2026/07/22/trump-tariffs-wyden-bill-congress.html",
-        "published": "Wed, 22 Jul 2026 15:28:55 GMT"
+        "title": "Senate crypto bill would ban federal officials — including presidents — from issuing digital assets",
+        "link": "https://www.cnbc.com/2026/07/22/senate-crypto-bill-would-ban-federal-officials-from-issuing-digital-assets.html",
+        "published": "Wed, 22 Jul 2026 16:00:02 GMT"
       },
       {
-        "title": "S&P 500 is little changed as oil prices jump, traders gear up for more earnings: Live updates",
+        "title": "S&P 500 ticks higher as traders monitor rising oil prices, gear up for more earnings: Live updates",
         "link": "https://www.cnbc.com/2026/07/21/stock-market-today-live-updates.html",
-        "published": "Wed, 22 Jul 2026 15:46:57 GMT"
+        "published": "Wed, 22 Jul 2026 17:07:40 GMT"
       },
       {
-        "title": "Mortgage rates are rising again, but homebuyers are seeing some advantages",
-        "link": "https://www.cnbc.com/2026/07/22/mortgage-rates-are-rising-again.html",
-        "published": "Wed, 22 Jul 2026 11:31:31 GMT"
+        "title": "Stocks making the biggest moves midday: Super Micro Computer, EQT, AAR, Chubb, Pegasystems & more",
+        "link": "https://www.cnbc.com/2026/07/22/stocks-making-the-biggest-moves-midday-smci-eqt-air-cb-pega.html",
+        "published": "Wed, 22 Jul 2026 16:59:55 GMT"
       },
       {
-        "title": "Kevin Warsh has homed in on three key phrases. How Fed watchers interpret them",
-        "link": "https://www.cnbc.com/2026/07/22/kevin-warsh-has-homed-in-on-three-key-phrases-how-fed-watchers-interpret-them.html",
-        "published": "Wed, 22 Jul 2026 15:49:56 GMT"
+        "title": "Tesla set to report second-quarter results after the bell",
+        "link": "https://www.cnbc.com/2026/07/22/tesla-tsla-q2-2026-earnings-report.html",
+        "published": "Wed, 22 Jul 2026 16:00:01 GMT"
       },
       {
-        "title": "Here's an options trade to limit risk and capture potential returns in Toyota",
-        "link": "https://www.cnbc.com/2026/07/22/heres-an-options-trade-to-limit-risk-and-capture-potential-returns-in-toyota-.html",
-        "published": "Wed, 22 Jul 2026 14:33:54 GMT"
+        "title": "Google earnings live updates: Alphabet's AI outlook, cloud growth in focus",
+        "link": "https://www.cnbc.com/2026/07/22/google-earnings-q2-goog-live-updates.html",
+        "published": "Wed, 22 Jul 2026 17:08:29 GMT"
       },
       {
-        "title": "Reddit stock sinks on report it may not renew Google AI content deal",
-        "link": "https://www.cnbc.com/2026/07/22/reddit-stock-google-ai-content-deal.html",
-        "published": "Wed, 22 Jul 2026 15:41:30 GMT"
+        "title": "Congressional stock trading curb due to get House vote amid public support for a ban",
+        "link": "https://www.cnbc.com/2026/07/22/house-congressional-stock-trading.html",
+        "published": "Wed, 22 Jul 2026 15:59:33 GMT"
       }
     ]
   }
