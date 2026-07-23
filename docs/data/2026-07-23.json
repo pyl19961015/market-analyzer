@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-07-23T14:33:37",
+  "generated_at": "2026-07-23T16:13:54",
   "date": "2026-07-23",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7413.38,
-        "pct_change": -1.14
+        "last": 7409.69,
+        "pct_change": -1.19
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 25149.4,
-        "pct_change": -2.11
+        "last": 25134.85,
+        "pct_change": -2.16
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 51676.74,
-        "pct_change": -1.04
+        "last": 51757.08,
+        "pct_change": -0.88
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2945.16,
-        "pct_change": -0.5
+        "last": 2932.93,
+        "pct_change": -0.91
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 18.91,
-        "pct_change": 13.64
+        "last": 19.62,
+        "pct_change": 17.91
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
         "last": 4.7,
-        "pct_change": 1.03
+        "pct_change": 0.9
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 101.49,
-        "pct_change": 0.35
+        "last": 101.46,
+        "pct_change": 0.31
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 91.41,
-        "pct_change": 5.27
+        "last": 91.82,
+        "pct_change": 5.75
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4053.0,
-        "pct_change": -2.26
+        "last": 4052.7,
+        "pct_change": -2.27
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 179.21,
-        "pct_change": -0.59
+        "last": 178.6,
+        "pct_change": -0.93
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 55.58,
-        "pct_change": -0.83
+        "last": 55.67,
+        "pct_change": -0.69
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 60.37,
-        "pct_change": 1.98
+        "last": 59.85,
+        "pct_change": 1.11
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 160.59,
-        "pct_change": 0.73
+        "last": 161.19,
+        "pct_change": 1.1
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 108.88,
-        "pct_change": -4.51
+        "last": 109.03,
+        "pct_change": -4.38
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 83.16,
-        "pct_change": -1.45
+        "last": 83.14,
+        "pct_change": -1.46
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 181.97,
-        "pct_change": 1.74
+        "last": 182.12,
+        "pct_change": 1.83
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 46.04,
-        "pct_change": 0.24
+        "last": 46.06,
+        "pct_change": 0.27
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 50.35,
-        "pct_change": -0.92
+        "last": 50.31,
+        "pct_change": -1.0
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 45.22,
-        "pct_change": 0.46
+        "last": 45.02,
+        "pct_change": 0.02
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 106.24,
-        "pct_change": -2.71
+        "last": 105.84,
+        "pct_change": -3.08
       }
     }
   },
@@ -111,8 +111,8 @@
     "indices": {
       "Nikkei 225": {
         "symbol": "^N225",
-        "last": 66422.6,
-        "pct_change": 0.46
+        "last": 66115.6,
+        "pct_change": -0.18
       },
       "TOPIX (ETF代理)": {
         "symbol": "1306.T",
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 163.93,
-        "pct_change": 0.45
+        "last": 163.8,
+        "pct_change": 0.38
       }
     }
   },
@@ -144,57 +144,57 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 158.41,
-        "pct_change": 2.83
+        "last": 157.32,
+        "pct_change": 2.12
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 322.33,
-        "pct_change": -1.09
+        "last": 321.33,
+        "pct_change": -1.4
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 382.84,
-        "pct_change": -1.92
+        "last": 380.05,
+        "pct_change": -2.64
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 233.9,
-        "pct_change": -4.47
+        "last": 233.68,
+        "pct_change": -4.56
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 317.6,
-        "pct_change": -7.16
+        "last": 320.68,
+        "pct_change": -6.26
       },
       "Meta": {
         "symbol": "META",
-        "last": 606.04,
-        "pct_change": -3.37
+        "last": 601.86,
+        "pct_change": -4.04
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 855.65,
-        "pct_change": 3.13
+        "last": 844.03,
+        "pct_change": 1.73
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 321.35,
-        "pct_change": 2.93
+        "last": 316.2,
+        "pct_change": 1.28
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 158.69,
-        "pct_change": 0.75
+        "last": 158.1,
+        "pct_change": 0.37
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 6315.0,
-        "pct_change": -0.46
+        "last": 6344.0,
+        "pct_change": 1.39
       }
     }
   },
@@ -475,29 +475,29 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "10-year Treasury yield climbs to highest level since January 2025 as $100 oil sparks inflation fears",
-        "link": "https://finance.yahoo.com/markets/article/10-year-treasury-yield-climbs-to-highest-level-since-january-2025-as-100-oil-sparks-inflation-fears-162442976.html",
-        "published": "2026-07-22T16:24:42Z"
+        "title": "The oil spike everyone feared never showed up",
+        "link": "https://finance.yahoo.com/energy/articles/oil-spike-everyone-feared-never-020300378.html",
+        "published": "2026-07-23T02:03:00Z"
       },
       {
-        "title": "Tech stocks live: Tesla's earnings miss, Google's big spend sends both stocks lower",
-        "link": "https://finance.yahoo.com/technology/live/tech-stocks-live-tech-heavy-nasdaq-climbs-ahead-of-big-tech-earnings-kickoff-164334720.html",
-        "published": "2026-07-20T16:43:34Z"
+        "title": "Mortgage rates hit highest level since August as oil's rise sparks inflation worries",
+        "link": "https://finance.yahoo.com/news/mortgage-rates-hit-highest-level-since-august-as-oils-rise-sparks-inflation-worries-160050134.html",
+        "published": "2026-07-23T16:00:50Z"
       },
       {
-        "title": "ServiceNow stock jumps on strong revenue as company shrugs off AI disruption fears",
-        "link": "https://finance.yahoo.com/markets/stocks/article/servicenow-stock-jumps-on-strong-revenue-as-company-shrugs-off-ai-disruption-fears-133019432.html",
-        "published": "2026-07-23T13:30:19Z"
+        "title": "T-Mobile Earnings Beat, Revenue Light. CEO Shoots Down Expanded Starlink Deal.",
+        "link": "https://www.investors.com/news/technology/tmobile-stock-tmus-stock-tmobile-earnings-starlink/?src=A00220&yptr=yahoo",
+        "published": "2026-07-23T15:58:41Z"
       },
       {
-        "title": "ABL secures MWS contract for PNG’s first offshore FSO facility",
-        "link": "https://finance.yahoo.com/energy/articles/abl-secures-mws-contract-png-141635204.html",
-        "published": "2026-07-23T14:16:35Z"
+        "title": "“It Ain’t That Bad That I Got to Pay Somebody to Come Here.” Why a Man Who Runs 65 Owner-Operators Says Sign-On Bonuses Repel the Drivers You Actually Want.",
+        "link": "https://finance.yahoo.com/small-business/articles/ain-t-bad-got-pay-154202571.html",
+        "published": "2026-07-23T15:42:02Z"
       },
       {
-        "title": "What IBM execs think will be different 90 days after a brutal warning",
-        "link": "https://finance.yahoo.com/markets/stocks/article/what-ibm-execs-think-will-be-different-90-days-after-a-brutal-warning-141544978.html",
-        "published": "2026-07-23T14:15:44Z"
+        "title": "Google Stock Falls 7% Amid Questions Over AI Leadership, Gemini 4 Roadmap",
+        "link": "https://www.investors.com/news/technology/google-stock-google-earnings-ai-model-leadership-gemini/?src=A00220&yptr=yahoo",
+        "published": "2026-07-23T15:39:15Z"
       },
       {
         "title": "Daily Spotlight: Market Calm as Earnings Take Center Stage",
@@ -505,24 +505,44 @@
         "published": "2026-07-23T11:14:09Z"
       },
       {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq sell off as rising oil prices, bond yields, and AI capex weigh",
-        "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-23-dow-sp-500-nasdaq-oil-bonds-earnings-084444369.html",
-        "published": "2026-07-23T08:44:44Z"
+        "title": "Cash Squeeze at Tesla and Alphabet: Same Issue But Not The Same at All",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/cash-squeeze-tesla-alphabet-same-155541317.html",
+        "published": "2026-07-23T15:55:41Z"
       },
       {
-        "title": "Google tumbles more than 6% on capex growth expectations, despite earnings beat",
-        "link": "https://finance.yahoo.com/technology/article/google-tumbles-more-than-6-on-capex-growth-expectations-despite-earnings-beat-202407124.html",
-        "published": "2026-07-20T20:24:07Z"
+        "title": "Gold prices today, Thursday, July 23, 2026: Gold price opens below $4,100 as inflation worries clash with safe-haven demand",
+        "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-july-23-2026-gold-price-opens-below-4100-as-inflation-worries-clash-with-safe-haven-demand-153539220.html",
+        "published": "2026-07-23T15:35:39Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "These franchises have the lowest startup costs — and none are fast-food restaurants",
+        "link": "https://www.marketwatch.com/story/these-franchises-have-the-lowest-startup-costs-and-none-are-fast-food-restaurants-8c755b09?mod=mw_rss_topstories",
+        "published": "Thu, 23 Jul 2026 16:04:00 GMT"
+      },
+      {
+        "title": "Surging IPO activity is one of the four horsemen of a market bubble, according to this portfolio manager",
+        "link": "https://www.marketwatch.com/story/surging-ipo-activity-is-one-of-the-fourhorsemen-of-a-market-bubble-according-to-this-portfolio-manager-35a1ab02?mod=mw_rss_topstories",
+        "published": "Thu, 23 Jul 2026 15:37:00 GMT"
+      },
+      {
+        "title": "Why ServiceNow’s stock is a rare bright spot while the rest of tech stumbles",
+        "link": "https://www.marketwatch.com/story/why-servicenows-stock-is-a-rare-bright-spot-while-the-rest-of-tech-stumbles-383f7f20?mod=mw_rss_topstories",
+        "published": "Thu, 23 Jul 2026 15:34:00 GMT"
+      },
+      {
+        "title": "Tesla sees a $200 billion wipeout as investors pan Musk’s plan to spend ‘as fast as we can’",
+        "link": "https://www.marketwatch.com/story/tesla-sees-a-200-billion-wipeout-as-investors-pan-musks-plan-to-spend-as-fast-as-we-can-6faee365?mod=mw_rss_topstories",
+        "published": "Thu, 23 Jul 2026 15:24:00 GMT"
+      },
       {
         "title": "Alphabet’s massive profit growth is just an illusion, as SpaceX and Anthropic help mask a historic cash drain",
         "link": "https://www.marketwatch.com/story/alphabets-massive-profit-growth-is-just-an-illusion-as-spacex-and-anthropic-help-mask-a-historic-cash-drain-ffff172d?mod=mw_rss_topstories",
         "published": "Thu, 23 Jul 2026 14:28:00 GMT"
       },
       {
-        "title": "I am a 63-year-old semiretired physician. If you have saved $2 million for retirement, should Social Security be optional?",
+        "title": "I am a 63-year-old semiretired physician. If I have saved $2 million for retirement, should Social Security be optional?",
         "link": "https://www.marketwatch.com/story/i-am-a-63-year-old-semiretired-physician-if-you-have-saved-2-million-for-retirement-should-social-security-be-optional-0de70d53?mod=mw_rss_topstories",
         "published": "Thu, 23 Jul 2026 14:21:00 GMT"
       },
@@ -535,68 +555,48 @@
         "title": "Global oil prices top $100 after Houthis claim strikes on Saudi Arabian tankers",
         "link": "https://www.marketwatch.com/story/oil-nears-100-a-barrel-after-houthis-claim-strikes-on-saudi-arabian-tankers-4d9949c2?mod=mw_rss_topstories",
         "published": "Thu, 23 Jul 2026 14:09:00 GMT"
-      },
-      {
-        "title": "AI stocks are echoing a 1990s market split. JPMorgan warns the next few weeks are critical.",
-        "link": "https://www.marketwatch.com/story/ai-stocks-are-echoing-a-1990s-market-split-jpmorgan-warns-the-next-few-weeks-are-critical-408ed725?mod=mw_rss_topstories",
-        "published": "Thu, 23 Jul 2026 13:52:00 GMT"
-      },
-      {
-        "title": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.",
-        "link": "https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories",
-        "published": "Thu, 23 Jul 2026 13:38:00 GMT"
-      },
-      {
-        "title": "IBM lowered its guidance. Now it’s time to deliver, analysts say.",
-        "link": "https://www.marketwatch.com/story/ibm-lowered-its-guidance-now-its-time-to-deliver-analysts-say-fe3d7d1a?mod=mw_rss_topstories",
-        "published": "Thu, 23 Jul 2026 13:35:00 GMT"
-      },
-      {
-        "title": "The FDA is about to decide which peptides could soon become widely available in the U.S. Here’s what happens next.",
-        "link": "https://www.marketwatch.com/story/peptides-could-soon-become-widely-available-in-the-u-s-heres-what-happens-next-ead02287?mod=mw_rss_topstories",
-        "published": "Thu, 23 Jul 2026 13:18:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
         "title": "Dow tumbles 500 points as Brent crude tops $100, Alphabet and Tesla drop: Live updates",
         "link": "https://www.cnbc.com/2026/07/22/stock-market-today-live-updates.html",
-        "published": "Thu, 23 Jul 2026 14:27:45 GMT"
-      },
-      {
-        "title": "Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth",
-        "link": "https://www.cnbc.com/2026/07/22/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
-        "published": "Thu, 23 Jul 2026 01:48:22 GMT"
+        "published": "Thu, 23 Jul 2026 16:09:01 GMT"
       },
       {
         "title": "Trump says Saudi nuclear deal contingent on relations with Israel, does not include enrichment",
         "link": "https://www.cnbc.com/2026/07/23/trump-saudi-arabia-nuclear-power.html",
-        "published": "Thu, 23 Jul 2026 13:00:08 GMT"
+        "published": "Thu, 23 Jul 2026 16:04:33 GMT"
+      },
+      {
+        "title": "House lawmakers grill former JPMorgan executive Jes Staley over Epstein ties",
+        "link": "https://www.cnbc.com/2026/07/23/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html",
+        "published": "Thu, 23 Jul 2026 16:06:05 GMT"
+      },
+      {
+        "title": "Google Cloud CEO Kurian says customers are spending 50% more as segment blows away expectations",
+        "link": "https://www.cnbc.com/2026/07/23/google-cloud-kurian-revenue-earnings.html",
+        "published": "Thu, 23 Jul 2026 15:34:17 GMT"
       },
       {
         "title": "Albertsons stock plunges as it says weaker grocery spending will cut into sales and earnings",
         "link": "https://www.cnbc.com/2026/07/23/albertsons-stock-plunges-on-lowered-outlook-softened-grocery-trends.html",
-        "published": "Thu, 23 Jul 2026 13:41:16 GMT"
+        "published": "Thu, 23 Jul 2026 15:41:37 GMT"
       },
       {
-        "title": "Brent crude tops $100 a barrel. How the next stop could be $120",
-        "link": "https://www.cnbc.com/2026/07/23/brent-crude-tops-100-a-barrel-how-the-next-stop-could-be-120.html",
-        "published": "Thu, 23 Jul 2026 13:36:29 GMT"
+        "title": "'The Odyssey' is cleaning up for IMAX. Expect the momentum to continue",
+        "link": "https://www.cnbc.com/2026/07/23/the-odyssey-imax-ticket-sales-revenue.html",
+        "published": "Thu, 23 Jul 2026 15:32:05 GMT"
       },
       {
-        "title": "American Airlines stock tumbles 8% as fuel spike further postpones turnaround",
-        "link": "https://www.cnbc.com/2026/07/23/american-airlines-aal-2q-2026-earnings.html",
-        "published": "Thu, 23 Jul 2026 13:45:27 GMT"
+        "title": "Josh Brown got burned by Twitter. Now, another Jack Dorsey-led name made its way onto his Best Stocks list",
+        "link": "https://www.cnbc.com/2026/07/23/josh-brown-got-burned-by-twitter-another-jack-dorsey-led-name-made-it-onto-his-list.html",
+        "published": "Thu, 23 Jul 2026 15:23:03 GMT"
       },
       {
-        "title": "Tesla gets price target cuts from analysts on earnings miss. What they're saying",
-        "link": "https://www.cnbc.com/2026/07/23/tesla-gets-price-target-cuts-from-analysts-on-earnings-miss-what-theyre-saying.html",
-        "published": "Thu, 23 Jul 2026 13:52:16 GMT"
-      },
-      {
-        "title": "Cyclospora outbreak tests RFK Jr.'s promise to overhaul food system, rebuild trust in CDC",
-        "link": "https://www.cnbc.com/2026/07/23/cyclospora-outbreak-tests-rfk-jr-response-funding-cuts.html",
-        "published": "Thu, 23 Jul 2026 12:32:10 GMT"
+        "title": "Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth",
+        "link": "https://www.cnbc.com/2026/07/22/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
+        "published": "Thu, 23 Jul 2026 15:26:07 GMT"
       }
     ]
   }
