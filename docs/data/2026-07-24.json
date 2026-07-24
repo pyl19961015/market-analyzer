@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-07-24T17:12:16",
+  "generated_at": "2026-07-24T18:45:33",
   "date": "2026-07-24",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7432.28,
-        "pct_change": 0.32
+        "last": 7406.94,
+        "pct_change": -0.02
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 25092.65,
-        "pct_change": -0.18
+        "last": 24973.61,
+        "pct_change": -0.65
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 51952.25,
-        "pct_change": 0.47
+        "last": 51872.05,
+        "pct_change": 0.31
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2947.13,
-        "pct_change": 0.24
+        "last": 2940.58,
+        "pct_change": 0.01
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 17.94,
-        "pct_change": -4.06
+        "last": 18.51,
+        "pct_change": -1.02
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.66,
-        "pct_change": -0.81
+        "last": 4.68,
+        "pct_change": -0.51
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 101.41,
-        "pct_change": -0.02
+        "last": 101.48,
+        "pct_change": 0.05
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 88.26,
-        "pct_change": -4.26
+        "last": 89.31,
+        "pct_change": -3.12
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4070.2,
-        "pct_change": 0.58
+        "last": 4056.0,
+        "pct_change": 0.23
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 177.47,
-        "pct_change": -0.55
+        "last": 176.03,
+        "pct_change": -1.36
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 56.14,
-        "pct_change": 0.56
+        "last": 56.12,
+        "pct_change": 0.52
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 59.67,
-        "pct_change": 0.5
+        "last": 59.74,
+        "pct_change": 0.6
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 162.71,
-        "pct_change": 0.79
+        "last": 162.44,
+        "pct_change": 0.62
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 109.22,
-        "pct_change": 0.42
+        "last": 109.08,
+        "pct_change": 0.29
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 83.92,
-        "pct_change": 0.85
+        "last": 84.0,
+        "pct_change": 0.95
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 182.76,
-        "pct_change": 0.45
+        "last": 182.46,
+        "pct_change": 0.29
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 46.23,
-        "pct_change": 0.09
+        "last": 46.13,
+        "pct_change": -0.13
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 50.78,
-        "pct_change": 0.98
+        "last": 51.1,
+        "pct_change": 1.6
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 45.94,
-        "pct_change": 2.2
+        "last": 45.92,
+        "pct_change": 2.15
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 106.38,
-        "pct_change": 0.95
+        "last": 106.65,
+        "pct_change": 1.21
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 163.81,
-        "pct_change": 0.45
+        "last": 163.83,
+        "pct_change": 0.46
       }
     }
   },
@@ -138,58 +138,58 @@
       "as_of": "2026-07-23",
       "prev_yield": 2.745
     },
-    "spread_10y": 1.88
+    "spread_10y": 1.9
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 149.69,
-        "pct_change": -4.08
+        "last": 147.64,
+        "pct_change": -5.4
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 332.71,
-        "pct_change": 3.44
+        "last": 332.39,
+        "pct_change": 3.34
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 384.05,
-        "pct_change": 0.65
+        "last": 384.6,
+        "pct_change": 0.79
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 233.32,
-        "pct_change": -0.15
+        "last": 232.04,
+        "pct_change": -0.69
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 319.79,
-        "pct_change": 0.66
+        "last": 319.4,
+        "pct_change": 0.54
       },
       "Meta": {
         "symbol": "META",
-        "last": 602.61,
-        "pct_change": -0.58
+        "last": 599.57,
+        "pct_change": -1.08
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 772.32,
-        "pct_change": -7.36
+        "last": 762.05,
+        "pct_change": -8.59
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 286.95,
-        "pct_change": -8.39
+        "last": 284.22,
+        "pct_change": -9.26
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 154.3,
-        "pct_change": -1.99
+        "last": 153.02,
+        "pct_change": -2.8
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -488,93 +488,98 @@
         "published": "2026-07-23T22:11:18Z"
       },
       {
-        "title": "Tech stocks live: Huang, Nadella, and other CEOs defend open-source AI as US threatens crackdown",
-        "link": "https://finance.yahoo.com/technology/live/tech-stocks-live-tech-heavy-nasdaq-climbs-ahead-of-big-tech-earnings-kickoff-164334720.html",
-        "published": "2026-07-20T16:43:34Z"
+        "title": "Ask an Advisor: I'm 44 With $1M Saved. How Do I Start a Backdoor Roth IRA?",
+        "link": "https://finance.yahoo.com/markets/options/articles/ask-advisor-im-44-1-110000306.html",
+        "published": "2026-07-23T09:00:00Z"
       },
       {
-        "title": "Is The Stock Market In 'Turtle Mode?' Here's Why Traders Are Ducking For Cover",
-        "link": "https://www.investors.com/news/stock-market-turtle-mode-traders-duck-cover/?src=A00220&yptr=yahoo",
-        "published": "2026-07-24T16:40:08Z"
+        "title": "CSX boosts outlook on higher volume and revenue",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/csx-boosts-outlook-higher-volume-090000623.html",
+        "published": "2026-07-23T09:00:00Z"
       },
       {
-        "title": "Stock Market Today: Nasdaq Ventures Into The Black, But American Express Triggers Sell Signal (Live Coverage)",
-        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-intel-stock/?src=A00220&yptr=yahoo",
-        "published": "2026-07-24T16:35:31Z"
+        "title": "Google Cloud is becoming Alphabet's new profit engine: Chart of the Day",
+        "link": "https://finance.yahoo.com/markets/article/google-cloud-is-becoming-alphabets-new-profit-engine-chart-of-the-day-090000053.html",
+        "published": "2026-07-23T09:00:00Z"
       },
       {
-        "title": "Murphy USA (MUSA) Entered a Favorable Profit Cycle on Improving Fuel Margins",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/murphy-usa-musa-entered-favorable-162430863.html",
-        "published": "2026-07-24T16:24:30Z"
+        "title": "Analysis-Chipmaker CXMT debut spotlights China's state-funded path to tech power",
+        "link": "https://finance.yahoo.com/technology/articles/analysis-chipmaker-cxmt-debut-spotlights-083034472.html",
+        "published": "2026-07-23T08:30:34Z"
       },
       {
-        "title": "Open Banking has grown up – now businesses are choosing who they trust",
-        "link": "https://finance.yahoo.com/technology/ai/articles/open-banking-grown-now-businesses-164828757.html",
-        "published": "2026-07-24T16:48:28Z"
+        "title": "Analyst Report: American Express Co",
+        "link": "https://finance.yahoo.com/research/reports/ARGUS_2751_AnalystReport_1784913967000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+        "published": "2026-07-24T17:26:07Z"
       },
       {
-        "title": "Twist Bioscience (TWST) Surged on Strong Results and AI Drug Discovery Demand",
-        "link": "https://finance.yahoo.com/healthcare/articles/twist-bioscience-twst-surged-strong-161642382.html",
-        "published": "2026-07-24T16:16:42Z"
+        "title": "Stock Futures Fall as Oil Prices Spark Renewed Inflation Fears",
+        "link": "https://www.barrons.com/livecoverage/stock-market-news-today-072326/card/stock-futures-fall-as-oil-prices-spark-renewed-inflation-fears-qGJf4pIM3XbNRTkAqy3h?siteid=yhoof2&yptr=yahoo",
+        "published": "2026-07-23T08:50:09Z"
       },
       {
-        "title": "Achtung! VW cuts sales forecast as auto industry remains 'extremely challenging'",
-        "link": "https://finance.yahoo.com/markets/stocks/article/achtung-vw-cuts-sales-forecast-as-auto-industry-remains-extremely-challenging-161038208.html",
-        "published": "2026-07-24T16:10:38Z"
+        "title": "What You Need to Know Ahead of Berkshire Hathaway's Earnings Release",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/know-ahead-berkshire-hathaways-earnings-091838089.html",
+        "published": "2026-07-23T09:18:38Z"
       }
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "Don’t rush to save Social Security, AARP tells Congress: ‘It should be debated openly — not through an accelerated process’",
-        "link": "https://www.marketwatch.com/story/dont-rush-to-save-social-security-aarp-tells-congress-it-should-be-debated-openly-not-through-an-accelerated-process-96cfb75d?mod=mw_rss_topstories",
-        "published": "Fri, 24 Jul 2026 17:05:00 GMT"
+        "title": "This energy company sidestepped Iran war challenges by pushing into data centers",
+        "link": "https://www.marketwatch.com/story/this-energy-company-sidestepped-iran-war-challenges-by-pushing-into-data-centers-0aed9ca7?mod=mw_rss_topstories",
+        "published": "Fri, 24 Jul 2026 18:39:00 GMT"
       },
       {
-        "title": "Verizon’s stock rises after earnings — and a surprise entry into a new AI business area",
-        "link": "https://www.marketwatch.com/story/verizons-stock-rises-as-earnings-show-the-company-is-no-longer-a-hunting-ground-f63476b6?mod=mw_rss_topstories",
-        "published": "Fri, 24 Jul 2026 16:55:00 GMT"
+        "title": "Why Intel, Micron and other major chip stocks are falling — even as the rest of tech holds up",
+        "link": "https://www.marketwatch.com/story/why-micron-and-other-major-chip-stocks-are-falling-even-as-the-rest-of-tech-holds-up-506851dc?mod=mw_rss_topstories",
+        "published": "Fri, 24 Jul 2026 18:37:00 GMT"
       },
       {
-        "title": "I want to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?",
-        "link": "https://www.marketwatch.com/story/i-wanted-to-transfer-17-000-in-credit-card-debt-why-did-wells-fargo-offer-me-only-a-4-000-credit-limit-7ad0a3f0?mod=mw_rss_topstories",
-        "published": "Fri, 24 Jul 2026 16:30:00 GMT"
+        "title": "Farmers are already set for a $55 billion payday — why does Washington want to give them more?",
+        "link": "https://www.marketwatch.com/story/farmers-are-already-set-for-a-55-billion-payday-why-does-washington-want-to-give-them-even-more-b81b3f09?mod=mw_rss_topstories",
+        "published": "Fri, 24 Jul 2026 18:31:00 GMT"
       },
       {
-        "title": "College kids are moving into retirement communities for reasons beyond ‘cheap rent’",
-        "link": "https://www.marketwatch.com/story/college-kids-are-moving-into-retirement-communities-for-reasons-beyond-cheap-rent-577dc94b?mod=mw_rss_topstories",
-        "published": "Fri, 24 Jul 2026 16:22:00 GMT"
+        "title": "Can AI-powered ETFs beat the stock market?",
+        "link": "https://www.marketwatch.com/story/can-ai-powered-etfs-beat-the-stock-market-c5be6a9b?mod=mw_rss_topstories",
+        "published": "Fri, 24 Jul 2026 18:31:00 GMT"
       },
       {
-        "title": "Still waiting for the free $1,000 to hit your child’s ‘Trump account’? Here’s what to know.",
-        "link": "https://www.marketwatch.com/story/still-waiting-for-the-free-1-000-to-hit-your-trump-account-heres-what-to-know-acc5c789?mod=mw_rss_topstories",
-        "published": "Fri, 24 Jul 2026 16:21:00 GMT"
+        "title": "Your retirement math may have a surprising flaw",
+        "link": "https://www.marketwatch.com/story/your-retirement-math-may-have-a-surprising-flaw-2d8f58d8?mod=mw_rss_topstories",
+        "published": "Fri, 24 Jul 2026 18:14:00 GMT"
       },
       {
-        "title": "Are 7% mortgage rates next? The Treasury market is flashing a warning sign for home buyers.",
-        "link": "https://www.marketwatch.com/story/the-treasury-market-is-flashing-a-warning-sign-for-home-buyers-are-7-mortgage-rates-next-58b5b3b1?mod=mw_rss_topstories",
-        "published": "Fri, 24 Jul 2026 16:20:00 GMT"
+        "title": "Jensen Huang has a high-stakes message for AI policymakers",
+        "link": "https://www.marketwatch.com/story/jensen-huang-has-a-high-stakes-message-for-ai-policymakers-aa60017b?mod=mw_rss_topstories",
+        "published": "Fri, 24 Jul 2026 18:06:00 GMT"
       },
       {
-        "title": "Why there are still more Trump tariffs expected — even after this past week’s rollouts",
+        "title": "I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?",
+        "link": "https://www.marketwatch.com/story/i-am-a-63-year-old-semiretired-physician-if-you-have-saved-2-million-for-retirement-should-social-security-be-optional-0de70d53?mod=mw_rss_topstories",
+        "published": "Fri, 24 Jul 2026 18:01:00 GMT"
+      },
+      {
+        "title": "Trump targets E.U. with new tariffs over its fines for Big Tech – and even more levies are coming",
         "link": "https://www.marketwatch.com/story/why-there-are-still-more-trump-tariffs-expected-even-after-this-past-weeks-rollouts-86b623f6?mod=mw_rss_topstories",
-        "published": "Fri, 24 Jul 2026 16:10:00 GMT"
-      },
-      {
-        "title": "Do I use $300,000 of my $1.2 million retirement savings so my daughter can attend her dream college?",
-        "link": "https://www.marketwatch.com/story/do-i-use-300-000-of-my-1-2-million-retirement-savings-so-my-daughter-can-attend-her-dream-college-50842e7a?mod=mw_rss_topstories",
-        "published": "Fri, 24 Jul 2026 16:01:00 GMT"
+        "published": "Fri, 24 Jul 2026 17:41:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "Dow jumps 250 points as oil retreats on report of Pakistan push for new Iran-U.S. peace talks: Live updates",
+        "title": "S&P 500 turns red late into Friday's session on Iran angst, mounting chip stock losses: Live updates",
         "link": "https://www.cnbc.com/2026/07/23/stock-market-today-live-updates.html",
-        "published": "Fri, 24 Jul 2026 17:05:55 GMT"
+        "published": "Fri, 24 Jul 2026 18:44:35 GMT"
       },
       {
         "title": "CDC says massive cyclospora outbreak is now in nine states",
         "link": "https://www.cnbc.com/2026/07/24/cyclospora-cdc-says-outbreak-is-in-nine-states.html",
-        "published": "Fri, 24 Jul 2026 16:13:07 GMT"
+        "published": "Fri, 24 Jul 2026 17:32:22 GMT"
+      },
+      {
+        "title": "Trump threatens EU with 'substantial TARIFF' for 'ROBBING' U.S. tech giants",
+        "link": "https://www.cnbc.com/2026/07/24/trump-tariffs-eu-trade-google-apple-tech.html",
+        "published": "Fri, 24 Jul 2026 18:18:29 GMT"
       },
       {
         "title": "Trump considers ‘massive attack’ on Iran; Pakistan reportedly seeks to restart stalled peace talks",
@@ -582,29 +587,24 @@
         "published": "Fri, 24 Jul 2026 16:04:46 GMT"
       },
       {
-        "title": "Anthropic's new AI model rivals Fable 5 and is cheaper as businesses fret about costs",
-        "link": "https://www.cnbc.com/2026/07/24/anthropic-claude-opus-5-ai-fable-5-cost.html",
-        "published": "Fri, 24 Jul 2026 17:00:01 GMT"
+        "title": "Why the Federal Reserve should hike rates next week",
+        "link": "https://www.cnbc.com/2026/07/24/why-the-federal-reserve-should-hike-rates-next-week.html",
+        "published": "Fri, 24 Jul 2026 17:54:28 GMT"
       },
       {
-        "title": "Nvidia, Microsoft, Meta warn against 'premature restrictions' of open-weight models",
-        "link": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-        "published": "Fri, 24 Jul 2026 15:47:40 GMT"
+        "title": "Stocks making the biggest moves midday: American Airlines, Coherent, SLB, Tesla & more",
+        "link": "https://www.cnbc.com/2026/07/24/stocks-making-the-biggest-moves-midday-aal-cohr-slb-tsla.html",
+        "published": "Fri, 24 Jul 2026 18:02:23 GMT"
       },
       {
-        "title": "Buy the dip case for Tesla diminishes due to stagnating fundamentals",
-        "link": "https://www.cnbc.com/2026/07/24/buy-the-dip-case-for-tesla-diminishes-as-fundamentals-stagnate.html",
-        "published": "Fri, 24 Jul 2026 16:32:04 GMT"
+        "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
+        "link": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
+        "published": "Fri, 24 Jul 2026 18:20:17 GMT"
       },
       {
-        "title": "Trump imposes 'sweeping' new tariffs on 60 trade partners as global duties expire",
-        "link": "https://www.cnbc.com/2026/07/23/trump-tariffs-trade-deadline.html",
-        "published": "Fri, 24 Jul 2026 14:11:56 GMT"
-      },
-      {
-        "title": "LeBron James joining Philadelphia 76ers for record-extending 24th NBA season",
-        "link": "https://www.cnbc.com/2026/07/24/lebron-james-76ers-philadelphia-24th-nba-season.html",
-        "published": "Fri, 24 Jul 2026 16:22:13 GMT"
+        "title": "Trader who successfully shorted Tesla into earnings now sets sights on this high flyer",
+        "link": "https://www.cnbc.com/2026/07/24/trader-who-successfully-shorted-tesla-into-earnings-now-sets-sights-on-this-high-flyer-.html",
+        "published": "Fri, 24 Jul 2026 17:28:15 GMT"
       }
     ]
   }
