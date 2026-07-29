@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-07-29T15:10:01",
+  "generated_at": "2026-07-29T16:38:32",
   "date": "2026-07-29",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7377.9,
-        "pct_change": -0.48
+        "last": 7355.77,
+        "pct_change": -0.77
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 24668.73,
-        "pct_change": -0.84
+        "last": 24583.02,
+        "pct_change": -1.4
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 51949.85,
-        "pct_change": -1.51
+        "last": 51864.32,
+        "pct_change": -0.66
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2919.3,
-        "pct_change": -1.17
+        "last": 2908.8,
+        "pct_change": -1.33
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 19.83,
-        "pct_change": 8.9
+        "last": 19.96,
+        "pct_change": 6.91
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.64,
-        "pct_change": 0.76
+        "last": null,
+        "pct_change": null
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
         "last": 101.46,
-        "pct_change": 0.07
+        "pct_change": -0.05
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 85.37,
-        "pct_change": 7.71
+        "last": 84.3,
+        "pct_change": 6.36
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4063.2,
-        "pct_change": 0.67
+        "last": 4074.7,
+        "pct_change": 0.95
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 169.07,
-        "pct_change": -1.18
+        "last": 167.74,
+        "pct_change": -3.76
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 57.13,
-        "pct_change": -0.81
+        "last": 57.06,
+        "pct_change": 0.31
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 58.86,
-        "pct_change": 2.24
+        "last": 58.72,
+        "pct_change": 0.61
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 167.51,
-        "pct_change": 0.15
+        "last": 167.2,
+        "pct_change": 2.33
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 112.12,
-        "pct_change": -0.32
+        "last": 112.28,
+        "pct_change": 1.29
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 87.39,
-        "pct_change": 0.38
+        "last": 87.63,
+        "pct_change": 2.66
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 178.03,
-        "pct_change": -2.44
+        "last": 176.85,
+        "pct_change": -3.47
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 45.1,
-        "pct_change": -1.27
+        "last": 45.18,
+        "pct_change": -1.09
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 51.43,
-        "pct_change": -1.74
+        "last": 51.49,
+        "pct_change": 0.18
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 45.74,
-        "pct_change": -0.6
+        "last": 45.75,
+        "pct_change": -0.02
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 109.55,
-        "pct_change": 1.76
+        "last": 109.54,
+        "pct_change": 1.75
       }
     }
   },
@@ -111,8 +111,8 @@
     "indices": {
       "Nikkei 225": {
         "symbol": "^N225",
-        "last": 62364.92,
-        "pct_change": -3.95
+        "last": 64931.19,
+        "pct_change": -2.25
       },
       "TOPIX (ETF代理)": {
         "symbol": "1306.T",
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 163.84,
-        "pct_change": 0.04
+        "last": 163.89,
+        "pct_change": 0.07
       }
     }
   },
@@ -137,59 +137,58 @@
       "yield": 2.783,
       "as_of": "2026-07-28",
       "prev_yield": 2.778
-    },
-    "spread_10y": 1.86
+    }
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 127.06,
-        "pct_change": 0.83
+        "last": 124.35,
+        "pct_change": -13.26
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 340.27,
-        "pct_change": 0.06
+        "last": 340.55,
+        "pct_change": 1.08
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 395.68,
-        "pct_change": 0.59
+        "last": 395.23,
+        "pct_change": 1.58
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 228.33,
-        "pct_change": -1.1
+        "last": 229.13,
+        "pct_change": -0.98
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 335.44,
-        "pct_change": 0.52
+        "last": 335.46,
+        "pct_change": 2.73
       },
       "Meta": {
         "symbol": "META",
-        "last": 590.57,
-        "pct_change": -0.48
+        "last": 591.28,
+        "pct_change": -0.44
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 611.04,
-        "pct_change": -6.27
+        "last": 599.66,
+        "pct_change": -15.77
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 228.58,
-        "pct_change": -6.06
+        "last": 221.72,
+        "pct_change": -18.28
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 153.54,
-        "pct_change": 6.74
+        "last": 149.9,
+        "pct_change": 0.42
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -659,47 +658,67 @@
   "news": {
     "Yahoo Finance": [
       {
+        "title": "National beer and wine distributor files Chapter 11 bankruptcy",
+        "link": "https://finance.yahoo.com/small-business/articles/giant-wine-spirits-brand-files-170700174.html",
+        "published": "2026-07-29T00:09:53Z"
+      },
+      {
+        "title": "Stock Market Today: Dow Sinks As Fed Rate Call Looms; Bloom Energy Reverses Lower After Crushing Earnings (Live Coverage)",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-decision-warsh-sk-hynix-stock/?src=A00220&yptr=yahoo",
+        "published": "2026-07-29T16:24:06Z"
+      },
+      {
+        "title": "Tech stocks today: Microsoft and Meta to report earnings, as chip stocks struggle",
+        "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-big-tech-earnings-134611080.html",
+        "published": "2026-07-27T13:46:11Z"
+      },
+      {
+        "title": "Dow Leader Rides Surging Oil Prices And Trump's Venezuela Spoils",
+        "link": "https://www.investors.com/news/dow-jones-stock-chevron-oil-price-surge-trump-venezuela-cvx-stock-price/?src=A00220&yptr=yahoo",
+        "published": "2026-07-29T16:16:33Z"
+      },
+      {
+        "title": "Oil jumps 7% on escalating Middle East airstrikes",
+        "link": "https://finance.yahoo.com/news/oil-rises-us-iran-tension-032028533.html",
+        "published": "2026-07-29T16:16:12Z"
+      },
+      {
         "title": "Secretary Bessent cracks down on non-profit tax loopholes",
         "link": "https://finance.yahoo.com/economy/policy/articles/secretary-bessent-cracks-down-non-160600716.html",
         "published": "2026-07-28T16:06:00Z"
       },
       {
-        "title": "Stock market today: Dow falls over 800 points, S&P 500 and Nasdaq slide in countdown to Fed decision, AI earnings test",
-        "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-29-dow-sp-500-nasdaq-082009165.html",
-        "published": "2026-07-29T08:20:09Z"
+        "title": "Caterpillar Trades at 3x Its Historical Multiple — Michael Burry Is Betting Against It",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-trades-3x-historical-multiple-161312284.html",
+        "published": "2026-07-29T16:13:12Z"
       },
       {
-        "title": "Fed meeting live: Federal Reserve expected to hold rates steady, but Iran war adds tension",
-        "link": "https://finance.yahoo.com/economy/live/fed-meeting-live-federal-reserve-july-interest-rate-decision-141813444.html",
-        "published": "2026-07-28T14:18:13Z"
-      },
-      {
-        "title": "SoFi Earnings, Revenue Top Estimates. Here's Why Fintech Stock Tumbled.",
-        "link": "https://www.investors.com/news/technology/sofi-stock-sofi-earnings-news-q22026/?src=A00220&yptr=yahoo",
-        "published": "2026-07-29T14:47:38Z"
-      },
-      {
-        "title": "Why Ericsson’s Worst Day in Three Years Wasn’t About This Quarter’s Numbers",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/why-ericsson-worst-day-three-144514841.html",
-        "published": "2026-07-29T14:45:14Z"
-      },
-      {
-        "title": "Toyota doubles down on EVs while rivals retreat",
-        "link": "https://finance.yahoo.com/technology/articles/toyota-doubles-down-evs-while-033300077.html",
-        "published": "2026-07-28T03:33:00Z"
-      },
-      {
-        "title": "ARK Buys Millions In Falling Space Names. SpaceX Preps Classified Mission.",
-        "link": "https://www.investors.com/news/cathie-wood-ark-invest-spacex-space-stocks-rocket-lab-kratos-intuitive-machines-tesla-space-force/?src=A00220&yptr=yahoo",
-        "published": "2026-07-29T14:44:27Z"
-      },
-      {
-        "title": "Bloom Energy Earnings Surge 680%, But AI Power Player Wavers",
-        "link": "https://www.investors.com/news/bloom-energy-earnings-be-stock-q2-ai-infrastructure-winner/?src=A00220&yptr=yahoo",
-        "published": "2026-07-29T14:44:17Z"
+        "title": "'Unprecedented' OpenAI Cyberattack Brings Palo Alto, CrowdStrike Into Focus",
+        "link": "https://www.investors.com/research/ibd-industry-themes/openai-cyberattack-palo-alto-stock-crowdstrike/?src=A00220&yptr=yahoo",
+        "published": "2026-07-29T16:08:25Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
+        "link": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
+        "published": "Wed, 29 Jul 2026 16:30:00 GMT"
+      },
+      {
+        "title": "A key cryptocurrency bill could flop because of Trump’s crypto ventures and banks’ objections",
+        "link": "https://www.marketwatch.com/story/a-key-cryptocurrency-bill-could-flop-because-of-trumps-crypto-ventures-and-banks-objections-76b7445b?mod=mw_rss_topstories",
+        "published": "Wed, 29 Jul 2026 16:03:00 GMT"
+      },
+      {
+        "title": "Las Vegas home prices post largest drop in the nation",
+        "link": "https://www.marketwatch.com/story/las-vegas-home-prices-post-largest-drop-in-the-nation-d39d6ecd?mod=mw_rss_topstories",
+        "published": "Wed, 29 Jul 2026 15:45:00 GMT"
+      },
+      {
+        "title": "‘She is on Medicaid’: My sick friend pleaded with me to be her executor. Can I decline after she dies?",
+        "link": "https://www.marketwatch.com/story/she-is-on-medicaid-my-sick-friend-pleaded-with-me-to-be-her-executor-can-i-decline-after-she-dies-135129d3?mod=mw_rss_topstories",
+        "published": "Wed, 29 Jul 2026 15:31:00 GMT"
+      },
       {
         "title": "I got an unexpected $1,000 medical bill. Here’s why I’m not paying it yet.",
         "link": "https://www.marketwatch.com/story/i-got-an-unexpected-1-000-medical-bill-heres-why-im-not-paying-it-yet-67265caf?mod=mw_rss_topstories",
@@ -719,38 +738,13 @@
         "title": "My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait?",
         "link": "https://www.marketwatch.com/story/my-girlfriend-is-62-can-she-claim-her-late-husbands-full-social-security-benefit-or-does-she-have-to-wait-315c0fa1?mod=mw_rss_topstories",
         "published": "Wed, 29 Jul 2026 14:27:00 GMT"
-      },
-      {
-        "title": "This country is buying up the most homes in America right now, even as international sales dry up",
-        "link": "https://www.marketwatch.com/story/this-country-is-buying-up-the-most-homes-in-america-right-now-even-as-international-sales-dry-up-c8b2afbb?mod=mw_rss_topstories",
-        "published": "Wed, 29 Jul 2026 14:20:00 GMT"
-      },
-      {
-        "title": "My stepdad is in the military and dying of cancer. Will my mom automatically get his money?",
-        "link": "https://www.marketwatch.com/story/my-stepdad-is-dying-from-cancer-how-can-i-help-my-mom-find-out-if-shell-get-his-assets-8a10bad2?mod=mw_rss_topstories",
-        "published": "Wed, 29 Jul 2026 14:12:00 GMT"
-      },
-      {
-        "title": "Economy is poised to show strong second-quarter growth — but only after a look under the hood",
-        "link": "https://www.marketwatch.com/story/economy-is-poised-to-show-strong-second-quarter-growth-but-only-after-a-look-under-the-hood-8fd3615d?mod=mw_rss_topstories",
-        "published": "Wed, 29 Jul 2026 14:09:00 GMT"
-      },
-      {
-        "title": "Global oil prices rise above $87 a barrel after Trump vows retaliation for surprise Iranian attack on U.S. troops",
-        "link": "https://www.marketwatch.com/story/oil-prices-rise-after-u-s-and-saudi-arabia-attack-iran-backed-militias-in-iraq-f0f409ea?mod=mw_rss_topstories",
-        "published": "Wed, 29 Jul 2026 13:56:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "Dow tumbles 800 points as losses mount ahead of Fed decision: Live updates",
+        "title": "Dow tumbles 900 points as losses accelerate ahead of Fed decision: Live updates",
         "link": "https://www.cnbc.com/2026/07/28/stock-market-today-live-updates.html",
-        "published": "Wed, 29 Jul 2026 14:52:25 GMT"
-      },
-      {
-        "title": "Oil prices jump more than 7% after Trump says U.S. will hit Iran hard",
-        "link": "https://www.cnbc.com/2026/07/29/oil-prices-today-brent-wti-iran-us-hormuz.html",
-        "published": "Wed, 29 Jul 2026 15:08:30 GMT"
+        "published": "Wed, 29 Jul 2026 16:11:50 GMT"
       },
       {
         "title": "Trump says U.S. will give Iran a 'beating' after surprise attack",
@@ -758,29 +752,34 @@
         "published": "Wed, 29 Jul 2026 14:18:42 GMT"
       },
       {
+        "title": "Oil prices jump 7% after Trump says U.S. will hit Iran hard",
+        "link": "https://www.cnbc.com/2026/07/29/oil-prices-today-brent-wti-iran-us-hormuz.html",
+        "published": "Wed, 29 Jul 2026 15:55:31 GMT"
+      },
+      {
+        "title": "Warren, Schiff urge SEC to probe Trump Media's paid service giving faster access to Trump's posts",
+        "link": "https://www.cnbc.com/2026/07/29/trump-media-djt-warren-schiff-wall-street-api.html",
+        "published": "Wed, 29 Jul 2026 16:03:07 GMT"
+      },
+      {
         "title": "Nike was once China's sneaker king. Here's why its sales have fallen 30%",
         "link": "https://www.cnbc.com/2026/07/29/nike-china-sales-decline.html",
         "published": "Wed, 29 Jul 2026 14:49:45 GMT"
       },
       {
-        "title": "JPMorgan, Schwab and UBS manage millions in Trump's $858 million investment portfolio",
-        "link": "https://www.cnbc.com/2026/07/29/trump-banking-investments-jpmorgan-schwab-ubs-financial-disclosure.html",
-        "published": "Wed, 29 Jul 2026 14:03:23 GMT"
+        "title": "Caterpillar is downgraded on growing data center buildout backlash. The shares are falling",
+        "link": "https://www.cnbc.com/2026/07/29/caterpillar-is-downgraded-on-growing-data-center-buildout-backlash.html",
+        "published": "Wed, 29 Jul 2026 16:32:13 GMT"
       },
       {
-        "title": "There's a big rotation happening in the market. Two stocks to watch with attractive charts",
-        "link": "https://www.cnbc.com/2026/07/29/theres-a-big-rotation-happening-in-the-market-two-stocks-to-watch-with-attractive-charts.html",
-        "published": "Wed, 29 Jul 2026 15:00:01 GMT"
+        "title": "DoorDash launches in-house drone delivery program after FAA certification",
+        "link": "https://www.cnbc.com/2026/07/29/doordash-launches-drone-delivery-faa-certification.html",
+        "published": "Wed, 29 Jul 2026 16:32:18 GMT"
       },
       {
-        "title": "Secret Service 'illegally' surveilled Comey in Trump '8647' threat case: court filing",
+        "title": "Secret Service 'illegally' surveilled Comey in Trump ‘8647’ threat case: Court filing",
         "link": "https://www.cnbc.com/2026/07/29/james-comey-trump-8647-seashells-threat-secret-service.html",
-        "published": "Wed, 29 Jul 2026 14:38:03 GMT"
-      },
-      {
-        "title": "Humana tops quarterly estimates, maintains profit outlook as medical costs stay in line",
-        "link": "https://www.cnbc.com/2026/07/29/humana-hum-earnings-q2-2026.html",
-        "published": "Wed, 29 Jul 2026 14:57:11 GMT"
+        "published": "Wed, 29 Jul 2026 15:24:05 GMT"
       }
     ]
   }
