@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-07-29T19:10:23",
+  "generated_at": "2026-07-29T20:17:08",
   "date": "2026-07-29",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7407.0,
-        "pct_change": -0.29
+        "last": 7316.15,
+        "pct_change": -1.52
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 24876.36,
-        "pct_change": -0.0
+        "last": 24442.94,
+        "pct_change": -1.74
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 51980.72,
-        "pct_change": -1.45
+        "last": 51594.14,
+        "pct_change": -2.19
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2951.59,
-        "pct_change": -0.07
+        "last": 2906.32,
+        "pct_change": -1.61
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 17.48,
-        "pct_change": -4.01
+        "last": 20.58,
+        "pct_change": 13.01
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
         "last": 4.62,
-        "pct_change": 0.3
+        "pct_change": 0.39
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 100.87,
-        "pct_change": -0.5
+        "last": 100.94,
+        "pct_change": -0.43
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 84.41,
-        "pct_change": 6.5
+        "last": 84.65,
+        "pct_change": 6.8
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4169.6,
-        "pct_change": 3.3
+        "last": 4110.0,
+        "pct_change": 1.83
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 170.73,
-        "pct_change": -0.21
+        "last": 166.56,
+        "pct_change": -2.65
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 56.92,
-        "pct_change": -1.17
+        "last": 56.68,
+        "pct_change": -1.6
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 58.65,
-        "pct_change": 1.87
+        "last": 58.63,
+        "pct_change": 1.85
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 166.73,
-        "pct_change": -0.32
+        "last": 166.25,
+        "pct_change": -0.6
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 112.86,
-        "pct_change": 0.34
+        "last": 111.61,
+        "pct_change": -0.77
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 87.23,
-        "pct_change": 0.2
+        "last": 87.36,
+        "pct_change": 0.34
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 178.21,
-        "pct_change": -2.35
+        "last": 176.66,
+        "pct_change": -3.19
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 44.97,
-        "pct_change": -1.2
+        "last": 44.9,
+        "pct_change": -1.36
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 51.78,
-        "pct_change": -1.07
+        "last": 51.73,
+        "pct_change": -1.17
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 46.01,
-        "pct_change": 0.0
+        "last": 45.96,
+        "pct_change": -0.11
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 109.92,
-        "pct_change": 0.23
+        "last": 109.51,
+        "pct_change": -0.15
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 163.43,
-        "pct_change": -0.21
+        "last": 163.54,
+        "pct_change": -0.14
       }
     }
   },
@@ -144,52 +144,52 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 128.33,
-        "pct_change": 1.84
+        "last": 124.06,
+        "pct_change": -1.55
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 342.05,
-        "pct_change": 0.58
+        "last": 338.19,
+        "pct_change": -0.56
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 397.05,
-        "pct_change": 0.94
+        "last": 390.54,
+        "pct_change": -0.71
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 231.18,
-        "pct_change": 0.14
+        "last": 226.65,
+        "pct_change": -1.82
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 339.9,
-        "pct_change": 1.86
+        "last": 336.71,
+        "pct_change": 0.9
       },
       "Meta": {
         "symbol": "META",
-        "last": 593.89,
-        "pct_change": 0.08
+        "last": 585.61,
+        "pct_change": -1.31
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 626.54,
-        "pct_change": -3.89
+        "last": 602.35,
+        "pct_change": -7.61
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 230.59,
-        "pct_change": -5.24
+        "last": 222.05,
+        "pct_change": -8.75
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 153.26,
-        "pct_change": 6.54
+        "last": 150.31,
+        "pct_change": 4.49
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -664,24 +664,29 @@
         "published": "2026-07-29T00:09:53Z"
       },
       {
-        "title": "Mortgage and refinance interest rates today, Tuesday, July 28, 2026: Rates lower as fighting in Iran on pause",
-        "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-tuesday-july-28-2026-rates-lower-as-fighting-in-iran-on-pause-100000181.html",
-        "published": "2026-07-28T10:00:00Z"
+        "title": "India's June industrial output grows fastest in nearly two years on manufacturing boost",
+        "link": "https://finance.yahoo.com/news/indias-june-industrial-output-grows-105612790.html",
+        "published": "2026-07-28T11:51:41Z"
       },
       {
-        "title": "Best CD rates today, Tuesday, July 28, 2026: Lock in up to 4.15% APY today",
-        "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-tuesday-july-28-2026-lock-in-up-to-415-apy-today-100000665.html",
-        "published": "2026-07-28T10:00:00Z"
+        "title": "If You Invested $20,000 in Meta 5 Years Ago, How Much Could You Have Now?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/invested-20-000-meta-5-120000779.html",
+        "published": "2026-07-28T12:00:00Z"
       },
       {
-        "title": "The bond market's danger zone is becoming the new normal: Chart of the Day",
-        "link": "https://finance.yahoo.com/markets/article/the-bond-markets-danger-zone-is-becoming-the-new-normal-chart-of-the-day-100000676.html",
-        "published": "2026-07-28T10:00:00Z"
+        "title": "Gold prices today, Tuesday, July 28, 2026: Gold remains below $4,100 ahead of Fed meeting",
+        "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-july-28-2026-gold-remains-below-4100-ahead-of-fed-meeting-114031587.html",
+        "published": "2026-07-28T11:40:31Z"
       },
       {
-        "title": "A 'Super El Niño' is expected to squeeze commodities even further this year",
-        "link": "https://finance.yahoo.com/markets/article/a-super-el-nino-is-expected-to-squeeze-commodities-even-further-this-year-100000389.html",
-        "published": "2026-07-28T10:00:00Z"
+        "title": "Brookfield sees 6.5 GW of AI data-centre capacity coming online in India",
+        "link": "https://finance.yahoo.com/technology/ai/articles/brookfield-sees-6-5-gw-113832545.html",
+        "published": "2026-07-28T11:38:32Z"
+      },
+      {
+        "title": "Analyst Report: HF Sinclair Corp",
+        "link": "https://finance.yahoo.com/research/reports/ARGUS_3051_AnalystReport_1785349050000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+        "published": "2026-07-29T18:17:30Z"
       },
       {
         "title": "Secretary Bessent cracks down on non-profit tax loopholes",
@@ -689,17 +694,27 @@
         "published": "2026-07-28T16:06:00Z"
       },
       {
-        "title": "Mercedes gets shares boost on stable second quarter despite China woes",
-        "link": "https://finance.yahoo.com/news/mercedes-cuts-sales-outlook-weak-064932045.html",
-        "published": "2026-07-28T10:17:10Z"
-      },
-      {
-        "title": "Amazon winds down most flagship AI models in strategy overhaul, Business Insider reports",
-        "link": "https://finance.yahoo.com/technology/ai/articles/amazon-winds-down-most-flagship-103406019.html",
-        "published": "2026-07-28T10:34:06Z"
+        "title": "AtriCure, Inc. (ATRC) Beat Earnings Estimates. Here’s What Could Drive ATRC Stock Next",
+        "link": "https://finance.yahoo.com/healthcare/articles/atricure-inc-atrc-beat-earnings-120800905.html",
+        "published": "2026-07-28T12:08:00Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "I’m managing a former colleague who just can’t keep up with her workload. How do I handle this without being a jerk?",
+        "link": "https://www.marketwatch.com/story/im-managing-a-former-colleague-who-just-cant-keep-up-with-her-workload-how-do-i-handle-this-without-being-a-jerk-eb2303ee?mod=mw_rss_topstories",
+        "published": "Wed, 29 Jul 2026 19:26:00 GMT"
+      },
+      {
+        "title": "Americans are living longer than our retirement system can handle — and many of us are unprepared",
+        "link": "https://www.marketwatch.com/story/americans-are-living-longer-than-our-retirement-system-can-handle-and-many-of-us-are-unprepared-76c50a35?mod=mw_rss_topstories",
+        "published": "Wed, 29 Jul 2026 19:21:00 GMT"
+      },
+      {
+        "title": "The big focus now is on the potential for a September rate hike after the Fed stands pat",
+        "link": "https://www.marketwatch.com/story/the-big-focus-now-is-on-the-potential-for-a-september-rate-hike-after-the-fed-stands-pat-401c30d6?mod=mw_rss_topstories",
+        "published": "Wed, 29 Jul 2026 19:11:00 GMT"
+      },
       {
         "title": "Ford’s big-truck bet is paying off — and Wall Street is taking notice",
         "link": "https://www.marketwatch.com/story/fords-big-truck-bet-is-paying-off-and-wall-street-is-taking-notice-6a1de0fb?mod=mw_rss_topstories",
@@ -724,28 +739,13 @@
         "title": "The dollar’s rally matters — but it still won’t help Fed’s Warsh win the inflation fight",
         "link": "https://www.marketwatch.com/story/the-dollars-rally-matters-but-it-still-wont-help-feds-warsh-win-the-inflation-fight-ce278d40?mod=mw_rss_topstories",
         "published": "Wed, 29 Jul 2026 17:12:00 GMT"
-      },
-      {
-        "title": "My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait?",
-        "link": "https://www.marketwatch.com/story/my-girlfriend-is-62-can-she-claim-her-late-husbands-full-social-security-benefit-or-does-she-have-to-wait-315c0fa1?mod=mw_rss_topstories",
-        "published": "Wed, 29 Jul 2026 17:01:00 GMT"
-      },
-      {
-        "title": "‘I’m in my peak earning years’: I’m working beyond 70. Will that help increase my Social Security?",
-        "link": "https://www.marketwatch.com/story/im-in-my-peak-earning-years-im-working-beyond-70-will-that-help-increase-my-social-security-b0fd84da?mod=mw_rss_topstories",
-        "published": "Wed, 29 Jul 2026 17:00:00 GMT"
-      },
-      {
-        "title": "Global oil prices top $88 a barrel after Trump vows retaliation for surprise Iranian attack on U.S. troops",
-        "link": "https://www.marketwatch.com/story/oil-prices-rise-after-u-s-and-saudi-arabia-attack-iran-backed-militias-in-iraq-f0f409ea?mod=mw_rss_topstories",
-        "published": "Wed, 29 Jul 2026 16:36:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "Fed meeting live updates: Warsh says Fed 'will not hesitate' to act on inflation",
-        "link": "https://www.cnbc.com/2026/07/29/fed-meeting-today-live-updates.html",
-        "published": "Wed, 29 Jul 2026 19:08:47 GMT"
+        "title": "Meta's stock drops on earnings miss, light revenue guidance",
+        "link": "https://www.cnbc.com/2026/07/29/meta-q2-earnings-report-2026.html",
+        "published": "Wed, 29 Jul 2026 20:11:08 GMT"
       },
       {
         "title": "Divided Fed holds interest rates steady, but three members voted to hike",
@@ -753,9 +753,24 @@
         "published": "Wed, 29 Jul 2026 18:58:16 GMT"
       },
       {
-        "title": "S&P 500 moves into the green as Big Tech gains, Fed holds off on hike: Live updates",
-        "link": "https://www.cnbc.com/2026/07/28/stock-market-today-live-updates.html",
-        "published": "Wed, 29 Jul 2026 19:00:09 GMT"
+        "title": "Microsoft beats Q4 cloud expectations as full-year Azure revenue tops $100 billion",
+        "link": "https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html",
+        "published": "Wed, 29 Jul 2026 20:15:58 GMT"
+      },
+      {
+        "title": "Qualcomm to raise prices during memory crunch as chipmaker issues light earnings guidance",
+        "link": "https://www.cnbc.com/2026/07/29/qualcomm-qcom-earnings-report-q3-2026-.html",
+        "published": "Wed, 29 Jul 2026 20:02:38 GMT"
+      },
+      {
+        "title": "Fed meeting recap: Warsh says Fed won't hesitate to stop inflation, but bond market has doubts",
+        "link": "https://www.cnbc.com/2026/07/29/fed-meeting-today-live-updates.html",
+        "published": "Wed, 29 Jul 2026 20:10:38 GMT"
+      },
+      {
+        "title": "Another bank raised its CD rate to 4%. Where to lock in the best yields",
+        "link": "https://www.cnbc.com/2026/07/29/another-bank-raised-its-cd-rate-to-4percent-where-to-lock-in-the-best-yields.html",
+        "published": "Wed, 29 Jul 2026 18:59:30 GMT"
       },
       {
         "title": "Trump says U.S. will give Iran a 'beating' after surprise attack",
@@ -765,22 +780,7 @@
       {
         "title": "Sam Altman to meet with White House's Wiles this week ahead of AI framework deadline",
         "link": "https://www.cnbc.com/2026/07/29/altman-white-house-wiles-ai-framework.html",
-        "published": "Wed, 29 Jul 2026 18:03:25 GMT"
-      },
-      {
-        "title": "Another bank raised its CD rate to 4%. Where to lock in the best yields",
-        "link": "https://www.cnbc.com/2026/07/29/another-bank-raised-its-cd-rate-to-4percent-where-to-lock-in-the-best-yields.html",
-        "published": "Wed, 29 Jul 2026 18:59:30 GMT"
-      },
-      {
-        "title": "Hims and Hers shares fall 10% as FTC sues company over data, billing practices",
-        "link": "https://www.cnbc.com/2026/07/29/hims-and-hers-ftc-lawsuit-stock.html",
-        "published": "Wed, 29 Jul 2026 18:24:09 GMT"
-      },
-      {
-        "title": "Todd Blanche attorney general nomination on edge as Cornyn questions Trump-IRS settlement",
-        "link": "https://www.cnbc.com/2026/07/29/todd-blanche-attorney-general-trump-irs-audit-cornyn.html",
-        "published": "Wed, 29 Jul 2026 17:42:03 GMT"
+        "published": "Wed, 29 Jul 2026 19:31:58 GMT"
       }
     ]
   }
