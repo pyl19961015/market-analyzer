@@ -1,59 +1,59 @@
 {
-  "generated_at": "2026-08-04T15:28:04",
+  "generated_at": "2026-08-04T17:13:40",
   "date": "2026-08-04",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7698.92,
-        "pct_change": 1.29
+        "last": 7734.96,
+        "pct_change": 1.77
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26393.67,
-        "pct_change": 1.85
+        "last": 26545.61,
+        "pct_change": 2.44
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 53984.86,
-        "pct_change": 1.52
+        "last": 54178.1,
+        "pct_change": 1.88
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3018.12,
-        "pct_change": 1.21
+        "last": 3034.8,
+        "pct_change": 1.77
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 16.13,
-        "pct_change": 1.7
+        "last": 16.27,
+        "pct_change": 2.59
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.64,
-        "pct_change": -0.96
+        "last": 4.63,
+        "pct_change": -1.26
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.96,
-        "pct_change": -0.0
+        "last": 99.92,
+        "pct_change": -0.04
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 76.65,
-        "pct_change": -4.59
+        "last": 76.06,
+        "pct_change": -5.33
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4133.9,
-        "pct_change": 2.48
+        "last": 4156.3,
+        "pct_change": 3.04
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 185.51,
-        "pct_change": 4.2
+        "last": 186.9,
+        "pct_change": 4.98
       },
       "Financials": {
         "symbol": "XLF",
@@ -62,48 +62,48 @@
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 58.4,
-        "pct_change": -0.65
+        "last": 58.56,
+        "pct_change": -0.39
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 161.54,
-        "pct_change": -0.43
+        "last": 162.04,
+        "pct_change": -0.12
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 117.99,
-        "pct_change": -0.19
+        "last": 118.32,
+        "pct_change": 0.1
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 84.55,
-        "pct_change": -0.37
+        "last": 84.96,
+        "pct_change": 0.12
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 184.77,
-        "pct_change": 0.88
+        "last": 186.0,
+        "pct_change": 1.55
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 43.99,
-        "pct_change": -0.82
+        "last": 44.07,
+        "pct_change": -0.65
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 51.53,
-        "pct_change": 1.02
+        "last": 51.95,
+        "pct_change": 1.84
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.97,
-        "pct_change": -0.45
+        "last": 45.1,
+        "pct_change": -0.19
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 110.96,
-        "pct_change": -0.34
+        "last": 111.6,
+        "pct_change": 0.23
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 157.56,
-        "pct_change": -0.01
+        "last": 157.58,
+        "pct_change": 0.0
       }
     }
   },
@@ -137,58 +137,58 @@
       "yield": 2.824,
       "as_of": "2026-08-03"
     },
-    "spread_10y": 1.82
+    "spread_10y": 1.81
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 155.28,
-        "pct_change": 5.89
+        "last": 160.66,
+        "pct_change": 9.56
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 305.9,
-        "pct_change": 0.82
+        "last": 310.33,
+        "pct_change": 2.28
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 498.65,
-        "pct_change": 2.26
+        "last": 495.16,
+        "pct_change": 1.54
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 277.8,
-        "pct_change": -2.19
+        "last": 278.64,
+        "pct_change": -1.89
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 375.8,
-        "pct_change": 0.61
+        "last": 377.64,
+        "pct_change": 1.11
       },
       "Meta": {
         "symbol": "META",
-        "last": 582.67,
-        "pct_change": -1.28
+        "last": 586.21,
+        "pct_change": -0.68
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 854.0,
-        "pct_change": 9.5
+        "last": 856.42,
+        "pct_change": 9.81
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 328.76,
-        "pct_change": 14.1
+        "last": 333.01,
+        "pct_change": 15.57
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 168.75,
-        "pct_change": 3.31
+        "last": 171.02,
+        "pct_change": 4.7
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -666,47 +666,77 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "Tech stocks today: SpaceX, AMD to report earnings after the bell",
-        "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-spacex-amd-to-report-earnings-after-the-bell-140419479.html",
-        "published": "2026-08-03T14:04:19Z"
+        "title": "If you invested $1,000 in gold, Bitcoin and $TRUMP on Inauguration Day, here is what each is worth today",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/invested-1-000-gold-bitcoin-150000514.html",
+        "published": "2026-08-04T15:00:00Z"
       },
       {
-        "title": "I Ranked Big Tech's AI Spending Four Ways. The Order Never Changed.",
-        "link": "https://finance.yahoo.com/technology/ai/articles/ranked-big-techs-ai-spending-151700234.html",
-        "published": "2026-08-04T15:17:00Z"
+        "title": "Palantir stock jumps nearly 30% after 'otherworldly' quarter as US commercial business booms",
+        "link": "https://finance.yahoo.com/markets/stocks/article/palantir-stock-jumps-nearly-30-after-otherworldly-quarter-as-us-commercial-business-booms-122817775.html",
+        "published": "2026-08-03T12:28:17Z"
       },
       {
-        "title": "Is Eli Lilly (LLY) Still the Undisputed Leader in the $150 Billion Obesity Drug Market?",
-        "link": "https://finance.yahoo.com/healthcare/articles/eli-lilly-lly-still-undisputed-151506170.html",
-        "published": "2026-08-04T15:15:06Z"
+        "title": "SpaceX Earnings Due. Fewer Falcon 9 Launches, Tesla Merger, Share Lockup In Focus.",
+        "link": "https://www.investors.com/news/spacex-earnings-elon-musk-starlink-starship-falcon9-launches-ai-tesla-spcx-stock-lockup/?src=A00220&yptr=yahoo",
+        "published": "2026-08-04T16:53:23Z"
       },
       {
-        "title": "Oracle vs Amazon: Wall Street Strategist Picks the AI Trade’s Winner and Loser",
-        "link": "https://finance.yahoo.com/technology/ai/articles/oracle-vs-amazon-wall-street-151237367.html",
-        "published": "2026-08-04T15:12:37Z"
+        "title": "Tesla's Wholesale Sales In China Grow For Ninth Month In A Row",
+        "link": "https://www.investors.com/news/tesla-china-elon-musk-electric-vehicle-sales-byd/?src=A00220&yptr=yahoo",
+        "published": "2026-08-04T16:49:25Z"
       },
       {
-        "title": "Merck posts better-than-expected second-quarter results on Keytruda strength",
-        "link": "https://finance.yahoo.com/healthcare/articles/merck-posts-better-expected-second-103550497.html",
-        "published": "2026-08-04T15:11:41Z"
+        "title": "What is whole life insurance? How it works.",
+        "link": "https://finance.yahoo.com/personal-finance/insurance/article/what-is-whole-life-insurance-213448917.html",
+        "published": "2023-12-15T22:11:25Z"
       },
       {
-        "title": "Veradermics (MANE) Positioned to Disrupt Hair Loss Market",
-        "link": "https://finance.yahoo.com/healthcare/articles/veradermics-mane-positioned-disrupt-hair-150841580.html",
-        "published": "2026-08-04T15:08:41Z"
+        "title": "Social Security is becoming the primary retirement plan for many Americans. But it's rarely enough money.",
+        "link": "https://finance.yahoo.com/economy/article/social-security-is-becoming-the-primary-retirement-plan-for-many-americans-but-its-rarely-enough-money-161429269.html",
+        "published": "2026-08-04T16:14:29Z"
       },
       {
-        "title": "Why Sandisk Stock Soared Today",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/why-sandisk-stock-soared-today-151356815.html",
-        "published": "2026-08-04T15:13:56Z"
+        "title": "Applied Digital Corp (APLD)’s 400% Revenue Surge — Breakout AI Infrastructure Play or Risky Bet?",
+        "link": "https://finance.yahoo.com/technology/ai/articles/applied-digital-corp-apld-400-164148284.html",
+        "published": "2026-08-04T16:41:48Z"
       },
       {
-        "title": "What is life insurance? How it works.",
-        "link": "https://finance.yahoo.com/personal-finance/insurance/article/what-is-life-insurance-200844307.html",
-        "published": "2023-12-15T22:07:32Z"
+        "title": "Markets see 'all hat, no cattle' in Fed's inflation credibility: Chart of the Day",
+        "link": "https://finance.yahoo.com/markets/article/markets-see-all-hat-no-cattle-in-feds-inflation-credibility-chart-of-the-day-164028370.html",
+        "published": "2026-08-04T16:40:28Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "The richest 20% are buying most of the new cars sold in the U.S.",
+        "link": "https://www.marketwatch.com/story/the-richest-20-are-buying-most-of-the-new-cars-sold-in-the-u-s-6e470ad4?mod=mw_rss_topstories",
+        "published": "Tue, 04 Aug 2026 17:09:00 GMT"
+      },
+      {
+        "title": "It’s getting easier for terminally ill people to end their own lives. What to know as laws change.",
+        "link": "https://www.marketwatch.com/story/its-getting-easier-for-terminally-ill-people-to-end-their-own-lives-what-to-know-as-laws-change-4fa04c54?mod=mw_rss_topstories",
+        "published": "Tue, 04 Aug 2026 16:56:00 GMT"
+      },
+      {
+        "title": "College kids are moving into retirement communities for reasons beyond ‘cheap rent’",
+        "link": "https://www.marketwatch.com/story/college-kids-are-moving-into-retirement-communities-for-reasons-beyond-cheap-rent-577dc94b?mod=mw_rss_topstories",
+        "published": "Tue, 04 Aug 2026 16:34:00 GMT"
+      },
+      {
+        "title": "Bessent defends Warsh, saying markets are going through ‘detox’ from too much Fed guidance",
+        "link": "https://www.marketwatch.com/story/bessent-defends-warsh-saying-markets-are-going-through-detox-from-too-much-fed-guidance-39dfc765?mod=mw_rss_topstories",
+        "published": "Tue, 04 Aug 2026 16:25:00 GMT"
+      },
+      {
+        "title": "Stocks could soar in August. Here are six potential drivers.",
+        "link": "https://www.marketwatch.com/story/stocks-could-soar-in-august-here-are-six-potential-drivers-89d91780?mod=mw_rss_topstories",
+        "published": "Tue, 04 Aug 2026 15:33:00 GMT"
+      },
+      {
+        "title": "Palantir is leaving its software peers behind in the AI race",
+        "link": "https://www.marketwatch.com/story/palantir-is-leaving-its-software-peers-behind-in-the-ai-race-45280581?mod=mw_rss_topstories",
+        "published": "Tue, 04 Aug 2026 15:29:00 GMT"
+      },
       {
         "title": "Job openings fell to a 3-month low. Is the labor market losing momentum?",
         "link": "https://www.marketwatch.com/story/job-openings-fell-to-a-3-month-low-is-the-labor-market-losing-momentum-05fcbc49?mod=mw_rss_topstories",
@@ -716,78 +746,48 @@
         "title": "Caterpillar’s stock gives the Dow a 200-point boost as data-center demand drives record revenue",
         "link": "https://www.marketwatch.com/story/caterpillar-is-killing-it-and-data-center-demand-is-driving-record-revenue-161b84d1?mod=mw_rss_topstories",
         "published": "Tue, 04 Aug 2026 14:36:00 GMT"
-      },
-      {
-        "title": "If Social Security’s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
-        "link": "https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories",
-        "published": "Tue, 04 Aug 2026 14:30:00 GMT"
-      },
-      {
-        "title": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?",
-        "link": "https://www.marketwatch.com/story/should-wealthier-americans-forgo-their-social-security-benefits-as-a-charitable-gesture-2c7b6801?mod=mw_rss_topstories",
-        "published": "Tue, 04 Aug 2026 14:15:00 GMT"
-      },
-      {
-        "title": "If I marry my girlfriend, 67, will she lose her Supplemental Security Income and divorced spouse benefits?",
-        "link": "https://www.marketwatch.com/story/if-i-marry-my-girlfriend-67-will-she-lose-her-supplemental-security-income-and-divorced-spouse-benefits-9340bab9?mod=mw_rss_topstories",
-        "published": "Tue, 04 Aug 2026 14:15:00 GMT"
-      },
-      {
-        "title": "I got two email invitations from friends. Is this a phishing scam — or am I suddenly popular?",
-        "link": "https://www.marketwatch.com/story/i-got-two-email-invitations-from-friends-is-this-a-phishing-scam-or-am-i-suddenly-popular-d9680aa8?mod=mw_rss_topstories",
-        "published": "Tue, 04 Aug 2026 13:46:00 GMT"
-      },
-      {
-        "title": "3 money rules I swear by — and why they work",
-        "link": "https://www.marketwatch.com/story/3-money-rules-i-swear-by-and-why-they-work-f7a1ad65?mod=mw_rss_topstories",
-        "published": "Tue, 04 Aug 2026 13:36:00 GMT"
-      },
-      {
-        "title": "The stock market’s brutal summer reset is finally over. Here is why Citadel Securities says it is time to buy again.",
-        "link": "https://www.marketwatch.com/story/the-stock-markets-brutal-summer-reset-is-finally-over-here-is-why-citadel-securities-says-it-is-time-to-buy-again-f6a8d101?mod=mw_rss_topstories",
-        "published": "Tue, 04 Aug 2026 13:34:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "Bessent says there may be deal Tuesday or Wednesday to open Strait of Hormuz with 'freedom of movement'",
-        "link": "https://www.cnbc.com/2026/08/04/bessent-says-there-may-be-deal-tuesday-or-wednesday-to-open-strait-of-hormuz-with-freedom-of-movement.html",
-        "published": "Tue, 04 Aug 2026 14:00:55 GMT"
-      },
-      {
-        "title": "Jeff Bezos just filed to sell $4 billion in Amazon. The shares are falling",
-        "link": "https://www.cnbc.com/2026/08/04/jeff-bezos-just-filed-to-sell-4-billion-in-amazon-the-shares-are-falling.html",
-        "published": "Tue, 04 Aug 2026 15:09:11 GMT"
+        "title": "Dow leaps 1,000 points fueled by earnings, hopes for Hormuz Strait deal; S&P 500 hits record: Live updates",
+        "link": "https://www.cnbc.com/2026/08/03/stock-market-today-live-updates.html",
+        "published": "Tue, 04 Aug 2026 17:13:17 GMT"
       },
       {
         "title": "SpaceX earnings live updates: First report since IPO comes ahead of massive share unlock",
         "link": "https://www.cnbc.com/2026/08/04/spacex-spcx-earnings-live-updates-q2-2026.html",
-        "published": "Tue, 04 Aug 2026 15:27:37 GMT"
+        "published": "Tue, 04 Aug 2026 17:00:52 GMT"
+      },
+      {
+        "title": "Jeff Bezos just filed to sell $4 billion in Amazon. The shares are falling",
+        "link": "https://www.cnbc.com/2026/08/04/jeff-bezos-just-filed-to-sell-4-billion-in-amazon-the-shares-are-falling.html",
+        "published": "Tue, 04 Aug 2026 16:14:49 GMT"
+      },
+      {
+        "title": "Stocks making the biggest moves midday: Palantir, Amazon, SpaceX, Sandisk, Snap & more",
+        "link": "https://www.cnbc.com/2026/08/04/stocks-making-the-biggest-moves-midday-pltr-amzn-spcx-sndk-snap.html",
+        "published": "Tue, 04 Aug 2026 16:59:49 GMT"
+      },
+      {
+        "title": "Procter & Gamble will acquire supplements brand Thorne for $3.8 billion, CEO tells CNBC",
+        "link": "https://www.cnbc.com/2026/08/04/procter-gamble-will-acquire-supplements-brand-thorne.html",
+        "published": "Tue, 04 Aug 2026 17:02:05 GMT"
+      },
+      {
+        "title": "SK Hynix U.S. shares will double in the next 12 months, Cantor Fitzgerald says",
+        "link": "https://www.cnbc.com/2026/08/04/sk-hynix-us-shares-will-double-in-the-next-12-months-cantor-fitzgerald-says-.html",
+        "published": "Tue, 04 Aug 2026 16:02:27 GMT"
       },
       {
         "title": "New Jersey sues Amazon on antitrust grounds, alleging it unlawfully wielded its power over delivery contractors",
         "link": "https://www.cnbc.com/2026/08/04/nj-amazon-antitrust-lawsuit-delivery-contractors.html",
-        "published": "Tue, 04 Aug 2026 15:16:35 GMT"
+        "published": "Tue, 04 Aug 2026 16:34:05 GMT"
       },
       {
         "title": "Blanche approved by Judiciary Committee, sending Trump's AG nominee to full Senate vote",
         "link": "https://www.cnbc.com/2026/08/04/todd-blanche-weaponization-fund-senate-confirmation.html",
         "published": "Tue, 04 Aug 2026 15:17:56 GMT"
-      },
-      {
-        "title": "Wall Street's confidence in Walmart leaves little room for upside, Oppenheimer says",
-        "link": "https://www.cnbc.com/2026/08/04/street-confidence-in-walmart-leaves-no-room-for-upside-oppenheimer-says.html",
-        "published": "Tue, 04 Aug 2026 14:34:02 GMT"
-      },
-      {
-        "title": "Palantir jumps 27% on 'otherworldly' commercial revenue — here's what's driving the demand",
-        "link": "https://www.cnbc.com/2026/08/04/palantir-2q-earnings-ai-sovereign-tools.html",
-        "published": "Tue, 04 Aug 2026 14:47:13 GMT"
-      },
-      {
-        "title": "Abdul El-Sayed, Haley Stevens square off Tuesday in Michigan Democratic primary",
-        "link": "https://www.cnbc.com/2026/08/04/abdul-el-sayed-haley-stevens-michigan-primary.html",
-        "published": "Tue, 04 Aug 2026 15:08:53 GMT"
       }
     ]
   }
