@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T05:24:54",
+  "generated_at": "2026-08-04T08:00:14",
   "date": "2026-08-04",
   "market_sentiment": {
     "indices": {
@@ -15,8 +15,8 @@
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 52485.03,
-        "pct_change": 0.53
+        "last": null,
+        "pct_change": null
       },
       "Russell 2000": {
         "symbol": "^RUT",
@@ -25,8 +25,8 @@
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.99,
-        "pct_change": -6.44
+        "last": 15.7,
+        "pct_change": -1.81
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
@@ -40,13 +40,13 @@
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 81.32,
-        "pct_change": -3.96
+        "last": 80.86,
+        "pct_change": -4.5
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4113.5,
-        "pct_change": 1.59
+        "last": 4120.2,
+        "pct_change": 1.76
       }
     },
     "sectors": {
@@ -111,18 +111,18 @@
     "indices": {
       "Nikkei 225": {
         "symbol": "^N225",
-        "last": 63586.11,
-        "pct_change": -1.21
+        "last": 63957.53,
+        "pct_change": -0.63
       },
       "TOPIX (ETF代理)": {
         "symbol": "1306.T",
-        "last": 412.5,
-        "pct_change": 0.17
+        "last": 412.4,
+        "pct_change": 0.15
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 157.56,
-        "pct_change": -0.01
+        "last": 157.8,
+        "pct_change": 0.14
       }
     }
   },
@@ -192,8 +192,8 @@
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 5637.0,
-        "pct_change": -7.03
+        "last": 5585.0,
+        "pct_change": -7.88
       }
     }
   },
@@ -666,19 +666,9 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "Micron Technology Stock Is Plummeting, but Here's Why I'm Not Buying the Dip",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-stock-plummeting-heres-174500335.html",
-        "published": "2026-08-02T17:45:00Z"
-      },
-      {
-        "title": "3 Reasons Microsoft Stock Soared After Q4 Earnings",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-microsoft-stock-soared-173002074.html",
-        "published": "2026-08-02T17:30:02Z"
-      },
-      {
-        "title": "Palantir Is Set to Deliver Strong Q2. Analysts See 60% Upside Potential for PLTR Stock.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-set-deliver-strong-q2-193002334.html",
-        "published": "2026-08-02T19:30:02Z"
+        "title": "If I Could Tell Every Investor 1 Thing About Building Lasting Wealth in the Stock Market, It's This",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/could-tell-every-investor-1-205000378.html",
+        "published": "2026-08-02T20:50:00Z"
       },
       {
         "title": "Wall Street Can’t Agree on Palantir Stock. Earnings Will Reveal Who’s Right.",
@@ -691,19 +681,29 @@
         "published": "2026-08-02T21:19:26Z"
       },
       {
-        "title": "Why Sprouts Farmers Market Stock Surged This Week",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/why-sprouts-farmers-market-stock-175539047.html",
-        "published": "2026-08-02T17:55:39Z"
+        "title": "Bessent ready to repeat joint yen intervention, urges bigger Fed backstop",
+        "link": "https://finance.yahoo.com/markets/currencies/articles/bessent-ready-repeat-joint-yen-004023739.html",
+        "published": "2026-08-03T00:40:23Z"
       },
       {
-        "title": "Best high-yield savings interest rates today, Monday, August 3, 2026: You can earn up to 4.15% APY",
-        "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-august-3-2026-you-can-earn-up-to-415-apy-100000400.html",
-        "published": "2026-08-03T10:00:00Z"
+        "title": "How Corgi Funds Plans to Chase Down Wall Street’s Top Dogs",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/corgi-funds-plans-chase-down-040100979.html",
+        "published": "2026-08-03T04:01:00Z"
       },
       {
-        "title": "Best CD rates today, Monday, August 3, 2026: Lock in up to 4.10% APY",
-        "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-august-3-2026-lock-in-up-to-410-apy-100000001.html",
-        "published": "2026-08-03T10:00:00Z"
+        "title": "Where Will Mastercard Stock Be in 5 Years?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/where-mastercard-stock-5-years-204200022.html",
+        "published": "2026-08-02T20:42:00Z"
+      },
+      {
+        "title": "Wall Street Looks to Zillow, Rocket Mortgage Earnings for Clues on K-Shaped Housing Market",
+        "link": "https://finance.yahoo.com/real-estate/articles/wall-street-looks-zillow-rocket-040100835.html",
+        "published": "2026-08-03T04:01:00Z"
+      },
+      {
+        "title": "Can Palantir’s Sizzling Growth Win Over Market Bears?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-sizzling-growth-win-over-040100637.html",
+        "published": "2026-08-03T04:01:00Z"
       }
     ],
     "MarketWatch Top Stories": [
@@ -750,29 +750,29 @@
     ],
     "CNBC Top News": [
       {
-        "title": "Saudi Aramco profits soar in second quarter as Iran war squeezes oil",
-        "link": "https://www.cnbc.com/2026/08/04/saudi-aramco-earnings-2q-oil-iran-war.html",
-        "published": "Tue, 04 Aug 2026 05:18:46 GMT"
+        "title": "Trump warns Iran talks are ‘last chance’ to end war — oil prices rise as Tehran denies negotiations",
+        "link": "https://www.cnbc.com/2026/08/04/us-iran-war-trump-hormuz.html",
+        "published": "Tue, 04 Aug 2026 07:04:07 GMT"
+      },
+      {
+        "title": "BP profit more than doubles as Trump blasts Big Oil for ‘making too much money’",
+        "link": "https://www.cnbc.com/2026/08/04/bp-2q-earnings-oil-iran-war.html",
+        "published": "Tue, 04 Aug 2026 07:27:26 GMT"
       },
       {
         "title": "Stock futures rise slightly after rip-roaring rally leads Dow to record closing high: Live updates",
         "link": "https://www.cnbc.com/2026/08/03/stock-market-today-live-updates.html",
-        "published": "Tue, 04 Aug 2026 05:23:47 GMT"
+        "published": "Tue, 04 Aug 2026 07:21:44 GMT"
       },
       {
-        "title": "HSBC pretax profit beats estimates, boosted by higher net interest income and fees",
-        "link": "https://www.cnbc.com/2026/08/04/hsbc-profit-beats-estimates-higher-net-interest-income-fees.html",
-        "published": "Tue, 04 Aug 2026 04:50:05 GMT"
+        "title": "CNBC Daily Open: A U.S. yen intervention dressed in euros",
+        "link": "https://www.cnbc.com/2026/08/04/cnbc-daily-open-yen-intervention-dollar-euro-fx.html",
+        "published": "Tue, 04 Aug 2026 07:01:46 GMT"
       },
       {
-        "title": "AI is helping Grab ship products more than 30% faster, CFO says, as company raises forecasts",
-        "link": "https://www.cnbc.com/2026/08/04/grab-earnings-ai-forecast-cfo-.html",
-        "published": "Tue, 04 Aug 2026 04:36:35 GMT"
-      },
-      {
-        "title": "Palantir soars 12% on blowout quarter, with U.S. commercial revenue soaring nearly 150%",
-        "link": "https://www.cnbc.com/2026/08/03/palantir-pltr-earnings-q2-2026.html",
-        "published": "Mon, 03 Aug 2026 22:47:54 GMT"
+        "title": "Saudi Aramco profits jump 33% in second quarter as Iran war squeezes oil supply",
+        "link": "https://www.cnbc.com/2026/08/04/saudi-aramco-earnings-2q-oil-iran-war.html",
+        "published": "Tue, 04 Aug 2026 05:56:25 GMT"
       },
       {
         "title": "Here are some of JPMorgan's favorite stocks as August trading kicks off",
@@ -785,9 +785,9 @@
         "published": "Mon, 03 Aug 2026 23:00:01 GMT"
       },
       {
-        "title": "Snap's stock jumps 8% on earnings beat and strong sales forecast",
-        "link": "https://www.cnbc.com/2026/08/03/snap-q2-earnings-report-2026.html",
-        "published": "Mon, 03 Aug 2026 22:03:52 GMT"
+        "title": "Trump insists Iran talks are underway despite Tehran's 'duplicitous' denials",
+        "link": "https://www.cnbc.com/2026/08/03/trump-iran-us-negotiations-peace-proposals-.html",
+        "published": "Mon, 03 Aug 2026 16:39:37 GMT"
       }
     ]
   }
