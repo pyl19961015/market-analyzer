@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T20:21:51",
+  "generated_at": "2026-08-04T21:47:26",
   "date": "2026-08-04",
   "market_sentiment": {
     "indices": {
@@ -25,8 +25,8 @@
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 16.42,
-        "pct_change": 3.53
+        "last": 16.5,
+        "pct_change": 4.04
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
@@ -35,18 +35,18 @@
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.87,
-        "pct_change": -0.09
+        "last": 99.88,
+        "pct_change": -0.08
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 75.36,
-        "pct_change": -6.2
+        "last": 75.14,
+        "pct_change": -6.47
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4136.4,
-        "pct_change": 2.55
+        "last": 4134.2,
+        "pct_change": 2.49
       }
     },
     "sectors": {
@@ -57,8 +57,8 @@
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 57.87,
-        "pct_change": 0.85
+        "last": 57.88,
+        "pct_change": 0.87
       },
       "Energy": {
         "symbol": "XLE",
@@ -82,8 +82,8 @@
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 186.38,
-        "pct_change": 1.76
+        "last": 186.4,
+        "pct_change": 1.77
       },
       "Utilities": {
         "symbol": "XLU",
@@ -116,13 +116,13 @@
       },
       "TOPIX (ETF代理)": {
         "symbol": "1306.T",
-        "last": 411.8,
-        "pct_change": -1.29
+        "last": 412.4,
+        "pct_change": 0.15
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 157.69,
-        "pct_change": 0.07
+        "last": 157.76,
+        "pct_change": 0.11
       }
     }
   },
@@ -522,6 +522,24 @@
   "fed_policy": {
     "Press Releases": [
       {
+        "title": "Federal Reserve Board announces approval of the application by Coastal Bend Bancshares, Inc.",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804c.htm",
+        "published": "Tue, 4 Aug 2026 20:30:00 GMT",
+        "summary": "Federal Reserve Board announces approval of the application by Coastal Bend Bancshares, Inc."
+      },
+      {
+        "title": "Federal Reserve Board announces approval of the application by FS Bancorp, Inc.",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804b.htm",
+        "published": "Tue, 4 Aug 2026 20:30:00 GMT",
+        "summary": "Federal Reserve Board announces approval of the application by FS Bancorp, Inc."
+      },
+      {
+        "title": "Federal Reserve Board announces approval of the application by Banco Santander, S.A. and Santander Holdings USA, Inc.",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804a.htm",
+        "published": "Tue, 4 Aug 2026 20:30:00 GMT",
+        "summary": "Federal Reserve Board announces approval of the application by Banco Santander, S.A. and Santander Holdings USA, Inc."
+      },
+      {
         "title": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
         "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm",
         "published": "Fri, 31 Jul 2026 14:00:00 GMT",
@@ -534,40 +552,22 @@
         "summary": "Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations"
       },
       {
-        "title": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm",
-        "published": "Thu, 30 Jul 2026 15:00:00 GMT",
-        "summary": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank"
-      },
-      {
         "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
         "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm",
         "published": "Thu, 30 Jul 2026 15:00:00 GMT",
         "summary": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank"
       },
       {
+        "title": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm",
+        "published": "Thu, 30 Jul 2026 15:00:00 GMT",
+        "summary": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank"
+      },
+      {
         "title": "Federal Reserve issues FOMC statement",
         "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
         "published": "Wed, 29 Jul 2026 18:00:00 GMT",
         "summary": "Federal Reserve issues FOMC statement"
-      },
-      {
-        "title": "Agencies issue joint statement on handling of highly sensitive information during bank examinations",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260716a.htm",
-        "published": "Thu, 16 Jul 2026 18:00:00 GMT",
-        "summary": "Agencies issue joint statement on handling of highly sensitive information during bank examinations"
-      },
-      {
-        "title": "Federal Reserve Board issues enforcement action with former chief lending officer of Heritage State Bank",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260716a.htm",
-        "published": "Thu, 16 Jul 2026 15:00:00 GMT",
-        "summary": "Federal Reserve Board issues enforcement action with former chief lending officer of Heritage State Bank"
-      },
-      {
-        "title": "Minutes of the Board's discount rate meetings on June 8 and June 17, 2026",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260714a.htm",
-        "published": "Tue, 14 Jul 2026 18:00:00 GMT",
-        "summary": "Minutes of the Board's discount rate meetings on June 8 and June 17, 2026"
       }
     ],
     "Speeches": [
@@ -679,88 +679,108 @@
         "published": "2026-08-04T15:00:00Z"
       },
       {
-        "title": "World’s Largest Energy Lender Steers Federal Financing Toward Baseload, Transmission, and Nuclear",
-        "link": "https://finance.yahoo.com/energy/articles/world-rsquo-largest-energy-lender-113140139.html",
-        "published": "2026-08-03T11:31:40Z"
+        "title": "Chevron Stock Moves Higher on Strong Results -Shorting CVX Puts and Calls Works Here",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/chevron-stock-moves-higher-strong-131501317.html",
+        "published": "2026-08-03T13:15:01Z"
       },
       {
-        "title": "Shell Sells European Onshore Renewables Portfolio to TotalEnergies",
-        "link": "https://finance.yahoo.com/energy/articles/shell-sells-european-onshore-renewables-113000632.html",
-        "published": "2026-08-03T11:30:00Z"
+        "title": "Bitcoin and ethereum prices today, Monday, August 3, 2026: Prices pulling back this morning despite de-escalation with Iran",
+        "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-august-3-2026-prices-pulling-back-this-morning-despite-de-escalation-with-iran-131220661.html",
+        "published": "2026-08-03T13:12:20Z"
       },
       {
-        "title": "Speed as Strategy:  Rabigh Reinforcement Delivers 1,179 MW on an Accelerated Timeline",
-        "link": "https://finance.yahoo.com/energy/articles/speed-strategy-rabigh-reinforcement-delivers-113222761.html",
-        "published": "2026-08-03T11:32:22Z"
+        "title": "Meta CEO Zuckerberg’s AI Gamble Just Got Dirtier",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-just-got-hammered-130944661.html",
+        "published": "2026-08-03T13:09:44Z"
       },
       {
-        "title": "Americans lost an average $1,000 to financial errors last year — 3 major money mistakes to avoid now",
-        "link": "https://finance.yahoo.com/markets/articles/americans-lost-average-1-000-113500709.html",
-        "published": "2026-08-03T11:35:00Z"
+        "title": "Palantir Aims For 12th Straight Revenue Acceleration, But U.S. Growth Is Key",
+        "link": "https://www.investors.com/news/technology/palantir-stock-palantir-earnings-q22026-preview/?src=A00220&yptr=yahoo",
+        "published": "2026-08-03T13:10:35Z"
       },
       {
-        "title": "AngloGold reports 58% rise in Q2 2026 headline earnings",
-        "link": "https://finance.yahoo.com/markets/commodities/articles/anglogold-reports-58-rise-q2-113553420.html",
-        "published": "2026-08-03T11:35:53Z"
+        "title": "From App Disaster to Growth Engine: How Sonos Found Its Groove Again",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/app-disaster-growth-engine-sonos-131512057.html",
+        "published": "2026-08-03T13:15:12Z"
       },
       {
-        "title": "Here’s What Magnificent 7 Earnings Tell Us About the AI Trade in 2026",
-        "link": "https://finance.yahoo.com/technology/ai/articles/magnificent-7-earnings-tell-us-113002351.html",
-        "published": "2026-08-03T11:30:02Z"
+        "title": "Shopify (SHOP): Evolution from E-Commerce Platform to AI Operating System",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/shopify-shop-evolution-e-commerce-130323593.html",
+        "published": "2026-08-03T13:03:23Z"
       },
       {
-        "title": "POWER Digest [August 2026]",
-        "link": "https://finance.yahoo.com/energy/articles/power-digest-august-2026-113121749.html",
-        "published": "2026-08-03T11:31:21Z"
+        "title": "APi Group Corporation (APG): Powering Infrastructure with Precision",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/api-group-corporation-apg-powering-131801377.html",
+        "published": "2026-08-03T13:18:01Z"
       }
     ],
     "MarketWatch Top Stories": [
       {
+        "title": "Stocks face their weakest seasonal stretch. Why extreme investor pessimism could limit any selling.",
+        "link": "https://www.marketwatch.com/story/stocks-face-their-weakest-seasonal-stretch-why-extreme-investor-pessimism-could-limit-any-selling-768261e9?mod=mw_rss_topstories",
+        "published": "Tue, 04 Aug 2026 21:25:00 GMT"
+      },
+      {
+        "title": "My ex-husband’s sister died — so why is Fidelity asking me for her death certificate?",
+        "link": "https://www.marketwatch.com/story/its-like-buying-a-lottery-ticket-fidelity-asked-for-my-former-sister-in-laws-death-certificate-does-this-mean-im-due-a-windfall-2ebdcd69?mod=mw_rss_topstories",
+        "published": "Tue, 04 Aug 2026 21:21:00 GMT"
+      },
+      {
+        "title": "McDonald’s says its value meals have become too complicated",
+        "link": "https://www.marketwatch.com/story/mcdonalds-admits-its-value-meals-have-become-too-confusing-dc076468?mod=mw_rss_topstories",
+        "published": "Tue, 04 Aug 2026 21:13:00 GMT"
+      },
+      {
+        "title": "If I marry my girlfriend, 67, will she lose her Supplemental Security Income and divorced spouse benefits?",
+        "link": "https://www.marketwatch.com/story/if-i-marry-my-girlfriend-67-will-she-lose-her-supplemental-security-income-and-divorced-spouse-benefits-9340bab9?mod=mw_rss_topstories",
+        "published": "Tue, 04 Aug 2026 21:00:00 GMT"
+      },
+      {
+        "title": "Traders are using options to chase a runaway rebound in stocks, pushing the market even higher",
+        "link": "https://www.marketwatch.com/story/traders-are-using-options-to-chase-a-runaway-rebound-in-stocks-pushing-the-market-even-higher-9b08d4ab?mod=mw_rss_topstories",
+        "published": "Tue, 04 Aug 2026 21:00:00 GMT"
+      },
+      {
+        "title": "‘We have always been civil’: My sister refuses to replace me as executor. Can I step down before she dies?",
+        "link": "https://www.marketwatch.com/story/we-have-always-been-civil-my-sister-refuses-to-replace-me-as-executor-can-i-step-down-before-she-dies-84a835a9?mod=mw_rss_topstories",
+        "published": "Tue, 04 Aug 2026 20:47:00 GMT"
+      },
+      {
+        "title": "So what’s the plan to bring down inflation? The new Fed chair and his White House allies say you shouldn’t ask.",
+        "link": "https://www.marketwatch.com/story/bessent-defends-warsh-saying-markets-are-going-through-detox-from-too-much-fed-guidance-39dfc765?mod=mw_rss_topstories",
+        "published": "Tue, 04 Aug 2026 20:26:00 GMT"
+      },
+      {
         "title": "I got two email invitations from friends. Is this a phishing scam — or am I suddenly popular?",
         "link": "https://www.marketwatch.com/story/i-got-two-email-invitations-from-friends-is-this-a-phishing-scam-or-am-i-suddenly-popular-d9680aa8?mod=mw_rss_topstories",
         "published": "Tue, 04 Aug 2026 20:20:00 GMT"
-      },
-      {
-        "title": "Novo Nordisk stock is sliding again — and the Wegovy pill’s surprise miss is partly to blame",
-        "link": "https://www.marketwatch.com/story/the-wegovy-pills-surprise-miss-is-one-reason-novo-nordisks-stock-is-down-ec0fe43d?mod=mw_rss_topstories",
-        "published": "Tue, 04 Aug 2026 20:17:00 GMT"
-      },
-      {
-        "title": "‘My head hit the driver’s window’: A teenager T-boned our car. Will Medicare pay my hospital bills?",
-        "link": "https://www.marketwatch.com/story/my-head-hit-the-drivers-window-a-teenager-t-boned-our-car-will-medicare-pay-my-hospital-bills-0552d90d?mod=mw_rss_topstories",
-        "published": "Tue, 04 Aug 2026 20:00:00 GMT"
-      },
-      {
-        "title": "Oil prices dive on hopes that a deal to reopen the Strait of Hormuz will be made soon",
-        "link": "https://www.marketwatch.com/story/oil-prices-rise-after-vessel-reports-being-hit-in-strait-of-hormuz-db6ce867?mod=mw_rss_topstories",
-        "published": "Tue, 04 Aug 2026 19:46:00 GMT"
-      },
-      {
-        "title": "Stocks return to record highs. Investors who sat tight during the recent momentum crash are being rewarded.",
-        "link": "https://www.marketwatch.com/story/stocks-return-to-record-highs-investors-who-sat-tight-during-the-recent-momentum-crash-are-being-rewarded-8c960105?mod=mw_rss_topstories",
-        "published": "Tue, 04 Aug 2026 19:33:00 GMT"
-      },
-      {
-        "title": "McDonald’s admits its value meals have become too confusing",
-        "link": "https://www.marketwatch.com/story/mcdonalds-admits-its-value-meals-have-become-too-confusing-dc076468?mod=mw_rss_topstories",
-        "published": "Tue, 04 Aug 2026 19:24:00 GMT"
-      },
-      {
-        "title": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?",
-        "link": "https://www.marketwatch.com/story/should-wealthier-americans-forgo-their-social-security-benefits-as-a-charitable-gesture-2c7b6801?mod=mw_rss_topstories",
-        "published": "Tue, 04 Aug 2026 19:22:00 GMT"
-      },
-      {
-        "title": "‘I’m easing into retirement’: I’m getting an $80,000 pension payout. Where can I invest it safely?",
-        "link": "https://www.marketwatch.com/story/im-easing-into-retirement-im-getting-an-80-000-pension-payout-where-can-i-invest-it-safely-6653d810?mod=mw_rss_topstories",
-        "published": "Tue, 04 Aug 2026 19:00:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "SpaceX revenue jumps 92% and AI costs soar in first earnings report since IPO: Live updates",
+        "title": "SpaceX stock drops after first earnings report as AI costs soar: Live updates",
         "link": "https://www.cnbc.com/2026/08/04/spacex-spcx-earnings-live-updates-q2-2026.html",
-        "published": "Tue, 04 Aug 2026 20:19:12 GMT"
+        "published": "Tue, 04 Aug 2026 21:41:58 GMT"
+      },
+      {
+        "title": "Michael Burry bets against rally: 'We are near a major top, and possible a 1987-type fall'",
+        "link": "https://www.cnbc.com/2026/08/04/michael-burry-bets-against-rally-we-are-near-a-major-top.html",
+        "published": "Tue, 04 Aug 2026 21:39:30 GMT"
+      },
+      {
+        "title": "The stock market soars. 5 reasons behind the big surge Tuesday",
+        "link": "https://www.cnbc.com/2026/08/04/the-stock-market-soars-5-reasons-behind-the-big-surge-tuesday.html",
+        "published": "Tue, 04 Aug 2026 21:11:05 GMT"
+      },
+      {
+        "title": "Stocks making the biggest moves after the bell: SpaceX, AMD, Pinterest, Arista Networks, Wynn Resorts & more",
+        "link": "https://www.cnbc.com/2026/08/04/stocks-making-the-biggest-moves-after-the-bell-spcx-amd-pins-anet-wynn.html",
+        "published": "Tue, 04 Aug 2026 20:55:35 GMT"
+      },
+      {
+        "title": "Here's Todd Gordon's case for why this stock market breakout is not an August head fake and is likely to continue higher",
+        "link": "https://www.cnbc.com/2026/08/04/why-this-stock-market-breakout-is-not-an-august-head-fake.html",
+        "published": "Tue, 04 Aug 2026 19:51:57 GMT"
       },
       {
         "title": "Bessent says there may be deal Tuesday or Wednesday to open Strait of Hormuz with 'freedom of movement'",
@@ -768,34 +788,14 @@
         "published": "Tue, 04 Aug 2026 17:59:19 GMT"
       },
       {
+        "title": "AMD's revenue climbs 50% and data center sales doubled, but the stock is down",
+        "link": "https://www.cnbc.com/2026/08/04/amd-earnings-report-q2-2026.html",
+        "published": "Tue, 04 Aug 2026 21:18:18 GMT"
+      },
+      {
         "title": "Paramount Skydance raises full-year profit guidance, remains 'confident' about WBD merger",
         "link": "https://www.cnbc.com/2026/08/04/paramount-skydance-psky-earnings-q2-2026.html",
-        "published": "Tue, 04 Aug 2026 20:03:32 GMT"
-      },
-      {
-        "title": "Chipotle stock falls on potential link to salmonella outbreak in Minnesota",
-        "link": "https://www.cnbc.com/2026/08/04/chipotle-stock-falls-salmonella-outbreak-minnesota.html",
-        "published": "Tue, 04 Aug 2026 20:13:38 GMT"
-      },
-      {
-        "title": "Lucid misses second-quarter expectations as EV maker conducts 'operational reset'",
-        "link": "https://www.cnbc.com/2026/08/04/lucid-group-lcid-earnings-q2-2026.html",
-        "published": "Tue, 04 Aug 2026 20:05:27 GMT"
-      },
-      {
-        "title": "These two dividend payers just joined Evercore ISI’s list of best core ideas. Here’s who else made the grade",
-        "link": "https://www.cnbc.com/2026/08/04/two-dividend-payers-just-joined-evercore-isis-list-of-best-core-ideas.html",
-        "published": "Tue, 04 Aug 2026 19:44:12 GMT"
-      },
-      {
-        "title": "Oil prices tumble after Bessent says Strait of Hormuz deal may come this week",
-        "link": "https://www.cnbc.com/2026/08/04/oil-rises-after-selloff-as-talks-to-end-us-iran-war-remain-uncertain.html",
-        "published": "Tue, 04 Aug 2026 18:54:56 GMT"
-      },
-      {
-        "title": "Jeff Bezos just filed to sell $4 billion in Amazon. The shares are falling",
-        "link": "https://www.cnbc.com/2026/08/04/jeff-bezos-just-filed-to-sell-4-billion-in-amazon-the-shares-are-falling.html",
-        "published": "Tue, 04 Aug 2026 16:14:49 GMT"
+        "published": "Tue, 04 Aug 2026 21:15:03 GMT"
       }
     ]
   }
