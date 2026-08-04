@@ -1,89 +1,89 @@
 {
-  "generated_at": "2026-08-04T17:13:40",
+  "generated_at": "2026-08-04T18:54:52",
   "date": "2026-08-04",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7734.96,
-        "pct_change": 1.77
+        "last": 7744.51,
+        "pct_change": 1.89
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26545.61,
-        "pct_change": 2.44
+        "last": 26617.55,
+        "pct_change": 2.72
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 54178.1,
-        "pct_change": 1.88
+        "last": 54157.63,
+        "pct_change": 1.84
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3034.8,
-        "pct_change": 1.77
+        "last": 3038.08,
+        "pct_change": 1.88
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 16.27,
-        "pct_change": 2.59
+        "last": 16.52,
+        "pct_change": 4.16
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
         "last": 4.63,
-        "pct_change": -1.26
+        "pct_change": -1.17
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.92,
-        "pct_change": -0.04
+        "last": 99.9,
+        "pct_change": -0.06
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 76.06,
-        "pct_change": -5.33
+        "last": 75.84,
+        "pct_change": -5.6
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4156.3,
-        "pct_change": 3.04
+        "last": 4134.2,
+        "pct_change": 2.49
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 186.9,
-        "pct_change": 4.98
+        "last": 187.27,
+        "pct_change": 5.18
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 57.92,
-        "pct_change": 0.93
+        "last": 57.94,
+        "pct_change": 0.97
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 58.56,
-        "pct_change": -0.39
+        "last": 58.6,
+        "pct_change": -0.32
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 162.04,
-        "pct_change": -0.12
+        "last": 161.65,
+        "pct_change": -0.37
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 118.32,
-        "pct_change": 0.1
+        "last": 118.22,
+        "pct_change": 0.01
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 84.96,
-        "pct_change": 0.12
+        "last": 85.16,
+        "pct_change": 0.35
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 186.0,
-        "pct_change": 1.55
+        "last": 186.4,
+        "pct_change": 1.77
       },
       "Utilities": {
         "symbol": "XLU",
@@ -92,18 +92,18 @@
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 51.95,
-        "pct_change": 1.84
+        "last": 51.79,
+        "pct_change": 1.54
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 45.1,
-        "pct_change": -0.19
+        "last": 45.12,
+        "pct_change": -0.12
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 111.6,
-        "pct_change": 0.23
+        "last": 111.97,
+        "pct_change": 0.57
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 157.58,
-        "pct_change": 0.0
+        "last": 157.65,
+        "pct_change": 0.04
       }
     }
   },
@@ -143,52 +143,52 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 160.66,
-        "pct_change": 9.56
+        "last": 160.38,
+        "pct_change": 9.37
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 310.33,
-        "pct_change": 2.28
+        "last": 309.19,
+        "pct_change": 1.9
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 495.16,
-        "pct_change": 1.54
+        "last": 496.5,
+        "pct_change": 1.81
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 278.64,
-        "pct_change": -1.89
+        "last": 277.24,
+        "pct_change": -2.39
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 377.64,
-        "pct_change": 1.11
+        "last": 379.41,
+        "pct_change": 1.58
       },
       "Meta": {
         "symbol": "META",
-        "last": 586.21,
-        "pct_change": -0.68
+        "last": 588.36,
+        "pct_change": -0.32
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 856.42,
-        "pct_change": 9.81
+        "last": 857.03,
+        "pct_change": 9.89
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 333.01,
-        "pct_change": 15.57
+        "last": 330.17,
+        "pct_change": 14.58
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 171.02,
-        "pct_change": 4.7
+        "last": 171.56,
+        "pct_change": 5.03
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -371,6 +371,14 @@
       "country": "USD",
       "date": "2026-08-05T16:05:00-04:00",
       "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "President Trump Speaks",
+      "country": "USD",
+      "date": "2026-08-05T16:30:00-04:00",
+      "impact": "Medium",
       "forecast": "",
       "previous": ""
     },
@@ -671,42 +679,52 @@
         "published": "2026-08-04T15:00:00Z"
       },
       {
-        "title": "Palantir stock jumps nearly 30% after 'otherworldly' quarter as US commercial business booms",
-        "link": "https://finance.yahoo.com/markets/stocks/article/palantir-stock-jumps-nearly-30-after-otherworldly-quarter-as-us-commercial-business-booms-122817775.html",
-        "published": "2026-08-03T12:28:17Z"
+        "title": "BP Completes Sale of Gelsenkirchen Refinery to Klesch Group",
+        "link": "https://finance.yahoo.com/energy/articles/bp-completes-sale-gelsenkirchen-refinery-094556316.html",
+        "published": "2026-08-03T09:45:56Z"
       },
       {
-        "title": "SpaceX Earnings Due. Fewer Falcon 9 Launches, Tesla Merger, Share Lockup In Focus.",
-        "link": "https://www.investors.com/news/spacex-earnings-elon-musk-starlink-starship-falcon9-launches-ai-tesla-spcx-stock-lockup/?src=A00220&yptr=yahoo",
-        "published": "2026-08-04T16:53:23Z"
+        "title": "Gen Z is taking job interviews on their phones — hiring managers call it 'incredibly disrespectful.' What to do instead",
+        "link": "https://finance.yahoo.com/small-business/articles/gen-z-taking-job-interviews-093000418.html",
+        "published": "2026-08-03T09:30:00Z"
       },
       {
-        "title": "Tesla's Wholesale Sales In China Grow For Ninth Month In A Row",
-        "link": "https://www.investors.com/news/tesla-china-elon-musk-electric-vehicle-sales-byd/?src=A00220&yptr=yahoo",
-        "published": "2026-08-04T16:49:25Z"
+        "title": "BP Completes Sale of German Refinery as Portfolio Overhaul Accelerates",
+        "link": "https://finance.yahoo.com/energy/articles/bp-completes-sale-german-refinery-093000417.html",
+        "published": "2026-08-03T09:30:00Z"
       },
       {
-        "title": "What is whole life insurance? How it works.",
-        "link": "https://finance.yahoo.com/personal-finance/insurance/article/what-is-whole-life-insurance-213448917.html",
-        "published": "2023-12-15T22:11:25Z"
+        "title": "Best CD rates today, Monday, August 3, 2026: Lock in up to 4.10% APY",
+        "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-august-3-2026-lock-in-up-to-410-apy-100000001.html",
+        "published": "2026-08-03T10:00:00Z"
       },
       {
-        "title": "Social Security is becoming the primary retirement plan for many Americans. But it's rarely enough money.",
-        "link": "https://finance.yahoo.com/economy/article/social-security-is-becoming-the-primary-retirement-plan-for-many-americans-but-its-rarely-enough-money-161429269.html",
-        "published": "2026-08-04T16:14:29Z"
+        "title": "Visa loses bid to dismiss porn lawsuit",
+        "link": "https://finance.yahoo.com/media-advertising/articles/visa-loses-bid-dismiss-porn-094150818.html",
+        "published": "2026-08-03T09:41:50Z"
       },
       {
-        "title": "Applied Digital Corp (APLD)’s 400% Revenue Surge — Breakout AI Infrastructure Play or Risky Bet?",
-        "link": "https://finance.yahoo.com/technology/ai/articles/applied-digital-corp-apld-400-164148284.html",
-        "published": "2026-08-04T16:41:48Z"
+        "title": "5 hard truths about retirement you need to face before clocking out on your career — are you as ready as you think?",
+        "link": "https://finance.yahoo.com/markets/articles/5-hard-truths-retirement-face-100000639.html",
+        "published": "2026-08-03T10:00:00Z"
       },
       {
-        "title": "Markets see 'all hat, no cattle' in Fed's inflation credibility: Chart of the Day",
-        "link": "https://finance.yahoo.com/markets/article/markets-see-all-hat-no-cattle-in-feds-inflation-credibility-chart-of-the-day-164028370.html",
-        "published": "2026-08-04T16:40:28Z"
+        "title": "What Salesforce’s (CRM) $1.6 Billion VA Contract Signals for Its Government Cloud Strategy",
+        "link": "https://finance.yahoo.com/technology/ai/articles/salesforce-crm-1-6-billion-100007361.html",
+        "published": "2026-08-03T10:00:07Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "These charts suggest the S&P 500 is looking like a bargain. Take them with a grain of salt.",
+        "link": "https://www.marketwatch.com/story/these-charts-suggest-the-s-p-500-is-looking-like-a-bargain-take-them-with-a-grain-of-salt-f109548f?mod=mw_rss_topstories",
+        "published": "Tue, 04 Aug 2026 18:36:00 GMT"
+      },
+      {
+        "title": "If I marry my girlfriend, 67, will she lose her Supplemental Security Income and divorced spouse benefits?",
+        "link": "https://www.marketwatch.com/story/if-i-marry-my-girlfriend-67-will-she-lose-her-supplemental-security-income-and-divorced-spouse-benefits-9340bab9?mod=mw_rss_topstories",
+        "published": "Tue, 04 Aug 2026 18:15:00 GMT"
+      },
       {
         "title": "The richest 20% are buying most of the new cars sold in the U.S.",
         "link": "https://www.marketwatch.com/story/the-richest-20-are-buying-most-of-the-new-cars-sold-in-the-u-s-6e470ad4?mod=mw_rss_topstories",
@@ -736,28 +754,33 @@
         "title": "Palantir is leaving its software peers behind in the AI race",
         "link": "https://www.marketwatch.com/story/palantir-is-leaving-its-software-peers-behind-in-the-ai-race-45280581?mod=mw_rss_topstories",
         "published": "Tue, 04 Aug 2026 15:29:00 GMT"
-      },
-      {
-        "title": "Job openings fell to a 3-month low. Is the labor market losing momentum?",
-        "link": "https://www.marketwatch.com/story/job-openings-fell-to-a-3-month-low-is-the-labor-market-losing-momentum-05fcbc49?mod=mw_rss_topstories",
-        "published": "Tue, 04 Aug 2026 15:03:00 GMT"
-      },
-      {
-        "title": "Caterpillar’s stock gives the Dow a 200-point boost as data-center demand drives record revenue",
-        "link": "https://www.marketwatch.com/story/caterpillar-is-killing-it-and-data-center-demand-is-driving-record-revenue-161b84d1?mod=mw_rss_topstories",
-        "published": "Tue, 04 Aug 2026 14:36:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "Dow leaps 1,000 points fueled by earnings, hopes for Hormuz Strait deal; S&P 500 hits record: Live updates",
-        "link": "https://www.cnbc.com/2026/08/03/stock-market-today-live-updates.html",
-        "published": "Tue, 04 Aug 2026 17:13:17 GMT"
-      },
-      {
         "title": "SpaceX earnings live updates: First report since IPO comes ahead of massive share unlock",
         "link": "https://www.cnbc.com/2026/08/04/spacex-spcx-earnings-live-updates-q2-2026.html",
-        "published": "Tue, 04 Aug 2026 17:00:52 GMT"
+        "published": "Tue, 04 Aug 2026 18:22:06 GMT"
+      },
+      {
+        "title": "Dow leaps 1,000 points fueled by earnings, hopes for Hormuz Strait deal; S&P 500 hits record: Live updates",
+        "link": "https://www.cnbc.com/2026/08/03/stock-market-today-live-updates.html",
+        "published": "Tue, 04 Aug 2026 18:14:37 GMT"
+      },
+      {
+        "title": "Bessent says there may be deal Tuesday or Wednesday to open Strait of Hormuz with 'freedom of movement'",
+        "link": "https://www.cnbc.com/2026/08/04/bessent-says-there-may-be-deal-tuesday-or-wednesday-to-open-strait-of-hormuz-with-freedom-of-movement.html",
+        "published": "Tue, 04 Aug 2026 17:59:19 GMT"
+      },
+      {
+        "title": "Oil prices tumble after Bessent says Strait of Hormuz deal may come this week",
+        "link": "https://www.cnbc.com/2026/08/04/oil-rises-after-selloff-as-talks-to-end-us-iran-war-remain-uncertain.html",
+        "published": "Tue, 04 Aug 2026 18:54:01 GMT"
+      },
+      {
+        "title": "The S&P 500 is back at all-time highs, but technical analysts are eyeing this key level",
+        "link": "https://www.cnbc.com/2026/08/04/sp-500-is-at-all-time-highs-but-technical-analysts-are-watching-this-key-level.html",
+        "published": "Tue, 04 Aug 2026 17:16:39 GMT"
       },
       {
         "title": "Jeff Bezos just filed to sell $4 billion in Amazon. The shares are falling",
@@ -770,24 +793,9 @@
         "published": "Tue, 04 Aug 2026 16:59:49 GMT"
       },
       {
-        "title": "Procter & Gamble will acquire supplements brand Thorne for $3.8 billion, CEO tells CNBC",
-        "link": "https://www.cnbc.com/2026/08/04/procter-gamble-will-acquire-supplements-brand-thorne.html",
-        "published": "Tue, 04 Aug 2026 17:02:05 GMT"
-      },
-      {
-        "title": "SK Hynix U.S. shares will double in the next 12 months, Cantor Fitzgerald says",
-        "link": "https://www.cnbc.com/2026/08/04/sk-hynix-us-shares-will-double-in-the-next-12-months-cantor-fitzgerald-says-.html",
-        "published": "Tue, 04 Aug 2026 16:02:27 GMT"
-      },
-      {
-        "title": "New Jersey sues Amazon on antitrust grounds, alleging it unlawfully wielded its power over delivery contractors",
-        "link": "https://www.cnbc.com/2026/08/04/nj-amazon-antitrust-lawsuit-delivery-contractors.html",
-        "published": "Tue, 04 Aug 2026 16:34:05 GMT"
-      },
-      {
-        "title": "Blanche approved by Judiciary Committee, sending Trump's AG nominee to full Senate vote",
-        "link": "https://www.cnbc.com/2026/08/04/todd-blanche-weaponization-fund-senate-confirmation.html",
-        "published": "Tue, 04 Aug 2026 15:17:56 GMT"
+        "title": "Anthropic names global affairs chief to tackle AI policy as Trump tensions persist",
+        "link": "https://www.cnbc.com/2026/08/04/anthropic-names-global-affairs-chief-as-trump-tensions-persist.html",
+        "published": "Tue, 04 Aug 2026 17:47:25 GMT"
       }
     ]
   }
