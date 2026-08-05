@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-08-05T16:52:55",
+  "generated_at": "2026-08-05T18:18:19",
   "date": "2026-08-05",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7742.74,
-        "pct_change": 0.08
+        "last": 7742.18,
+        "pct_change": 0.07
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26506.54,
-        "pct_change": -0.3
+        "last": 26455.0,
+        "pct_change": -0.49
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 54538.61,
-        "pct_change": 0.84
+        "last": 54549.43,
+        "pct_change": 0.86
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3026.02,
-        "pct_change": -0.36
+        "last": 3029.85,
+        "pct_change": -0.23
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 16.03,
-        "pct_change": -2.85
+        "last": 15.81,
+        "pct_change": -4.18
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.63,
-        "pct_change": 0.13
+        "last": 4.62,
+        "pct_change": -0.22
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.75,
-        "pct_change": -0.14
+        "last": 99.65,
+        "pct_change": -0.24
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 75.37,
-        "pct_change": -0.53
+        "last": 75.15,
+        "pct_change": -0.82
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4305.9,
-        "pct_change": 5.14
+        "last": 4316.5,
+        "pct_change": 5.4
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 187.65,
-        "pct_change": 0.4
+        "last": 187.51,
+        "pct_change": 0.33
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 58.01,
-        "pct_change": 0.22
+        "last": 58.09,
+        "pct_change": 0.36
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 57.5,
-        "pct_change": -1.74
+        "last": 57.65,
+        "pct_change": -1.48
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 163.57,
-        "pct_change": 0.9
+        "last": 163.67,
+        "pct_change": 0.97
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 118.61,
-        "pct_change": 0.27
+        "last": 118.45,
+        "pct_change": 0.14
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 85.11,
-        "pct_change": -0.31
+        "last": 85.34,
+        "pct_change": -0.04
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 186.83,
-        "pct_change": 0.23
+        "last": 186.88,
+        "pct_change": 0.26
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 43.54,
-        "pct_change": -1.28
+        "last": 43.58,
+        "pct_change": -1.19
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 52.71,
-        "pct_change": 1.36
+        "last": 52.76,
+        "pct_change": 1.45
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 45.04,
-        "pct_change": -0.29
+        "last": 45.03,
+        "pct_change": -0.31
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 110.27,
-        "pct_change": -1.58
+        "last": 110.31,
+        "pct_change": -1.55
       }
     }
   },
@@ -138,58 +138,58 @@
       "as_of": "2026-08-04",
       "prev_yield": 2.824
     },
-    "spread_10y": 1.78
+    "spread_10y": 1.77
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 158.88,
-        "pct_change": -0.63
+        "last": 158.63,
+        "pct_change": -0.79
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 309.02,
-        "pct_change": -0.12
+        "last": 308.61,
+        "pct_change": -0.25
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 488.89,
-        "pct_change": -0.79
+        "last": 489.68,
+        "pct_change": -0.64
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 272.58,
-        "pct_change": -1.74
+        "last": 271.87,
+        "pct_change": -2.0
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 363.33,
-        "pct_change": -3.79
+        "last": 362.9,
+        "pct_change": -3.91
       },
       "Meta": {
         "symbol": "META",
-        "last": 584.24,
-        "pct_change": -0.63
+        "last": 583.21,
+        "pct_change": -0.81
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 849.5,
-        "pct_change": 0.0
+        "last": 848.82,
+        "pct_change": -0.08
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 333.67,
-        "pct_change": 3.07
+        "last": 334.79,
+        "pct_change": 3.41
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 174.08,
-        "pct_change": 1.61
+        "last": 173.97,
+        "pct_change": 1.54
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -680,46 +680,51 @@
         "published": "2026-08-04T15:00:00Z"
       },
       {
-        "title": "Nvidia stock rises after Musk says SpaceX will exclusively use company's chips",
-        "link": "https://finance.yahoo.com/technology/article/nvidia-stock-rises-after-musk-says-spacex-will-exclusively-use-companys-chips-211803293.html",
-        "published": "2026-08-04T21:18:03Z"
+        "title": "‘Quiet cracking’ is still impacting US workers. Here’s what you should know — and how to build a financial escape plan",
+        "link": "https://finance.yahoo.com/economy/articles/quiet-cracking-still-impacting-us-120000835.html",
+        "published": "2026-08-04T09:15:00Z"
       },
       {
-        "title": "How to choose the right car insurance coverage limits",
-        "link": "https://finance.yahoo.com/personal-finance/insurance/article/car-insurance-coverage-limits-202635629.html",
-        "published": "2024-07-30T20:26:35Z"
+        "title": "Ask an Advisor: I'm Netting $400k From Selling My House. Will I Owe Capital Gains Tax?",
+        "link": "https://finance.yahoo.com/markets/options/articles/aaa-im-selling-house-netting-195117637.html",
+        "published": "2026-08-04T09:00:00Z"
       },
       {
-        "title": "Two regional Fed banks to launch pilot survey of private credit market",
-        "link": "https://finance.yahoo.com/economy/policy/articles/two-regional-fed-banks-launch-163943783.html",
-        "published": "2026-08-05T16:39:43Z"
+        "title": "Jamie Dimon's dad handed him annual reports as a kid and had him play this 'brutally hard' game that shaped his life",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/jamie-dimons-dad-handed-him-090000757.html",
+        "published": "2026-08-04T09:00:00Z"
       },
       {
-        "title": "Sandisk stock steady ahead of AI highflier's earnings",
-        "link": "https://finance.yahoo.com/markets/stocks/article/sandisk-stock-steady-ahead-of-ai-highfliers-earnings-163703465.html",
-        "published": "2026-08-05T16:37:03Z"
+        "title": "Samsung's retail investors seek extra shareholder meeting over buybacks, bonuses",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/samsungs-retail-investors-seek-extra-085440620.html",
+        "published": "2026-08-04T08:54:40Z"
       },
       {
-        "title": "Market Digest: ADTN, BMY, ECL, PWR, ROL, DLR, GNRC, GEV, PLTR",
-        "link": "https://finance.yahoo.com/research/reports/ARGUS_47823_MarketSummary_1785928335000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+        "title": "Analyst Report: Digital Realty Trust Inc",
+        "link": "https://finance.yahoo.com/research/reports/ARGUS_4555_AnalystReport_1785928335000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
         "published": "2026-08-05T11:12:15Z"
       },
       {
-        "title": "Stock market today: Dow, S&P 500 climb as Trump says Hormuz deal is close, Nasdaq gives up gains",
-        "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-5-dow-sp-500-nasdaq-oil-093653327.html",
-        "published": "2026-08-05T09:36:53Z"
+        "title": "Bitcoin Remains Weak as Geopolitical Uncertainty Rises, Strategy Sells Bitcoin",
+        "link": "https://www.barrons.com/livecoverage/stock-market-news-today-080426/card/bitcoin-remains-weak-as-geopolitical-uncertainty-rises-strategy-sells-bitcoin-m0rDbtkYl6UKIEKW9SjU?siteid=yhoof2&yptr=yahoo",
+        "published": "2026-08-04T09:30:44Z"
       },
       {
-        "title": "Larry Ellison Just Collected a $579 Million Dividend Check. Here’s What $100,000 of Oracle Stock Would Pay You.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/larry-ellison-just-collected-579-163326607.html",
-        "published": "2026-08-05T16:33:26Z"
+        "title": "Amazon (AMZN) Paid $50 Billion for OpenAI. Microsoft (MSFT) Opened the Door but Kept the Keys",
+        "link": "https://finance.yahoo.com/technology/ai/articles/amazon-amzn-paid-50-billion-083135459.html",
+        "published": "2026-08-04T08:31:35Z"
       }
     ],
     "MarketWatch Top Stories": [
       {
         "title": "Alphabet’s stock drops as Google loses another key AI executive",
         "link": "https://www.marketwatch.com/story/alphabets-stock-drops-as-google-loses-another-key-ai-executive-38de45a2?mod=mw_rss_topstories",
-        "published": "Wed, 05 Aug 2026 16:45:00 GMT"
+        "published": "Wed, 05 Aug 2026 17:50:00 GMT"
+      },
+      {
+        "title": "How Ozempic maker Novo Nordisk blew its lead in GLP-1 weight-loss drugs. Can Europe compete in the high-stakes global economy?",
+        "link": "https://www.marketwatch.com/story/how-ozempic-maker-novo-nordisk-blew-its-lead-in-glp-1-weight-loss-drugs-can-europe-compete-in-the-high-stakes-global-economy-0a2bcfd0?mod=mw_rss_topstories",
+        "published": "Wed, 05 Aug 2026 16:52:00 GMT"
       },
       {
         "title": "5 things investors should know about the stock market’s latest rapid-fire comeback",
@@ -750,18 +755,13 @@
         "title": "Shopify’s stock heads for best day in a year after the company ‘left no doubt’ about its growth trajectory",
         "link": "https://www.marketwatch.com/story/shopifys-stock-heads-for-best-day-in-a-year-after-the-company-left-no-doubt-about-its-growth-trajectory-79551270?mod=mw_rss_topstories",
         "published": "Wed, 05 Aug 2026 14:59:00 GMT"
-      },
-      {
-        "title": "3 money rules I swear by — and why they work",
-        "link": "https://www.marketwatch.com/story/3-money-rules-i-swear-by-and-why-they-work-f7a1ad65?mod=mw_rss_topstories",
-        "published": "Wed, 05 Aug 2026 14:46:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
         "title": "Google's AI reshuffle: Chief scientist Jeff Dean exits and Demis Hassabis steps down as DeepMind CEO",
         "link": "https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html",
-        "published": "Wed, 05 Aug 2026 16:51:01 GMT"
+        "published": "Wed, 05 Aug 2026 17:18:50 GMT"
       },
       {
         "title": "Trump admin refunds $100 billion in 'liberation day' tariffs",
@@ -776,7 +776,17 @@
       {
         "title": "S&P 500 gives up gain as 4-day rally loses momentum; Dow boosted by Nvidia: Live updates",
         "link": "https://www.cnbc.com/2026/08/04/stock-market-today-live-updates.html",
-        "published": "Wed, 05 Aug 2026 16:45:34 GMT"
+        "published": "Wed, 05 Aug 2026 17:23:43 GMT"
+      },
+      {
+        "title": "Iran, Oman say Strait of Hormuz talks in final stages, as Trump again teases a deal being close",
+        "link": "https://www.cnbc.com/2026/08/05/us-iran-war-trump-hormuz-bessent-iran-deal-close.html",
+        "published": "Wed, 05 Aug 2026 17:21:58 GMT"
+      },
+      {
+        "title": "A bunch of small, under-the-radar stocks got Wall Street endorsements today, including one expected to surge nearly 30%",
+        "link": "https://www.cnbc.com/2026/08/05/small-stocks-get-wall-street-endorsements-including-elf-beauty.html",
+        "published": "Wed, 05 Aug 2026 17:51:54 GMT"
       },
       {
         "title": "Lisa Su brushes off Musk's Nvidia commitment as AMD stock sinks after earnings",
@@ -784,19 +794,9 @@
         "published": "Wed, 05 Aug 2026 16:00:55 GMT"
       },
       {
-        "title": "SpaceX's earnings are not helping its stock, but Nvidia is getting a boost",
-        "link": "https://www.cnbc.com/2026/08/05/spacexs-earnings-are-not-helping-its-stock-but-nvidia-is-getting-a-boost.html",
-        "published": "Wed, 05 Aug 2026 16:20:34 GMT"
-      },
-      {
-        "title": "Abdul El-Sayed wins Michigan Democratic Senate primary as voters pivot to the left",
-        "link": "https://www.cnbc.com/2026/08/04/abdul-el-sayed-haley-stevens-michigan-primary.html",
-        "published": "Wed, 05 Aug 2026 16:51:00 GMT"
-      },
-      {
-        "title": "SpaceX moon crash is a perfect metaphor for rocket maker’s share price, analysts say",
-        "link": "https://www.cnbc.com/2026/08/05/spacex-moon-crash-share-price-elon-musk.html",
-        "published": "Wed, 05 Aug 2026 16:17:35 GMT"
+        "title": "SpaceX stock falls 12% as AI spending surge rattles investors and massive share unlock looms",
+        "link": "https://www.cnbc.com/2026/08/05/spacex-spcx-stock-today-earnings.html",
+        "published": "Wed, 05 Aug 2026 18:16:18 GMT"
       }
     ]
   }
