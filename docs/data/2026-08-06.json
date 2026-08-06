@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-08-06T12:53:56",
+  "generated_at": "2026-08-06T15:13:12",
   "date": "2026-08-06",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7723.55,
-        "pct_change": -0.17
+        "last": 7727.09,
+        "pct_change": 0.05
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26363.44,
-        "pct_change": -0.83
+        "last": 26444.32,
+        "pct_change": 0.31
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 54349.12,
-        "pct_change": 0.49
+        "last": 54108.77,
+        "pct_change": -0.44
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3019.19,
-        "pct_change": -0.59
+        "last": 3024.41,
+        "pct_change": 0.17
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.97,
-        "pct_change": 1.01
+        "last": 15.35,
+        "pct_change": -2.91
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
         "last": 4.64,
-        "pct_change": 0.56
+        "pct_change": 0.61
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.75,
-        "pct_change": 0.06
+        "last": 99.86,
+        "pct_change": 0.17
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 76.37,
-        "pct_change": 1.53
+        "last": 76.66,
+        "pct_change": 1.91
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4320.7,
-        "pct_change": 1.76
+        "last": 4330.3,
+        "pct_change": 1.99
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 185.91,
-        "pct_change": -0.53
+        "last": 186.69,
+        "pct_change": 0.42
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 58.0,
-        "pct_change": 0.21
+        "last": 57.7,
+        "pct_change": -0.52
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 57.31,
-        "pct_change": -2.07
+        "last": 57.85,
+        "pct_change": 0.93
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 164.16,
-        "pct_change": 1.27
+        "last": 163.7,
+        "pct_change": -0.28
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 118.64,
-        "pct_change": 0.3
+        "last": 118.54,
+        "pct_change": -0.08
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 85.33,
-        "pct_change": -0.05
+        "last": 85.24,
+        "pct_change": -0.11
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 186.35,
-        "pct_change": -0.03
+        "last": 185.5,
+        "pct_change": -0.46
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 43.66,
-        "pct_change": -1.02
+        "last": 43.64,
+        "pct_change": -0.05
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 52.64,
-        "pct_change": 1.23
+        "last": 52.38,
+        "pct_change": -0.48
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 45.2,
-        "pct_change": 0.07
+        "last": 44.97,
+        "pct_change": -0.5
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 110.87,
-        "pct_change": -1.04
+        "last": 111.26,
+        "pct_change": 0.35
       }
     }
   },
@@ -111,8 +111,8 @@
     "indices": {
       "Nikkei 225": {
         "symbol": "^N225",
-        "last": 65683.26,
-        "pct_change": -0.93
+        "last": 66300.44,
+        "pct_change": 3.66
       },
       "TOPIX (ETF代理)": {
         "symbol": "1306.T",
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 157.89,
-        "pct_change": 0.12
+        "last": 158.36,
+        "pct_change": 0.43
       }
     }
   },
@@ -131,7 +131,7 @@
       "effr": 3.63,
       "target_low": 3.5,
       "target_high": 3.75,
-      "as_of": "2026-08-04"
+      "as_of": "2026-08-05"
     },
     "japan": {
       "yield": 2.813,
@@ -144,57 +144,57 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 156.7,
-        "pct_change": -2.0
+        "last": 161.7,
+        "pct_change": 3.19
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 311.0,
-        "pct_change": 0.52
+        "last": 312.42,
+        "pct_change": 0.45
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 487.46,
-        "pct_change": -1.09
+        "last": 496.59,
+        "pct_change": 1.87
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 272.65,
-        "pct_change": -1.72
+        "last": 273.95,
+        "pct_change": 0.48
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 362.43,
-        "pct_change": -4.03
+        "last": 359.46,
+        "pct_change": -0.82
       },
       "Meta": {
         "symbol": "META",
-        "last": 588.77,
-        "pct_change": 0.14
+        "last": 589.79,
+        "pct_change": 0.17
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 826.26,
-        "pct_change": -2.73
+        "last": 879.0,
+        "pct_change": 6.38
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 328.22,
-        "pct_change": 1.39
+        "last": 347.11,
+        "pct_change": 5.76
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 172.24,
-        "pct_change": 0.53
+        "last": 172.75,
+        "pct_change": 0.3
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 5786.0,
-        "pct_change": 0.36
+        "last": 5765.0,
+        "pct_change": 3.22
       }
     }
   },
@@ -675,29 +675,29 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "Mercury Systems’ (MRCY) Turnaround Gains Traction With Accelerated Growth",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/mercury-systems-mrcy-turnaround-gains-124144486.html",
-        "published": "2026-08-06T12:41:44Z"
+        "title": "Is the Intel stock rally back? AlphaSpace stats to know.",
+        "link": "https://finance.yahoo.com/markets/article/is-the-intel-stock-rally-back-alphaspace-stats-to-know-145758235.html",
+        "published": "2026-08-06T14:57:58Z"
       },
       {
-        "title": "Digi International (DGII) Strengthens on Record Revenue",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/digi-international-dgii-strengthens-record-123944719.html",
-        "published": "2026-08-06T12:39:44Z"
+        "title": "Aya Gold & Silver expands exploration in Morocco",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/aya-gold-silver-expands-exploration-144638005.html",
+        "published": "2026-08-06T14:46:38Z"
       },
       {
-        "title": "Mud Jeans files bankruptcy after failing to overcome debt burden",
-        "link": "https://finance.yahoo.com/small-business/articles/mud-jeans-files-bankruptcy-failing-123642624.html",
-        "published": "2026-08-06T12:36:42Z"
+        "title": "Earnings live updates: Datadog plunges 20% amid likely profit-taking, dragging on software stocks",
+        "link": "https://finance.yahoo.com/markets/live/earnings-live-updates-130425228.html",
+        "published": "2026-08-03T13:04:25Z"
       },
       {
-        "title": "Stock market today: Nasdaq futures slip, Dow and S&P 500 futures inch up as earnings roll on",
-        "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-6-dow-sp-nasdaq-091620000.html",
-        "published": "2026-08-06T09:16:20Z"
+        "title": "Software stocks sink, led by declines from Figma, Datadog",
+        "link": "https://finance.yahoo.com/markets/article/software-stocks-sink-led-by-declines-from-figma-datadog-144104020.html",
+        "published": "2026-08-06T14:41:04Z"
       },
       {
-        "title": "Why the Sandisk earnings sell-off looks absurd",
-        "link": "https://finance.yahoo.com/markets/stocks/article/why-the-sandisk-earnings-sell-off-looks-absurd-122521716.html",
-        "published": "2026-08-06T12:25:21Z"
+        "title": "Insmed Catapults 30%, Leading A Biotech Rally; But Mirum Takes A Bath",
+        "link": "https://www.investors.com/news/technology/insmed-stock-insmed-earnings-mirum-stock-praxis-stock/?src=A00220&yptr=yahoo",
+        "published": "2026-08-06T14:40:13Z"
       },
       {
         "title": "Daily Spotlight: Value Stocks Surge",
@@ -705,98 +705,98 @@
         "published": "2026-08-06T11:27:50Z"
       },
       {
-        "title": "Salesforce (CRM) Declined as Market Questions SaaS Resilience",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-declined-market-questions-122453256.html",
-        "published": "2026-08-06T12:24:53Z"
+        "title": "Stock Market Today: Nasdaq Turns Up; These AI Plays Dismiss Sandisk, Western Digital Sell-Offs (Live Coverage)",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-ai-stocks-sandisk-western-digital/?src=A00220&yptr=yahoo",
+        "published": "2026-08-06T14:39:47Z"
       },
       {
-        "title": "TransDigm Group Incorporated Q3 2026 Earnings Call Summary",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/transdigm-group-incorporated-q3-2026-021541650.html",
-        "published": "2026-08-05T02:15:41Z"
+        "title": "Lyft Earnings Prediction Market Preview: What Will David Risher Say?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/lyft-earnings-prediction-market-preview-144506227.html",
+        "published": "2026-08-06T14:45:06Z"
       }
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "Hedge funds forced out of tech stocks may leave the market at the mercy of retail traders",
-        "link": "https://www.marketwatch.com/story/hedge-funds-forced-out-of-tech-stocks-may-leave-the-market-at-the-mercy-of-retail-traders-bfb0a867?mod=mw_rss_topstories",
-        "published": "Thu, 06 Aug 2026 12:47:00 GMT"
+        "title": "SpaceX insiders get their first chance to cash out — but the stock’s slide will limit their opportunity",
+        "link": "https://www.marketwatch.com/story/spacex-insiders-get-their-first-chance-to-cash-out-but-the-stocks-slide-will-limit-their-opportunity-5c94b0f5?mod=mw_rss_topstories",
+        "published": "Thu, 06 Aug 2026 14:55:00 GMT"
       },
       {
-        "title": "Fiserv’s stock drops as the company goes through another bruising ‘reset’",
-        "link": "https://www.marketwatch.com/story/fiservs-stock-drops-as-the-company-goes-through-another-bruising-reset-2efceea3?mod=mw_rss_topstories",
-        "published": "Thu, 06 Aug 2026 12:36:00 GMT"
+        "title": "As a woman of color who travels alone, is it a waste of money to visit places with zero diversity?",
+        "link": "https://www.marketwatch.com/story/as-a-woman-of-color-who-travels-alone-is-it-a-waste-of-money-to-visit-places-with-zero-diversity-6de89785?mod=mw_rss_topstories",
+        "published": "Thu, 06 Aug 2026 14:54:00 GMT"
       },
       {
-        "title": "Aggressive options trading helped drive the S&P 500’s latest rally. What that means for investors.",
-        "link": "https://www.marketwatch.com/story/aggressive-options-trading-helped-drive-the-s-p-500s-latest-rally-what-that-means-for-investors-623fe41c?mod=mw_rss_topstories",
-        "published": "Thu, 06 Aug 2026 12:12:00 GMT"
+        "title": "Missouri voters just rejected a bid to ditch income tax, while other tax votes loom in Florida and California this fall",
+        "link": "https://www.marketwatch.com/story/taxes-are-on-the-ballot-this-fall-as-republicans-and-democrats-grow-further-apart-on-whether-to-raise-them-c7990380?mod=mw_rss_topstories",
+        "published": "Thu, 06 Aug 2026 14:07:00 GMT"
       },
       {
-        "title": "If I marry my girlfriend, 67, will she lose her Supplemental Security Income and divorced spouse benefits?",
-        "link": "https://www.marketwatch.com/story/if-i-marry-my-girlfriend-67-will-she-lose-her-supplemental-security-income-and-divorced-spouse-benefits-9340bab9?mod=mw_rss_topstories",
-        "published": "Thu, 06 Aug 2026 12:00:00 GMT"
+        "title": "Layoffs fall to the lowest level since the U.S. put men on the moon. Here’s what that says about the economy.",
+        "link": "https://www.marketwatch.com/story/layoffs-fall-to-the-lowest-level-since-the-u-s-put-men-on-the-moon-heres-what-that-says-about-the-economy-71f7bd23?mod=mw_rss_topstories",
+        "published": "Thu, 06 Aug 2026 14:03:00 GMT"
       },
       {
-        "title": "This mom spent $2,000 on her kindergartner as viral ‘back-to-school hauls’ on TikTok and YouTube spin out of control",
-        "link": "https://www.marketwatch.com/story/this-mom-spent-2-000-on-her-kindergartner-as-viral-back-to-school-hauls-on-tiktok-and-youtube-spin-out-of-control-0be2949d?mod=mw_rss_topstories",
-        "published": "Thu, 06 Aug 2026 12:00:00 GMT"
+        "title": "‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
+        "link": "https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories",
+        "published": "Thu, 06 Aug 2026 14:00:00 GMT"
       },
       {
-        "title": "33 stocks to bet on foreign markets continuing to beat the S&P 500",
-        "link": "https://www.marketwatch.com/story/33-stocks-to-bet-on-foreign-markets-continuing-to-beat-the-s-p-500-7d63dabc?mod=mw_rss_topstories",
-        "published": "Thu, 06 Aug 2026 11:30:00 GMT"
+        "title": "‘He’s never been good with money’: If I set up an annuity for my brother, 65, would it jeopardize his Supplemental Security Income?",
+        "link": "https://www.marketwatch.com/story/hes-never-been-good-with-money-if-i-set-up-an-annuity-for-my-brother-65-would-it-jeopardize-his-supplemental-security-income-d2e9f5a0?mod=mw_rss_topstories",
+        "published": "Thu, 06 Aug 2026 14:00:00 GMT"
       },
       {
-        "title": "SoftBank earnings exceed expectations, even without an OpenAI boost. This U.S. chip company saved the day.",
-        "link": "https://www.marketwatch.com/story/softbank-earnings-exceed-expectations-even-without-an-openai-boost-this-u-s-chip-company-saved-the-day-2223845e?mod=mw_rss_topstories",
-        "published": "Thu, 06 Aug 2026 11:03:00 GMT"
+        "title": "How to earn a 9% dividend yield while cutting your risk in the stock market",
+        "link": "https://www.marketwatch.com/story/how-to-earn-a-9-dividend-yield-while-cutting-your-risk-in-the-stock-market-348de255?mod=mw_rss_topstories",
+        "published": "Thu, 06 Aug 2026 13:56:00 GMT"
       },
       {
-        "title": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?",
-        "link": "https://www.marketwatch.com/story/should-wealthier-americans-forgo-their-social-security-benefits-as-a-charitable-gesture-2c7b6801?mod=mw_rss_topstories",
-        "published": "Thu, 06 Aug 2026 11:00:00 GMT"
+        "title": "Senate vote on the Protect College Sports Act could come this week: What it means for transfers and salary caps",
+        "link": "https://www.marketwatch.com/story/senate-vote-on-the-protect-college-sports-act-could-come-this-week-what-it-means-for-transfers-and-salary-caps-58088560?mod=mw_rss_topstories",
+        "published": "Thu, 06 Aug 2026 13:49:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "U.S. ready to return to ‘commitments,’ Iran says as Strait of Hormuz deal looms",
-        "link": "https://www.cnbc.com/2026/08/06/us-iran-war-hormuz-trump-bessent-deal.html",
-        "published": "Thu, 06 Aug 2026 12:17:28 GMT"
+        "title": "S&P 500 is little changed as traders monitor Iran; Sandisk shares fall: Live updates",
+        "link": "https://www.cnbc.com/2026/08/05/stock-market-today-live-updates.html",
+        "published": "Thu, 06 Aug 2026 14:57:55 GMT"
+      },
+      {
+        "title": "Ford's new 'Fathom' electric pickup truck will start at $28,000",
+        "link": "https://www.cnbc.com/2026/08/06/ford-fathom-pickup-truck-price.html",
+        "published": "Thu, 06 Aug 2026 13:29:39 GMT"
       },
       {
         "title": "SpaceX stock could face further pressure as first batch of shares unlock since IPO",
         "link": "https://www.cnbc.com/2026/08/06/spacex-faces-test-as-shares-unlock-allowing-early-investors-cash-out.html",
-        "published": "Thu, 06 Aug 2026 12:00:01 GMT"
+        "published": "Thu, 06 Aug 2026 13:20:54 GMT"
       },
       {
-        "title": "World's biggest spirits maker pops 7% on $1 billion cost-cutting plan",
-        "link": "https://www.cnbc.com/2026/08/06/diageo-savings-plan-restructuring-earnings-spirits.html",
-        "published": "Thu, 06 Aug 2026 11:45:02 GMT"
+        "title": "'AI Kill Switch' bill needs to be passed this year amid ongoing rogue agent hacks, Rep. Lieu says",
+        "link": "https://www.cnbc.com/2026/08/06/ai-kill-switch-bill-openai-anthropic-meta.html",
+        "published": "Thu, 06 Aug 2026 14:57:11 GMT"
       },
       {
-        "title": "Ukraine’s military hits one of Russia’s biggest oil refineries in long-range drone attack",
-        "link": "https://www.cnbc.com/2026/08/06/ukraine-war-russia-zelenskyy-oil-refinery.html",
-        "published": "Thu, 06 Aug 2026 11:46:34 GMT"
+        "title": "Fox advertising, streaming service Tubi get boost from World Cup",
+        "link": "https://www.cnbc.com/2026/08/06/fox-advertising-streaming-service-tubi-get-boost-from-world-cup.html",
+        "published": "Thu, 06 Aug 2026 15:13:03 GMT"
       },
       {
-        "title": "This software stock was once a top performer. Piper Sandler says stay away",
-        "link": "https://www.cnbc.com/2026/08/06/this-software-stock-was-once-a-top-performer-piper-sandler-says-stay-away.html",
-        "published": "Thu, 06 Aug 2026 10:49:35 GMT"
+        "title": "Top tech analyst Mahaney sees 45% upside for this food delivery platform",
+        "link": "https://www.cnbc.com/2026/08/06/top-tech-analyst-mahaney-sees-45percent-upside-for-this-food-delivery-platform.html",
+        "published": "Thu, 06 Aug 2026 14:36:26 GMT"
       },
       {
-        "title": "JPMorgan's Jamie Dimon warns of high leverage: 'Somebody will disrupt the market'",
-        "link": "https://www.cnbc.com/2026/08/06/jpmorgan-jamie-dimon-leverage-market-disruption.html",
-        "published": "Thu, 06 Aug 2026 02:02:39 GMT"
+        "title": "Versant shares surge 10% after company raises 2026 outlook on platforms, advertising momentum",
+        "link": "https://www.cnbc.com/2026/08/06/versant-vsnt-earnings-q2-2026.html",
+        "published": "Thu, 06 Aug 2026 15:00:22 GMT"
       },
       {
-        "title": "Google is expanding its AI empire — and losing the people who built it",
-        "link": "https://www.cnbc.com/2026/08/05/google-is-expanding-its-ai-empire-and-losing-the-people-who-built-it.html",
-        "published": "Thu, 06 Aug 2026 10:18:51 GMT"
-      },
-      {
-        "title": "Restaurant Brands International earnings beat as Burger King's U.S. business soars",
-        "link": "https://www.cnbc.com/2026/08/06/restaurant-brands-international-q2-2026-earnings.html",
-        "published": "Thu, 06 Aug 2026 11:38:35 GMT"
+        "title": "Fox won't renegotiate NFL media rights before current deal expires, CEO Lachlan Murdoch says",
+        "link": "https://www.cnbc.com/2026/08/06/fox-nfl-media-rights-renegotiations-opt-out.html",
+        "published": "Thu, 06 Aug 2026 13:57:20 GMT"
       }
     ]
   }
