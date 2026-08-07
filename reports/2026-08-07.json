@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T11:07:42",
+  "generated_at": "2026-08-07T11:56:10",
   "date": "2026-08-07",
   "market_sentiment": {
     "indices": {
@@ -25,8 +25,8 @@
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.27,
-        "pct_change": 0.79
+        "last": 15.21,
+        "pct_change": 0.4
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
@@ -35,18 +35,18 @@
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.92,
-        "pct_change": -0.05
+        "last": 99.88,
+        "pct_change": -0.09
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 76.88,
-        "pct_change": -0.53
+        "last": 76.68,
+        "pct_change": -0.79
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4376.2,
-        "pct_change": 3.16
+        "last": 4382.5,
+        "pct_change": 3.31
       }
     },
     "sectors": {
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 158.28,
-        "pct_change": 0.43
+        "last": 158.32,
+        "pct_change": 0.45
       }
     }
   },
@@ -675,34 +675,9 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "SpaceX created a new class of ultrawealthy. Here’s what comes next",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-created-class-ultrawealthy-comes-225707373.html",
-        "published": "2026-08-05T22:57:07Z"
-      },
-      {
-        "title": "How to choose the right car insurance coverage limits",
-        "link": "https://finance.yahoo.com/personal-finance/insurance/article/car-insurance-coverage-limits-202635629.html",
-        "published": "2024-07-30T20:26:35Z"
-      },
-      {
-        "title": "This Dividend King Yields Over 4% and Trades Near Its 52-Week Lows, But Don’t Rush to Buy the Dip",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/dividend-king-yields-over-4-233002319.html",
-        "published": "2026-08-05T23:30:02Z"
-      },
-      {
-        "title": "Is umbrella insurance worth it? What to know about coverage, costs, and limits.",
-        "link": "https://finance.yahoo.com/personal-finance/insurance/article/umbrella-insurance-223354355.html",
-        "published": "2025-07-22T22:33:54Z"
-      },
-      {
-        "title": "Do college students need renters insurance?",
-        "link": "https://finance.yahoo.com/personal-finance/insurance/article/renters-insurance-for-college-students-154047282.html",
-        "published": "2026-08-05T15:40:47Z"
-      },
-      {
-        "title": "Musk Says SpaceX Revenue Could Hit $1 Trillion a Year Early Even as Stock Slides",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/musk-says-spacex-revenue-could-225745291.html",
-        "published": "2026-08-05T22:57:45Z"
+        "title": "A Life360 Director Sold Stock at Exactly $60. Here's What Long-Term Investors Should Know",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/life360-director-sold-stock-exactly-234853862.html",
+        "published": "2026-08-05T23:48:53Z"
       },
       {
         "title": "Cash Conversion Cycle Warning: Middle-Market Squeeze Revealed",
@@ -713,6 +688,31 @@
         "title": "A10 Networks, Inc. Q2 2026 Earnings Call Summary",
         "link": "https://finance.yahoo.com/markets/stocks/articles/a10-networks-inc-q2-2026-014357622.html",
         "published": "2026-08-06T01:43:57Z"
+      },
+      {
+        "title": "Kyndryl Holdings, Inc. Q1 2027 Earnings Call Summary",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/kyndryl-holdings-inc-q1-2027-014529608.html",
+        "published": "2026-08-06T01:45:29Z"
+      },
+      {
+        "title": "Sarepta Therapeutics, Inc. Q2 2026 Earnings Call Summary",
+        "link": "https://finance.yahoo.com/healthcare/articles/sarepta-therapeutics-inc-q2-2026-014538379.html",
+        "published": "2026-08-06T01:45:38Z"
+      },
+      {
+        "title": "The Small Cap Watch: Healthcare, critical minerals and gold explorers advance projects",
+        "link": "https://finance.yahoo.com/small-business/articles/small-cap-watch-healthcare-critical-234900807.html",
+        "published": "2026-08-05T23:49:00Z"
+      },
+      {
+        "title": "Fed's Daly says central bank was right to hold rates steady at July policy meeting",
+        "link": "https://finance.yahoo.com/economy/policy/articles/feds-daly-says-central-bank-011816940.html",
+        "published": "2026-08-06T01:45:52Z"
+      },
+      {
+        "title": "KORU Medical Systems, Inc. Q2 2026 Earnings Call Summary",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/koru-medical-systems-inc-q2-015701160.html",
+        "published": "2026-08-06T01:57:01Z"
       }
     ],
     "MarketWatch Top Stories": [
@@ -727,7 +727,7 @@
         "published": "Fri, 07 Aug 2026 11:00:00 GMT"
       },
       {
-        "title": "How S&P 500 options action may help explain volatility in memory stocks",
+        "title": "How S&P 500 options action may help explain the rising volatility in memory stocks",
         "link": "https://www.marketwatch.com/story/how-s-p-500-options-action-may-help-explain-volatility-in-memory-stocks-58d95beb?mod=mw_rss_topstories",
         "published": "Fri, 07 Aug 2026 10:56:00 GMT"
       },
@@ -761,7 +761,7 @@
       {
         "title": "The July jobs numbers are due out Friday. Here's what to expect",
         "link": "https://www.cnbc.com/2026/08/06/the-july-jobs-numbers-are-due-out-friday-heres-what-to-expect.html",
-        "published": "Thu, 06 Aug 2026 20:15:22 GMT"
+        "published": "Fri, 07 Aug 2026 11:23:07 GMT"
       },
       {
         "title": "Solar stocks shine after Trump extends China tariffs to polysilicon products",
@@ -779,9 +779,9 @@
         "published": "Fri, 07 Aug 2026 02:08:42 GMT"
       },
       {
-        "title": "This building materials stock has a favorable setup and a breakout could be in the cards, charts show",
-        "link": "https://www.cnbc.com/2026/08/06/this-building-materials-stock-has-a-favorable-setup-charts-show.html",
-        "published": "Thu, 06 Aug 2026 18:38:13 GMT"
+        "title": "Citi downgrades airline stock to 'sell' worries about leisure travel",
+        "link": "https://www.cnbc.com/2026/08/07/citi-downgrades-airline-stock-to-sell-worries-about-leisure-travel.html",
+        "published": "Fri, 07 Aug 2026 11:39:48 GMT"
       },
       {
         "title": "Virginia governor to intervene in NextEra, Dominion merger over electricity price concerns",
@@ -794,9 +794,9 @@
         "published": "Thu, 06 Aug 2026 17:01:07 GMT"
       },
       {
-        "title": "Grindr's AI spend is paying off and its pricey new tier has had some surprises, CEO says",
-        "link": "https://www.cnbc.com/2026/08/06/grindr-grnd-stock-earnings-ai.html",
-        "published": "Thu, 06 Aug 2026 22:26:01 GMT"
+        "title": "GAO finds Elon Musk's DOGE inflated claims of $110 billion in savings for federal government",
+        "link": "https://www.cnbc.com/2026/08/06/doge-elon-musk-gao-government-cost-cuts.html",
+        "published": "Thu, 06 Aug 2026 22:19:52 GMT"
       }
     ]
   }
