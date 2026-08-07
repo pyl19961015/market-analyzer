@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T11:56:10",
+  "generated_at": "2026-08-07T13:00:46",
   "date": "2026-08-07",
   "market_sentiment": {
     "indices": {
@@ -25,28 +25,28 @@
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.21,
-        "pct_change": 0.4
+        "last": 15.26,
+        "pct_change": 0.73
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.67,
-        "pct_change": 1.15
+        "last": 4.61,
+        "pct_change": -1.39
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.88,
-        "pct_change": -0.09
+        "last": 99.42,
+        "pct_change": -0.55
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 76.68,
-        "pct_change": -0.79
+        "last": 76.83,
+        "pct_change": -0.6
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4382.5,
-        "pct_change": 3.31
+        "last": 4428.7,
+        "pct_change": 4.4
       }
     },
     "sectors": {
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 158.32,
-        "pct_change": 0.45
+        "last": 157.35,
+        "pct_change": -0.16
       }
     }
   },
@@ -131,14 +131,14 @@
       "effr": 3.63,
       "target_low": 3.5,
       "target_high": 3.75,
-      "as_of": "2026-08-05"
+      "as_of": "2026-08-06"
     },
     "japan": {
       "yield": 2.773,
       "as_of": "2026-08-06",
       "prev_yield": 2.813
     },
-    "spread_10y": 1.9
+    "spread_10y": 1.84
   },
   "watchlist": {
     "holdings": {
@@ -675,9 +675,9 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "A Life360 Director Sold Stock at Exactly $60. Here's What Long-Term Investors Should Know",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/life360-director-sold-stock-exactly-234853862.html",
-        "published": "2026-08-05T23:48:53Z"
+        "title": "American Tungsten & Antimony starts Del Sol refinery restart and expansion planning",
+        "link": "https://finance.yahoo.com/energy/articles/american-tungsten-antimony-starts-del-005400950.html",
+        "published": "2026-08-06T00:54:00Z"
       },
       {
         "title": "Cash Conversion Cycle Warning: Middle-Market Squeeze Revealed",
@@ -690,19 +690,9 @@
         "published": "2026-08-06T01:43:57Z"
       },
       {
-        "title": "Kyndryl Holdings, Inc. Q1 2027 Earnings Call Summary",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/kyndryl-holdings-inc-q1-2027-014529608.html",
-        "published": "2026-08-06T01:45:29Z"
-      },
-      {
         "title": "Sarepta Therapeutics, Inc. Q2 2026 Earnings Call Summary",
         "link": "https://finance.yahoo.com/healthcare/articles/sarepta-therapeutics-inc-q2-2026-014538379.html",
         "published": "2026-08-06T01:45:38Z"
-      },
-      {
-        "title": "The Small Cap Watch: Healthcare, critical minerals and gold explorers advance projects",
-        "link": "https://finance.yahoo.com/small-business/articles/small-cap-watch-healthcare-critical-234900807.html",
-        "published": "2026-08-05T23:49:00Z"
       },
       {
         "title": "Fed's Daly says central bank was right to hold rates steady at July policy meeting",
@@ -710,12 +700,27 @@
         "published": "2026-08-06T01:45:52Z"
       },
       {
-        "title": "KORU Medical Systems, Inc. Q2 2026 Earnings Call Summary",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/koru-medical-systems-inc-q2-015701160.html",
-        "published": "2026-08-06T01:57:01Z"
+        "title": "Analyst Report: Space Exploration Tech. Corp",
+        "link": "https://finance.yahoo.com/research/reports/ARGUS_6806_AnalystReport_1786101521000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+        "published": "2026-08-07T11:18:41Z"
+      },
+      {
+        "title": "The Investors Whose SpaceX Shares Vanished Before They Could Cash In",
+        "link": "https://www.wsj.com/finance/stocks/spacex-ipo-spv-investors-2698a174?siteid=yhoof2&yptr=yahoo",
+        "published": "2026-08-06T01:00:00Z"
+      },
+      {
+        "title": "Kyndryl Holdings, Inc. Q1 2027 Earnings Call Summary",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/kyndryl-holdings-inc-q1-2027-014529608.html",
+        "published": "2026-08-06T01:45:29Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "How S&P 500 options action may help explain the rising volatility in memory stocks",
+        "link": "https://www.marketwatch.com/story/how-s-p-500-options-action-may-help-explain-volatility-in-memory-stocks-58d95beb?mod=mw_rss_topstories",
+        "published": "Fri, 07 Aug 2026 12:38:00 GMT"
+      },
       {
         "title": "Kevin O’Leary, aka ‘Mr. Wonderful,’ on crypto, winning in AI and 3 things all business owners must know",
         "link": "https://www.marketwatch.com/story/kevin-oleary-aka-mr-wonderful-on-crypto-winning-in-ai-and-3-things-all-business-owners-must-know-5339ff6c?mod=mw_rss_topstories",
@@ -727,12 +732,7 @@
         "published": "Fri, 07 Aug 2026 11:00:00 GMT"
       },
       {
-        "title": "How S&P 500 options action may help explain the rising volatility in memory stocks",
-        "link": "https://www.marketwatch.com/story/how-s-p-500-options-action-may-help-explain-volatility-in-memory-stocks-58d95beb?mod=mw_rss_topstories",
-        "published": "Fri, 07 Aug 2026 10:56:00 GMT"
-      },
-      {
-        "title": "There are good reasons why higher bond yields are here to stay, this strategist says",
+        "title": "There are good reasons higher bond yields are here to stay, this strategist says",
         "link": "https://www.marketwatch.com/story/there-are-good-reasons-why-higher-bond-yields-are-here-to-stay-this-strategist-says-2a89d5ae?mod=mw_rss_topstories",
         "published": "Fri, 07 Aug 2026 10:02:00 GMT"
       },
@@ -759,19 +759,14 @@
     ],
     "CNBC Top News": [
       {
-        "title": "The July jobs numbers are due out Friday. Here's what to expect",
-        "link": "https://www.cnbc.com/2026/08/06/the-july-jobs-numbers-are-due-out-friday-heres-what-to-expect.html",
-        "published": "Fri, 07 Aug 2026 11:23:07 GMT"
+        "title": "U.S. economy unexpectedly lost 23,000 jobs in July",
+        "link": "https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html",
+        "published": "Fri, 07 Aug 2026 12:53:12 GMT"
       },
       {
         "title": "Solar stocks shine after Trump extends China tariffs to polysilicon products",
         "link": "https://www.cnbc.com/2026/08/07/polysilicon-solar-tariffs-donald-trump-us-china-trade-war-energy-semiconductors.html",
-        "published": "Fri, 07 Aug 2026 10:31:29 GMT"
-      },
-      {
-        "title": "Oil rises as Iran's draft plan sees U.S. and Israel banned from Strait of Hormuz",
-        "link": "https://www.cnbc.com/2026/08/07/oil-rises-supply-fears-iran-draft-plan-strait-hormuz.html",
-        "published": "Fri, 07 Aug 2026 05:27:03 GMT"
+        "published": "Fri, 07 Aug 2026 12:13:07 GMT"
       },
       {
         "title": "Iran's chief negotiator accuses Trump of 'theater diplomacy' with Hormuz traffic near standstill",
@@ -779,24 +774,29 @@
         "published": "Fri, 07 Aug 2026 02:08:42 GMT"
       },
       {
-        "title": "Citi downgrades airline stock to 'sell' worries about leisure travel",
-        "link": "https://www.cnbc.com/2026/08/07/citi-downgrades-airline-stock-to-sell-worries-about-leisure-travel.html",
-        "published": "Fri, 07 Aug 2026 11:39:48 GMT"
+        "title": "Stocks making the biggest moves premarket: Atlassian Corporation, Wendy's, Vista Corp, First Solar, Airbnb & more",
+        "link": "https://www.cnbc.com/2026/08/07/stocks-making-the-biggest-moves-premarket-atlassian-corporation-wendys-vista-corp-first-solar-airbnb-more.html",
+        "published": "Fri, 07 Aug 2026 11:51:49 GMT"
       },
       {
-        "title": "Virginia governor to intervene in NextEra, Dominion merger over electricity price concerns",
-        "link": "https://www.cnbc.com/2026/08/06/virginia-governor-nextera-nee-dominion-data-center.html",
-        "published": "Thu, 06 Aug 2026 20:50:59 GMT"
+        "title": "JPMorgan upgrades Etsy, sees turnaround story taking stock another 20% higher",
+        "link": "https://www.cnbc.com/2026/08/07/jpmorgan-upgrades-etsy-sees-turnaround-story-taking-stock-another-20percent-higher.html",
+        "published": "Fri, 07 Aug 2026 12:19:19 GMT"
       },
       {
-        "title": "Fox won't renegotiate NFL media rights before current deal expires, CEO Lachlan Murdoch says",
-        "link": "https://www.cnbc.com/2026/08/06/fox-nfl-media-rights-renegotiations-opt-out.html",
-        "published": "Thu, 06 Aug 2026 17:01:07 GMT"
+        "title": "Companies scoff at airlines' cheapest business class tickets. 'The real value is flexibility'",
+        "link": "https://www.cnbc.com/2026/08/07/business-business-premium-fares.html",
+        "published": "Fri, 07 Aug 2026 12:15:42 GMT"
       },
       {
         "title": "GAO finds Elon Musk's DOGE inflated claims of $110 billion in savings for federal government",
         "link": "https://www.cnbc.com/2026/08/06/doge-elon-musk-gao-government-cost-cuts.html",
         "published": "Thu, 06 Aug 2026 22:19:52 GMT"
+      },
+      {
+        "title": "Virginia governor to intervene in NextEra, Dominion merger over electricity price concerns",
+        "link": "https://www.cnbc.com/2026/08/06/virginia-governor-nextera-nee-dominion-data-center.html",
+        "published": "Thu, 06 Aug 2026 20:50:59 GMT"
       }
     ]
   }
