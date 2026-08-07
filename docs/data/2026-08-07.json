@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-08-07T20:00:04",
+  "generated_at": "2026-08-07T20:51:23",
   "date": "2026-08-07",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7756.89,
-        "pct_change": 0.61
+        "last": 7757.64,
+        "pct_change": 0.62
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26688.79,
-        "pct_change": 1.29
+        "last": 26690.62,
+        "pct_change": 1.3
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 54033.4,
+        "last": 54036.93,
         "pct_change": 0.28
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3034.4,
-        "pct_change": 1.09
+        "last": 3034.49,
+        "pct_change": 1.1
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 14.88,
-        "pct_change": -1.78
+        "last": 14.9,
+        "pct_change": -1.65
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
@@ -35,40 +35,40 @@
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.52,
-        "pct_change": -0.45
+        "last": 99.61,
+        "pct_change": -0.36
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 76.93,
-        "pct_change": -0.47
+        "last": 77.15,
+        "pct_change": -0.18
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4406.8,
-        "pct_change": 3.88
+        "last": 4401.6,
+        "pct_change": 3.76
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 187.99,
-        "pct_change": 1.43
+        "last": 187.97,
+        "pct_change": 1.42
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 57.62,
-        "pct_change": -0.34
+        "last": 57.6,
+        "pct_change": -0.36
       },
       "Energy": {
         "symbol": "XLE",
         "last": 57.5,
-        "pct_change": -1.14
+        "pct_change": -1.13
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 165.7,
-        "pct_change": 0.76
+        "last": 165.68,
+        "pct_change": 0.75
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
@@ -78,11 +78,11 @@
       "Consumer Staples": {
         "symbol": "XLP",
         "last": 85.12,
-        "pct_change": 0.02
+        "pct_change": 0.01
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 185.19,
+        "last": 185.18,
         "pct_change": 0.23
       },
       "Utilities": {
@@ -92,18 +92,18 @@
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 52.87,
-        "pct_change": 1.34
+        "last": 52.86,
+        "pct_change": 1.32
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.99,
-        "pct_change": 0.41
+        "last": 44.98,
+        "pct_change": 0.38
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 111.26,
-        "pct_change": 0.08
+        "last": 111.25,
+        "pct_change": 0.06
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 157.56,
-        "pct_change": -0.02
+        "last": 157.79,
+        "pct_change": 0.12
       }
     }
   },
@@ -144,52 +144,52 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 165.67,
-        "pct_change": 5.4
+        "last": 165.68,
+        "pct_change": 5.41
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 313.28,
-        "pct_change": 0.28
+        "last": 313.33,
+        "pct_change": 0.29
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 499.87,
-        "pct_change": 0.0
+        "last": 499.99,
+        "pct_change": 0.03
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 274.65,
-        "pct_change": 0.88
+        "last": 274.48,
+        "pct_change": 0.82
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 354.33,
+        "last": 354.3,
         "pct_change": -0.96
       },
       "Meta": {
         "symbol": "META",
-        "last": 591.88,
-        "pct_change": 0.34
+        "last": 592.1,
+        "pct_change": 0.37
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 890.43,
-        "pct_change": 6.25
+        "last": 890.17,
+        "pct_change": 6.22
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 378.85,
-        "pct_change": 13.35
+        "last": 379.13,
+        "pct_change": 13.44
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 169.24,
-        "pct_change": -0.8
+        "last": 169.18,
+        "pct_change": -0.84
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -680,42 +680,72 @@
         "published": "2026-08-07T02:03:00Z"
       },
       {
-        "title": "Goodbye mansions, hello jail: Nevada woman stole $26 million from construction boss — then the IRS caught up with her",
-        "link": "https://finance.yahoo.com/small-business/articles/goodbye-mansions-hello-jail-nevada-100000078.html",
-        "published": "2026-08-06T10:00:00Z"
+        "title": "Walmart Earnings: Bull Put Spread Trade",
+        "link": "https://finance.yahoo.com/markets/options/articles/walmart-earnings-bull-put-spread-110002553.html",
+        "published": "2026-08-06T11:00:02Z"
       },
       {
-        "title": "Freefalling yen sparks rare US intervention as Scott Bessent vows 'whatever it takes.' Will Americans pay the price?",
-        "link": "https://finance.yahoo.com/markets/currencies/articles/freefalling-yen-sparks-rare-us-101000853.html",
-        "published": "2026-08-06T10:10:00Z"
+        "title": "Stock Market Suffers AI Sell-Off In July. What's Next?",
+        "link": "https://www.investors.com/etfs-and-funds/mutual-funds/stock-market-suffers-ai-sell-off-in-july-whats-next/?src=A00220&yptr=yahoo",
+        "published": "2026-08-06T11:00:09Z"
       },
       {
-        "title": "Are Wall Street Analysts Bullish on Tyson Foods Stock?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-tyson-101315491.html",
-        "published": "2026-08-06T10:13:15Z"
+        "title": "First look: mixed performance at RXO with some strong points",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/first-look-mixed-performance-rxo-110000486.html",
+        "published": "2026-08-06T11:00:00Z"
       },
       {
-        "title": "What Are Wall Street Analysts' Target Price for Southern Company Stock?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-101623353.html",
-        "published": "2026-08-06T10:16:23Z"
+        "title": "Why Investor Returns Don’t Always Match Fund Performance",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/why-investor-returns-don-t-110000746.html",
+        "published": "2026-08-06T11:00:00Z"
       },
       {
-        "title": "Solventum plans software separation to become ‘true medtech company’",
-        "link": "https://finance.yahoo.com/healthcare/articles/solventum-plans-software-separation-become-100000590.html",
-        "published": "2026-08-06T10:00:00Z"
+        "title": "Commercial real estate benefiting from ‘deep structural demand,’ Cushman & Wakefield CEO says",
+        "link": "https://finance.yahoo.com/real-estate/articles/commercial-real-estate-benefiting-deep-105750014.html",
+        "published": "2026-08-06T10:57:50Z"
       },
       {
-        "title": "Eli Lilly Stock: Analyst Estimates & Ratings",
-        "link": "https://finance.yahoo.com/healthcare/articles/eli-lilly-stock-analyst-estimates-101957127.html",
-        "published": "2026-08-06T10:19:57Z"
+        "title": "DoorDash (DASH) Takes To The Skies As Uber (UBER) Eyes Drones Too",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/doordash-dash-takes-skies-uber-110101273.html",
+        "published": "2026-08-06T11:01:01Z"
       },
       {
-        "title": "What Are Wall Street Analysts' Target Price for Halliburton Stock?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-102517669.html",
-        "published": "2026-08-06T10:25:17Z"
+        "title": "Do Wall Street Analysts Like Citizens Financial Stock?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-citizens-financial-110413881.html",
+        "published": "2026-08-06T11:04:13Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "Two reasons why Nvidia’s stock saw its biggest weekly surge in more than a year",
+        "link": "https://www.marketwatch.com/story/two-reasons-why-nvidias-stock-saw-its-biggest-weekly-surge-in-more-than-a-year-644875c8?mod=mw_rss_topstories",
+        "published": "Fri, 07 Aug 2026 20:41:00 GMT"
+      },
+      {
+        "title": "SpaceX’s stock is having one of its best days ever — with the first lockup expiration now behind it",
+        "link": "https://www.marketwatch.com/story/spacexs-stock-is-having-one-of-its-best-days-ever-with-the-first-lockup-expiration-now-behind-it-cd55946c?mod=mw_rss_topstories",
+        "published": "Fri, 07 Aug 2026 20:38:00 GMT"
+      },
+      {
+        "title": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?",
+        "link": "https://www.marketwatch.com/story/should-wealthier-americans-forgo-their-social-security-benefits-as-a-charitable-gesture-2c7b6801?mod=mw_rss_topstories",
+        "published": "Fri, 07 Aug 2026 20:30:00 GMT"
+      },
+      {
+        "title": "I got two email invitations from friends. Is this a phishing scam — or am I suddenly popular?",
+        "link": "https://www.marketwatch.com/story/i-got-two-email-invitations-from-friends-is-this-a-phishing-scam-or-am-i-suddenly-popular-d9680aa8?mod=mw_rss_topstories",
+        "published": "Fri, 07 Aug 2026 20:15:00 GMT"
+      },
+      {
+        "title": "Are target date funds aggressive enough to give Americans retirement savings that last their lifetimes",
+        "link": "https://www.marketwatch.com/story/are-target-date-funds-hurting-americans-as-they-live-longer-929f4f92?mod=mw_rss_topstories",
+        "published": "Fri, 07 Aug 2026 20:04:00 GMT"
+      },
+      {
+        "title": "‘This has been an emotionally difficult time’: My brother has cancer and my father is 94. How do I shoulder this responsibility?",
+        "link": "https://www.marketwatch.com/story/this-has-been-an-emotionally-difficult-time-my-brother-has-cancer-and-my-father-is-94-how-do-i-shoulder-this-responsibility-9da09dc4?mod=mw_rss_topstories",
+        "published": "Fri, 07 Aug 2026 20:00:00 GMT"
+      },
       {
         "title": "Trump is trying to fire Lisa Cook again. He still wants to stack the Fed with allies.",
         "link": "https://www.marketwatch.com/story/trump-is-trying-to-fire-lisa-cook-again-he-still-wants-to-stack-the-fed-with-allies-e6f40aa5?mod=mw_rss_topstories",
@@ -725,36 +755,6 @@
         "title": "My brother asked me to sign as his executor, but wouldn’t let me read the document. Should I have refused?",
         "link": "https://www.marketwatch.com/story/my-brother-asked-me-to-sign-as-his-executor-but-wouldnt-let-me-read-the-document-should-i-have-refused-1b53d9bc?mod=mw_rss_topstories",
         "published": "Fri, 07 Aug 2026 19:45:00 GMT"
-      },
-      {
-        "title": "Palantir’s stock stages best week since 2024, showing it’s no longer an AI loser",
-        "link": "https://www.marketwatch.com/story/palantirs-stock-stages-best-week-since-2024-showing-its-no-longer-an-ai-loser-2fc6c32b?mod=mw_rss_topstories",
-        "published": "Fri, 07 Aug 2026 19:41:00 GMT"
-      },
-      {
-        "title": "Some of the urgency is gone for a Fed rate hike in September after a soft jobs report",
-        "link": "https://www.marketwatch.com/story/some-of-the-urgency-is-gone-for-a-fed-rate-hike-in-september-after-the-soft-jobs-report-19bc5565?mod=mw_rss_topstories",
-        "published": "Fri, 07 Aug 2026 19:36:00 GMT"
-      },
-      {
-        "title": "If I marry my girlfriend, 67, will she lose her Supplemental Security Income and divorced spouse benefits?",
-        "link": "https://www.marketwatch.com/story/if-i-marry-my-girlfriend-67-will-she-lose-her-supplemental-security-income-and-divorced-spouse-benefits-9340bab9?mod=mw_rss_topstories",
-        "published": "Fri, 07 Aug 2026 19:30:00 GMT"
-      },
-      {
-        "title": "The size of the American workforce has fallen by over 1 million people in the past year. Here’s what’s going on.",
-        "link": "https://www.marketwatch.com/story/the-size-of-the-american-workforce-has-fallen-by-over-1-million-people-in-the-past-year-heres-whats-going-on-b8141aa3?mod=mw_rss_topstories",
-        "published": "Fri, 07 Aug 2026 19:24:00 GMT"
-      },
-      {
-        "title": "Here’s when Elon Musk’s Starlink internet is worth the steep monthly price — and $350 startup cost",
-        "link": "https://www.marketwatch.com/story/heres-when-elon-musks-starlink-internet-is-worth-the-steep-monthly-price-and-350-startup-cost-53735d59?mod=mw_rss_topstories",
-        "published": "Fri, 07 Aug 2026 18:13:00 GMT"
-      },
-      {
-        "title": "I’m an unemployed software developer who is skeptical of AI. Can I still find a job in tech?",
-        "link": "https://www.marketwatch.com/story/im-an-unemployed-software-developer-who-is-skeptical-of-ai-can-i-still-find-a-job-in-tech-4413875e?mod=mw_rss_topstories",
-        "published": "Fri, 07 Aug 2026 18:00:00 GMT"
       }
     ],
     "CNBC Top News": [
@@ -764,19 +764,19 @@
         "published": "Fri, 07 Aug 2026 17:50:12 GMT"
       },
       {
-        "title": "Trump revives effort to fire Fed's Lisa Cook",
-        "link": "https://www.cnbc.com/2026/08/07/trump-lisa-cook-federal-reserve.html",
-        "published": "Fri, 07 Aug 2026 18:38:17 GMT"
-      },
-      {
         "title": "Here are three key takeaways from the disappointing July jobs report",
         "link": "https://www.cnbc.com/2026/08/07/here-are-three-key-takeaways-from-the-disappointing-july-jobs-report.html",
         "published": "Fri, 07 Aug 2026 18:09:18 GMT"
       },
       {
-        "title": "S&P 500 rises as it wraps up banner week with traders seeing bright side of dismal jobs report: Live updates",
+        "title": "‘SaaSpocalypse’ debate intensifies as software stocks swing wildly",
+        "link": "https://www.cnbc.com/2026/08/07/saaspocalypse-debate-intensifies-as-software-stocks-swing-wildly.html",
+        "published": "Fri, 07 Aug 2026 20:22:17 GMT"
+      },
+      {
+        "title": "S&P 500 rises to record close Friday and posts strongest week since April: Live updates",
         "link": "https://www.cnbc.com/2026/08/06/stock-market-today-live-updates.html",
-        "published": "Fri, 07 Aug 2026 19:56:19 GMT"
+        "published": "Fri, 07 Aug 2026 20:30:18 GMT"
       },
       {
         "title": "Cassidy supports Todd Blanche, rescuing Trump's embattled attorney general pick",
@@ -784,19 +784,19 @@
         "published": "Fri, 07 Aug 2026 16:55:42 GMT"
       },
       {
-        "title": "The stakes for next week's inflation data just got higher. Here's what's ahead",
-        "link": "https://www.cnbc.com/2026/08/07/stock-market-next-week-outlook-for-aug-10-14-2026-.html",
-        "published": "Fri, 07 Aug 2026 19:09:40 GMT"
-      },
-      {
         "title": "Burger King overtakes Wendy's as the nation's second-largest burger chain",
         "link": "https://www.cnbc.com/2026/08/07/burger-king-wendys-hamburger-restaurants.html",
         "published": "Fri, 07 Aug 2026 18:19:39 GMT"
       },
       {
-        "title": "Chesky says Airbnb will spend ‘a lot more’ on AI as earnings beat and stock surges 15%",
-        "link": "https://www.cnbc.com/2026/08/07/chesky-airbnb-ai-earnings.html",
-        "published": "Fri, 07 Aug 2026 16:28:54 GMT"
+        "title": "BlackRock is finding solid tax-free yields in this corner of the bond market",
+        "link": "https://www.cnbc.com/2026/08/07/blackrock-is-finding-solid-tax-free-yields-in-this-corner-of-the-bond-market.html",
+        "published": "Fri, 07 Aug 2026 20:13:13 GMT"
+      },
+      {
+        "title": "Trump revives effort to fire Fed's Lisa Cook",
+        "link": "https://www.cnbc.com/2026/08/07/trump-lisa-cook-federal-reserve.html",
+        "published": "Fri, 07 Aug 2026 18:38:17 GMT"
       }
     ]
   }
