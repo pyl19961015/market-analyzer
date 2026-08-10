@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-08-10T19:41:09",
+  "generated_at": "2026-08-10T20:22:19",
   "date": "2026-08-10",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7753.8,
-        "pct_change": -0.05
+        "last": 7753.11,
+        "pct_change": -0.06
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26621.43,
-        "pct_change": -0.26
+        "last": 26605.36,
+        "pct_change": -0.32
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 53902.22,
-        "pct_change": -0.25
+        "last": 53975.98,
+        "pct_change": -0.11
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3019.56,
-        "pct_change": -0.49
+        "last": 3017.4,
+        "pct_change": -0.56
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.37,
-        "pct_change": 3.15
+        "last": 15.46,
+        "pct_change": 3.76
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
@@ -35,75 +35,75 @@
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.82,
-        "pct_change": 0.22
+        "last": 99.81,
+        "pct_change": 0.21
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 81.98,
-        "pct_change": 4.86
+        "last": 82.19,
+        "pct_change": 5.13
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4451.0,
-        "pct_change": 2.54
+        "last": 4447.7,
+        "pct_change": 2.47
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 187.2,
-        "pct_change": -0.41
+        "last": 186.32,
+        "pct_change": -0.88
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 57.71,
-        "pct_change": 0.18
+        "last": 57.81,
+        "pct_change": 0.36
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 60.12,
-        "pct_change": 4.56
+        "last": 60.19,
+        "pct_change": 4.68
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 167.99,
-        "pct_change": 1.4
+        "last": 168.44,
+        "pct_change": 1.67
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 119.47,
-        "pct_change": -0.33
+        "last": 119.67,
+        "pct_change": -0.16
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 84.74,
-        "pct_change": -0.45
+        "last": 84.95,
+        "pct_change": -0.2
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 184.73,
-        "pct_change": -0.25
+        "last": 184.6,
+        "pct_change": -0.31
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 43.19,
-        "pct_change": -0.95
+        "last": 43.13,
+        "pct_change": -1.1
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 53.09,
-        "pct_change": 0.43
+        "last": 53.18,
+        "pct_change": 0.61
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.44,
-        "pct_change": -1.19
+        "last": 44.4,
+        "pct_change": -1.29
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 111.43,
-        "pct_change": 0.17
+        "last": 111.83,
+        "pct_change": 0.52
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 159.34,
-        "pct_change": 0.59
+        "last": 159.33,
+        "pct_change": 0.58
       }
     }
   },
@@ -144,52 +144,52 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 160.07,
-        "pct_change": -3.39
+        "last": 157.76,
+        "pct_change": -4.78
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 307.39,
-        "pct_change": -1.9
+        "last": 308.26,
+        "pct_change": -1.62
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 505.25,
-        "pct_change": 1.05
+        "last": 506.06,
+        "pct_change": 1.21
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 277.47,
-        "pct_change": 1.09
+        "last": 278.09,
+        "pct_change": 1.32
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 355.33,
-        "pct_change": 0.29
+        "last": 357.52,
+        "pct_change": 0.91
       },
       "Meta": {
         "symbol": "META",
-        "last": 593.16,
-        "pct_change": 0.18
+        "last": 594.92,
+        "pct_change": 0.48
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 820.36,
-        "pct_change": -7.84
+        "last": 813.51,
+        "pct_change": -8.61
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 330.21,
-        "pct_change": -12.9
+        "last": 325.15,
+        "pct_change": -14.24
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 169.35,
-        "pct_change": 0.1
+        "last": 167.7,
+        "pct_change": -0.87
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -260,7 +260,7 @@
       "country": "USD",
       "date": "2026-08-11T06:00:00-04:00",
       "impact": "Low",
-      "forecast": "97.8",
+      "forecast": "97.5",
       "previous": "97.4"
     },
     {
@@ -364,7 +364,7 @@
       "country": "USD",
       "date": "2026-08-12T14:00:00-04:00",
       "impact": "Low",
-      "forecast": "-294.6B",
+      "forecast": "-361.2B",
       "previous": "-120.3B"
     },
     {
@@ -635,47 +635,67 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "How Much Do You Need Invested by 50 to Retire on Dividends at 60?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/much-invested-50-retire-dividends-103126428.html",
-        "published": "2026-08-09T10:31:26Z"
+        "title": "Trump’s $100 billion tariff refund going to big names despite Americans paying higher prices. Can you still get a cut?",
+        "link": "https://finance.yahoo.com/economy/policy/articles/trump-100-billion-tariff-refund-111500641.html",
+        "published": "2026-08-09T11:15:00Z"
       },
       {
-        "title": "AMD (AMD) Buys Inference Chip Startup Taalas To Sharpen Its AI Edge",
-        "link": "https://finance.yahoo.com/technology/ai/articles/amd-amd-buys-inference-chip-102614063.html",
-        "published": "2026-08-09T10:26:14Z"
-      },
-      {
-        "title": "Jim Cramer says Wall Street is 'fleeing' the AI trade to buy these stocks instead. Do you own any?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-wall-street-102000243.html",
-        "published": "2026-08-09T10:20:00Z"
-      },
-      {
-        "title": "Micron (MU) Secures Strategic Auto Deals and AI Momentum to Offset Cyclical Pressures",
-        "link": "https://finance.yahoo.com/technology/ai/articles/micron-mu-secures-strategic-auto-101757418.html",
-        "published": "2026-08-09T10:17:57Z"
-      },
-      {
-        "title": "340,000 U.S. homes were inherited in 2025 — but a mortgage lien can lead to foreclosure if heirs don't act fast",
-        "link": "https://finance.yahoo.com/real-estate/articles/340-000-u-homes-were-100000962.html",
-        "published": "2026-08-09T10:00:00Z"
-      },
-      {
-        "title": "Analyst Report: Sterling Infrastructure Inc",
-        "link": "https://finance.yahoo.com/research/reports/ARGUS_6630_AnalystReport_1786384995000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-        "published": "2026-08-10T18:03:15Z"
-      },
-      {
-        "title": "Is Celsius a Buy After Tumbling 18% in 1 Day?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/celsius-buy-tumbling-18-1-103200124.html",
-        "published": "2026-08-09T10:32:00Z"
+        "title": "Nvidia CEO Jensen Huang Told Investors in Seoul to \"Buy at a Discount\" During the Recent AI Stock Sell-Off. Here's Whether His Call Has Paid Off.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-ceo-jensen-huang-told-111500874.html",
+        "published": "2026-08-09T11:15:00Z"
       },
       {
         "title": "Borderlands Mexico: USMCA gives Mexico an edge as global trade barriers rise",
         "link": "https://finance.yahoo.com/economy/policy/articles/borderlands-mexico-usmca-gives-mexico-110000849.html",
         "published": "2026-08-09T11:00:00Z"
+      },
+      {
+        "title": "Constellation (CEG) Locks In More Power Deals As Nuclear Output Slips",
+        "link": "https://finance.yahoo.com/energy/articles/constellation-ceg-locks-more-power-112156765.html",
+        "published": "2026-08-09T11:21:56Z"
+      },
+      {
+        "title": "Gold's breakout could force investors back in: Chart of the Day",
+        "link": "https://finance.yahoo.com/markets/article/golds-breakout-could-force-investors-back-in-chart-of-the-day-113004349.html",
+        "published": "2026-08-09T11:30:04Z"
+      },
+      {
+        "title": "IRS warns crypto investors of fake letters from fraudsters aimed at stealing wallet keys and passwords",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/irs-warns-crypto-investors-fake-113000642.html",
+        "published": "2026-08-09T11:30:00Z"
+      },
+      {
+        "title": "The Hidden Cost of International ETFs: How Much Currency Risk Actually Ate Into Returns Over the Last Decade",
+        "link": "https://finance.yahoo.com/markets/currencies/articles/hidden-cost-international-etfs-much-112000674.html",
+        "published": "2026-08-09T11:20:00Z"
+      },
+      {
+        "title": "'Very little to like': Wall Street assesses surprise July jobs report as stocks jump",
+        "link": "https://finance.yahoo.com/markets/article/very-little-to-like-wall-street-assesses-surprise-july-jobs-report-as-stocks-jump-113529334.html",
+        "published": "2026-08-09T11:35:29Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "EBay may dodge a GameStop takeover — but there’s a new twist in the Ryan Cohen saga",
+        "link": "https://www.marketwatch.com/story/ebay-may-dodge-a-gamestop-takeover-but-theres-a-new-twist-in-the-ryan-cohen-saga-d779b753?mod=mw_rss_topstories",
+        "published": "Mon, 10 Aug 2026 20:17:00 GMT"
+      },
+      {
+        "title": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?",
+        "link": "https://www.marketwatch.com/story/should-wealthier-americans-forgo-their-social-security-benefits-as-a-charitable-gesture-2c7b6801?mod=mw_rss_topstories",
+        "published": "Mon, 10 Aug 2026 20:00:00 GMT"
+      },
+      {
+        "title": "Good news for stock-market bulls: Corporate earnings growth is no longer being driven just by tech",
+        "link": "https://www.marketwatch.com/story/good-news-for-stock-market-bulls-corporate-earnings-growth-is-no-longer-being-driven-just-by-tech-ddac973b?mod=mw_rss_topstories",
+        "published": "Mon, 10 Aug 2026 20:00:00 GMT"
+      },
+      {
+        "title": "This Nvidia change could spell good news for Micron",
+        "link": "https://www.marketwatch.com/story/this-nvidia-change-could-spell-good-news-for-micron-80449e59?mod=mw_rss_topstories",
+        "published": "Mon, 10 Aug 2026 19:42:00 GMT"
+      },
       {
         "title": "Fed Chair Kevin Warsh promises 2% inflation, but skyrocketing U.S. debt makes that a pipe dream",
         "link": "https://www.marketwatch.com/story/fed-chair-kevin-warsh-promises-2-inflation-but-skyrocketing-u-s-debt-makes-that-a-pipe-dream-ba448651?mod=mw_rss_topstories",
@@ -695,26 +715,6 @@
         "title": "‘I unexpectedly came into some money’: Is putting $20,000 into CDs a smart move?",
         "link": "https://www.marketwatch.com/story/i-unexpectedly-came-into-some-money-is-putting-20-000-into-cds-a-smart-move-6c410458?mod=mw_rss_topstories",
         "published": "Mon, 10 Aug 2026 18:31:00 GMT"
-      },
-      {
-        "title": "Is $1 million enough for a household to retire? The answer keeps changing.",
-        "link": "https://www.marketwatch.com/story/is-1-million-enough-for-a-household-to-retire-the-answer-keeps-changing-aee84a83?mod=mw_rss_topstories",
-        "published": "Mon, 10 Aug 2026 18:30:00 GMT"
-      },
-      {
-        "title": "2 charts showing just how insane the stock market’s August ‘crash-up’ has been so far",
-        "link": "https://www.marketwatch.com/story/2-charts-showing-just-how-insane-the-stock-markets-august-crash-up-has-been-so-far-b822404d?mod=mw_rss_topstories",
-        "published": "Mon, 10 Aug 2026 18:08:00 GMT"
-      },
-      {
-        "title": "‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
-        "link": "https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories",
-        "published": "Mon, 10 Aug 2026 18:00:00 GMT"
-      },
-      {
-        "title": "Archer strikes deal with Boeing in latest bid to transform aviation through AI",
-        "link": "https://www.marketwatch.com/story/archer-strikes-deal-with-boeing-in-latest-bid-to-transform-aviation-through-ai-dac15322?mod=mw_rss_topstories",
-        "published": "Mon, 10 Aug 2026 17:22:00 GMT"
       }
     ],
     "CNBC Top News": [
@@ -724,19 +724,19 @@
         "published": "Mon, 10 Aug 2026 18:58:47 GMT"
       },
       {
+        "title": "Trump signs executive order calling for fewer childhood vaccines, falsely linking shots to autism",
+        "link": "https://www.cnbc.com/2026/08/10/trump-vaccine-executive-order-autism.html",
+        "published": "Mon, 10 Aug 2026 19:53:36 GMT"
+      },
+      {
         "title": "Trump signals shift to economic pressure as Iran hardens stance over Strait of Hormuz",
         "link": "https://www.cnbc.com/2026/08/10/us-iran-war-trump-hormuz-oman-ships-blockade-shipping.html",
         "published": "Mon, 10 Aug 2026 14:27:15 GMT"
       },
       {
-        "title": "Trump signs executive order calling for fewer childhood vaccines, falsely linking shots to autism",
-        "link": "https://www.cnbc.com/2026/08/10/trump-vaccine-executive-order-autism.html",
-        "published": "Mon, 10 Aug 2026 19:39:47 GMT"
-      },
-      {
-        "title": "S&P 500 is little changed as traders await possible Hormuz deal, Intel shares fall: Live updates",
+        "title": "S&P 500 closes little changed as oil rises on Iran uncertainty, Intel leads chips lower",
         "link": "https://www.cnbc.com/2026/08/09/stock-market-today-live-updates.html",
-        "published": "Mon, 10 Aug 2026 19:33:55 GMT"
+        "published": "Mon, 10 Aug 2026 20:10:44 GMT"
       },
       {
         "title": "OpenAI expands Daybreak cybersecurity initiative as AI agent threats evolve",
@@ -744,14 +744,14 @@
         "published": "Mon, 10 Aug 2026 18:43:17 GMT"
       },
       {
+        "title": "Here's how the market may react to July's CPI report, according to JPMorgan",
+        "link": "https://www.cnbc.com/2026/08/10/how-the-market-may-react-to-julys-cpi-report-according-to-jpmorgan.html",
+        "published": "Mon, 10 Aug 2026 20:00:01 GMT"
+      },
+      {
         "title": "Oil in U.S. Strategic Petroleum Reserve falls below 300 million barrels, lowest since 1983",
         "link": "https://www.cnbc.com/2026/08/10/oil-in-strategic-petroleum-reserve-falls-below-300-million-barrels-lowest-since-1983.html",
         "published": "Mon, 10 Aug 2026 18:43:06 GMT"
-      },
-      {
-        "title": "U.S. oil rises back above $82 as doubt grows Washington and Tehran will reach Hormuz deal",
-        "link": "https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html",
-        "published": "Mon, 10 Aug 2026 19:26:30 GMT"
       },
       {
         "title": "Berkshire shares appear to be breaking out. Katie Stockton says it's a timely buying opportunity",
