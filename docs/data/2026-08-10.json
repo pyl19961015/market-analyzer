@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-08-10T13:16:06",
+  "generated_at": "2026-08-10T14:35:08",
   "date": "2026-08-10",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7757.64,
-        "pct_change": 0.62
+        "last": 7767.75,
+        "pct_change": 0.13
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26690.62,
-        "pct_change": 1.3
+        "last": 26707.08,
+        "pct_change": 0.06
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 54036.93,
-        "pct_change": 0.28
+        "last": 53977.97,
+        "pct_change": -0.11
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3034.49,
-        "pct_change": 1.1
+        "last": 3025.53,
+        "pct_change": -0.3
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.42,
-        "pct_change": 3.49
+        "last": 15.24,
+        "pct_change": 2.28
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.67,
-        "pct_change": 0.26
+        "last": 4.69,
+        "pct_change": 0.56
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.78,
-        "pct_change": 0.18
+        "last": 99.73,
+        "pct_change": 0.13
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 79.36,
-        "pct_change": 1.51
+        "last": 80.4,
+        "pct_change": 2.84
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4389.0,
-        "pct_change": 1.11
+        "last": 4397.4,
+        "pct_change": 1.31
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 187.97,
-        "pct_change": 1.42
+        "last": 188.09,
+        "pct_change": 0.06
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 57.6,
-        "pct_change": -0.36
+        "last": 57.78,
+        "pct_change": 0.31
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 57.5,
-        "pct_change": -1.13
+        "last": 59.22,
+        "pct_change": 2.99
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 165.68,
-        "pct_change": 0.75
+        "last": 167.18,
+        "pct_change": 0.91
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 119.86,
-        "pct_change": 1.49
+        "last": 119.44,
+        "pct_change": -0.35
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 85.12,
-        "pct_change": 0.01
+        "last": 84.62,
+        "pct_change": -0.59
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 185.18,
-        "pct_change": 0.23
+        "last": 185.4,
+        "pct_change": 0.12
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 43.61,
-        "pct_change": 0.53
+        "last": 43.24,
+        "pct_change": -0.86
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 52.86,
-        "pct_change": 1.32
+        "last": 52.82,
+        "pct_change": -0.08
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.98,
-        "pct_change": 0.38
+        "last": 44.33,
+        "pct_change": -1.43
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 111.25,
-        "pct_change": 0.06
+        "last": 111.28,
+        "pct_change": 0.03
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 158.93,
-        "pct_change": 0.33
+        "last": 158.91,
+        "pct_change": 0.32
       }
     }
   },
@@ -138,58 +138,58 @@
       "as_of": "2026-08-07",
       "prev_yield": 2.773
     },
-    "spread_10y": 1.87
+    "spread_10y": 1.89
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 165.68,
-        "pct_change": 5.41
+        "last": 162.29,
+        "pct_change": -2.05
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 313.33,
-        "pct_change": 0.29
+        "last": 306.89,
+        "pct_change": -2.06
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 499.99,
-        "pct_change": 0.03
+        "last": 512.59,
+        "pct_change": 2.52
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 274.48,
-        "pct_change": 0.82
+        "last": 277.86,
+        "pct_change": 1.23
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 354.3,
-        "pct_change": -0.96
+        "last": 356.33,
+        "pct_change": 0.57
       },
       "Meta": {
         "symbol": "META",
-        "last": 592.1,
-        "pct_change": 0.37
+        "last": 603.15,
+        "pct_change": 1.87
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 890.17,
-        "pct_change": 6.22
+        "last": 846.2,
+        "pct_change": -4.94
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 379.13,
-        "pct_change": 13.44
+        "last": 339.0,
+        "pct_change": -10.58
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 169.18,
-        "pct_change": -0.84
+        "last": 170.09,
+        "pct_change": 0.54
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -635,29 +635,29 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "Unilever (UL) Looked Undervalued. Why Was It Sold?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/unilever-ul-looked-undervalued-why-130919674.html",
-        "published": "2026-08-10T13:09:19Z"
+        "title": "Yum China completes $1.2bn acquisition of Pizza Hut brand in China",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/yum-china-completes-1-2bn-141710372.html",
+        "published": "2026-08-10T14:17:10Z"
       },
       {
-        "title": "Zoetis (ZTS) Looked Like a Winner. What Went Wrong?",
-        "link": "https://finance.yahoo.com/healthcare/articles/zoetis-zts-looked-winner-went-130909398.html",
-        "published": "2026-08-10T13:09:09Z"
+        "title": "SpaceX Stock Hits Resistance At IPO Price After Earnings, Share Unlock",
+        "link": "https://www.investors.com/news/spacex-stock-rebound-reclaim-135-ipo-price/?src=A00220&yptr=yahoo",
+        "published": "2026-08-10T14:01:03Z"
       },
       {
-        "title": "UnionPay plans Pix link for Chinese payment apps in Brazil pilot",
-        "link": "https://finance.yahoo.com/markets/currencies/articles/unionpay-plans-pix-chinese-payment-130904405.html",
-        "published": "2026-08-10T13:09:04Z"
+        "title": "Nvidia Scores 12% Weekly Gain As Taiwan Semiconductor Sales Soars; Is Nvidia A Buy Now?",
+        "link": "https://www.investors.com/research/nvidia-nvda-stock-earnings-august-2026/?src=A00220&yptr=yahoo",
+        "published": "2026-08-10T14:00:36Z"
       },
       {
-        "title": "Memory chip supply crunch will last 2 more years, JPMorgan warns",
-        "link": "https://finance.yahoo.com/markets/stocks/article/memory-chip-supply-crunch-will-last-2-more-years-jpmorgan-warns-130733703.html",
-        "published": "2026-08-10T13:07:33Z"
+        "title": "Tech stocks today: Meta lays out new AI path, Intel to sell $15 billion in stock",
+        "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-meta-lays-out-new-ai-path-intel-to-sell-15-billion-in-stock-135605566.html",
+        "published": "2026-08-10T13:56:05Z"
       },
       {
-        "title": "Bitcoin and ethereum prices today, Monday, August 10, 2026: BTC breaking past $65,000 yet again",
-        "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-august-10-2026-btc-breaking-past-65000-yet-again-125722282.html",
-        "published": "2026-08-10T12:57:22Z"
+        "title": "Nu Holdings (NU) Could Rebound Despite Asset Quality Concerns",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-nu-could-rebound-135412133.html",
+        "published": "2026-08-10T13:54:12Z"
       },
       {
         "title": "Daily – Vickers Top Buyers & Sellers for 08/10/2026",
@@ -665,21 +665,46 @@
         "published": "2026-08-10T11:43:00Z"
       },
       {
-        "title": "Stock Market Today: Dow Falls As Oil Prices Climb; SpaceX Stock Extends Gains (Live Coverage)",
-        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-us-iran-spacex-stock-spcx/?src=A00220&yptr=yahoo",
-        "published": "2026-08-10T12:55:29Z"
+        "title": "AI agents are quietly rewriting how the internet works",
+        "link": "https://finance.yahoo.com/technology/ai/articles/ai-agents-quietly-rewriting-internet-140700204.html",
+        "published": "2026-08-10T14:07:00Z"
       },
       {
-        "title": "Is Alphabet (GOOGL) Still One of the Best AI Stocks to Own?",
-        "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-still-one-best-125527535.html",
-        "published": "2026-08-10T12:55:27Z"
+        "title": "AI Adoption Is Driving Stronger Demand for Palo Alto Networks (PANW)",
+        "link": "https://finance.yahoo.com/technology/ai/articles/ai-adoption-driving-stronger-demand-135203323.html",
+        "published": "2026-08-10T13:52:03Z"
       }
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "Berkshire Hathaway finally started spending its nearly $400 billion in cash — on one stock it knows very well",
+        "title": "Is $1 million enough for a household to retire? The answer keeps changing.",
+        "link": "https://www.marketwatch.com/story/is-1-million-enough-for-a-household-to-retire-the-answer-keeps-changing-aee84a83?mod=mw_rss_topstories",
+        "published": "Mon, 10 Aug 2026 14:30:00 GMT"
+      },
+      {
+        "title": "The stocks of these ‘toll takers’ could be the AI boom’s next big winners",
+        "link": "https://www.marketwatch.com/story/the-stocks-of-these-toll-takers-could-be-the-ai-booms-next-big-winners-ae1081f1?mod=mw_rss_topstories",
+        "published": "Mon, 10 Aug 2026 14:28:00 GMT"
+      },
+      {
+        "title": "Berkshire Hathaway is digging into its nearly $400 billion in cash — and buying a stock it knows very well",
         "link": "https://www.marketwatch.com/story/berkshire-hathaway-finally-started-spending-its-nearly-400-billion-in-cash-on-one-stock-it-knows-very-well-f9d56389?mod=mw_rss_topstories",
-        "published": "Mon, 10 Aug 2026 12:53:00 GMT"
+        "published": "Mon, 10 Aug 2026 14:23:00 GMT"
+      },
+      {
+        "title": "Barrick’s stock slides after dispute settlement sets the scene for IPO of mining company’s gold assets",
+        "link": "https://www.marketwatch.com/story/barricks-stock-slides-after-dispute-settlement-sets-the-scene-for-ipo-of-mining-companys-gold-assets-a88f3d27?mod=mw_rss_topstories",
+        "published": "Mon, 10 Aug 2026 14:14:00 GMT"
+      },
+      {
+        "title": "This is the ZIP Code with the hottest housing market in the country right now",
+        "link": "https://www.marketwatch.com/story/this-is-the-hottest-zip-code-where-homes-are-selling-fast-2c642716?mod=mw_rss_topstories",
+        "published": "Mon, 10 Aug 2026 14:00:00 GMT"
+      },
+      {
+        "title": "The U.S. economy is shedding jobs. Here’s why that’s good news for stocks.",
+        "link": "https://www.marketwatch.com/story/the-u-s-economy-is-shedding-jobs-why-thats-good-news-for-stocks-a7f4773c?mod=mw_rss_topstories",
+        "published": "Mon, 10 Aug 2026 13:30:00 GMT"
       },
       {
         "title": "Apple’s stock could underperform, especially without an ‘all-glass’ iPhone, this analyst warns",
@@ -690,48 +715,23 @@
         "title": "Intel plans to sell $15 billion worth of stock after it has risen 400% in a year",
         "link": "https://www.marketwatch.com/story/intel-plans-to-sell-15-billion-worth-of-stock-after-it-has-risen-400-in-a-year-395effce?mod=mw_rss_topstories",
         "published": "Mon, 10 Aug 2026 12:24:00 GMT"
-      },
-      {
-        "title": "‘My wife and I are both retired’: Do we dip into our $2.3 million fund to pay off our $300,000 mortgage at 2.9%?",
-        "link": "https://www.marketwatch.com/story/my-wife-and-i-are-both-retired-do-we-dip-into-our-2-3-million-fund-to-pay-off-our-300-000-mortgage-at-2-9-2d23d1df?mod=mw_rss_topstories",
-        "published": "Mon, 10 Aug 2026 12:16:00 GMT"
-      },
-      {
-        "title": "Are target date funds aggressive enough to give Americans retirement savings that last their lifetimes?",
-        "link": "https://www.marketwatch.com/story/are-target-date-funds-hurting-americans-as-they-live-longer-929f4f92?mod=mw_rss_topstories",
-        "published": "Mon, 10 Aug 2026 11:36:00 GMT"
-      },
-      {
-        "title": "How can we minimize taxes in retirement with a $2.3 million nest egg — while buying homes in Florida and New England?",
-        "link": "https://www.marketwatch.com/story/how-can-we-minimize-taxes-in-retirement-with-a-2-3-million-nest-egg-while-buying-homes-in-florida-and-new-england-9e2449aa?mod=mw_rss_topstories",
-        "published": "Mon, 10 Aug 2026 11:36:00 GMT"
-      },
-      {
-        "title": "Don’t worry about what other people have saved for retirement. Here’s how to find your perfect number.",
-        "link": "https://www.marketwatch.com/story/dont-worry-about-what-other-people-have-saved-for-retirement-heres-how-to-find-your-perfect-number-73fc460e?mod=mw_rss_topstories",
-        "published": "Mon, 10 Aug 2026 11:35:00 GMT"
-      },
-      {
-        "title": "‘I want her to choose the best strategy’: My wife’s Social Security is just $900. Should she claim spousal benefit at 62?",
-        "link": "https://www.marketwatch.com/story/i-want-her-to-choose-the-best-strategy-my-wifes-social-security-is-just-900-should-she-claim-spousal-benefit-at-62-e3ef621d?mod=mw_rss_topstories",
-        "published": "Mon, 10 Aug 2026 11:15:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "S&P 500 futures are little changed as traders watch for Strait of Hormuz deal, inflation data: Live updates",
-        "link": "https://www.cnbc.com/2026/08/09/stock-market-today-live-updates.html",
-        "published": "Mon, 10 Aug 2026 12:53:22 GMT"
+        "title": "U.S. oil price hits $80 as doubt grows Washington and Tehran will reach Strait of Hormuz deal",
+        "link": "https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html",
+        "published": "Mon, 10 Aug 2026 14:28:10 GMT"
       },
       {
         "title": "Intel plans $15 billion stock offering as AI demand accelerates",
         "link": "https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html",
-        "published": "Mon, 10 Aug 2026 13:15:44 GMT"
+        "published": "Mon, 10 Aug 2026 14:31:41 GMT"
       },
       {
-        "title": "Trump signals shift to economic pressure as Iran hardens stance over Strait of Hormuz",
-        "link": "https://www.cnbc.com/2026/08/10/us-iran-war-trump-hormuz-oman-ships-blockade-shipping.html",
-        "published": "Mon, 10 Aug 2026 12:59:28 GMT"
+        "title": "Santoli: Stocks return to winning ways. Why the market gods may not be satisfied with July's brief pain",
+        "link": "https://www.cnbc.com/2026/08/10/santoli-stocks-return-to-their-winning-ways-but-was-julys-brief-pain-enough-to-satisfy-the-market-gods.html",
+        "published": "Mon, 10 Aug 2026 11:45:50 GMT"
       },
       {
         "title": "Trump’s foreign licensing business booms to $59.5 million as Gulf developers pay",
@@ -741,22 +741,22 @@
       {
         "title": "Archer shares surge after Boeing stake, electric aircraft subsidiary deal",
         "link": "https://www.cnbc.com/2026/08/10/boeing-evtol-archer-stake.html",
-        "published": "Mon, 10 Aug 2026 13:13:31 GMT"
+        "published": "Mon, 10 Aug 2026 14:16:24 GMT"
       },
       {
-        "title": "Here are Monday's biggest analyst calls: Nvidia, Apple, SpaceX, Dick's, Micron, Broadcom, Microsoft & more",
-        "link": "https://www.cnbc.com/2026/08/10/monday-analyst-calls-including-nvidia-apple-space-x-dicks.html",
-        "published": "Mon, 10 Aug 2026 12:16:09 GMT"
+        "title": "Berkshire Hathaway trades higher on strong earnings, big buyback. But Michael Burry isn't buying",
+        "link": "https://www.cnbc.com/2026/08/10/berkshire-hathaway-trades-higher-on-strong-earnings-big-buyback-but-michael-burry-isnt-buying.html",
+        "published": "Mon, 10 Aug 2026 13:32:48 GMT"
+      },
+      {
+        "title": "SpaceX stock rebounds to near $135 IPO price",
+        "link": "https://www.cnbc.com/2026/08/10/spacex-spcx-stock-ipo-price.html",
+        "published": "Mon, 10 Aug 2026 14:11:49 GMT"
       },
       {
         "title": "Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic",
         "link": "https://www.cnbc.com/2026/08/10/meta-muse-glimmer-open-weight-ai.html",
         "published": "Mon, 10 Aug 2026 12:40:36 GMT"
-      },
-      {
-        "title": "Taylor Farms recalls salsa and guacamole from Walmart, Kroger over salmonella risk",
-        "link": "https://www.cnbc.com/2026/08/09/taylor-farms-recalls-salsa-and-guacamole-over-salmonella-risk.html",
-        "published": "Mon, 10 Aug 2026 11:23:58 GMT"
       }
     ]
   }
