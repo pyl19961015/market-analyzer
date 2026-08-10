@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-08-10T15:36:54",
+  "generated_at": "2026-08-10T16:31:09",
   "date": "2026-08-10",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7757.33,
-        "pct_change": -0.0
+        "last": 7756.76,
+        "pct_change": -0.01
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26604.92,
-        "pct_change": -0.32
+        "last": 26617.89,
+        "pct_change": -0.27
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 54016.4,
-        "pct_change": -0.04
+        "last": 53945.29,
+        "pct_change": -0.17
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3023.16,
-        "pct_change": -0.37
+        "last": 3018.24,
+        "pct_change": -0.54
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.22,
-        "pct_change": 2.15
+        "last": 15.15,
+        "pct_change": 1.68
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
         "last": 4.69,
-        "pct_change": 0.64
+        "pct_change": 0.69
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.73,
-        "pct_change": 0.13
+        "last": 99.71,
+        "pct_change": 0.11
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 81.25,
-        "pct_change": 3.93
+        "last": 81.04,
+        "pct_change": 3.66
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4407.0,
-        "pct_change": 1.53
+        "last": 4422.9,
+        "pct_change": 1.89
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 187.18,
-        "pct_change": -0.42
+        "last": 187.48,
+        "pct_change": -0.26
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 57.95,
-        "pct_change": 0.61
+        "last": 57.77,
+        "pct_change": 0.3
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 59.37,
-        "pct_change": 3.24
+        "last": 59.47,
+        "pct_change": 3.43
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 167.59,
-        "pct_change": 1.15
+        "last": 167.62,
+        "pct_change": 1.17
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 119.67,
-        "pct_change": -0.16
+        "last": 119.61,
+        "pct_change": -0.21
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 84.85,
-        "pct_change": -0.32
+        "last": 84.89,
+        "pct_change": -0.26
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 185.22,
-        "pct_change": 0.02
+        "last": 185.03,
+        "pct_change": -0.08
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 43.13,
-        "pct_change": -1.09
+        "last": 43.19,
+        "pct_change": -0.97
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 52.96,
-        "pct_change": 0.18
+        "last": 52.99,
+        "pct_change": 0.25
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.33,
-        "pct_change": -1.45
+        "last": 44.31,
+        "pct_change": -1.48
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 111.2,
-        "pct_change": -0.04
+        "last": 111.46,
+        "pct_change": 0.19
       }
     }
   },
@@ -144,52 +144,52 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 162.4,
-        "pct_change": -1.98
+        "last": 161.26,
+        "pct_change": -2.67
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 306.38,
-        "pct_change": -2.22
+        "last": 305.58,
+        "pct_change": -2.47
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 509.24,
-        "pct_change": 1.85
+        "last": 509.87,
+        "pct_change": 1.98
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 279.52,
-        "pct_change": 1.84
+        "last": 278.36,
+        "pct_change": 1.41
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 354.34,
-        "pct_change": 0.01
+        "last": 354.43,
+        "pct_change": 0.04
       },
       "Meta": {
         "symbol": "META",
-        "last": 599.14,
-        "pct_change": 1.19
+        "last": 596.99,
+        "pct_change": 0.83
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 833.61,
-        "pct_change": -6.35
+        "last": 827.74,
+        "pct_change": -7.01
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 333.56,
-        "pct_change": -12.02
+        "last": 335.35,
+        "pct_change": -11.55
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 169.84,
-        "pct_change": 0.39
+        "last": 169.52,
+        "pct_change": 0.2
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -635,47 +635,57 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "Corporate profits are absolutely booming",
-        "link": "https://finance.yahoo.com/markets/article/corporate-profits-are-absolutely-booming-152552912.html",
-        "published": "2026-08-10T15:25:52Z"
+        "title": "S&P 500 on Pace for Fresh Record Despite Early Struggles",
+        "link": "https://www.barrons.com/livecoverage/stock-market-news-today-081026/card/s-p-500-on-pace-for-fresh-record-despite-early-struggles-pt8dWJtXY67oJzgmvqjt?siteid=yhoof2&yptr=yahoo",
+        "published": "2026-08-10T16:08:46Z"
       },
       {
-        "title": "‘Massive Upgrade Cycle’ Coming – Ignore Memory Costs Panic and Buy Apple (AAPL)?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/massive-upgrade-cycle-coming-ignore-152241666.html",
-        "published": "2026-08-10T15:22:41Z"
+        "title": "Sotera Health Company (SHC) Reported Positive Results Amid Litigation Wins",
+        "link": "https://finance.yahoo.com/healthcare/articles/sotera-health-company-shc-reported-160255464.html",
+        "published": "2026-08-10T16:02:55Z"
       },
       {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq little changed in wait for key inflation data",
-        "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-10-dow-sp-500-nasdaq-104358890.html",
-        "published": "2026-08-10T10:43:58Z"
+        "title": "Amazon, IBD Stock Of The Day, Rides Cloud Momentum To $3 Trillion Milestone",
+        "link": "https://www.investors.com/research/ibd-stock-of-the-day/amazon-stock-ai-3-trillion-record-high/?src=A00220&yptr=yahoo",
+        "published": "2026-08-10T16:00:18Z"
       },
       {
-        "title": "SpaceX Rivals Rocket Lab, AST SpaceMobile About To Report Earnings. What To Expect.",
-        "link": "https://www.investors.com/news/spacex-rocket-lab-ast-spacemobile-earnings-electron-launch-neutron-rocket/?src=A00220&yptr=yahoo",
-        "published": "2026-08-10T15:05:07Z"
+        "title": "Google Stock Sputters, But These Catalysts Could Spark A Rebound",
+        "link": "https://www.investors.com/research/how-to-find-the-best-stocks-to-buy/google-stock-googl-deepmind-news-alphabet-outlook-strong-tech-markets/?src=A00220&yptr=yahoo",
+        "published": "2026-08-10T15:59:34Z"
       },
       {
-        "title": "Daily – Vickers Top Buyers & Sellers for 08/10/2026",
-        "link": "https://finance.yahoo.com/research/reports/ARGUS_47864_TopBottomInsiderActivity_1786362180000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-        "published": "2026-08-10T11:43:00Z"
+        "title": "Star Holdings (STHO) Trades at Discount as Fundamental Outperformance Accelerates",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/star-holdings-stho-trades-discount-155809758.html",
+        "published": "2026-08-10T15:58:09Z"
       },
       {
-        "title": "JAPEX Doubles Down on U.S. Shale With $320 Million Colorado-Wyoming Deal",
-        "link": "https://finance.yahoo.com/energy/articles/japex-doubles-down-u-shale-150441995.html",
-        "published": "2026-08-10T15:04:41Z"
+        "title": "Top economist says Bitcoin has one flaw gold will never have",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/top-economist-says-bitcoin-one-160425905.html",
+        "published": "2026-08-10T16:04:25Z"
       },
       {
-        "title": "Evaluating Datadog’s Reincorporation Proposal and Governance Roadmap",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/evaluating-datadog-reincorporation-proposal-governance-150244423.html",
-        "published": "2026-08-10T15:02:44Z"
+        "title": "Stock Market Today: Dow Firm, Apple Skids On iPhone Fear; Oil Rises As Trump Says This (Live Coverage)",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-us-iran-spacex-stock-spcx/?src=A00220&yptr=yahoo",
+        "published": "2026-08-10T15:53:40Z"
       },
       {
-        "title": "Why Plug Power Stock Slumped Another 24% in July",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/why-plug-power-stock-slumped-152018848.html",
-        "published": "2026-08-10T15:20:18Z"
+        "title": "QuidelOrtho Corporation (QDEL) Stock Positioned for Reweighting Towards Peers Amid Deleveraging",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/quidelortho-corporation-qdel-stock-positioned-155316192.html",
+        "published": "2026-08-10T15:53:16Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "‘This has been an emotionally difficult time’: My brother has cancer and my father is 94. How do I shoulder this responsibility?",
+        "link": "https://www.marketwatch.com/story/this-has-been-an-emotionally-difficult-time-my-brother-has-cancer-and-my-father-is-94-how-do-i-shoulder-this-responsibility-9da09dc4?mod=mw_rss_topstories",
+        "published": "Mon, 10 Aug 2026 16:01:00 GMT"
+      },
+      {
+        "title": "17 S&P 500 companies with growing revenue and profit margins — and some of their stocks are cheap",
+        "link": "https://www.marketwatch.com/story/17-s-p-500-companies-with-growing-revenue-and-profit-margins-and-some-of-their-stocks-are-cheap-e7c7fa14?mod=mw_rss_topstories",
+        "published": "Mon, 10 Aug 2026 15:35:00 GMT"
+      },
       {
         "title": "SpaceX’s stock moves above its IPO price for the first time in almost a month",
         "link": "https://www.marketwatch.com/story/spacexs-stock-moves-above-its-ipo-price-for-the-first-time-in-almost-a-month-fc3f91b7?mod=mw_rss_topstories",
@@ -705,23 +715,13 @@
         "title": "Taylor Farms recalls jalapeño-based foods in 26 states amid ongoing salmonella outbreak",
         "link": "https://www.marketwatch.com/story/taylor-farms-recalls-jalapeno-based-foods-in-26-states-amid-ongoing-salmonella-outbreak-f873657b?mod=mw_rss_topstories",
         "published": "Mon, 10 Aug 2026 14:41:00 GMT"
-      },
-      {
-        "title": "Is $1 million enough for a household to retire? The answer keeps changing.",
-        "link": "https://www.marketwatch.com/story/is-1-million-enough-for-a-household-to-retire-the-answer-keeps-changing-aee84a83?mod=mw_rss_topstories",
-        "published": "Mon, 10 Aug 2026 14:30:00 GMT"
-      },
-      {
-        "title": "The stocks of these ‘toll takers’ could be the AI boom’s next big winners",
-        "link": "https://www.marketwatch.com/story/the-stocks-of-these-toll-takers-could-be-the-ai-booms-next-big-winners-ae1081f1?mod=mw_rss_topstories",
-        "published": "Mon, 10 Aug 2026 14:28:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "U.S. oil price hits $80 as doubt grows Washington and Tehran will reach Strait of Hormuz deal",
-        "link": "https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html",
-        "published": "Mon, 10 Aug 2026 15:28:45 GMT"
+        "title": "Oil in U.S. Strategic Petroleum Reserve falls below 300 million barrels, lowest since 1983",
+        "link": "https://www.cnbc.com/2026/08/10/oil-in-strategic-petroleum-reserve-falls-below-300-million-barrels-lowest-since-1983.html",
+        "published": "Mon, 10 Aug 2026 16:04:30 GMT"
       },
       {
         "title": "Intel plans $15 billion stock offering as AI demand accelerates",
@@ -729,9 +729,24 @@
         "published": "Mon, 10 Aug 2026 14:31:41 GMT"
       },
       {
+        "title": "Trump signals shift to economic pressure as Iran hardens stance over Strait of Hormuz",
+        "link": "https://www.cnbc.com/2026/08/10/us-iran-war-trump-hormuz-oman-ships-blockade-shipping.html",
+        "published": "Mon, 10 Aug 2026 14:27:15 GMT"
+      },
+      {
+        "title": "S&P 500 is little changed as traders await possible Hormuz deal, Intel shares fall: Live updates",
+        "link": "https://www.cnbc.com/2026/08/09/stock-market-today-live-updates.html",
+        "published": "Mon, 10 Aug 2026 16:29:14 GMT"
+      },
+      {
         "title": "HHS moves to tighten oversight of food ingredients as safety concerns mount",
         "link": "https://www.cnbc.com/2026/08/10/hhs-makes-announcements-on-gras-ultraprocessed-food.html",
         "published": "Mon, 10 Aug 2026 15:03:24 GMT"
+      },
+      {
+        "title": "An update on two Best Stocks breakouts. One is now failing, but the other is partying on",
+        "link": "https://www.cnbc.com/2026/08/10/an-update-on-two-best-stocks-breakouts-one-is-now-failing-but-the-other-is-partying-on.html",
+        "published": "Mon, 10 Aug 2026 15:44:27 GMT"
       },
       {
         "title": "Trump’s foreign licensing business booms to $59.5 million as Gulf developers pay",
@@ -739,24 +754,9 @@
         "published": "Mon, 10 Aug 2026 15:06:58 GMT"
       },
       {
-        "title": "Santoli: Stocks return to winning ways. Why the market gods may not be satisfied with July's brief pain",
-        "link": "https://www.cnbc.com/2026/08/10/santoli-stocks-return-to-their-winning-ways-but-was-julys-brief-pain-enough-to-satisfy-the-market-gods.html",
-        "published": "Mon, 10 Aug 2026 11:45:50 GMT"
-      },
-      {
-        "title": "Berkshire Hathaway trades higher on strong earnings, big buyback. But Michael Burry isn't buying",
-        "link": "https://www.cnbc.com/2026/08/10/berkshire-hathaway-trades-higher-on-strong-earnings-big-buyback-but-michael-burry-isnt-buying.html",
-        "published": "Mon, 10 Aug 2026 13:32:48 GMT"
-      },
-      {
-        "title": "Archer shares surge after Boeing stake, electric aircraft subsidiary deal",
-        "link": "https://www.cnbc.com/2026/08/10/boeing-evtol-archer-stake.html",
-        "published": "Mon, 10 Aug 2026 14:16:24 GMT"
-      },
-      {
-        "title": "SpaceX stock rebounds to near $135 IPO price",
-        "link": "https://www.cnbc.com/2026/08/10/spacex-spcx-stock-ipo-price.html",
-        "published": "Mon, 10 Aug 2026 15:13:09 GMT"
+        "title": "Gold just had its best week in 7 months. Here’s why Mike Khouw is buying more",
+        "link": "https://www.cnbc.com/2026/08/10/gold-just-had-its-best-week-in-7-months-heres-why-mike-khouw-is-buying-more.html",
+        "published": "Mon, 10 Aug 2026 16:09:32 GMT"
       }
     ]
   }
