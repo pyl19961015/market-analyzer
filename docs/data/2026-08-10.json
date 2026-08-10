@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-08-10T16:31:09",
+  "generated_at": "2026-08-10T17:35:27",
   "date": "2026-08-10",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7756.76,
-        "pct_change": -0.01
+        "last": 7753.87,
+        "pct_change": -0.05
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26617.89,
-        "pct_change": -0.27
+        "last": 26604.45,
+        "pct_change": -0.32
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 53945.29,
-        "pct_change": -0.17
+        "last": 53901.12,
+        "pct_change": -0.25
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3018.24,
-        "pct_change": -0.54
+        "last": 3015.89,
+        "pct_change": -0.61
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.15,
-        "pct_change": 1.68
+        "last": 15.26,
+        "pct_change": 2.42
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.69,
-        "pct_change": 0.69
+        "last": 4.7,
+        "pct_change": 0.86
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.71,
-        "pct_change": 0.11
+        "last": 99.8,
+        "pct_change": 0.2
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 81.04,
-        "pct_change": 3.66
+        "last": 81.52,
+        "pct_change": 4.27
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4422.9,
-        "pct_change": 1.89
+        "last": 4418.0,
+        "pct_change": 1.78
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 187.48,
-        "pct_change": -0.26
+        "last": 187.53,
+        "pct_change": -0.23
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 57.77,
-        "pct_change": 0.3
+        "last": 57.72,
+        "pct_change": 0.21
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 59.47,
-        "pct_change": 3.43
+        "last": 59.83,
+        "pct_change": 4.05
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 167.62,
-        "pct_change": 1.17
+        "last": 167.75,
+        "pct_change": 1.25
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 119.61,
-        "pct_change": -0.21
+        "last": 119.25,
+        "pct_change": -0.51
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 84.89,
-        "pct_change": -0.26
+        "last": 84.85,
+        "pct_change": -0.32
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 185.03,
-        "pct_change": -0.08
+        "last": 184.93,
+        "pct_change": -0.14
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 43.19,
-        "pct_change": -0.97
+        "last": 43.27,
+        "pct_change": -0.78
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 52.99,
-        "pct_change": 0.25
+        "last": 52.94,
+        "pct_change": 0.15
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.31,
-        "pct_change": -1.48
+        "last": 44.26,
+        "pct_change": -1.59
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 111.46,
-        "pct_change": 0.19
+        "last": 111.29,
+        "pct_change": 0.04
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 158.93,
-        "pct_change": 0.33
+        "last": 159.09,
+        "pct_change": 0.43
       }
     }
   },
@@ -138,58 +138,58 @@
       "as_of": "2026-08-07",
       "prev_yield": 2.773
     },
-    "spread_10y": 1.89
+    "spread_10y": 1.9
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 161.26,
-        "pct_change": -2.67
+        "last": 160.65,
+        "pct_change": -3.04
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 305.58,
-        "pct_change": -2.47
+        "last": 306.53,
+        "pct_change": -2.17
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 509.87,
-        "pct_change": 1.98
+        "last": 508.33,
+        "pct_change": 1.67
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 278.36,
-        "pct_change": 1.41
+        "last": 277.22,
+        "pct_change": 1.0
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 354.43,
-        "pct_change": 0.04
+        "last": 354.7,
+        "pct_change": 0.11
       },
       "Meta": {
         "symbol": "META",
-        "last": 596.99,
-        "pct_change": 0.83
+        "last": 594.54,
+        "pct_change": 0.41
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 827.74,
-        "pct_change": -7.01
+        "last": 830.64,
+        "pct_change": -6.69
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 335.35,
-        "pct_change": -11.55
+        "last": 335.4,
+        "pct_change": -11.53
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 169.52,
-        "pct_change": 0.2
+        "last": 169.77,
+        "pct_change": 0.35
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -635,47 +635,57 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "S&P 500 on Pace for Fresh Record Despite Early Struggles",
-        "link": "https://www.barrons.com/livecoverage/stock-market-news-today-081026/card/s-p-500-on-pace-for-fresh-record-despite-early-struggles-pt8dWJtXY67oJzgmvqjt?siteid=yhoof2&yptr=yahoo",
-        "published": "2026-08-10T16:08:46Z"
+        "title": "Does renters insurance cover fire?",
+        "link": "https://finance.yahoo.com/personal-finance/insurance/article/does-renters-insurance-cover-fire-172417697.html",
+        "published": "2026-08-10T17:24:17Z"
       },
       {
-        "title": "Sotera Health Company (SHC) Reported Positive Results Amid Litigation Wins",
-        "link": "https://finance.yahoo.com/healthcare/articles/sotera-health-company-shc-reported-160255464.html",
-        "published": "2026-08-10T16:02:55Z"
+        "title": "Oil jumps as US-Iran deal hopes fade, Strategic Petroleum Reserve falls below 300 million barrels",
+        "link": "https://finance.yahoo.com/markets/article/oil-jumps-as-us-iran-deal-hopes-fade-strategic-petroleum-reserve-falls-below-300-million-barrels-172208297.html",
+        "published": "2026-08-10T17:22:08Z"
       },
       {
-        "title": "Amazon, IBD Stock Of The Day, Rides Cloud Momentum To $3 Trillion Milestone",
-        "link": "https://www.investors.com/research/ibd-stock-of-the-day/amazon-stock-ai-3-trillion-record-high/?src=A00220&yptr=yahoo",
-        "published": "2026-08-10T16:00:18Z"
+        "title": "Stock market today: Dow, S&P 500, Nasdaq slip as oil prices climb, Nvidia stock sinks",
+        "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-slip-as-oil-prices-climb-nvidia-stock-sinks-104358890.html",
+        "published": "2026-08-10T10:43:58Z"
       },
       {
-        "title": "Google Stock Sputters, But These Catalysts Could Spark A Rebound",
-        "link": "https://www.investors.com/research/how-to-find-the-best-stocks-to-buy/google-stock-googl-deepmind-news-alphabet-outlook-strong-tech-markets/?src=A00220&yptr=yahoo",
-        "published": "2026-08-10T15:59:34Z"
+        "title": "Wendy's has a massive problem: It's closing restaurants left and right",
+        "link": "https://finance.yahoo.com/markets/article/wendys-has-a-massive-problem-its-closing-restaurants-left-and-right-171131528.html",
+        "published": "2026-08-10T17:11:31Z"
       },
       {
-        "title": "Star Holdings (STHO) Trades at Discount as Fundamental Outperformance Accelerates",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/star-holdings-stho-trades-discount-155809758.html",
-        "published": "2026-08-10T15:58:09Z"
+        "title": "Freddy’s Signs 3-Unit Deal in Eastern Wyoming",
+        "link": "https://finance.yahoo.com/small-business/articles/freddy-signs-3-unit-deal-171037129.html",
+        "published": "2026-08-10T17:10:37Z"
       },
       {
-        "title": "Top economist says Bitcoin has one flaw gold will never have",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/top-economist-says-bitcoin-one-160425905.html",
-        "published": "2026-08-10T16:04:25Z"
+        "title": "Jim Cramer Examines Akamai Technologies’ (AKAM) Cloud Pivot and Robotics Win",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-examines-akamai-technologies-170741404.html",
+        "published": "2026-08-10T17:07:41Z"
       },
       {
-        "title": "Stock Market Today: Dow Firm, Apple Skids On iPhone Fear; Oil Rises As Trump Says This (Live Coverage)",
+        "title": "Stock Market Today: Dow Dips, Apple Skids On iPhone Fear; This AI Play Clears Entry (Live Coverage)",
         "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-us-iran-spacex-stock-spcx/?src=A00220&yptr=yahoo",
-        "published": "2026-08-10T15:53:40Z"
+        "published": "2026-08-10T17:07:13Z"
       },
       {
-        "title": "QuidelOrtho Corporation (QDEL) Stock Positioned for Reweighting Towards Peers Amid Deleveraging",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/quidelortho-corporation-qdel-stock-positioned-155316192.html",
-        "published": "2026-08-10T15:53:16Z"
+        "title": "AbbVie’s (ABBV) Botox Just Got A Step Closer To A Fifth Use",
+        "link": "https://finance.yahoo.com/healthcare/articles/abbvie-abbv-botox-just-got-165940206.html",
+        "published": "2026-08-10T16:59:40Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "Archer strikes deal with Boeing in latest bid to transform aviation through AI",
+        "link": "https://www.marketwatch.com/story/archer-strikes-deal-with-boeing-in-latest-bid-to-transform-aviation-through-ai-dac15322?mod=mw_rss_topstories",
+        "published": "Mon, 10 Aug 2026 17:22:00 GMT"
+      },
+      {
+        "title": "Protect College Sports Act to be voted on next month: What it means for transfers and team spending",
+        "link": "https://www.marketwatch.com/story/senate-vote-on-the-protect-college-sports-act-could-come-this-week-what-it-means-for-transfers-and-salary-caps-58088560?mod=mw_rss_topstories",
+        "published": "Mon, 10 Aug 2026 16:48:00 GMT"
+      },
       {
         "title": "‘This has been an emotionally difficult time’: My brother has cancer and my father is 94. How do I shoulder this responsibility?",
         "link": "https://www.marketwatch.com/story/this-has-been-an-emotionally-difficult-time-my-brother-has-cancer-and-my-father-is-94-how-do-i-shoulder-this-responsibility-9da09dc4?mod=mw_rss_topstories",
@@ -705,28 +715,13 @@
         "title": "Here’s when Elon Musk’s Starlink internet is worth the steep monthly price — and $350 startup cost",
         "link": "https://www.marketwatch.com/story/heres-when-elon-musks-starlink-internet-is-worth-the-steep-monthly-price-and-350-startup-cost-53735d59?mod=mw_rss_topstories",
         "published": "Mon, 10 Aug 2026 14:51:00 GMT"
-      },
-      {
-        "title": "‘I unexpectedly came into some money’: Is putting $20,000 into CDs a smart move?",
-        "link": "https://www.marketwatch.com/story/i-unexpectedly-came-into-some-money-is-putting-20-000-into-cds-a-smart-move-6c410458?mod=mw_rss_topstories",
-        "published": "Mon, 10 Aug 2026 14:45:00 GMT"
-      },
-      {
-        "title": "Taylor Farms recalls jalapeño-based foods in 26 states amid ongoing salmonella outbreak",
-        "link": "https://www.marketwatch.com/story/taylor-farms-recalls-jalapeno-based-foods-in-26-states-amid-ongoing-salmonella-outbreak-f873657b?mod=mw_rss_topstories",
-        "published": "Mon, 10 Aug 2026 14:41:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
         "title": "Oil in U.S. Strategic Petroleum Reserve falls below 300 million barrels, lowest since 1983",
         "link": "https://www.cnbc.com/2026/08/10/oil-in-strategic-petroleum-reserve-falls-below-300-million-barrels-lowest-since-1983.html",
-        "published": "Mon, 10 Aug 2026 16:04:30 GMT"
-      },
-      {
-        "title": "Intel plans $15 billion stock offering as AI demand accelerates",
-        "link": "https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html",
-        "published": "Mon, 10 Aug 2026 14:31:41 GMT"
+        "published": "Mon, 10 Aug 2026 17:33:34 GMT"
       },
       {
         "title": "Trump signals shift to economic pressure as Iran hardens stance over Strait of Hormuz",
@@ -734,19 +729,24 @@
         "published": "Mon, 10 Aug 2026 14:27:15 GMT"
       },
       {
+        "title": "Intel plans $15 billion stock offering as AI demand accelerates",
+        "link": "https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html",
+        "published": "Mon, 10 Aug 2026 16:39:44 GMT"
+      },
+      {
         "title": "S&P 500 is little changed as traders await possible Hormuz deal, Intel shares fall: Live updates",
         "link": "https://www.cnbc.com/2026/08/09/stock-market-today-live-updates.html",
-        "published": "Mon, 10 Aug 2026 16:29:14 GMT"
+        "published": "Mon, 10 Aug 2026 17:03:13 GMT"
       },
       {
-        "title": "HHS moves to tighten oversight of food ingredients as safety concerns mount",
-        "link": "https://www.cnbc.com/2026/08/10/hhs-makes-announcements-on-gras-ultraprocessed-food.html",
-        "published": "Mon, 10 Aug 2026 15:03:24 GMT"
+        "title": "Three reasons Goldman's co-head of global banking and markets says to stay invested",
+        "link": "https://www.cnbc.com/2026/08/10/three-reasons-goldmans-co-head-of-global-banking-and-markets-says-to-stay-invested.html",
+        "published": "Mon, 10 Aug 2026 16:36:44 GMT"
       },
       {
-        "title": "An update on two Best Stocks breakouts. One is now failing, but the other is partying on",
-        "link": "https://www.cnbc.com/2026/08/10/an-update-on-two-best-stocks-breakouts-one-is-now-failing-but-the-other-is-partying-on.html",
-        "published": "Mon, 10 Aug 2026 15:44:27 GMT"
+        "title": "JPMorgan is the latest to raise its S&P 500 target, this time to 8,000. Here's why",
+        "link": "https://www.cnbc.com/2026/08/10/jpmorgan-is-the-latest-to-raise-its-sp-500-target-this-time-to-8000-heres-why.html",
+        "published": "Mon, 10 Aug 2026 16:35:46 GMT"
       },
       {
         "title": "Trump’s foreign licensing business booms to $59.5 million as Gulf developers pay",
@@ -754,9 +754,9 @@
         "published": "Mon, 10 Aug 2026 15:06:58 GMT"
       },
       {
-        "title": "Gold just had its best week in 7 months. Here’s why Mike Khouw is buying more",
-        "link": "https://www.cnbc.com/2026/08/10/gold-just-had-its-best-week-in-7-months-heres-why-mike-khouw-is-buying-more.html",
-        "published": "Mon, 10 Aug 2026 16:09:32 GMT"
+        "title": "HHS moves to tighten oversight of food ingredients as safety concerns mount",
+        "link": "https://www.cnbc.com/2026/08/10/hhs-makes-announcements-on-gras-ultraprocessed-food.html",
+        "published": "Mon, 10 Aug 2026 15:03:24 GMT"
       }
     ]
   }
