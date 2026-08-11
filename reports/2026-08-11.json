@@ -1,59 +1,59 @@
 {
-  "generated_at": "2026-08-11T14:32:08",
+  "generated_at": "2026-08-11T15:37:33",
   "date": "2026-08-11",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7758.22,
-        "pct_change": 0.07
+        "last": 7743.21,
+        "pct_change": -0.13
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26581.27,
-        "pct_change": -0.09
+        "last": 26519.68,
+        "pct_change": -0.32
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 54021.07,
-        "pct_change": 0.08
+        "last": 53927.67,
+        "pct_change": -0.09
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3034.83,
-        "pct_change": 0.58
+        "last": 3029.14,
+        "pct_change": 0.39
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.42,
-        "pct_change": -0.26
+        "last": 15.27,
+        "pct_change": -1.23
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.68,
-        "pct_change": -0.36
+        "last": 4.69,
+        "pct_change": -0.23
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.81,
-        "pct_change": 0.0
+        "last": 99.83,
+        "pct_change": 0.02
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 82.12,
-        "pct_change": -0.01
+        "last": 82.46,
+        "pct_change": 0.4
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4444.8,
-        "pct_change": 1.9
+        "last": 4443.2,
+        "pct_change": 1.87
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 186.92,
-        "pct_change": 0.32
+        "last": 186.36,
+        "pct_change": 0.02
       },
       "Financials": {
         "symbol": "XLF",
@@ -62,48 +62,48 @@
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 60.67,
-        "pct_change": 0.81
+        "last": 61.01,
+        "pct_change": 1.39
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 168.0,
-        "pct_change": -0.26
+        "last": 167.86,
+        "pct_change": -0.34
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 119.62,
-        "pct_change": -0.04
+        "last": 119.3,
+        "pct_change": -0.31
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 84.55,
-        "pct_change": -0.47
+        "last": 84.39,
+        "pct_change": -0.67
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 186.82,
-        "pct_change": 1.2
+        "last": 185.57,
+        "pct_change": 0.53
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 43.25,
-        "pct_change": 0.28
+        "last": 43.39,
+        "pct_change": 0.6
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 53.32,
-        "pct_change": 0.26
+        "last": 53.15,
+        "pct_change": -0.05
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.2,
-        "pct_change": -0.45
+        "last": 44.19,
+        "pct_change": -0.46
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 112.07,
-        "pct_change": 0.21
+        "last": 111.91,
+        "pct_change": 0.07
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 159.24,
-        "pct_change": 0.85
+        "last": 159.3,
+        "pct_change": 0.89
       }
     }
   },
@@ -138,58 +138,58 @@
       "as_of": "2026-08-07",
       "prev_yield": 2.773
     },
-    "spread_10y": 1.88
+    "spread_10y": 1.89
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 160.34,
-        "pct_change": 1.64
+        "last": 158.73,
+        "pct_change": 0.61
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 306.45,
-        "pct_change": -0.59
+        "last": 306.5,
+        "pct_change": -0.57
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 501.73,
-        "pct_change": -0.86
+        "last": 501.03,
+        "pct_change": -0.99
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 274.69,
-        "pct_change": -1.22
+        "last": 272.72,
+        "pct_change": -1.93
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 352.37,
-        "pct_change": -1.44
+        "last": 350.4,
+        "pct_change": -1.99
       },
       "Meta": {
         "symbol": "META",
-        "last": 609.65,
-        "pct_change": 2.48
+        "last": 606.17,
+        "pct_change": 1.89
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 808.24,
-        "pct_change": -0.65
+        "last": 814.95,
+        "pct_change": 0.18
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 330.05,
-        "pct_change": 1.51
+        "last": 326.95,
+        "pct_change": 0.55
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 171.65,
-        "pct_change": 2.36
+        "last": 170.1,
+        "pct_change": 1.43
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -635,29 +635,29 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "Tech stocks today: CoreWeave and Supermicro to report results, Intel to upsizes stock sale",
-        "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-coreweave-and-supermicro-to-report-results-intel-to-upsizes-stock-sale-135605566.html",
-        "published": "2026-08-10T13:56:05Z"
+        "title": "Quantum trade moves beyond science fiction: AlphaCheck",
+        "link": "https://finance.yahoo.com/markets/article/quantum-trade-moves-beyond-science-fiction-alphacheck-152407486.html",
+        "published": "2026-08-11T15:24:07Z"
       },
       {
-        "title": "Swiss sportswear company On posts return to profit in Q2",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/swiss-sportswear-company-posts-return-141818282.html",
-        "published": "2026-08-11T14:18:18Z"
+        "title": "Stock market today: Dow, S&P 500, Nasdaq edge higher as US, Iran reach impasse",
+        "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-11-dow-sp-500-nasdaq-102827503.html",
+        "published": "2026-08-11T10:28:27Z"
       },
       {
-        "title": "Nvidia Confirms Huge AI Funding Deal. These Financial Stocks Jump.",
-        "link": "https://www.investors.com/news/financial-stocks-jump-nvidia-ai-funding-deal/?src=A00220&yptr=yahoo",
-        "published": "2026-08-11T14:18:02Z"
+        "title": "Plug Power Reports $178 Million in Revenue and Raises Its 2026 Guidance. Here's What PLUG Investors Need to Know.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/plug-power-reports-178-million-151601522.html",
+        "published": "2026-08-11T15:16:01Z"
       },
       {
-        "title": "Powerball jackpot climbs to $975 million. What you'd pocket after taxes, and what to do with the rest.",
-        "link": "https://finance.yahoo.com/personal-finance/banking/article/powerball-jackpot-climbs-to-975-million-what-youd-pocket-after-taxes-and-what-to-do-with-the-rest-154401967.html",
-        "published": "2026-08-10T15:44:01Z"
+        "title": "Cherry Hill Mortgage’s 29% Premium Deal: $9B Merger Opens Door to Bigger Upside – Quarterly Update Report",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/cherry-hill-mortgage-29-premium-150508758.html",
+        "published": "2026-08-11T15:05:08Z"
       },
       {
-        "title": "US existing home sales post second straight monthly decline in July",
-        "link": "https://finance.yahoo.com/real-estate/articles/us-existing-home-sales-post-140755961.html",
-        "published": "2026-08-11T14:10:05Z"
+        "title": "US fuel exports to Cuba spur chaotic black market",
+        "link": "https://finance.yahoo.com/news/us-fuel-sales-cuban-business-100512481.html",
+        "published": "2026-08-11T14:58:58Z"
       },
       {
         "title": "Daily Spotlight: Sovereign Debt Yields",
@@ -665,17 +665,37 @@
         "published": "2026-08-11T11:27:35Z"
       },
       {
-        "title": "Trump says 401(k)s are up ‘double and triple’ as America enters golden age — are you all set to get rich?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/trump-says-401-k-double-141000644.html",
-        "published": "2026-08-11T14:10:00Z"
+        "title": "Tech stocks today: CoreWeave and Supermicro to report results, Intel to upsizes stock sale",
+        "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-coreweave-and-supermicro-to-report-results-intel-to-upsizes-stock-sale-135605566.html",
+        "published": "2026-08-10T13:56:05Z"
       },
       {
-        "title": "Unlocking Alibaba’s (BABA) Transformation Beyond Distribution",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/unlocking-alibaba-baba-transformation-beyond-140836873.html",
-        "published": "2026-08-11T14:08:36Z"
+        "title": "Russia to Allow Bitcoin, Ether, Tether Trading on Official Exchanges",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/russia-allow-bitcoin-ether-tether-145700776.html",
+        "published": "2026-08-11T14:57:00Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "I looked into buying a house in Singapore as an investment. Here’s why I didn’t — despite the 2% mortgage rate.",
+        "link": "https://www.marketwatch.com/story/i-looked-into-buying-a-house-in-singapore-as-an-investment-heres-why-i-didnt-despite-the-2-mortgage-rate-50c79bcf?mod=mw_rss_topstories",
+        "published": "Tue, 11 Aug 2026 15:32:00 GMT"
+      },
+      {
+        "title": "‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
+        "link": "https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories",
+        "published": "Tue, 11 Aug 2026 15:00:00 GMT"
+      },
+      {
+        "title": "AI is killing worker confidence, but there’s no sign it’s muscling people out of their jobs on a massive scale",
+        "link": "https://www.marketwatch.com/story/workers-are-worried-but-theres-no-sign-ai-is-muscling-people-out-of-their-jobs-on-a-massive-scale-8eb92638?mod=mw_rss_topstories",
+        "published": "Tue, 11 Aug 2026 14:53:00 GMT"
+      },
+      {
+        "title": "Is inflation really slowing? Fed rate hike hinges on July price report.",
+        "link": "https://www.marketwatch.com/story/is-inflation-really-slowing-fed-rate-hike-hinges-on-july-price-report-9d3c3a73?mod=mw_rss_topstories",
+        "published": "Tue, 11 Aug 2026 14:49:00 GMT"
+      },
       {
         "title": "Wall Street thinks inflation is under control. Here’s why investors shouldn’t buy it.",
         "link": "https://www.marketwatch.com/story/fed-chair-kevin-warsh-promises-2-inflation-but-skyrocketing-u-s-debt-makes-that-a-pipe-dream-ba448651?mod=mw_rss_topstories",
@@ -695,26 +715,6 @@
         "title": "Airbnb has added thousands of new hotel listings. Will that damage the brand’s identity?",
         "link": "https://www.marketwatch.com/story/airbnb-has-added-thousands-of-new-hotel-listings-will-that-ruin-its-charm-0af2d3b0?mod=mw_rss_topstories",
         "published": "Tue, 11 Aug 2026 13:58:00 GMT"
-      },
-      {
-        "title": "I just moved. These 7 tips saved me nearly $1,000.",
-        "link": "https://www.marketwatch.com/story/i-just-moved-these-7-tips-saved-me-around-1-000-ea3b0ae5?mod=mw_rss_topstories",
-        "published": "Tue, 11 Aug 2026 13:52:00 GMT"
-      },
-      {
-        "title": "This fund manager tunes out AI hype to flag the infrastructure stocks to buy now. Think roads, water and telecom towers.",
-        "link": "https://www.marketwatch.com/story/roads-water-and-telecom-towers-can-beat-the-ai-hype-this-fund-manager-flags-the-infrastructure-stocks-to-buy-now-54c62a77?mod=mw_rss_topstories",
-        "published": "Tue, 11 Aug 2026 13:39:00 GMT"
-      },
-      {
-        "title": "We live on a farm and have $2.2 million saved for retirement. We’re ready to retire abroad. Can we afford it?",
-        "link": "https://www.marketwatch.com/story/we-live-on-a-farm-and-have-2-2-million-saved-for-retirement-were-ready-to-retire-abroad-can-we-afford-it-85e56105?mod=mw_rss_topstories",
-        "published": "Tue, 11 Aug 2026 13:00:00 GMT"
-      },
-      {
-        "title": "Warsh’s changes to forward guidance were tried by one central bank — and here’s what happened",
-        "link": "https://www.marketwatch.com/story/warshs-changes-to-forward-guidance-were-tried-by-one-central-bank-and-heres-what-happened-c7a5c743?mod=mw_rss_topstories",
-        "published": "Tue, 11 Aug 2026 12:16:00 GMT"
       }
     ],
     "CNBC Top News": [
@@ -726,12 +726,17 @@
       {
         "title": "Pakistan signals progress on U.S.-Iran deal as Washington and Tehran trade reparation demands",
         "link": "https://www.cnbc.com/2026/08/11/us-iran-war-trump-hormuz-control-reparation-talks-.html",
-        "published": "Tue, 11 Aug 2026 13:48:36 GMT"
+        "published": "Tue, 11 Aug 2026 14:56:43 GMT"
+      },
+      {
+        "title": "Democrats clash again in Minnesota and Wisconsin primaries as big midterm races take shape",
+        "link": "https://www.cnbc.com/2026/08/11/minnesota-wisconsin-primaries-hong-flanagan-craig-run-in-key-races.html",
+        "published": "Tue, 11 Aug 2026 14:34:32 GMT"
       },
       {
         "title": "Intel upsizes stock offering to $20 billion at $95 per share as AI demand accelerates",
         "link": "https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html",
-        "published": "Tue, 11 Aug 2026 07:17:00 GMT"
+        "published": "Tue, 11 Aug 2026 14:45:44 GMT"
       },
       {
         "title": "Polymarket makes moves to get house in order before expected boom times for prediction markets this fall",
@@ -741,22 +746,17 @@
       {
         "title": "One big question remains for the bull market, says Bank of America",
         "link": "https://www.cnbc.com/2026/08/11/one-big-question-remains-for-the-bull-market-says-bank-of-america.html",
-        "published": "Tue, 11 Aug 2026 13:32:02 GMT"
+        "published": "Tue, 11 Aug 2026 15:03:43 GMT"
+      },
+      {
+        "title": "Credit card debt climbs to $1.26 trillion as ‘K-shaped’ divide persists, New York Fed research finds",
+        "link": "https://www.cnbc.com/2026/08/11/ny-fed-credit-card-debt-hits-1point26-trillion-k-shaped-divide-persists.html",
+        "published": "Tue, 11 Aug 2026 15:08:48 GMT"
       },
       {
         "title": "Baby products company Frida is expanding into kids’ personal care",
         "link": "https://www.cnbc.com/2026/08/11/frida-kids-personal-care.html",
         "published": "Tue, 11 Aug 2026 12:00:02 GMT"
-      },
-      {
-        "title": "Tuesday, August 11, 2026: Jim Cramer discusses his next moves for the Investing Club",
-        "link": "https://www.cnbc.com/search/?query=Tuesday,%20August%2011,%202026:%20Jim%20Cramer%20discusses%20his%20next%20moves%20for%20the%20Investing%20Club",
-        "published": "Tue, 11 Aug 2026 12:18:22 GMT"
-      },
-      {
-        "title": "Zelenskyy warns Putin is preparing for escalation by bringing in North Korean military equipment",
-        "link": "https://www.cnbc.com/2026/08/11/ukraine-war-zelenskyy-russia-putin-north-korea.html",
-        "published": "Tue, 11 Aug 2026 12:55:25 GMT"
       }
     ]
   }
