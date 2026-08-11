@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T11:58:10",
+  "generated_at": "2026-08-11T13:14:33",
   "date": "2026-08-11",
   "market_sentiment": {
     "indices": {
@@ -25,28 +25,28 @@
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.48,
-        "pct_change": 0.13
+        "last": 15.54,
+        "pct_change": 0.52
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.7,
-        "pct_change": 0.84
+        "last": 4.69,
+        "pct_change": -0.15
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.85,
-        "pct_change": 0.04
+        "last": 99.81,
+        "pct_change": 0.0
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 82.21,
-        "pct_change": 0.1
+        "last": 81.96,
+        "pct_change": -0.21
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4445.8,
-        "pct_change": 1.93
+        "last": 4453.1,
+        "pct_change": 2.09
       }
     },
     "sectors": {
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 159.24,
-        "pct_change": 0.85
+        "last": 159.22,
+        "pct_change": 0.84
       }
     }
   },
@@ -131,14 +131,14 @@
       "effr": 3.63,
       "target_low": 3.5,
       "target_high": 3.75,
-      "as_of": "2026-08-07"
+      "as_of": "2026-08-10"
     },
     "japan": {
       "yield": 2.804,
       "as_of": "2026-08-07",
       "prev_yield": 2.773
     },
-    "spread_10y": 1.9
+    "spread_10y": 1.89
   },
   "watchlist": {
     "holdings": {
@@ -266,18 +266,18 @@
     {
       "title": "ADP Weekly Employment Change",
       "country": "USD",
-      "date": "2026-08-11T08:15:00-04:00",
+      "date": "2026-08-11T08:14:00-04:00",
       "impact": "Low",
       "forecast": "",
-      "previous": ""
+      "previous": "15.0K"
     },
     {
       "title": "ADP Weekly Employment Change",
       "country": "USD",
-      "date": "2026-08-11T08:16:00-04:00",
+      "date": "2026-08-11T08:15:00-04:00",
       "impact": "Low",
       "forecast": "",
-      "previous": "15.0K"
+      "previous": "11.0K"
     },
     {
       "title": "Existing Home Sales",
@@ -635,56 +635,76 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "B&G Foods names Robert Mills as new CEO",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/b-g-foods-names-robert-113211696.html",
-        "published": "2026-08-11T11:32:11Z"
+        "title": "ARK Invest buys Nvidia, Broadcom stock dips, sells Deere",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/ark-invest-buys-nvidia-broadcom-125002528.html",
+        "published": "2026-08-11T12:50:02Z"
       },
       {
-        "title": "SpaceX Rivals Report Mixed Earnings; Rocket Lab Sinks On Possible Neutron Delays",
-        "link": "https://www.investors.com/news/spacex-rocket-lab-ast-spacemobile-earnings-electron-launch-neutron-rocket/?src=A00220&yptr=yahoo",
-        "published": "2026-08-11T11:18:35Z"
+        "title": "Curreen Capital: TriNet (TNET) is a “Crazy-Cheap” Turnaround",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/curreen-capital-trinet-tnet-crazy-124814202.html",
+        "published": "2026-08-11T12:48:14Z"
       },
       {
-        "title": "This Roth conversion trap easily destroys $1M in tax-free wealth — are you making an extremely costly mistake right now?",
-        "link": "https://finance.yahoo.com/markets/articles/roth-conversion-trap-easily-destroys-111500093.html",
-        "published": "2026-08-11T11:15:00Z"
+        "title": "Bitcoin and ethereum prices today, Tuesday, August 11, 2026: Opening prices fall back ahead of inflation reports this week",
+        "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-august-11-2026-opening-prices-fall-back-ahead-of-inflation-reports-this-week-124608146.html",
+        "published": "2026-08-11T12:46:08Z"
       },
       {
-        "title": "‘My primary concern is inflation’: Fed’s Schmid pushes rates higher as mortgages hit 6.69%. Make high rates work for you",
-        "link": "https://finance.yahoo.com/economy/policy/articles/primary-concern-inflation-fed-schmid-110500327.html",
-        "published": "2026-08-11T11:05:00Z"
+        "title": "Eli Lilly and Company (LLY) vs. Novo Nordisk A/S (NVO): Is Lilly Pulling Ahead in the $100 Billion Obesity Market?",
+        "link": "https://finance.yahoo.com/healthcare/articles/eli-lilly-company-lly-vs-124416743.html",
+        "published": "2026-08-11T12:44:16Z"
       },
       {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures waver as US, Iran harden stances",
-        "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-11-dow-sp-500-nasdaq-102827503.html",
-        "published": "2026-08-11T10:28:27Z"
+        "title": "Operational Recovery Positions Advance Auto Parts (AAP) for Gains",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/operational-recovery-positions-advance-auto-124310032.html",
+        "published": "2026-08-11T12:43:10Z"
       },
       {
-        "title": "Oil rises above $89 as Strait of Hormuz deal hopes fade",
-        "link": "https://finance.yahoo.com/energy/articles/oil-rises-above-89-strait-112931165.html",
-        "published": "2026-08-11T11:29:31Z"
+        "title": "Daily Spotlight: Sovereign Debt Yields",
+        "link": "https://finance.yahoo.com/research/reports/ARGUS_47879_MarketOutlook_1786447655000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+        "published": "2026-08-11T11:27:35Z"
       },
       {
-        "title": "Morning Bid: Long bond bother",
-        "link": "https://finance.yahoo.com/markets/articles/morning-bid-long-bond-bother-104255410.html",
-        "published": "2026-08-11T10:42:55Z"
+        "title": "SEG Solar opens second PV module factory, lifting US capacity to 6GW",
+        "link": "https://finance.yahoo.com/energy/articles/seg-solar-opens-second-pv-124650942.html",
+        "published": "2026-08-11T12:46:50Z"
       },
       {
-        "title": "Is Lam Research, KLA, or Applied Materials the Best Chip Equipment Buy? Jim Cramer Weighs In",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/lam-research-kla-applied-materials-104048217.html",
-        "published": "2026-08-11T10:40:48Z"
+        "title": "Intel's huge rally is helping pay for its AI comeback: Chart of the Day",
+        "link": "https://finance.yahoo.com/markets/article/intels-huge-rally-is-helping-pay-for-its-ai-comeback-chart-of-the-day-100000146.html",
+        "published": "2026-08-11T10:00:00Z"
       }
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "As Lumentum gears up for earnings, here’s a sign the optical trade is clawing back",
-        "link": "https://www.marketwatch.com/story/as-lumentum-gears-up-for-earnings-heres-a-sign-the-optical-trade-is-clawing-back-de284355?mod=mw_rss_topstories",
-        "published": "Tue, 11 Aug 2026 11:46:00 GMT"
+        "title": "We live on a farm and have $2.2 million saved for retirement. We’re ready to retire abroad. Can we afford it?",
+        "link": "https://www.marketwatch.com/story/we-live-on-a-farm-and-have-2-2-million-saved-for-retirement-were-ready-to-retire-abroad-can-we-afford-it-85e56105?mod=mw_rss_topstories",
+        "published": "Tue, 11 Aug 2026 13:00:00 GMT"
       },
       {
         "title": "This fund manager tunes out AI hype to flag the infrastructure stocks to buy now. Think roads, water and telecom towers.",
         "link": "https://www.marketwatch.com/story/roads-water-and-telecom-towers-can-beat-the-ai-hype-this-fund-manager-flags-the-infrastructure-stocks-to-buy-now-54c62a77?mod=mw_rss_topstories",
-        "published": "Tue, 11 Aug 2026 11:18:00 GMT"
+        "published": "Tue, 11 Aug 2026 12:31:00 GMT"
+      },
+      {
+        "title": "Airbnb has added thousands of new hotel listings. Will that ruin its charm?",
+        "link": "https://www.marketwatch.com/story/airbnb-has-added-thousands-of-new-hotel-listings-will-that-ruin-its-charm-0af2d3b0?mod=mw_rss_topstories",
+        "published": "Tue, 11 Aug 2026 12:29:00 GMT"
+      },
+      {
+        "title": "Warsh’s changes to forward guidance were tried by one central bank — and here’s what happened",
+        "link": "https://www.marketwatch.com/story/warshs-changes-to-forward-guidance-were-tried-by-one-central-bank-and-heres-what-happened-c7a5c743?mod=mw_rss_topstories",
+        "published": "Tue, 11 Aug 2026 12:16:00 GMT"
+      },
+      {
+        "title": "‘The market is obviously on fire’: Should I take $1,000 from my brokerage account to pay off my car loan?",
+        "link": "https://www.marketwatch.com/story/the-market-is-obviously-on-fire-is-it-a-mistake-to-take-1-000-from-my-brokerage-account-to-pay-my-car-loan-65800d1f?mod=mw_rss_topstories",
+        "published": "Tue, 11 Aug 2026 12:15:00 GMT"
+      },
+      {
+        "title": "As Lumentum gears up for earnings, here’s a sign the optical trade is clawing back",
+        "link": "https://www.marketwatch.com/story/as-lumentum-gears-up-for-earnings-heres-a-sign-the-optical-trade-is-clawing-back-de284355?mod=mw_rss_topstories",
+        "published": "Tue, 11 Aug 2026 11:46:00 GMT"
       },
       {
         "title": "Is $1 million enough for a household to retire? The answer keeps changing.",
@@ -695,26 +715,6 @@
         "title": "Wall Street bank urges hedging into July’s CPI — as sell trigger hits highest level in eight years",
         "link": "https://www.marketwatch.com/story/wall-street-bank-urges-hedging-into-julys-cpi-as-sell-trigger-hits-highest-level-in-eight-years-bc9374f1?mod=mw_rss_topstories",
         "published": "Tue, 11 Aug 2026 10:50:00 GMT"
-      },
-      {
-        "title": "These 11 midcaps are popular right now among investment newsletters but not because of sweet-spot market valuations",
-        "link": "https://www.marketwatch.com/story/these-11-midcaps-are-popular-right-now-among-investment-newsletters-but-not-because-of-their-market-valuations-a0bf0fbb?mod=mw_rss_topstories",
-        "published": "Tue, 11 Aug 2026 10:30:00 GMT"
-      },
-      {
-        "title": "‘I unexpectedly came into some money’: Is putting $20,000 into CDs a smart move?",
-        "link": "https://www.marketwatch.com/story/i-unexpectedly-came-into-some-money-is-putting-20-000-into-cds-a-smart-move-6c410458?mod=mw_rss_topstories",
-        "published": "Tue, 11 Aug 2026 10:00:00 GMT"
-      },
-      {
-        "title": "My wife’s Social Security is just $900. Should she claim her spousal benefit at 62 or wait?",
-        "link": "https://www.marketwatch.com/story/i-want-her-to-choose-the-best-strategy-my-wifes-social-security-is-just-900-should-she-claim-spousal-benefit-at-62-e3ef621d?mod=mw_rss_topstories",
-        "published": "Tue, 11 Aug 2026 10:00:00 GMT"
-      },
-      {
-        "title": "Why copper — ‘the commodity for all seasons’ — is more precious than gold nowadays",
-        "link": "https://www.marketwatch.com/story/why-copper-the-commodity-for-all-seasons-is-more-precious-than-gold-nowadays-4aa3f686?mod=mw_rss_topstories",
-        "published": "Tue, 11 Aug 2026 09:53:00 GMT"
       }
     ],
     "CNBC Top News": [
@@ -726,7 +726,7 @@
       {
         "title": "'That's a good idea': U.S. and Iran trade reparation demands as Hormuz deal hopes fade",
         "link": "https://www.cnbc.com/2026/08/11/us-iran-war-trump-hormuz-control-reparation-talks-.html",
-        "published": "Tue, 11 Aug 2026 10:18:33 GMT"
+        "published": "Tue, 11 Aug 2026 12:37:41 GMT"
       },
       {
         "title": "Intel upsizes stock offering to $20 billion at $95 per share as AI demand accelerates",
@@ -734,29 +734,29 @@
         "published": "Tue, 11 Aug 2026 07:17:00 GMT"
       },
       {
+        "title": "Baby products company Frida is expanding into kids’ personal care",
+        "link": "https://www.cnbc.com/2026/08/11/frida-kids-personal-care.html",
+        "published": "Tue, 11 Aug 2026 12:00:02 GMT"
+      },
+      {
+        "title": "Here are Tuesday's biggest analyst calls: SpaceX, Nvidia, Tesla, Apple, Best Buy, Boeing, First Solar & more",
+        "link": "https://www.cnbc.com/2026/08/11/tuesday-top-stocks-by-analyst-calls-like-nvidia.html",
+        "published": "Tue, 11 Aug 2026 12:22:03 GMT"
+      },
+      {
+        "title": "S&P 500 futures ticks higher as oil prices stabilize, Nvidia gains: Live updates",
+        "link": "https://www.cnbc.com/2026/08/10/stock-market-today-live-updates.html",
+        "published": "Tue, 11 Aug 2026 13:13:13 GMT"
+      },
+      {
         "title": "Zelenskyy warns Putin is preparing for escalation by bringing in North Korean military equipment",
         "link": "https://www.cnbc.com/2026/08/11/ukraine-war-zelenskyy-russia-putin-north-korea.html",
-        "published": "Tue, 11 Aug 2026 08:20:02 GMT"
-      },
-      {
-        "title": "Barclays says stay away from Gap shares. Here's why",
-        "link": "https://www.cnbc.com/2026/08/11/barclays-says-stay-away-from-gap-shares-heres-why.html",
-        "published": "Tue, 11 Aug 2026 11:29:29 GMT"
-      },
-      {
-        "title": "Hotel giant says ‘growing middle class’ boosted hotel demand despite Middle East hit",
-        "link": "https://www.cnbc.com/2026/08/11/ihg-profit-us-travel-middle-east.html",
-        "published": "Tue, 11 Aug 2026 10:06:07 GMT"
+        "published": "Tue, 11 Aug 2026 12:55:25 GMT"
       },
       {
         "title": "Stocks making the biggest moves premarket: Riot Platforms, Hims & Hers Health, Intel & more",
         "link": "https://www.cnbc.com/2026/08/11/stocks-making-the-biggest-moves-premarket-riot-hims-intc.html",
         "published": "Tue, 11 Aug 2026 11:40:10 GMT"
-      },
-      {
-        "title": "Trump signs executive order calling for fewer childhood vaccines, falsely linking shots to autism",
-        "link": "https://www.cnbc.com/2026/08/10/trump-vaccine-executive-order-autism.html",
-        "published": "Mon, 10 Aug 2026 20:51:17 GMT"
       }
     ]
   }
