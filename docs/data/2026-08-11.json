@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-08-11T19:45:25",
+  "generated_at": "2026-08-11T20:39:05",
   "date": "2026-08-11",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7728.44,
+        "last": 7728.2,
         "pct_change": -0.32
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26440.27,
-        "pct_change": -0.62
+        "last": 26445.45,
+        "pct_change": -0.6
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 53805.37,
-        "pct_change": -0.32
+        "last": 53791.85,
+        "pct_change": -0.34
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3031.49,
-        "pct_change": 0.47
+        "last": 3027.12,
+        "pct_change": 0.32
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.26,
-        "pct_change": -1.29
+        "last": 15.28,
+        "pct_change": -1.16
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
@@ -35,75 +35,75 @@
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.81,
-        "pct_change": 0.0
+        "last": 99.82,
+        "pct_change": 0.02
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 83.48,
-        "pct_change": 1.64
+        "last": 83.36,
+        "pct_change": 1.5
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4430.4,
-        "pct_change": 1.57
+        "last": 4429.1,
+        "pct_change": 1.54
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 185.98,
-        "pct_change": -0.18
+        "last": 186.09,
+        "pct_change": -0.12
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 57.85,
-        "pct_change": 0.08
+        "last": 57.8,
+        "pct_change": -0.02
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 60.81,
-        "pct_change": 1.05
+        "last": 60.93,
+        "pct_change": 1.25
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 168.19,
-        "pct_change": -0.15
+        "last": 168.01,
+        "pct_change": -0.26
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 119.42,
-        "pct_change": -0.21
+        "last": 119.24,
+        "pct_change": -0.36
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 84.68,
+        "last": 84.69,
         "pct_change": -0.31
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 185.71,
+        "last": 185.7,
         "pct_change": 0.6
       },
       "Utilities": {
         "symbol": "XLU",
         "last": 43.63,
-        "pct_change": 1.17
+        "pct_change": 1.16
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 53.19,
-        "pct_change": 0.02
+        "last": 53.24,
+        "pct_change": 0.11
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.12,
-        "pct_change": -0.63
+        "last": 44.08,
+        "pct_change": -0.72
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 111.34,
-        "pct_change": -0.44
+        "last": 111.27,
+        "pct_change": -0.5
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 159.26,
-        "pct_change": 0.87
+        "last": 159.34,
+        "pct_change": 0.92
       }
     }
   },
@@ -144,52 +144,52 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 158.94,
-        "pct_change": 0.75
+        "last": 159.19,
+        "pct_change": 0.91
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 304.34,
-        "pct_change": -1.27
+        "last": 304.91,
+        "pct_change": -1.09
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 503.55,
-        "pct_change": -0.5
+        "last": 503.81,
+        "pct_change": -0.44
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 273.25,
-        "pct_change": -1.74
+        "last": 272.27,
+        "pct_change": -2.09
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 343.9,
-        "pct_change": -3.81
+        "last": 343.8,
+        "pct_change": -3.84
       },
       "Meta": {
         "symbol": "META",
-        "last": 600.7,
-        "pct_change": 0.97
+        "last": 599.12,
+        "pct_change": 0.71
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 818.51,
-        "pct_change": 0.61
+        "last": 820.59,
+        "pct_change": 0.87
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 328.74,
-        "pct_change": 1.11
+        "last": 328.57,
+        "pct_change": 1.05
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 167.95,
-        "pct_change": 0.15
+        "last": 167.23,
+        "pct_change": -0.28
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -640,24 +640,24 @@
         "published": "2026-08-11T00:50:00Z"
       },
       {
-        "title": "Stocks Set for Muted Open as Oil Rises on Hormuz Uncertainty, U.S. Inflation Data Awaited",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-set-muted-open-oil-103153665.html",
-        "published": "2026-08-10T10:31:53Z"
+        "title": "Archer Daniels Stock: Analyst Estimates & Ratings",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/archer-daniels-stock-analyst-estimates-114636432.html",
+        "published": "2026-08-10T11:46:36Z"
       },
       {
-        "title": "Morning Bid: Fed's Cook grilled again",
-        "link": "https://finance.yahoo.com/economy/policy/articles/morning-bid-feds-cook-grilled-103813938.html",
-        "published": "2026-08-10T10:38:13Z"
+        "title": "Mariner Logistics taps Flock Freight veteran as CEO",
+        "link": "https://finance.yahoo.com/small-business/articles/mariner-logistics-taps-flock-freight-120000711.html",
+        "published": "2026-08-10T12:00:00Z"
       },
       {
-        "title": "Retail investors sold SpaceX shares for first time on Friday",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/retail-investors-sold-spacex-shares-103015106.html",
-        "published": "2026-08-10T10:30:15Z"
+        "title": "A 26-year-old owes $45K in debt but insists on keeping an $800 monthly entertainment budget — Reddit didn't hold back",
+        "link": "https://finance.yahoo.com/markets/articles/26-old-owes-45k-debt-120000267.html",
+        "published": "2026-08-10T12:00:00Z"
       },
       {
-        "title": "India's TCS flags alleged exposure of some employee data, says customer data not impacted",
-        "link": "https://finance.yahoo.com/technology/articles/indias-tcs-says-received-alerts-104707676.html",
-        "published": "2026-08-10T10:47:07Z"
+        "title": "Rio Tinto (RIO)’s 43% Earnings Surge: Sustainable Growth or Commodity Mirage?",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/rio-tinto-rio-43-earnings-113922212.html",
+        "published": "2026-08-10T11:39:22Z"
       },
       {
         "title": "Daily Spotlight: Sovereign Debt Yields",
@@ -665,17 +665,22 @@
         "published": "2026-08-11T11:27:35Z"
       },
       {
-        "title": "Gas station giant gives up on 471 stores",
-        "link": "https://finance.yahoo.com/real-estate/articles/gas-station-giant-gives-471-180141933.html",
-        "published": "2026-08-11T18:01:41Z"
+        "title": "Another grocery chain quietly shuts down more stores",
+        "link": "https://finance.yahoo.com/real-estate/articles/another-grocery-chain-quietly-shuts-140700813.html",
+        "published": "2026-08-11T14:07:00Z"
       },
       {
-        "title": "Ramit Sethi helps newlyweds tackle $165,000 in debt — including the $30,000 he hid before their wedding",
-        "link": "https://finance.yahoo.com/small-business/articles/ramit-sethi-helps-newlyweds-tackle-105500680.html",
-        "published": "2026-08-10T10:55:00Z"
+        "title": "PE-backed UK companies shirk IPOs while delistings mount",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/pe-backed-uk-companies-shirk-115733577.html",
+        "published": "2026-08-10T11:57:33Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "Oracle’s stock has taken a hit as AI spending concerns resurface",
+        "link": "https://www.marketwatch.com/story/oracles-stock-has-taken-a-hit-as-ai-spending-concerns-resurface-bdb9bf09?mod=mw_rss_topstories",
+        "published": "Tue, 11 Aug 2026 20:32:00 GMT"
+      },
       {
         "title": "Social Security expands list of conditions to 314 illnesses for faster disability claims",
         "link": "https://www.marketwatch.com/story/social-security-expands-list-of-conditions-to-314-illnesses-for-faster-disability-claims-b1883c2d?mod=mw_rss_topstories",
@@ -710,18 +715,13 @@
         "title": "Musk’s Starlink boasts of doubled subscriber base, but mainstream remains a far-off destination for the satellite internet service",
         "link": "https://www.marketwatch.com/story/heres-when-elon-musks-starlink-internet-is-worth-the-steep-monthly-price-and-350-startup-cost-53735d59?mod=mw_rss_topstories",
         "published": "Tue, 11 Aug 2026 16:11:00 GMT"
-      },
-      {
-        "title": "‘My wife and I are both retired’: Should we dip into our $2.3 million investments to pay off our 2.9% $300,000 mortgage?",
-        "link": "https://www.marketwatch.com/story/my-wife-and-i-are-both-retired-do-we-dip-into-our-2-3-million-fund-to-pay-off-our-300-000-mortgage-at-2-9-2d23d1df?mod=mw_rss_topstories",
-        "published": "Tue, 11 Aug 2026 15:45:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "Trump wants to split the MMR vaccine. Experts say that's unlikely — and comes with consequences",
-        "link": "https://www.cnbc.com/2026/08/11/mmr-vaccine-trump-wants-to-split-childhood-shot-up.html",
-        "published": "Tue, 11 Aug 2026 16:50:04 GMT"
+        "title": "CoreWeave stock pops 10% as revenue doubles on accelerating AI infrastructure demand",
+        "link": "https://www.cnbc.com/2026/08/11/coreweave-crwv-q2-earnings-report-2026.html",
+        "published": "Tue, 11 Aug 2026 20:34:17 GMT"
       },
       {
         "title": "Trump says NYC pied-à-terre tax 'must be stopped,' eyes federal block",
@@ -729,14 +729,19 @@
         "published": "Tue, 11 Aug 2026 18:10:10 GMT"
       },
       {
+        "title": "Trump wants to split the MMR vaccine. Experts say that's unlikely — and comes with consequences",
+        "link": "https://www.cnbc.com/2026/08/11/mmr-vaccine-trump-wants-to-split-childhood-shot-up.html",
+        "published": "Tue, 11 Aug 2026 16:50:04 GMT"
+      },
+      {
+        "title": "GM reaches up to $4.5 billion parts deal designed to avoid supply chain troubles",
+        "link": "https://www.cnbc.com/2026/08/11/gm-makes-4point5-billion-parts-deal-to-bolster-supply-chain.html",
+        "published": "Tue, 11 Aug 2026 20:37:46 GMT"
+      },
+      {
         "title": "An inflation report Wednesday should be a big deal for the Fed. Here's what to expect",
         "link": "https://www.cnbc.com/2026/08/11/an-inflation-report-wednesday-should-be-a-big-deal-for-the-fed-heres-what-to-expect.html",
         "published": "Tue, 11 Aug 2026 18:34:41 GMT"
-      },
-      {
-        "title": "S&P 500 falls amid Iran uncertainty, Big Tech losses: Live updates",
-        "link": "https://www.cnbc.com/2026/08/10/stock-market-today-live-updates.html",
-        "published": "Tue, 11 Aug 2026 19:43:35 GMT"
       },
       {
         "title": "AI computing power is becoming a tradable asset class as CME launches futures contracts",
@@ -752,11 +757,6 @@
         "title": "Investors poured $2.3 billion into this riskier corner of the bond market in July",
         "link": "https://www.cnbc.com/2026/08/11/investors-poured-2point3-billion-into-this-riskier-corner-of-the-bond-market-in-july.html",
         "published": "Tue, 11 Aug 2026 19:12:11 GMT"
-      },
-      {
-        "title": "Riot Platforms strikes deal with Anthropic as bitcoin miners shift focus to AI infrastructure",
-        "link": "https://www.cnbc.com/2026/08/11/riot-platforms-signs-anthropic-deal-as-miners-shift-to-ai-infrastructure-.html",
-        "published": "Tue, 11 Aug 2026 19:08:16 GMT"
       }
     ]
   }
