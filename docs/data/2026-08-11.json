@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-08-11T16:35:11",
+  "generated_at": "2026-08-11T17:40:22",
   "date": "2026-08-11",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7738.12,
-        "pct_change": -0.19
+        "last": 7731.79,
+        "pct_change": -0.27
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26478.02,
-        "pct_change": -0.48
+        "last": 26454.52,
+        "pct_change": -0.57
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 53890.87,
-        "pct_change": -0.16
+        "last": 53871.76,
+        "pct_change": -0.19
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3032.23,
-        "pct_change": 0.49
+        "last": 3030.58,
+        "pct_change": 0.44
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.38,
-        "pct_change": -0.52
+        "last": 15.4,
+        "pct_change": -0.39
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
         "last": 4.69,
-        "pct_change": -0.23
+        "pct_change": -0.28
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.82,
-        "pct_change": 0.01
+        "last": 99.87,
+        "pct_change": 0.06
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 82.95,
-        "pct_change": 1.0
+        "last": 83.26,
+        "pct_change": 1.38
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4441.2,
-        "pct_change": 1.82
+        "last": 4440.0,
+        "pct_change": 1.79
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 185.94,
-        "pct_change": -0.2
+        "last": 185.87,
+        "pct_change": -0.24
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 57.97,
-        "pct_change": 0.29
+        "last": 57.95,
+        "pct_change": 0.24
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 60.79,
-        "pct_change": 1.02
+        "last": 60.81,
+        "pct_change": 1.04
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 167.87,
-        "pct_change": -0.34
+        "last": 168.0,
+        "pct_change": -0.26
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 119.32,
-        "pct_change": -0.29
+        "last": 119.22,
+        "pct_change": -0.37
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 84.66,
-        "pct_change": -0.34
+        "last": 84.54,
+        "pct_change": -0.49
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 185.81,
-        "pct_change": 0.66
+        "last": 185.99,
+        "pct_change": 0.75
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 43.51,
-        "pct_change": 0.89
+        "last": 43.46,
+        "pct_change": 0.75
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 53.17,
-        "pct_change": -0.03
+        "last": 53.05,
+        "pct_change": -0.24
       },
       "Real Estate": {
         "symbol": "XLRE",
         "last": 44.28,
-        "pct_change": -0.27
+        "pct_change": -0.26
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 111.8,
-        "pct_change": -0.03
+        "last": 111.53,
+        "pct_change": -0.27
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 159.24,
-        "pct_change": 0.85
+        "last": 159.32,
+        "pct_change": 0.91
       }
     }
   },
@@ -144,52 +144,52 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 158.95,
-        "pct_change": 0.75
+        "last": 158.89,
+        "pct_change": 0.72
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 306.27,
-        "pct_change": -0.65
+        "last": 306.35,
+        "pct_change": -0.62
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 500.75,
-        "pct_change": -1.05
+        "last": 503.16,
+        "pct_change": -0.57
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 271.71,
-        "pct_change": -2.29
+        "last": 272.2,
+        "pct_change": -2.12
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 349.93,
-        "pct_change": -2.12
+        "last": 347.32,
+        "pct_change": -2.85
       },
       "Meta": {
         "symbol": "META",
-        "last": 603.85,
-        "pct_change": 1.5
+        "last": 604.78,
+        "pct_change": 1.66
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 809.49,
-        "pct_change": -0.49
+        "last": 812.21,
+        "pct_change": -0.16
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 325.02,
-        "pct_change": -0.04
+        "last": 326.95,
+        "pct_change": 0.55
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 169.73,
-        "pct_change": 1.21
+        "last": 168.93,
+        "pct_change": 0.73
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -640,19 +640,24 @@
         "published": "2026-08-11T10:28:27Z"
       },
       {
-        "title": "NYPD investigates gold bar scam that has stolen more than $100 million from retirees.",
-        "link": "https://finance.yahoo.com/markets/commodities/articles/nypd-investigates-gold-bar-scam-161500522.html",
-        "published": "2026-08-11T16:15:00Z"
+        "title": "SpaceX analyst plots path to bold $100 billion claim",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-analyst-plots-path-bold-173300897.html",
+        "published": "2026-08-11T17:33:00Z"
       },
       {
-        "title": "Jim Cramer Weighs In on SoFi’s (SOFI) $16–$19 Range",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-weighs-sofi-sofi-161447804.html",
-        "published": "2026-08-11T16:14:47Z"
+        "title": "QumulusAI (QMLS) Signs Nvidia DRW Blackwell Deal: Can Contract Momentum Translate Into Revenue?",
+        "link": "https://finance.yahoo.com/technology/ai/articles/qumulusai-qmls-signs-nvidia-drw-173037000.html",
+        "published": "2026-08-11T17:30:37Z"
       },
       {
-        "title": "Lake Victoria Gold Unveils Maiden 580,000-Ounce Resource at Tembo Project in Tanzania",
-        "link": "https://finance.yahoo.com/markets/commodities/articles/lake-victoria-gold-unveils-maiden-161323906.html",
-        "published": "2026-08-11T16:13:23Z"
+        "title": "Options trading vs. stock trading: Key differences explained",
+        "link": "https://finance.yahoo.com/personal-finance/investing/article/options-trading-vs-stock-trading-170741990.html",
+        "published": "2026-08-11T17:07:41Z"
+      },
+      {
+        "title": "Exxon’s (XOM) Profit Missed. So Why Is The Dividend Getting Stronger?",
+        "link": "https://finance.yahoo.com/energy/articles/exxon-xom-profit-missed-why-172811797.html",
+        "published": "2026-08-11T17:28:11Z"
       },
       {
         "title": "Daily Spotlight: Sovereign Debt Yields",
@@ -660,22 +665,27 @@
         "published": "2026-08-11T11:27:35Z"
       },
       {
-        "title": "AI Manufacturing Stock Rises Above Key Level On Analyst 'Buy' Rating",
-        "link": "https://www.investors.com/news/jabil-jbl-stock-ai-manufacturing-analyst-upgrade/?src=A00220&yptr=yahoo",
-        "published": "2026-08-11T16:06:40Z"
+        "title": "Broadwind, Inc. Q2 2026 Earnings Call Summary",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/broadwind-inc-q2-2026-earnings-172405087.html",
+        "published": "2026-08-11T17:24:05Z"
       },
       {
-        "title": "Stock Market Today: Dow Falls, Oil Rises Despite Iran Claim; Roger Federer Play Dives On This (Live Coverage)",
-        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-us-iran-spacex-rocket-lab-rklb/?src=A00220&yptr=yahoo",
-        "published": "2026-08-11T15:53:58Z"
-      },
-      {
-        "title": "Haverty Furniture (HVT) Q2 2026 Earnings Call Transcript",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/haverty-furniture-hvt-q2-2026-161244876.html",
-        "published": "2026-08-11T16:12:44Z"
+        "title": "Trump Media Q2 2026 earnings: $238 million net loss on crypto",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/trump-media-q2-2026-earnings-172900782.html",
+        "published": "2026-08-11T17:29:00Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "Unitree’s IPO may be just the beginning of an investor frenzy over humanoid-robot stocks",
+        "link": "https://www.marketwatch.com/story/unitrees-ipo-may-be-just-the-beginning-of-an-investor-frenzy-over-humanoid-robot-stocks-8c2d39b6?mod=mw_rss_topstories",
+        "published": "Tue, 11 Aug 2026 17:17:00 GMT"
+      },
+      {
+        "title": "‘The market is obviously on fire’: Should I take $1,000 from my brokerage account to pay off my car loan?",
+        "link": "https://www.marketwatch.com/story/the-market-is-obviously-on-fire-is-it-a-mistake-to-take-1-000-from-my-brokerage-account-to-pay-my-car-loan-65800d1f?mod=mw_rss_topstories",
+        "published": "Tue, 11 Aug 2026 17:16:00 GMT"
+      },
       {
         "title": "Musk’s Starlink boasts of doubled subscriber base, but mainstream remains a far-off destination for the satellite internet service",
         "link": "https://www.marketwatch.com/story/heres-when-elon-musks-starlink-internet-is-worth-the-steep-monthly-price-and-350-startup-cost-53735d59?mod=mw_rss_topstories",
@@ -705,43 +715,38 @@
         "title": "‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
         "link": "https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories",
         "published": "Tue, 11 Aug 2026 15:00:00 GMT"
-      },
-      {
-        "title": "AI is killing worker confidence, but there’s no sign it’s muscling people out of their jobs on a massive scale",
-        "link": "https://www.marketwatch.com/story/workers-are-worried-but-theres-no-sign-ai-is-muscling-people-out-of-their-jobs-on-a-massive-scale-8eb92638?mod=mw_rss_topstories",
-        "published": "Tue, 11 Aug 2026 14:53:00 GMT"
-      },
-      {
-        "title": "Is inflation really slowing? Fed rate hike hinges on July price report.",
-        "link": "https://www.marketwatch.com/story/is-inflation-really-slowing-fed-rate-hike-hinges-on-july-price-report-9d3c3a73?mod=mw_rss_topstories",
-        "published": "Tue, 11 Aug 2026 14:49:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?",
-        "link": "https://www.cnbc.com/2026/08/11/wall-street-endorsed-jensen-huangs-big-concept-for-ai-what-now.html",
-        "published": "Tue, 11 Aug 2026 14:11:05 GMT"
+        "title": "Trump wants to split the MMR vaccine. Experts say that's unlikely — and comes with consequences",
+        "link": "https://www.cnbc.com/2026/08/11/mmr-vaccine-trump-wants-to-split-childhood-shot-up.html",
+        "published": "Tue, 11 Aug 2026 16:50:04 GMT"
+      },
+      {
+        "title": "Longtime OpenAI executive Brad Lightcap leaves as shakeup at AI lab continues",
+        "link": "https://www.cnbc.com/2026/08/11/longtime-openai-executive-brad-lightcap-leaves-as-shakeup-at-ai-lab-continues.html",
+        "published": "Tue, 11 Aug 2026 17:04:28 GMT"
       },
       {
         "title": "U.S. oil rises above $83 a barrel as Iran says Strait of Hormuz won't open until conditions are met",
         "link": "https://www.cnbc.com/2026/08/11/oil-prices-today-us-crude-84.html",
-        "published": "Tue, 11 Aug 2026 16:18:34 GMT"
+        "published": "Tue, 11 Aug 2026 17:37:57 GMT"
       },
       {
-        "title": "Democrats clash again in Minnesota and Wisconsin primaries as big midterm races take shape",
-        "link": "https://www.cnbc.com/2026/08/11/minnesota-wisconsin-primaries-hong-flanagan-craig-run-in-key-races.html",
-        "published": "Tue, 11 Aug 2026 15:54:37 GMT"
+        "title": "Stocks making the biggest moves midday: Jabil, AppLovin, Apollo, SpaceX, Upwork & more",
+        "link": "https://www.cnbc.com/2026/08/11/stocks-making-the-biggest-moves-midday-jbl-app-apo-spcx-upwk.html",
+        "published": "Tue, 11 Aug 2026 17:38:41 GMT"
+      },
+      {
+        "title": "S&P 500 falls into the red as unraveling Iran situation overhangs market: Live updates",
+        "link": "https://www.cnbc.com/2026/08/10/stock-market-today-live-updates.html",
+        "published": "Tue, 11 Aug 2026 17:35:27 GMT"
       },
       {
         "title": "Manus to return as independent company after China forced Meta to unwind $2 billion deal",
         "link": "https://www.cnbc.com/2026/08/11/manus-china-meta-acquisition.html",
         "published": "Tue, 11 Aug 2026 16:12:27 GMT"
-      },
-      {
-        "title": "S&P 500 falls into the red as unraveling Iran situation overhangs market: Live updates",
-        "link": "https://www.cnbc.com/2026/08/10/stock-market-today-live-updates.html",
-        "published": "Tue, 11 Aug 2026 16:33:44 GMT"
       },
       {
         "title": "Gold may be ready to cool off again, history shows",
@@ -752,11 +757,6 @@
         "title": "Pakistan signals progress on U.S.-Iran deal as Washington and Tehran trade reparation demands",
         "link": "https://www.cnbc.com/2026/08/11/us-iran-war-trump-hormuz-control-reparation-talks-.html",
         "published": "Tue, 11 Aug 2026 14:56:43 GMT"
-      },
-      {
-        "title": "Target appoints its first chief AI officer as big retailers bet on AI",
-        "link": "https://www.cnbc.com/2026/08/11/target-appoints-chief-ai-officer-chandhu-nair.html",
-        "published": "Tue, 11 Aug 2026 15:44:43 GMT"
       }
     ]
   }
