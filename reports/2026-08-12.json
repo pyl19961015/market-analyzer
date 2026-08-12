@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-08-12T12:30:58",
+  "generated_at": "2026-08-12T14:05:37",
   "date": "2026-08-12",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7728.2,
-        "pct_change": -0.32
+        "last": 7744.42,
+        "pct_change": 0.21
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26445.45,
-        "pct_change": -0.6
+        "last": 26574.7,
+        "pct_change": 0.49
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 53791.85,
-        "pct_change": -0.34
+        "last": 53787.47,
+        "pct_change": -0.01
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3027.12,
-        "pct_change": 0.32
+        "last": 3041.01,
+        "pct_change": 0.46
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.36,
-        "pct_change": 0.52
+        "last": 14.8,
+        "pct_change": -3.14
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.68,
-        "pct_change": -0.32
+        "last": 4.66,
+        "pct_change": -0.43
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.79,
-        "pct_change": -0.03
+        "last": 99.72,
+        "pct_change": -0.1
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 83.7,
-        "pct_change": 0.6
+        "last": 82.65,
+        "pct_change": -0.66
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4467.0,
-        "pct_change": 1.92
+        "last": 4492.1,
+        "pct_change": 2.49
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 186.09,
-        "pct_change": -0.12
+        "last": 188.8,
+        "pct_change": 1.46
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 57.8,
-        "pct_change": -0.02
+        "last": 57.79,
+        "pct_change": -0.03
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 60.93,
-        "pct_change": 1.25
+        "last": 60.96,
+        "pct_change": 0.04
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 168.01,
-        "pct_change": -0.26
+        "last": 167.34,
+        "pct_change": -0.4
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 119.24,
-        "pct_change": -0.36
+        "last": 117.88,
+        "pct_change": -1.14
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 84.69,
-        "pct_change": -0.31
+        "last": 84.61,
+        "pct_change": -0.09
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 185.7,
-        "pct_change": 0.6
+        "last": 186.19,
+        "pct_change": 0.26
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 43.63,
-        "pct_change": 1.16
+        "last": 43.82,
+        "pct_change": 0.44
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 53.24,
-        "pct_change": 0.11
+        "last": 52.77,
+        "pct_change": -0.88
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.08,
-        "pct_change": -0.72
+        "last": 44.24,
+        "pct_change": -0.37
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 111.27,
-        "pct_change": -0.5
+        "last": 110.13,
+        "pct_change": -1.52
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 159.14,
-        "pct_change": -0.01
+        "last": 159.04,
+        "pct_change": -0.07
       }
     }
   },
@@ -131,65 +131,65 @@
       "effr": 3.63,
       "target_low": 3.5,
       "target_high": 3.75,
-      "as_of": "2026-08-10"
+      "as_of": "2026-08-11"
     },
     "japan": {
       "yield": 2.815,
       "as_of": "2026-08-10",
       "prev_yield": 2.804
     },
-    "spread_10y": 1.86
+    "spread_10y": 1.85
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 159.19,
-        "pct_change": 0.91
+        "last": 165.66,
+        "pct_change": 4.06
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 304.91,
-        "pct_change": -1.09
+        "last": 303.59,
+        "pct_change": -0.43
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 503.81,
-        "pct_change": -0.44
+        "last": 493.05,
+        "pct_change": -2.14
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 272.27,
-        "pct_change": -2.09
+        "last": 269.52,
+        "pct_change": -1.01
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 343.8,
-        "pct_change": -3.84
+        "last": 342.44,
+        "pct_change": -0.4
       },
       "Meta": {
         "symbol": "META",
-        "last": 599.12,
-        "pct_change": 0.71
+        "last": 588.3,
+        "pct_change": -1.11
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 820.59,
-        "pct_change": 0.87
+        "last": 875.68,
+        "pct_change": 7.64
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 328.57,
-        "pct_change": 1.05
+        "last": 341.85,
+        "pct_change": 4.04
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 167.23,
-        "pct_change": -0.28
+        "last": 169.9,
+        "pct_change": 1.6
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -635,56 +635,71 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "Billionaire sues ex-employee over alleged theft",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/billionaire-sues-ex-employee-over-005000617.html",
-        "published": "2026-08-11T00:50:00Z"
+        "title": "Earnings live updates: Supermicro and CoreWeave stocks jump on accelerating AI demand",
+        "link": "https://finance.yahoo.com/markets/live/earnings-live-updates-supermicro-and-coreweave-stocks-jump-on-accelerating-ai-demand-202302733.html",
+        "published": "2026-08-10T20:23:02Z"
       },
       {
-        "title": "Here's the biggest risk to America's data center building boom",
-        "link": "https://finance.yahoo.com/economy/article/heres-the-biggest-risk-to-americas-data-center-building-boom-121942236.html",
-        "published": "2026-08-12T12:19:42Z"
+        "title": "Earnings live updates: The Trade Desk stock plummets on earnings miss, Oklo jumps on 'criticality' milestone",
+        "link": "https://finance.yahoo.com/markets/live/earnings-live-updates-130425228.html",
+        "published": "2026-08-03T13:04:25Z"
       },
       {
-        "title": "Bitcoin and ethereum prices today, Wednesday, August 12, 2026:  Crypto prices rise with CPI report on deck",
-        "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-12-2026-crypto-prices-rise-with-cpi-report-on-deck-121022039.html",
-        "published": "2026-08-12T12:10:22Z"
+        "title": "Ray Dalio: The AI investment game is happening — here's how to play",
+        "link": "https://finance.yahoo.com/markets/articles/ray-dalio-the-ai-investment-game-is-happening--heres-how-to-play-134808570.html",
+        "published": "2026-08-12T13:48:08Z"
       },
       {
-        "title": "Dow Jones Futures Rise With CPI Inflation Due; AI Stocks Rally As 3 Nvidia Partners Lead Earnings Movers",
-        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-cpi-inflation-nvidia-partners-super-micro-earnings/?src=A00220&yptr=yahoo",
-        "published": "2026-08-12T12:06:56Z"
+        "title": "Grab Holdings Limited (GRAB) vs. Sea Limited (SE): Grab Raises Its Outlook as AI and Affordability Pay Off",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/grab-holdings-limited-grab-vs-135035457.html",
+        "published": "2026-08-12T13:50:35Z"
       },
       {
-        "title": "4 Outperforming Stocks That Could Keep Rewarding Investors",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/4-outperforming-stocks-could-keep-120012403.html",
-        "published": "2026-08-12T12:00:12Z"
+        "title": "Baron Discovery Fund Remains Bullish on Shake Shack (SHAK)",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/baron-discovery-fund-remains-bullish-134924335.html",
+        "published": "2026-08-12T13:49:24Z"
       },
       {
-        "title": "Daily Spotlight: Sovereign Debt Yields",
-        "link": "https://finance.yahoo.com/research/reports/ARGUS_47879_MarketOutlook_1786447655000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-        "published": "2026-08-11T11:27:35Z"
+        "title": "Daily Spotlight: Profit Margins Widening",
+        "link": "https://finance.yahoo.com/research/reports/ARGUS_47893_MarketOutlook_1786535027000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+        "published": "2026-08-12T11:43:47Z"
       },
       {
-        "title": "Morning Minute: The CFTC Bails Out Kalshi in NY",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/morning-minute-cftc-bails-kalshi-121240717.html",
-        "published": "2026-08-12T12:12:40Z"
+        "title": "Baron Discovery Fund Gains from Strategic Accumulation of CareDx (CDNA)",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/baron-discovery-fund-gains-strategic-134704858.html",
+        "published": "2026-08-12T13:47:04Z"
       },
       {
-        "title": "Silver prices today, Wednesday, August 12, 2026: Surpassing $66 as expectations for July inflation ease",
-        "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-wednesday-august-12-2026-surpassing-66-as-expectations-for-july-inflation-ease-115635475.html",
-        "published": "2026-08-12T11:56:35Z"
+        "title": "Airbnb vs. Opendoor Technologies: Which Stock Is a Better Buy in 2026?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/airbnb-vs-opendoor-technologies-stock-134551990.html",
+        "published": "2026-08-12T13:45:51Z"
       }
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "CoreWeave’s stock is rocketing after earnings lead to praise from bulls and bears alike",
-        "link": "https://www.marketwatch.com/story/coreweaves-stock-is-rocketing-after-earnings-lead-to-praise-from-bulls-and-bears-alike-46c831e7?mod=mw_rss_topstories",
-        "published": "Wed, 12 Aug 2026 12:24:00 GMT"
-      },
-      {
         "title": "Citadel Securities called the stock-market reset. Now it sees a leverage buildup on the horizon.",
         "link": "https://www.marketwatch.com/story/citadel-securities-called-the-stock-market-reset-now-it-says-leverage-may-build-up-again-988eec86?mod=mw_rss_topstories",
-        "published": "Wed, 12 Aug 2026 12:13:00 GMT"
+        "published": "Wed, 12 Aug 2026 13:55:00 GMT"
+      },
+      {
+        "title": "CoreWeave’s stock is rocketing after earnings lead to praise from bulls and bears alike",
+        "link": "https://www.marketwatch.com/story/coreweaves-stock-is-rocketing-after-earnings-lead-to-praise-from-bulls-and-bears-alike-46c831e7?mod=mw_rss_topstories",
+        "published": "Wed, 12 Aug 2026 13:34:00 GMT"
+      },
+      {
+        "title": "Nebius adds to the excitement around neocloud stocks with upbeat earnings of its own",
+        "link": "https://www.marketwatch.com/story/nebius-adds-to-the-excitement-around-neocloud-stocks-with-upbeat-earnings-of-its-own-cd2aa36e?mod=mw_rss_topstories",
+        "published": "Wed, 12 Aug 2026 13:33:00 GMT"
+      },
+      {
+        "title": "Eli Lilly is suing pharmacies and peptide vendors over sale of its next big weight-loss drug: retatrutide",
+        "link": "https://www.marketwatch.com/story/eli-lilly-is-suing-pharmacies-and-peptide-vendors-over-sales-of-the-next-big-weight-loss-drug-retatrutide-22434cce?mod=mw_rss_topstories",
+        "published": "Wed, 12 Aug 2026 13:07:00 GMT"
+      },
+      {
+        "title": "The $30 trillion Treasury market is facing a painful reckoning. How rising yields could squeeze your portfolio.",
+        "link": "https://www.marketwatch.com/story/the-30-trillion-treasury-market-is-facing-a-painful-reckoning-how-rising-yields-could-squeeze-your-portfolio-8fa9edd8?mod=mw_rss_topstories",
+        "published": "Wed, 12 Aug 2026 12:58:00 GMT"
       },
       {
         "title": "‘The market is obviously on fire’: Should I take $1,000 from my brokerage account to pay off my car loan?",
@@ -700,28 +715,13 @@
         "title": "My wife can claim $900 at 62. Should she take it now — or wait for her spousal benefit?",
         "link": "https://www.marketwatch.com/story/i-want-her-to-choose-the-best-strategy-my-wifes-social-security-is-just-900-should-she-claim-spousal-benefit-at-62-e3ef621d?mod=mw_rss_topstories",
         "published": "Wed, 12 Aug 2026 11:00:00 GMT"
-      },
-      {
-        "title": "Super Micro stock is rallying after results. Here’s what Wall Street is saying.",
-        "link": "https://www.marketwatch.com/story/super-micro-stock-is-rallying-after-results-heres-what-wall-street-is-saying-631e9253?mod=mw_rss_topstories",
-        "published": "Wed, 12 Aug 2026 10:34:00 GMT"
-      },
-      {
-        "title": "I found a $100 bill in the communal washer at my Airbnb. What should I do?",
-        "link": "https://www.marketwatch.com/story/im-dreaming-of-cocktails-at-chateau-marmont-i-found-100-in-my-airbnbs-communal-washer-what-should-i-do-9694ecca?mod=mw_rss_topstories",
-        "published": "Wed, 12 Aug 2026 10:30:00 GMT"
-      },
-      {
-        "title": "Is $1 million enough for a household to retire? The answer keeps changing.",
-        "link": "https://www.marketwatch.com/story/is-1-million-enough-for-a-household-to-retire-the-answer-keeps-changing-aee84a83?mod=mw_rss_topstories",
-        "published": "Wed, 12 Aug 2026 10:00:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "AI’s costly buildout complicates the Fed’s inflation fight",
-        "link": "https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html",
-        "published": "Wed, 12 Aug 2026 11:00:01 GMT"
+        "title": "Consumer prices rose 0.1% in July, as expected, putting the annual rate at 3.4%",
+        "link": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html",
+        "published": "Wed, 12 Aug 2026 13:29:29 GMT"
       },
       {
         "title": "Mortgage rates finally stop rising, causing demand to trickle back",
@@ -729,9 +729,14 @@
         "published": "Wed, 12 Aug 2026 12:13:45 GMT"
       },
       {
-        "title": "CoreWeave surges 18% in premarket after a 'cleaner quarter.' Here's what's happening",
+        "title": "CoreWeave surges 18% after a 'cleaner quarter.' Here's what's happening",
         "link": "https://www.cnbc.com/2026/08/12/coreweave-q2-earnings-ai-demand.html",
-        "published": "Wed, 12 Aug 2026 11:22:47 GMT"
+        "published": "Wed, 12 Aug 2026 14:03:14 GMT"
+      },
+      {
+        "title": "S&P 500 rises after tame inflation data; AI-related shares jump: Live updates",
+        "link": "https://www.cnbc.com/2026/08/11/stock-market-today-live-updates.html",
+        "published": "Wed, 12 Aug 2026 14:01:16 GMT"
       },
       {
         "title": "Houthi attack kills six in first fatalities in Red Sea in over a year; U.S. strikes container ship",
@@ -739,9 +744,9 @@
         "published": "Wed, 12 Aug 2026 12:28:39 GMT"
       },
       {
-        "title": "Meta and Nvidia plant 'very firm flag' in open-weight AI race led by Chinese Labs",
-        "link": "https://www.cnbc.com/2026/08/12/meta-nvidia-open-weight-ai-race-china.html",
-        "published": "Wed, 12 Aug 2026 12:00:01 GMT"
+        "title": "Trust, but hedge: Quietly violent summer lingers as bulls buy crash protection",
+        "link": "https://www.cnbc.com/2026/08/12/trust-but-hedge-quietly-violent-summer-lingers-as-bulls-buy-crash-protection.html",
+        "published": "Wed, 12 Aug 2026 13:59:17 GMT"
       },
       {
         "title": "Here are Wednesday's biggest analyst calls: Nvidia, SpaceX, Tesla, CoreWeave, Dell, Intel & more",
@@ -749,14 +754,9 @@
         "published": "Wed, 12 Aug 2026 12:26:20 GMT"
       },
       {
-        "title": "New York City Council announces probe into prediction market platforms’ marketing strategies",
-        "link": "https://www.cnbc.com/2026/08/12/new-york-city-council-probes-prediction-markets-marketing-strategies.html",
-        "published": "Wed, 12 Aug 2026 12:08:39 GMT"
-      },
-      {
-        "title": "World's largest sovereign wealth fund posts record $184 billion profit as it reveals SpaceX stake for the first time",
-        "link": "https://www.cnbc.com/2026/08/12/norway-sovereign-wealth-fund-spacex-nvidia-apple-nbim.html",
-        "published": "Wed, 12 Aug 2026 08:45:20 GMT"
+        "title": "Solar eclipse drives Europe hotel prices to over $1,000 a night",
+        "link": "https://www.cnbc.com/2026/08/12/solar-eclipse-europe-hotel-prices.html",
+        "published": "Wed, 12 Aug 2026 13:40:40 GMT"
       }
     ]
   }
