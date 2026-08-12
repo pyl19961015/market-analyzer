@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-08-12T18:06:23",
+  "generated_at": "2026-08-12T19:19:01",
   "date": "2026-08-12",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7751.72,
-        "pct_change": 0.3
+        "last": 7754.17,
+        "pct_change": 0.34
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26594.77,
-        "pct_change": 0.56
+        "last": 26618.93,
+        "pct_change": 0.66
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 53809.11,
-        "pct_change": 0.03
+        "last": 53819.35,
+        "pct_change": 0.05
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3041.55,
-        "pct_change": 0.48
+        "last": 3048.28,
+        "pct_change": 0.7
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 14.57,
-        "pct_change": -4.65
+        "last": 14.51,
+        "pct_change": -5.04
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
         "last": 4.68,
-        "pct_change": -0.17
+        "pct_change": -0.04
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 100.0,
-        "pct_change": 0.18
+        "last": 100.01,
+        "pct_change": 0.19
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 83.12,
-        "pct_change": -0.1
+        "last": 83.09,
+        "pct_change": -0.13
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4460.7,
-        "pct_change": 1.77
+        "last": 4475.8,
+        "pct_change": 2.12
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 189.22,
-        "pct_change": 1.68
+        "last": 189.02,
+        "pct_change": 1.58
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 57.83,
-        "pct_change": 0.06
+        "last": 57.94,
+        "pct_change": 0.25
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 61.03,
-        "pct_change": 0.16
+        "last": 61.01,
+        "pct_change": 0.13
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 168.38,
-        "pct_change": 0.22
+        "last": 168.49,
+        "pct_change": 0.28
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 117.96,
-        "pct_change": -1.08
+        "last": 118.09,
+        "pct_change": -0.96
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 85.07,
-        "pct_change": 0.45
+        "last": 85.0,
+        "pct_change": 0.37
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 186.31,
-        "pct_change": 0.33
+        "last": 186.33,
+        "pct_change": 0.34
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 43.81,
-        "pct_change": 0.42
+        "last": 43.76,
+        "pct_change": 0.3
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 52.68,
-        "pct_change": -1.05
+        "last": 52.76,
+        "pct_change": -0.89
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.46,
-        "pct_change": 0.86
+        "last": 44.44,
+        "pct_change": 0.82
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 110.08,
-        "pct_change": -1.07
+        "last": 110.37,
+        "pct_change": -0.81
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 159.51,
-        "pct_change": 0.22
+        "last": 159.48,
+        "pct_change": 0.2
       }
     }
   },
@@ -144,52 +144,52 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 167.71,
-        "pct_change": 5.35
+        "last": 168.18,
+        "pct_change": 5.64
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 301.61,
-        "pct_change": -1.08
+        "last": 301.27,
+        "pct_change": -1.19
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 492.21,
-        "pct_change": -2.3
+        "last": 493.02,
+        "pct_change": -2.14
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 268.24,
-        "pct_change": -1.48
+        "last": 268.8,
+        "pct_change": -1.27
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 342.0,
-        "pct_change": -0.52
+        "last": 343.84,
+        "pct_change": 0.01
       },
       "Meta": {
         "symbol": "META",
-        "last": 580.95,
-        "pct_change": -3.03
+        "last": 579.86,
+        "pct_change": -3.21
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 957.98,
-        "pct_change": 16.74
+        "last": 937.99,
+        "pct_change": 14.31
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 360.53,
-        "pct_change": 9.73
+        "last": 358.53,
+        "pct_change": 9.12
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 171.3,
-        "pct_change": 2.44
+        "last": 170.07,
+        "pct_change": 1.7
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -362,7 +362,7 @@
     {
       "title": "Federal Budget Balance",
       "country": "USD",
-      "date": "2026-08-12T14:00:00-04:00",
+      "date": "2026-08-12T13:58:00-04:00",
       "impact": "Low",
       "forecast": "-348.3B",
       "previous": "-120.3B"
@@ -635,47 +635,67 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "GameStop weighs eBay partnership as takeover bid falters – report",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/gamestop-weighs-ebay-partnership-takeover-091343987.html",
-        "published": "2026-08-11T09:13:43Z"
+        "title": "AST SpaceMobile Stock Falls After Q2 Revenue Miss and Wider-Than-Expected Loss",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-stock-falls-q2-101206328.html",
+        "published": "2026-08-11T10:12:06Z"
       },
       {
-        "title": "Dave Ramsey warns nearly 50% of Americans make 1 big Social Security mistake — here's how to fix it in 3 steps",
-        "link": "https://finance.yahoo.com/markets/articles/dave-ramsey-warns-nearly-50-091000204.html",
-        "published": "2026-08-11T09:10:00Z"
+        "title": "Larry Fink says Americans’ retirement savings need to fund $10 trillion AI infrastructure demands. Protect your wealth",
+        "link": "https://finance.yahoo.com/technology/ai/articles/larry-fink-says-americans-retirement-101500090.html",
+        "published": "2026-08-11T10:15:00Z"
       },
       {
-        "title": "How Much Should Retirees Keep in Stocks, Bonds and Cash?",
-        "link": "https://finance.yahoo.com/markets/options/articles/heres-much-keep-stocks-bonds-205122372.html",
-        "published": "2026-08-11T09:00:00Z"
+        "title": "Do Wall Street Analysts Like Consolidated Edison Stock?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-consolidated-edison-102139930.html",
+        "published": "2026-08-11T10:21:39Z"
       },
       {
-        "title": "Trump Media's quarterly loss widens to $238 million from $20 million a year earlier",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/trump-medias-quarterly-loss-widens-085624345.html",
-        "published": "2026-08-11T08:56:24Z"
+        "title": "Uniper Profits Surge as Germany Prepares to Sell Energy Giant",
+        "link": "https://finance.yahoo.com/energy/articles/uniper-profits-surge-germany-prepares-103000190.html",
+        "published": "2026-08-11T10:30:00Z"
       },
       {
-        "title": "US Dollar Price Forecast: Will CPI Revive DXY as EUR/USD and GBP/USD Test Resistance?",
-        "link": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-cpi-080528660.html",
-        "published": "2026-08-11T08:05:28Z"
+        "title": "Stock Index Futures Gain as Oil Retreats on U.S.-Iran Deal Hopes",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/stock-index-futures-gain-oil-103820793.html",
+        "published": "2026-08-11T10:38:20Z"
       },
       {
-        "title": "The recycling infrastructure disconnect: why design isn’t enough",
-        "link": "https://finance.yahoo.com/economy/policy/articles/recycling-infrastructure-disconnect-why-design-090815318.html",
-        "published": "2026-08-11T09:08:15Z"
+        "title": "Current price of oil as of August 11, 2026",
+        "link": "https://finance.yahoo.com/energy/articles/current-price-oil-august-11-102036031.html",
+        "published": "2026-08-11T10:20:36Z"
       },
       {
-        "title": "China’s Teapot Refiners Poised to Ramp Up Iranian Oil Buying",
-        "link": "https://finance.yahoo.com/energy/articles/china-teapot-refiners-poised-ramp-093000992.html",
-        "published": "2026-08-11T09:30:00Z"
+        "title": "Is Lam Research, KLA, or Applied Materials the Best Chip Equipment Buy? Jim Cramer Weighs In",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/lam-research-kla-applied-materials-104048217.html",
+        "published": "2026-08-11T10:40:48Z"
       },
       {
-        "title": "Global Gas Turbine Orders Hit Record High as Power Demand Surges",
-        "link": "https://finance.yahoo.com/energy/articles/global-gas-turbine-orders-hit-074500051.html",
-        "published": "2026-08-11T07:45:00Z"
+        "title": "Morning Bid: Long bond bother",
+        "link": "https://finance.yahoo.com/markets/articles/morning-bid-long-bond-bother-104255410.html",
+        "published": "2026-08-11T10:42:55Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "Now China wants to become the shop floor for the Muslim world",
+        "link": "https://www.marketwatch.com/story/now-china-wants-to-become-the-shop-floor-for-the-muslim-world-9ffd785a?mod=mw_rss_topstories",
+        "published": "Wed, 12 Aug 2026 18:28:00 GMT"
+      },
+      {
+        "title": "Will Trump accounts and grandparent 529s bring down the price of college in the future?",
+        "link": "https://www.marketwatch.com/story/will-trump-accounts-and-grandparent-529s-bring-down-the-price-of-college-in-the-future-88459da7?mod=mw_rss_topstories",
+        "published": "Wed, 12 Aug 2026 18:20:00 GMT"
+      },
+      {
+        "title": "Alphabet’s stock slips as Nvidia’s $500 billion financing deal threatens custom chips",
+        "link": "https://www.marketwatch.com/story/alphabets-stock-slips-as-nvidias-500-billion-financing-deal-threatens-custom-chips-c4166a59?mod=mw_rss_topstories",
+        "published": "Wed, 12 Aug 2026 18:19:00 GMT"
+      },
+      {
+        "title": "Chili’s has hopped on the chicken-sandwich bandwagon, and it’s driving big sales gains",
+        "link": "https://www.marketwatch.com/story/chilis-has-hopped-on-the-chicken-sandwich-bandwagon-and-its-driving-big-sales-gains-cfad9549?mod=mw_rss_topstories",
+        "published": "Wed, 12 Aug 2026 18:04:00 GMT"
+      },
       {
         "title": "‘I unexpectedly came into some money’: Is putting $20,000 into CDs a smart move?",
         "link": "https://www.marketwatch.com/story/i-unexpectedly-came-into-some-money-is-putting-20-000-into-cds-a-smart-move-6c410458?mod=mw_rss_topstories",
@@ -695,53 +715,18 @@
         "title": "Super Micro gives a big sales forecast, but analysts wonder how long the momentum can last",
         "link": "https://www.marketwatch.com/story/super-micro-stock-is-rallying-after-results-heres-what-wall-street-is-saying-631e9253?mod=mw_rss_topstories",
         "published": "Wed, 12 Aug 2026 16:44:00 GMT"
-      },
-      {
-        "title": "Is $1 million enough for a household to retire? The answer keeps changing.",
-        "link": "https://www.marketwatch.com/story/is-1-million-enough-for-a-household-to-retire-the-answer-keeps-changing-aee84a83?mod=mw_rss_topstories",
-        "published": "Wed, 12 Aug 2026 16:00:00 GMT"
-      },
-      {
-        "title": "Nvidia, Intel, Google: Wall Street is partying like it’s 1999",
-        "link": "https://www.marketwatch.com/story/nvidia-intel-google-wall-street-is-partying-like-its-1999-8520c1e3?mod=mw_rss_topstories",
-        "published": "Wed, 12 Aug 2026 16:00:00 GMT"
-      },
-      {
-        "title": "My wife can claim $900 at 62. Should she take it now — or wait for her spousal benefit?",
-        "link": "https://www.marketwatch.com/story/i-want-her-to-choose-the-best-strategy-my-wifes-social-security-is-just-900-should-she-claim-spousal-benefit-at-62-e3ef621d?mod=mw_rss_topstories",
-        "published": "Wed, 12 Aug 2026 15:30:00 GMT"
-      },
-      {
-        "title": "An active fund holding a whopping 800 stocks is beating major indexes. Here’s how.",
-        "link": "https://www.marketwatch.com/story/an-active-fund-holding-a-whopping-800-stocks-is-beating-major-indexes-heres-how-6bf73062?mod=mw_rss_topstories",
-        "published": "Wed, 12 Aug 2026 15:05:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
+        "title": "U.S. budget deficit surged in July to highest level since March 2021",
+        "link": "https://www.cnbc.com/2026/08/12/us-budget-deficit-surged-in-july-to-highest-level-since-march-2021.html",
+        "published": "Wed, 12 Aug 2026 18:56:15 GMT"
+      },
+      {
         "title": "Here's the inflation breakdown for July 2026 — in one chart",
         "link": "https://www.cnbc.com/2026/08/12/inflation-breakdown-for-july-2026-cpi-in-one-chart.html",
         "published": "Wed, 12 Aug 2026 17:51:16 GMT"
-      },
-      {
-        "title": "Bob Iger, Joshua Kushner buy Los Angeles Lakers at a $12.5 billion valuation, source says",
-        "link": "https://www.cnbc.com/2026/08/12/bob-iger-joshua-kushner-buy-los-angeles-lakers-from-mark-walter.html",
-        "published": "Wed, 12 Aug 2026 16:59:49 GMT"
-      },
-      {
-        "title": "Trump sued over Truth Social advance access sale",
-        "link": "https://www.cnbc.com/2026/08/12/trump-truth-social-lawsuit.html",
-        "published": "Wed, 12 Aug 2026 16:25:58 GMT"
-      },
-      {
-        "title": "S&P 500 rises after tame inflation data; AI-related shares jump: Live updates",
-        "link": "https://www.cnbc.com/2026/08/11/stock-market-today-live-updates.html",
-        "published": "Wed, 12 Aug 2026 17:53:19 GMT"
-      },
-      {
-        "title": "Starbucks is close to the top of its multiyear range. The charts show it could break out higher",
-        "link": "https://www.cnbc.com/2026/08/12/starbucks-is-close-to-the-top-of-its-multiyear-range-the-charts-show-it-could-break-out-higher.html",
-        "published": "Wed, 12 Aug 2026 17:20:21 GMT"
       },
       {
         "title": "'Nobody wants it': Lettuce prices see record-setting plunge as cyclospora spooks consumers",
@@ -749,14 +734,29 @@
         "published": "Wed, 12 Aug 2026 17:57:44 GMT"
       },
       {
+        "title": "S&P 500 rises after tame inflation data; AI-related shares jump: Live updates",
+        "link": "https://www.cnbc.com/2026/08/11/stock-market-today-live-updates.html",
+        "published": "Wed, 12 Aug 2026 19:00:31 GMT"
+      },
+      {
+        "title": "Starbucks is close to the top of its multiyear range. The charts show it could break out higher",
+        "link": "https://www.cnbc.com/2026/08/12/starbucks-is-close-to-the-top-of-its-multiyear-range-the-charts-show-it-could-break-out-higher.html",
+        "published": "Wed, 12 Aug 2026 17:20:21 GMT"
+      },
+      {
+        "title": "Trump sued over Truth Social advance access sale",
+        "link": "https://www.cnbc.com/2026/08/12/trump-truth-social-lawsuit.html",
+        "published": "Wed, 12 Aug 2026 16:25:58 GMT"
+      },
+      {
         "title": "Strait of Hormuz ship traffic near three-month low as U.S.-Iran deal in doubt",
         "link": "https://www.cnbc.com/2026/08/12/strait-hormuz-ship-traffic-iran-war-deal.html",
         "published": "Wed, 12 Aug 2026 16:33:35 GMT"
       },
       {
-        "title": "SpaceX short sellers are running out of bullets as stock rebounds more than 30% off low",
+        "title": "SpaceX short sellers are running out of bullets as stock rebounds more than 40% off low",
         "link": "https://www.cnbc.com/2026/08/12/spacex-short-sellers-are-running-out-of-bullets-as-stock-rebounds-38percent-off-low.html",
-        "published": "Wed, 12 Aug 2026 17:32:37 GMT"
+        "published": "Wed, 12 Aug 2026 19:15:54 GMT"
       }
     ]
   }
