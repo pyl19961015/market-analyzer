@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-08-13T17:41:33",
+  "generated_at": "2026-08-13T18:37:06",
   "date": "2026-08-13",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7790.97,
-        "pct_change": 0.55
+        "last": 7796.02,
+        "pct_change": 0.61
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26790.71,
-        "pct_change": 0.76
+        "last": 26805.42,
+        "pct_change": 0.82
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 53727.24,
-        "pct_change": -0.08
+        "last": 53792.5,
+        "pct_change": 0.04
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3051.27,
-        "pct_change": 0.19
+        "last": 3051.74,
+        "pct_change": 0.21
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 14.75,
-        "pct_change": 1.37
+        "last": 14.7,
+        "pct_change": 1.03
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
         "last": 4.64,
-        "pct_change": -0.79
+        "pct_change": -0.83
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.98,
-        "pct_change": -0.03
+        "last": 99.96,
+        "pct_change": -0.05
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 81.9,
-        "pct_change": -1.65
+        "last": 81.35,
+        "pct_change": -2.31
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4420.5,
-        "pct_change": 0.26
+        "last": 4412.6,
+        "pct_change": 0.08
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 191.34,
-        "pct_change": 1.31
+        "last": 191.22,
+        "pct_change": 1.25
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 57.92,
-        "pct_change": 0.01
+        "last": 58.06,
+        "pct_change": 0.25
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 60.99,
-        "pct_change": -0.07
+        "last": 60.95,
+        "pct_change": -0.13
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 168.12,
-        "pct_change": -0.19
+        "last": 167.92,
+        "pct_change": -0.31
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 118.14,
-        "pct_change": 0.22
+        "last": 118.39,
+        "pct_change": 0.42
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 85.69,
-        "pct_change": 0.72
+        "last": 85.75,
+        "pct_change": 0.79
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 185.83,
-        "pct_change": -0.03
+        "last": 186.1,
+        "pct_change": 0.12
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 43.92,
-        "pct_change": 0.19
+        "last": 43.94,
+        "pct_change": 0.22
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 52.29,
-        "pct_change": -0.55
+        "last": 52.31,
+        "pct_change": -0.5
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.99,
-        "pct_change": 1.11
+        "last": 45.04,
+        "pct_change": 1.25
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 111.58,
-        "pct_change": 1.19
+        "last": 111.75,
+        "pct_change": 1.35
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 159.5,
-        "pct_change": 0.15
+        "last": 159.49,
+        "pct_change": 0.14
       }
     }
   },
@@ -144,52 +144,52 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 165.25,
-        "pct_change": -1.31
+        "last": 162.93,
+        "pct_change": -2.69
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 303.65,
-        "pct_change": 0.46
+        "last": 303.55,
+        "pct_change": 0.43
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 493.52,
-        "pct_change": 0.22
+        "last": 495.76,
+        "pct_change": 0.68
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 265.13,
-        "pct_change": -0.8
+        "last": 266.13,
+        "pct_change": -0.43
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 345.62,
-        "pct_change": 0.61
+        "last": 346.19,
+        "pct_change": 0.77
       },
       "Meta": {
         "symbol": "META",
-        "last": 588.16,
-        "pct_change": 1.61
+        "last": 590.13,
+        "pct_change": 1.95
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 913.34,
-        "pct_change": -2.05
+        "last": 895.99,
+        "pct_change": -3.91
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 337.57,
-        "pct_change": -5.08
+        "last": 333.08,
+        "pct_change": -6.34
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 168.68,
-        "pct_change": -0.75
+        "last": 168.21,
+        "pct_change": -1.03
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -640,24 +640,24 @@
         "published": "2026-08-12T17:47:00Z"
       },
       {
-        "title": "Bit Digital, Inc. Q2 2026 Earnings Call Summary",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/bit-digital-inc-q2-2026-172026696.html",
-        "published": "2026-08-13T17:20:26Z"
+        "title": "E.ON Reaffirms 2026 Outlook as First-Half Earnings Edge Higher",
+        "link": "https://finance.yahoo.com/energy/articles/e-reaffirms-2026-outlook-first-083541935.html",
+        "published": "2026-08-12T08:35:41Z"
       },
       {
-        "title": "Terrestrial Energy’s Lifetime Revenue Up 29%, Advancing in Texas A&M, DOE Fuel Program – Quarterly Update Report",
-        "link": "https://finance.yahoo.com/energy/articles/terrestrial-energy-lifetime-revenue-29-171715432.html",
-        "published": "2026-08-13T17:17:15Z"
+        "title": "US Dollar Price Forecast: CPI Test Looms as DXY, EUR/USD and GBP/USD Hold Key Levels",
+        "link": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-cpi-081412880.html",
+        "published": "2026-08-12T08:14:12Z"
       },
       {
-        "title": "SEC May Advance Crypto Rules, 24/7 Trading Without Clarity Act. OCC Paves Way For Crypto Banks.",
-        "link": "https://www.investors.com/news/sec-cryptocurrency-rules-innovation-trading-clarity-act-senate-delay-occ-national-banks-bitcoin/?src=A00220&yptr=yahoo",
-        "published": "2026-08-13T17:17:04Z"
+        "title": "Hedge funds upped short AI bets in July, Hazeltree says",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/hedge-funds-upped-short-ai-080808612.html",
+        "published": "2026-08-12T08:08:08Z"
       },
       {
-        "title": "Brookfield Corporation Q2 2026 Earnings Call Summary",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/brookfield-corporation-q2-2026-earnings-171702650.html",
-        "published": "2026-08-13T17:17:02Z"
+        "title": "I'm 64 With $650K in an IRA. Is Now the Right Time to Start Roth Conversions?",
+        "link": "https://finance.yahoo.com/news/im-64-650k-ira-start-150416857.html",
+        "published": "2026-08-12T09:00:00Z"
       },
       {
         "title": "AARP issues urgent call on Medicare drug costs",
@@ -665,14 +665,14 @@
         "published": "2026-08-12T22:17:00Z"
       },
       {
-        "title": "Arcos Dorados Holdings Inc. Q2 2026 Earnings Call Summary",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/arcos-dorados-holdings-inc-q2-171220328.html",
-        "published": "2026-08-13T17:12:20Z"
+        "title": "Bank of America pledges $250 billion for US infrastructure financing",
+        "link": "https://finance.yahoo.com/technology/articles/bank-america-launches-250-billion-090237128.html",
+        "published": "2026-08-12T09:02:37Z"
       },
       {
-        "title": "Telesat Corporation Q2 2026 Earnings Call Summary",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/telesat-corporation-q2-2026-earnings-171152840.html",
-        "published": "2026-08-13T17:11:52Z"
+        "title": "I'm 62 With $890k in a 401(k), $115k in a Roth and Social Security Eligibility. What's a Realistic Retirement Budget?",
+        "link": "https://finance.yahoo.com/news/whats-realistic-retirement-budget-im-145429897.html",
+        "published": "2026-08-12T07:00:00Z"
       }
     ],
     "MarketWatch Top Stories": [
@@ -719,9 +719,9 @@
     ],
     "CNBC Top News": [
       {
-        "title": "Wholesale prices were flat in July, below expectations for 0.2% increase",
-        "link": "https://www.cnbc.com/2026/08/13/wholesale-prices-were-flat-in-july-below-expectations-for-0point2percent-increase.html",
-        "published": "Thu, 13 Aug 2026 13:18:36 GMT"
+        "title": "Anthropic CFO Krishna Rao is leading early IPO meetings with investors and has not discussed valuation, sources say",
+        "link": "https://www.cnbc.com/2026/08/13/anthropic-cfo-early-ipo-meetings-valuation.html",
+        "published": "Thu, 13 Aug 2026 17:00:49 GMT"
       },
       {
         "title": "'Big Short' investor Steve Eisman sees an Achilles' heel in the AI boom",
@@ -729,24 +729,19 @@
         "published": "Thu, 13 Aug 2026 15:16:00 GMT"
       },
       {
-        "title": "OpenAI revenue chief Denise Dresser leaving, second major executive departure in days",
-        "link": "https://www.cnbc.com/2026/08/13/openai-denise-dresser-executive-exits.html",
-        "published": "Thu, 13 Aug 2026 17:19:24 GMT"
+        "title": "Cisco shares slide 9% despite earnings beat and stronger-than-expected guidance",
+        "link": "https://www.cnbc.com/2026/08/13/cisco-shares-slide-9percent-despite-earnings-beat-and-strong-guidance.html",
+        "published": "Thu, 13 Aug 2026 18:17:37 GMT"
+      },
+      {
+        "title": "Wholesale prices were flat in July, below expectations for 0.2% increase",
+        "link": "https://www.cnbc.com/2026/08/13/wholesale-prices-were-flat-in-july-below-expectations-for-0point2percent-increase.html",
+        "published": "Thu, 13 Aug 2026 13:18:36 GMT"
       },
       {
         "title": "Stocks making the biggest moves midday: Netflix, Super Micro Computer, Sandisk, StubHub & more",
         "link": "https://www.cnbc.com/2026/08/13/stocks-making-the-biggest-moves-midday-nflx-smci-sndk-stub.html",
         "published": "Thu, 13 Aug 2026 17:00:17 GMT"
-      },
-      {
-        "title": "Anthropic CFO Krishna Rao is leading early IPO meetings with investors and has not discussed valuation, sources say",
-        "link": "https://www.cnbc.com/2026/08/13/anthropic-cfo-early-ipo-meetings-valuation.html",
-        "published": "Thu, 13 Aug 2026 17:00:49 GMT"
-      },
-      {
-        "title": "This unique power company is a play on the Anthropic IPO. Bank of America says it has room to run",
-        "link": "https://www.cnbc.com/2026/08/13/this-unique-power-company-is-a-play-on-the-anthropic-ipo-bank-of-america-says-it-has-room-to-run.html",
-        "published": "Thu, 13 Aug 2026 17:13:20 GMT"
       },
       {
         "title": "Trump-linked oil venture delays Greenland drilling plans after government warning",
@@ -757,6 +752,11 @@
         "title": "Top energy plays for the rest of the year... including a 'behind-the-meter' power play",
         "link": "https://www.cnbc.com/2026/08/13/top-energy-plays-for-the-rest-of-the-year-including-a-behind-the-meter-power-play.html",
         "published": "Thu, 13 Aug 2026 17:08:24 GMT"
+      },
+      {
+        "title": "Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on",
+        "link": "https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html",
+        "published": "Thu, 13 Aug 2026 16:38:06 GMT"
       }
     ]
   }
