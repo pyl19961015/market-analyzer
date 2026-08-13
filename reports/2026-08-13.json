@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-08-13T15:38:02",
+  "generated_at": "2026-08-13T16:34:19",
   "date": "2026-08-13",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7781.37,
-        "pct_change": 0.42
+        "last": 7789.25,
+        "pct_change": 0.53
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26735.79,
-        "pct_change": 0.55
+        "last": 26771.73,
+        "pct_change": 0.69
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 53676.54,
-        "pct_change": -0.17
+        "last": 53733.3,
+        "pct_change": -0.07
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3053.07,
-        "pct_change": 0.25
+        "last": 3047.19,
+        "pct_change": 0.06
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 14.55,
-        "pct_change": 0.0
+        "last": 14.72,
+        "pct_change": 1.17
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.63,
-        "pct_change": -1.0
+        "last": 4.64,
+        "pct_change": -0.83
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.88,
-        "pct_change": -0.13
+        "last": 99.98,
+        "pct_change": -0.03
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 82.53,
-        "pct_change": -0.89
+        "last": 82.32,
+        "pct_change": -1.14
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4426.7,
-        "pct_change": 0.4
+        "last": 4412.9,
+        "pct_change": 0.09
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 190.8,
-        "pct_change": 1.03
+        "last": 191.17,
+        "pct_change": 1.22
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 57.83,
-        "pct_change": -0.16
+        "last": 57.9,
+        "pct_change": -0.03
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 60.96,
-        "pct_change": -0.12
+        "last": 60.9,
+        "pct_change": -0.22
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 168.82,
-        "pct_change": 0.22
+        "last": 168.46,
+        "pct_change": 0.01
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 118.09,
-        "pct_change": 0.17
+        "last": 118.06,
+        "pct_change": 0.14
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 85.71,
-        "pct_change": 0.75
+        "last": 85.76,
+        "pct_change": 0.8
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 185.03,
-        "pct_change": -0.46
+        "last": 185.48,
+        "pct_change": -0.22
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 44.04,
-        "pct_change": 0.46
+        "last": 43.94,
+        "pct_change": 0.23
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 52.42,
-        "pct_change": -0.31
+        "last": 52.4,
+        "pct_change": -0.33
       },
       "Real Estate": {
         "symbol": "XLRE",
         "last": 44.99,
-        "pct_change": 1.12
+        "pct_change": 1.14
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 111.41,
-        "pct_change": 1.03
+        "last": 111.57,
+        "pct_change": 1.18
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 159.31,
-        "pct_change": 0.03
+        "last": 159.47,
+        "pct_change": 0.13
       }
     }
   },
@@ -138,58 +138,58 @@
       "as_of": "2026-08-12",
       "prev_yield": 2.815
     },
-    "spread_10y": 1.77
+    "spread_10y": 1.78
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 165.78,
-        "pct_change": -0.99
+        "last": 166.01,
+        "pct_change": -0.85
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 303.38,
-        "pct_change": 0.37
+        "last": 303.22,
+        "pct_change": 0.32
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 495.38,
-        "pct_change": 0.6
+        "last": 494.69,
+        "pct_change": 0.46
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 266.56,
-        "pct_change": -0.27
+        "last": 264.96,
+        "pct_change": -0.87
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 344.26,
-        "pct_change": 0.21
+        "last": 346.13,
+        "pct_change": 0.75
       },
       "Meta": {
         "symbol": "META",
-        "last": 586.28,
-        "pct_change": 1.28
+        "last": 587.21,
+        "pct_change": 1.44
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 923.06,
-        "pct_change": -1.01
+        "last": 917.97,
+        "pct_change": -1.56
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 341.08,
-        "pct_change": -4.09
+        "last": 338.82,
+        "pct_change": -4.73
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 168.83,
-        "pct_change": -0.66
+        "last": 170.07,
+        "pct_change": 0.06
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -640,24 +640,24 @@
         "published": "2026-08-12T17:47:00Z"
       },
       {
-        "title": "Things are looking up for AI infrastructure companies, for now",
-        "link": "https://finance.yahoo.com/technology/article/things-are-looking-up-for-ai-infrastructure-companies-for-now-150730483.html",
-        "published": "2026-08-13T15:07:30Z"
+        "title": "How To Give A Bull Wings While Trading This Hot Energy Stock",
+        "link": "https://www.investors.com/research/options/valero-energy-vlo-stock-bullish-butterfly-spread-options/?src=A00220&yptr=yahoo",
+        "published": "2026-08-13T16:19:56Z"
       },
       {
-        "title": "Beyond SpaceX: 4 IPO Stocks Quietly Crushing The Market",
-        "link": "https://www.investors.com/news/spacex-ipo-bending-spoons-dpc-sinda-lime-neutron-holdings-stock-market/?src=A00220&yptr=yahoo",
-        "published": "2026-08-13T15:05:04Z"
+        "title": "Tapestry Triggers Sell Signal Despite Strong Earnings. Here's Why.",
+        "link": "https://www.investors.com/news/tpr-stock-tapestry-sinks-sluggish-guidance-outweighs-strong-earnings/?src=A00220&yptr=yahoo",
+        "published": "2026-08-13T16:15:56Z"
       },
       {
-        "title": "Lower Capex Outlook and Leadership Change Weighed on Expand Energy Corp. (EXE)",
-        "link": "https://finance.yahoo.com/energy/articles/lower-capex-outlook-leadership-change-145810733.html",
-        "published": "2026-08-13T14:58:10Z"
+        "title": "Dave Ramsey calls out the 3 ‘Dumb! Really dumb!’ money mistakes his callers make. Avoid these financial pitfalls now",
+        "link": "https://finance.yahoo.com/markets/articles/dave-ramsey-calls-3-dumb-161500078.html",
+        "published": "2026-08-13T16:15:00Z"
       },
       {
-        "title": "Devon Energy Corp. (DVN) Slipped Post-Acquisition",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/devon-energy-corp-dvn-slipped-145027877.html",
-        "published": "2026-08-13T14:50:27Z"
+        "title": "Stock market today: S&P 500 and Nasdaq gain on soft inflation data, Dow dips",
+        "link": "https://finance.yahoo.com/markets/live/stock-market-today-sp-500-and-nasdaq-gain-on-soft-inflation-data-dow-dips-100145282.html",
+        "published": "2026-08-13T10:01:45Z"
       },
       {
         "title": "AARP issues urgent call on Medicare drug costs",
@@ -665,17 +665,22 @@
         "published": "2026-08-12T22:17:00Z"
       },
       {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq gain on soft inflation data, earnings",
-        "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-gain-on-soft-inflation-data-earnings-100145282.html",
-        "published": "2026-08-13T10:01:45Z"
+        "title": "AMD looks to raise $4 billion to $5 billion in debt offering, source says",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/amd-looks-raise-4-billion-160009191.html",
+        "published": "2026-08-13T16:00:09Z"
       },
       {
-        "title": "Soft Outlook Overshadows Trimble’s (TRMB) Strong Results",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/soft-outlook-overshadows-trimble-trmb-144409470.html",
-        "published": "2026-08-13T14:44:09Z"
+        "title": "Michael Burry doubles down on Nvidia short after $500B chip deal he calls a 'Wall Street stunt' with 'shades of Enron'",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-doubles-down-nvidia-160000531.html",
+        "published": "2026-08-13T16:00:00Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "These nontech stocks can ride the AI build-out for years",
+        "link": "https://www.marketwatch.com/story/these-nontech-stocks-can-ride-the-ai-build-out-for-years-67e2e39b?mod=mw_rss_topstories",
+        "published": "Thu, 13 Aug 2026 15:48:00 GMT"
+      },
       {
         "title": "Rich Americans are propping up the travel economy as airfares soar 25% higher than last year",
         "link": "https://www.marketwatch.com/story/rich-americans-are-propping-up-the-travel-economy-as-airfares-soar-25-higher-than-last-year-c76067a5?mod=mw_rss_topstories",
@@ -710,11 +715,6 @@
         "title": "Dell’s stock has beaten Micron and AMD this year — and now it’s adding to its gains",
         "link": "https://www.marketwatch.com/story/dells-stock-has-beaten-micron-and-amd-this-year-and-now-its-adding-to-its-gains-11c00117?mod=mw_rss_topstories",
         "published": "Thu, 13 Aug 2026 14:08:00 GMT"
-      },
-      {
-        "title": "‘I unexpectedly came into some money’: Is putting $20,000 into CDs a smart move?",
-        "link": "https://www.marketwatch.com/story/i-unexpectedly-came-into-some-money-is-putting-20-000-into-cds-a-smart-move-6c410458?mod=mw_rss_topstories",
-        "published": "Thu, 13 Aug 2026 14:01:00 GMT"
       }
     ],
     "CNBC Top News": [
@@ -724,16 +724,6 @@
         "published": "Thu, 13 Aug 2026 13:18:36 GMT"
       },
       {
-        "title": "Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on",
-        "link": "https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html",
-        "published": "Thu, 13 Aug 2026 13:01:37 GMT"
-      },
-      {
-        "title": "Databricks wraps $5 billion funding round at $190 billion valuation",
-        "link": "https://www.cnbc.com/2026/08/13/databricks-funding-round-190-billion-valuation.html",
-        "published": "Thu, 13 Aug 2026 15:02:23 GMT"
-      },
-      {
         "title": "'Big Short' investor Steve Eisman sees an Achilles' heel in the AI boom",
         "link": "https://www.cnbc.com/2026/08/13/big-short-investor-steve-eisman-sees-an-achilles-heel-in-the-ai-boom.html",
         "published": "Thu, 13 Aug 2026 15:16:00 GMT"
@@ -741,22 +731,32 @@
       {
         "title": "Trump-linked oil venture delays Greenland drilling plans after government warning",
         "link": "https://www.cnbc.com/2026/08/13/greenland-energy-oil-drilling-trump.html",
-        "published": "Thu, 13 Aug 2026 15:29:22 GMT"
+        "published": "Thu, 13 Aug 2026 16:06:38 GMT"
       },
       {
-        "title": "Josh Brown says this stock on his list is worth stalking for a big move higher",
-        "link": "https://www.cnbc.com/2026/08/13/josh-brown-says-this-stock-on-his-list-is-worth-stalking-for-a-big-move-higher.html",
-        "published": "Thu, 13 Aug 2026 15:00:01 GMT"
+        "title": "OpenAI revenue chief Denise Dresser leaving, second major executive departure in days",
+        "link": "https://www.cnbc.com/2026/08/13/openai-denise-dresser-executive-exits.html",
+        "published": "Thu, 13 Aug 2026 16:26:59 GMT"
+      },
+      {
+        "title": "Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on",
+        "link": "https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html",
+        "published": "Thu, 13 Aug 2026 13:01:37 GMT"
+      },
+      {
+        "title": "Bill Ackman buys Netflix again four years after exit, says it has won the streaming wars",
+        "link": "https://www.cnbc.com/2026/08/13/ackman-buys-netflix-again-four-years-later-says-it-won-streaming-wars.html",
+        "published": "Thu, 13 Aug 2026 16:09:51 GMT"
+      },
+      {
+        "title": "Databricks wraps $5 billion funding round at $190 billion valuation",
+        "link": "https://www.cnbc.com/2026/08/13/databricks-funding-round-190-billion-valuation.html",
+        "published": "Thu, 13 Aug 2026 16:20:22 GMT"
       },
       {
         "title": "Oil prices fall as investors weigh falling demand against Middle East tensions",
         "link": "https://www.cnbc.com/2026/08/13/oil-spill-near-oman-worries-over-supply-.html",
         "published": "Thu, 13 Aug 2026 15:31:20 GMT"
-      },
-      {
-        "title": "New federal rules could end mortgage escrow interest for some homeowners. States are suing to block them",
-        "link": "https://www.cnbc.com/2026/08/13/mortgage-escrow-account-interest-lawsuit-bank-rules.html",
-        "published": "Thu, 13 Aug 2026 12:15:02 GMT"
       }
     ]
   }
