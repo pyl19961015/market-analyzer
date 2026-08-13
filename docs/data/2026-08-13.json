@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-08-13T19:43:28",
+  "generated_at": "2026-08-13T20:21:42",
   "date": "2026-08-13",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7800.84,
-        "pct_change": 0.68
+        "last": 7798.99,
+        "pct_change": 0.65
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26825.07,
-        "pct_change": 0.89
+        "last": 26803.03,
+        "pct_change": 0.81
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 53825.02,
-        "pct_change": 0.1
+        "last": 53839.99,
+        "pct_change": 0.13
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3055.22,
-        "pct_change": 0.32
+        "last": 3052.85,
+        "pct_change": 0.24
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 14.72,
-        "pct_change": 1.17
+        "last": 14.57,
+        "pct_change": 0.14
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
@@ -35,75 +35,75 @@
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.95,
-        "pct_change": -0.06
+        "last": 99.97,
+        "pct_change": -0.04
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 81.23,
-        "pct_change": -2.45
+        "last": 81.22,
+        "pct_change": -2.46
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4406.9,
-        "pct_change": -0.05
+        "last": 4406.1,
+        "pct_change": -0.06
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 190.94,
-        "pct_change": 1.1
+        "last": 190.72,
+        "pct_change": 0.98
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 58.25,
-        "pct_change": 0.57
+        "last": 58.26,
+        "pct_change": 0.59
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 60.98,
-        "pct_change": -0.08
+        "last": 61.06,
+        "pct_change": 0.05
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 168.08,
-        "pct_change": -0.21
+        "last": 168.38,
+        "pct_change": -0.04
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 118.51,
-        "pct_change": 0.53
+        "last": 118.45,
+        "pct_change": 0.48
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 85.97,
-        "pct_change": 1.05
+        "last": 86.0,
+        "pct_change": 1.08
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 185.71,
-        "pct_change": -0.09
+        "last": 185.79,
+        "pct_change": -0.05
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 44.02,
-        "pct_change": 0.41
+        "last": 44.04,
+        "pct_change": 0.46
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 52.26,
-        "pct_change": -0.62
+        "last": 52.3,
+        "pct_change": -0.53
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 45.16,
-        "pct_change": 1.51
+        "last": 45.12,
+        "pct_change": 1.42
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 112.54,
-        "pct_change": 2.05
+        "last": 112.55,
+        "pct_change": 2.07
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 159.51,
-        "pct_change": 0.15
+        "last": 159.55,
+        "pct_change": 0.18
       }
     }
   },
@@ -144,52 +144,52 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 158.45,
-        "pct_change": -5.37
+        "last": 158.54,
+        "pct_change": -5.32
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 304.14,
-        "pct_change": 0.63
+        "last": 305.26,
+        "pct_change": 1.0
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 498.29,
-        "pct_change": 1.19
+        "last": 496.88,
+        "pct_change": 0.9
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 265.36,
-        "pct_change": -0.72
+        "last": 265.13,
+        "pct_change": -0.8
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 346.31,
-        "pct_change": 0.81
+        "last": 346.36,
+        "pct_change": 0.82
       },
       "Meta": {
         "symbol": "META",
-        "last": 594.12,
-        "pct_change": 2.64
+        "last": 594.97,
+        "pct_change": 2.78
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 880.52,
-        "pct_change": -5.57
+        "last": 880.41,
+        "pct_change": -5.58
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 325.65,
-        "pct_change": -8.43
+        "last": 327.23,
+        "pct_change": -7.99
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 166.0,
-        "pct_change": -2.33
+        "last": 165.75,
+        "pct_change": -2.48
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -640,24 +640,24 @@
         "published": "2026-08-12T17:47:00Z"
       },
       {
-        "title": "Mortgage and refinance interest rates today, Wednesday, August 12, 2026: Fixed rates move higher",
-        "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-wednesday-august-12-2026-fixed-rates-move-higher-100000633.html",
-        "published": "2026-08-12T10:00:00Z"
+        "title": "Gold prices today, Wednesday, August 12, 2026: Holding over $4,400 ahead of CPI report",
+        "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-wednesday-august-12-2026-holding-over-4400-ahead-of-cpi-report-114442535.html",
+        "published": "2026-08-12T11:44:42Z"
       },
       {
-        "title": "Cleveland Fed's Beth Hammack warns one rate hike won't cut it as inflation swallows workers' wage gains",
-        "link": "https://finance.yahoo.com/economy/policy/articles/cleveland-feds-beth-hammack-warns-100000049.html",
-        "published": "2026-08-12T10:00:00Z"
+        "title": "5 S&P 500 Stocks Crank Out $4,000 Per Second Starting Now",
+        "link": "https://www.investors.com/etfs-and-funds/sectors/sp-500-stocks-crank-out-per-second-starting-now/?src=A00220&yptr=yahoo",
+        "published": "2026-08-12T11:40:30Z"
       },
       {
-        "title": "Tech stocks are getting cheaper even as earnings stay strong: Chart of the Day",
-        "link": "https://finance.yahoo.com/markets/article/tech-stocks-are-getting-cheaper-even-as-earnings-stay-strong-chart-of-the-day-100000044.html",
-        "published": "2026-08-12T10:00:00Z"
+        "title": "Analog Devices Stock: Is Wall Street Bullish or Bearish?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/analog-devices-stock-wall-street-113933444.html",
+        "published": "2026-08-12T11:39:33Z"
       },
       {
-        "title": "Best CD rates today, Wednesday, August 12, 2026: Earn up to 4.30% APY",
-        "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-august-12-2026-earn-up-to-430-apy-100000560.html",
-        "published": "2026-08-12T10:00:00Z"
+        "title": "Sysco Stock Outlook: Is Wall Street Bullish or Bearish?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/sysco-stock-outlook-wall-street-114139418.html",
+        "published": "2026-08-12T11:41:39Z"
       },
       {
         "title": "AARP issues urgent call on Medicare drug costs",
@@ -665,17 +665,32 @@
         "published": "2026-08-12T22:17:00Z"
       },
       {
-        "title": "CoreWeave, Super Micro surge on signs of sustained AI buildout",
-        "link": "https://finance.yahoo.com/technology/ai/articles/coreweave-super-micro-climb-signs-095801780.html",
-        "published": "2026-08-12T09:58:01Z"
+        "title": "India's inflation accelerates to 4.45%, but unlikely to shift RBI rate outlook",
+        "link": "https://finance.yahoo.com/news/indias-july-retail-inflation-4-104308940.html",
+        "published": "2026-08-12T11:38:23Z"
       },
       {
-        "title": "What do a Couple of Carls Have to Say About Wednesday's \"Market Moving\" Government Numbers?",
-        "link": "https://finance.yahoo.com/markets/commodities/articles/couple-carls-wednesdays-market-moving-105739758.html",
-        "published": "2026-08-12T10:57:39Z"
+        "title": "SpaceX (SPCX) and Northrop Grumman (NOC) Clear Golden Dome Test: Who Has More to Gain?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-spcx-northrop-grumman-noc-115136453.html",
+        "published": "2026-08-12T11:51:36Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "The average car loan is now $785 a month — and lasts for almost 6 years",
+        "link": "https://www.marketwatch.com/story/the-average-car-loan-is-now-785-a-month-and-lasts-for-almost-6-years-a950c80c?mod=mw_rss_topstories",
+        "published": "Thu, 13 Aug 2026 19:54:00 GMT"
+      },
+      {
+        "title": "Sandisk’s stock is flying higher. Here are the new targets that are exciting Wall Street.",
+        "link": "https://www.marketwatch.com/story/sandisks-stock-is-flying-higher-here-are-the-new-targets-that-are-exciting-wall-street-4eaab99d?mod=mw_rss_topstories",
+        "published": "Thu, 13 Aug 2026 19:52:00 GMT"
+      },
+      {
+        "title": "Rich Americans are propping up the travel economy as airfares soar 25% from a year ago",
+        "link": "https://www.marketwatch.com/story/rich-americans-are-propping-up-the-travel-economy-as-airfares-soar-25-higher-than-last-year-c76067a5?mod=mw_rss_topstories",
+        "published": "Thu, 13 Aug 2026 19:51:00 GMT"
+      },
       {
         "title": "‘My husband and I are at odds’: Should we tap our home equity or sell stocks to build a $100,000 emergency fund?",
         "link": "https://www.marketwatch.com/story/my-husband-and-i-are-at-odds-should-we-tap-our-home-equity-or-sell-stocks-to-build-a-100-000-emergency-fund-097d36a4?mod=mw_rss_topstories",
@@ -697,24 +712,9 @@
         "published": "Thu, 13 Aug 2026 17:06:00 GMT"
       },
       {
-        "title": "Sandisk’s stock is flying higher. Here are the new targets that are exciting Wall Street.",
-        "link": "https://www.marketwatch.com/story/sandisks-stock-is-flying-higher-here-are-the-new-targets-that-are-exciting-wall-street-4eaab99d?mod=mw_rss_topstories",
-        "published": "Thu, 13 Aug 2026 16:58:00 GMT"
-      },
-      {
         "title": "These nontech stocks can ride the AI build-out for years",
         "link": "https://www.marketwatch.com/story/these-nontech-stocks-can-ride-the-ai-build-out-for-years-67e2e39b?mod=mw_rss_topstories",
         "published": "Thu, 13 Aug 2026 15:48:00 GMT"
-      },
-      {
-        "title": "Rich Americans are propping up the travel economy as airfares soar 25% higher than last year",
-        "link": "https://www.marketwatch.com/story/rich-americans-are-propping-up-the-travel-economy-as-airfares-soar-25-higher-than-last-year-c76067a5?mod=mw_rss_topstories",
-        "published": "Thu, 13 Aug 2026 15:08:00 GMT"
-      },
-      {
-        "title": "Your prescription drugs shouldn’t cost more than your mortgage. Inside the broken math that got us here.",
-        "link": "https://www.marketwatch.com/story/your-prescription-drugs-shouldnt-cost-more-than-your-mortgage-inside-the-broken-math-that-got-us-here-b5a2c4aa?mod=mw_rss_topstories",
-        "published": "Thu, 13 Aug 2026 15:01:00 GMT"
       }
     ],
     "CNBC Top News": [
@@ -724,14 +724,29 @@
         "published": "Thu, 13 Aug 2026 18:44:12 GMT"
       },
       {
+        "title": "Trade court upholds Trump's closure of 'de minimis' loophole",
+        "link": "https://www.cnbc.com/2026/08/13/trump-trade-court-de-minimis-tariffs-ieepa.html",
+        "published": "Thu, 13 Aug 2026 19:56:06 GMT"
+      },
+      {
+        "title": "Workday shares post best day in 10 years on Silver Lake takeover report",
+        "link": "https://www.cnbc.com/2026/08/13/workday-skyrockets-25percent-before-trading-halted-on-report-of-silver-lake-takeover.html",
+        "published": "Thu, 13 Aug 2026 20:07:24 GMT"
+      },
+      {
+        "title": "Apple's Tim Cook joined by Howard Lutnick in opening Houston manufacturing plant",
+        "link": "https://www.cnbc.com/2026/08/13/apples-tim-cook-and-howard-lutnick-open-houston-manufacturing-plant.html",
+        "published": "Thu, 13 Aug 2026 19:33:11 GMT"
+      },
+      {
         "title": "'Big Short' investor Steve Eisman sees an Achilles' heel in the AI boom",
         "link": "https://www.cnbc.com/2026/08/13/big-short-investor-steve-eisman-sees-an-achilles-heel-in-the-ai-boom.html",
         "published": "Thu, 13 Aug 2026 15:16:00 GMT"
       },
       {
-        "title": "Workday skyrockets 18%, trading halted multiple times on report of Silver Lake takeover",
-        "link": "https://www.cnbc.com/2026/08/13/workday-skyrockets-25percent-before-trading-halted-on-report-of-silver-lake-takeover.html",
-        "published": "Thu, 13 Aug 2026 19:24:15 GMT"
+        "title": "These are Mizuho's top real estate picks for August. They also offer attractive yields",
+        "link": "https://www.cnbc.com/2026/08/13/mizuhos-top-real-estate-picks-for-august-also-offer-attractive-yields.html",
+        "published": "Thu, 13 Aug 2026 20:19:05 GMT"
       },
       {
         "title": "Cisco shares slide 9% despite earnings beat and stronger-than-expected guidance",
@@ -742,21 +757,6 @@
         "title": "Wholesale prices were flat in July, below expectations for 0.2% increase",
         "link": "https://www.cnbc.com/2026/08/13/wholesale-prices-were-flat-in-july-below-expectations-for-0point2percent-increase.html",
         "published": "Thu, 13 Aug 2026 13:18:36 GMT"
-      },
-      {
-        "title": "Stocks making the biggest moves midday: Netflix, Super Micro Computer, Sandisk, StubHub & more",
-        "link": "https://www.cnbc.com/2026/08/13/stocks-making-the-biggest-moves-midday-nflx-smci-sndk-stub.html",
-        "published": "Thu, 13 Aug 2026 17:00:17 GMT"
-      },
-      {
-        "title": "Trump-linked oil venture delays Greenland drilling plans after government warning",
-        "link": "https://www.cnbc.com/2026/08/13/greenland-energy-oil-drilling-trump.html",
-        "published": "Thu, 13 Aug 2026 16:06:38 GMT"
-      },
-      {
-        "title": "Top energy plays for the rest of the year... including a 'behind-the-meter' power play",
-        "link": "https://www.cnbc.com/2026/08/13/top-energy-plays-for-the-rest-of-the-year-including-a-behind-the-meter-power-play.html",
-        "published": "Thu, 13 Aug 2026 17:08:24 GMT"
       }
     ]
   }
