@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T09:28:45",
+  "generated_at": "2026-08-14T10:33:58",
   "date": "2026-08-14",
   "market_sentiment": {
     "indices": {
@@ -15,8 +15,8 @@
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 53839.99,
-        "pct_change": 0.13
+        "last": null,
+        "pct_change": null
       },
       "Russell 2000": {
         "symbol": "^RUT",
@@ -25,8 +25,8 @@
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 14.55,
-        "pct_change": -0.55
+        "last": 14.56,
+        "pct_change": -0.48
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
@@ -35,18 +35,18 @@
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.73,
-        "pct_change": -0.23
+        "last": 99.72,
+        "pct_change": -0.24
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 82.27,
-        "pct_change": 1.26
+        "last": 81.75,
+        "pct_change": 0.62
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4406.3,
-        "pct_change": 0.98
+        "last": 4410.0,
+        "pct_change": 1.06
       }
     },
     "sectors": {
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 159.15,
-        "pct_change": -0.11
+        "last": 159.16,
+        "pct_change": -0.1
       }
     }
   },
@@ -643,47 +643,57 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "AARP issues urgent call on Medicare drug costs",
-        "link": "https://finance.yahoo.com/healthcare/articles/aarp-issues-urgent-call-medicare-221700862.html",
-        "published": "2026-08-12T22:17:00Z"
+        "title": "Resort destination mall and hotel file Chapter 11 bankruptcy",
+        "link": "https://finance.yahoo.com/real-estate/articles/68-old-resort-hotel-mall-015339982.html",
+        "published": "2026-08-14T01:53:39Z"
       },
       {
-        "title": "Best credit cards with no annual fee for August 2026",
-        "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-with-no-annual-fee-204747522.html",
-        "published": "2024-11-25T20:47:47Z"
+        "title": "Online banks have some of the best savings account rates. Here's why.",
+        "link": "https://finance.yahoo.com/personal-finance/banking/article/best-online-bank-savings-rates-201445877.html",
+        "published": "2024-08-22T20:14:45Z"
       },
       {
-        "title": "What happens if you exceed your credit limit, and how to avoid doing so — even if you can pay it off",
-        "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/what-happens-if-you-exceed-your-credit-limit-180743802.html",
-        "published": "2024-09-30T18:07:43Z"
+        "title": "How credit card travel insurance works",
+        "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/how-credit-card-travel-insurance-works-182443342.html",
+        "published": "2024-08-09T18:24:43Z"
       },
       {
-        "title": "The best balance transfer credit cards for August 2026: Don't pay any interest until 2027",
-        "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-balance-transfer-credit-cards-0-introductory-apr-150104640.html",
-        "published": "2026-05-08T15:01:04Z"
+        "title": "What is a credit card welcome offer?",
+        "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/credit-card-welcome-offer-181029348.html",
+        "published": "2025-09-17T18:10:29Z"
       },
       {
-        "title": "How to request a lower credit card minimum payment",
-        "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/how-to-lower-minimum-payment-on-credit-card-210604122.html",
-        "published": "2024-07-01T21:06:04Z"
+        "title": "Credit card debt climbs to $1.26 trillion: What latest data means for consumers",
+        "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/credit-card-debt-climbs-to-126-trillion-what-latest-data-means-for-consumers-195757154.html",
+        "published": "2026-08-12T19:57:57Z"
       },
       {
-        "title": "Will the housing market crash in 2026? Here's what we know",
-        "link": "https://finance.yahoo.com/personal-finance/mortgages/article/will-the-housing-market-crash-in-2026-heres-what-we-know-170038540.html",
-        "published": "2024-07-05T17:00:38Z"
+        "title": "9 options trading strategies for beginners, ranked by risk",
+        "link": "https://finance.yahoo.com/personal-finance/investing/article/options-trading-strategies-163751717.html",
+        "published": "2026-08-12T16:37:51Z"
       },
       {
-        "title": "The best credit cards for August: See our picks for the top cash-back, rewards, travel cards, and more",
-        "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-card-202825345.html",
-        "published": "2024-09-12T20:09:33Z"
+        "title": "AMD, Intel, and NVIDIA All Rally Wednesday After Series of Blockbuster AI Earnings Reports",
+        "link": "https://finance.yahoo.com/technology/ai/articles/amd-intel-nvidia-rally-wednesday-222127920.html",
+        "published": "2026-08-12T22:21:27Z"
       },
       {
-        "title": "Best business credit cards for August 2026: Save money for your small business",
-        "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-business-credit-cards-181831412.html",
-        "published": "2024-09-11T23:26:44Z"
+        "title": "Inflation Cooled Slightly in July, Easing Pressure on the Fed",
+        "link": "https://finance.yahoo.com/economy/policy/articles/inflation-cooled-slightly-july-easing-222516239.html",
+        "published": "2026-08-12T22:25:16Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "Batten down the hatches and allocate defensively because global liquidity has peaked, argues veteran strategist",
+        "link": "https://www.marketwatch.com/story/batten-down-the-hatches-and-allocate-defensively-because-global-liquidity-has-peaked-argues-veteran-strategist-b68673b0?mod=mw_rss_topstories",
+        "published": "Fri, 14 Aug 2026 10:26:00 GMT"
+      },
+      {
+        "title": "‘She’s desperate’: My friend’s mother died. Can she stop Medicaid from taking the family home?",
+        "link": "https://www.marketwatch.com/story/shes-desperate-my-friends-mother-died-can-she-stop-medicaid-from-taking-the-family-home-394fb6e9?mod=mw_rss_topstories",
+        "published": "Fri, 14 Aug 2026 10:01:00 GMT"
+      },
       {
         "title": "‘It’s a double-edged sword’: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
         "link": "https://www.marketwatch.com/story/its-a-double-edged-sword-my-husband-got-a-42-000-bonus-will-it-wipe-out-our-affordable-care-act-subsidy-32db285e?mod=mw_rss_topstories",
@@ -713,28 +723,13 @@
         "title": "Salesforce’s stock gets a boost as J.P. Morgan says AI fears are overblown",
         "link": "https://www.marketwatch.com/story/salesforces-stock-gets-a-boost-as-j-p-morgan-says-ai-fears-are-overblown-feebb221?mod=mw_rss_topstories",
         "published": "Thu, 13 Aug 2026 22:07:00 GMT"
-      },
-      {
-        "title": "Sandisk’s stock is flying higher. Here are the new targets that are exciting Wall Street.",
-        "link": "https://www.marketwatch.com/story/sandisks-stock-is-flying-higher-here-are-the-new-targets-that-are-exciting-wall-street-4eaab99d?mod=mw_rss_topstories",
-        "published": "Thu, 13 Aug 2026 22:05:00 GMT"
-      },
-      {
-        "title": "Markets are looking eerily calm as investors chase FOMO rally",
-        "link": "https://www.marketwatch.com/story/markets-are-looking-eerily-calm-as-investors-chase-fomo-rally-bed22de9?mod=mw_rss_topstories",
-        "published": "Thu, 13 Aug 2026 22:05:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln",
-        "link": "https://www.cnbc.com/2026/08/14/us-iran-war-trump-hormuz-carrier-abraham-lincoln-george-washington.html",
-        "published": "Fri, 14 Aug 2026 07:30:30 GMT"
-      },
-      {
-        "title": "AI’s infrastructure boom is getting more leveraged — and harder to track",
-        "link": "https://www.cnbc.com/2026/08/14/ai-infrastructure-debt-leverage-risks.html",
-        "published": "Fri, 14 Aug 2026 08:29:50 GMT"
+        "title": "Treasury yields rise as U.S. threatens Iran with more economic sanctions",
+        "link": "https://www.cnbc.com/2026/08/14/treasury-yields-us-iran-economic-sanctions.html",
+        "published": "Fri, 14 Aug 2026 08:55:17 GMT"
       },
       {
         "title": "How a niche copper trade became a real-time gauge of Trump’s next tariff move",
@@ -747,24 +742,29 @@
         "published": "Fri, 14 Aug 2026 08:08:16 GMT"
       },
       {
+        "title": "Stock futures choppy after S&P 500 sets record above 7,800, heads for winning week: Live updates",
+        "link": "https://www.cnbc.com/2026/08/13/stock-market-today-live-updates.html",
+        "published": "Fri, 14 Aug 2026 10:33:06 GMT"
+      },
+      {
+        "title": "AI’s infrastructure boom is getting more leveraged — and harder to track",
+        "link": "https://www.cnbc.com/2026/08/14/ai-infrastructure-debt-leverage-risks.html",
+        "published": "Fri, 14 Aug 2026 08:29:50 GMT"
+      },
+      {
         "title": "Trade court upholds Trump's closure of 'de minimis' loophole",
         "link": "https://www.cnbc.com/2026/08/13/trump-trade-court-de-minimis-tariffs-ieepa.html",
         "published": "Thu, 13 Aug 2026 19:56:06 GMT"
       },
       {
-        "title": "Higher-rated corporate debt might not be the best trade. Goldman weighs in on credit quality",
-        "link": "https://www.cnbc.com/2026/08/14/why-higher-rated-corporate-debt-might-not-be-the-best-trade.html",
-        "published": "Fri, 14 Aug 2026 04:00:29 GMT"
+        "title": "Wayfair has been on a tear of late. Bernstein doesn’t see momentum slowing",
+        "link": "https://www.cnbc.com/2026/08/14/wayfair-has-been-on-a-tear-of-late-bernstein-doesnt-see-momentum-slowing.html",
+        "published": "Fri, 14 Aug 2026 10:16:34 GMT"
       },
       {
         "title": "Nintendo shares pop 7% after 'Pokémon Pokopia' sales top 5 million",
         "link": "https://www.cnbc.com/2026/08/14/nintendo-shares-pokemon-pokopia-switch-2.html",
         "published": "Fri, 14 Aug 2026 09:03:34 GMT"
-      },
-      {
-        "title": "Trump ally Nigel Farage wins special election to return to UK parliament",
-        "link": "https://www.cnbc.com/2026/08/14/nigel-farage-reform-uk-parliament-re-election.html",
-        "published": "Fri, 14 Aug 2026 08:24:42 GMT"
       }
     ]
   }
