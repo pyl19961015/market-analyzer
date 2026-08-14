@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-08-14T13:41:17",
+  "generated_at": "2026-08-14T14:38:55",
   "date": "2026-08-14",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7800.09,
-        "pct_change": 0.01
+        "last": 7794.0,
+        "pct_change": -0.06
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26806.37,
-        "pct_change": 0.01
+        "last": 26754.73,
+        "pct_change": -0.18
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 53786.08,
-        "pct_change": -0.1
+        "last": 53750.15,
+        "pct_change": -0.17
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3052.85,
-        "pct_change": 0.24
+        "last": 3064.12,
+        "pct_change": 0.37
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 14.47,
-        "pct_change": -1.09
+        "last": 14.63,
+        "pct_change": 0.0
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.65,
-        "pct_change": 0.3
+        "last": 4.66,
+        "pct_change": 0.5
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.6,
-        "pct_change": -0.36
+        "last": 99.49,
+        "pct_change": -0.47
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 81.19,
-        "pct_change": -0.07
+        "last": 81.47,
+        "pct_change": 0.27
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4444.5,
-        "pct_change": 1.85
+        "last": 4449.4,
+        "pct_change": 1.97
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 190.54,
-        "pct_change": -0.12
+        "last": 190.41,
+        "pct_change": -0.19
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 58.14,
-        "pct_change": -0.21
+        "last": 58.08,
+        "pct_change": -0.32
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 61.65,
-        "pct_change": 0.97
+        "last": 62.08,
+        "pct_change": 1.68
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 167.37,
-        "pct_change": -0.6
+        "last": 166.96,
+        "pct_change": -0.84
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 118.59,
-        "pct_change": 0.12
+        "last": 118.68,
+        "pct_change": 0.19
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 86.14,
-        "pct_change": 0.16
+        "last": 85.99,
+        "pct_change": -0.01
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 186.2,
-        "pct_change": 0.22
+        "last": 186.73,
+        "pct_change": 0.51
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 44.21,
-        "pct_change": 0.39
+        "last": 44.15,
+        "pct_change": 0.24
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 52.48,
-        "pct_change": 0.32
+        "last": 52.56,
+        "pct_change": 0.48
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 45.27,
-        "pct_change": 0.33
+        "last": 45.11,
+        "pct_change": -0.03
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 113.15,
-        "pct_change": 0.53
+        "last": 112.98,
+        "pct_change": 0.38
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 158.86,
-        "pct_change": -0.29
+        "last": 158.99,
+        "pct_change": -0.21
       }
     }
   },
@@ -138,58 +138,58 @@
       "as_of": "2026-08-13",
       "prev_yield": 2.856
     },
-    "spread_10y": 1.78
+    "spread_10y": 1.79
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 161.0,
-        "pct_change": 1.55
+        "last": 166.8,
+        "pct_change": 5.21
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 306.61,
-        "pct_change": 0.44
+        "last": 304.84,
+        "pct_change": -0.14
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 495.46,
-        "pct_change": -0.29
+        "last": 498.95,
+        "pct_change": 0.42
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 264.6,
-        "pct_change": -0.2
+        "last": 263.95,
+        "pct_change": -0.45
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 348.06,
-        "pct_change": 0.49
+        "last": 346.51,
+        "pct_change": 0.04
       },
       "Meta": {
         "symbol": "META",
-        "last": 596.78,
-        "pct_change": 0.3
+        "last": 594.95,
+        "pct_change": -0.0
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 914.21,
-        "pct_change": 3.84
+        "last": 944.59,
+        "pct_change": 7.29
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 326.64,
-        "pct_change": -0.18
+        "last": 336.17,
+        "pct_change": 2.73
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 166.72,
-        "pct_change": 0.59
+        "last": 167.3,
+        "pct_change": 0.94
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -656,51 +656,71 @@
         "published": "2026-08-14T01:53:39Z"
       },
       {
-        "title": "Marex Group plc Ordinary Shares Q2 2026 Earnings Call Summary",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/marex-group-plc-ordinary-shares-014047123.html",
-        "published": "2026-08-13T01:40:47Z"
+        "title": "Struggle with budgeting? Following the 50/30/20 rule could be your solution.",
+        "link": "https://finance.yahoo.com/personal-finance/banking/article/50-30-20-budget-200045011.html",
+        "published": "2024-05-13T20:00:45Z"
       },
       {
-        "title": "MaxCyte, Inc. Q2 2026 Earnings Call Summary",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/maxcyte-inc-q2-2026-earnings-015025432.html",
-        "published": "2026-08-13T01:50:25Z"
+        "title": "Stock market today: Dow, S&P 500, Nasdaq rise to cap volatile July as Big Tech AI spending ramps up",
+        "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-july-31-dow-sp-500-nasdaq-081227738.html",
+        "published": "2026-07-31T08:12:27Z"
       },
       {
-        "title": "Powerball jackpot climbs to $1 billion. What you'd pocket after taxes, and what to do with the rest.",
-        "link": "https://finance.yahoo.com/personal-finance/banking/article/powerball-jackpot-climbs-to-1-billion-what-youd-pocket-after-taxes-and-what-to-do-with-the-rest-154401967.html",
-        "published": "2026-08-10T15:44:01Z"
+        "title": "Stock market today: Dow, S&P 500, Nasdaq waver after stocks hit record high",
+        "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-14-dow-sp-500-nasdaq-102635519.html",
+        "published": "2026-08-14T10:26:35Z"
       },
       {
-        "title": "Omeros Corporation Q2 2026 Earnings Call Summary",
-        "link": "https://finance.yahoo.com/healthcare/articles/omeros-corporation-q2-2026-earnings-015635904.html",
-        "published": "2026-08-13T01:56:35Z"
+        "title": "This AI-Tied IPO Stock Just Broke Out On Its 'Outsized' Guidance Boost",
+        "link": "https://www.investors.com/news/technology/heartflow-stock-heartflow-earnings-q2-2026/?src=A00220&yptr=yahoo",
+        "published": "2026-08-14T14:10:24Z"
       },
       {
-        "title": "Tariff Refunds Are Here—and Turbocharging Earnings",
-        "link": "https://www.wsj.com/business/telecom/tariff-refunds-are-hereand-turbocharging-earnings-1af269a2?siteid=yhoof2&yptr=yahoo",
-        "published": "2026-08-13T01:33:00Z"
+        "title": "Can NVIDIA (NVDA) Keep Dominating the AI Infrastructure Boom?",
+        "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-keep-dominating-ai-140727128.html",
+        "published": "2026-08-14T14:07:27Z"
       },
       {
-        "title": "Origin Energy Profit Rises Despite Weaker LNG Earnings",
-        "link": "https://finance.yahoo.com/energy/articles/origin-energy-profit-rises-despite-015706722.html",
-        "published": "2026-08-13T01:57:06Z"
+        "title": "Taiwan Semiconductor (TSM) Remains at the Center of the AI Boom",
+        "link": "https://finance.yahoo.com/technology/ai/articles/taiwan-semiconductor-tsm-remains-center-140337973.html",
+        "published": "2026-08-14T14:03:37Z"
       },
       {
-        "title": "PodcastOne, Inc. Q1 2027 Earnings Call Summary",
-        "link": "https://finance.yahoo.com/media-advertising/articles/podcastone-inc-q1-2027-earnings-020138128.html",
-        "published": "2026-08-13T02:01:38Z"
+        "title": "Howmet Aerospace (HWM): A Critical Aerospace Supply Chain Play",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/howmet-aerospace-hwm-critical-aerospace-140325190.html",
+        "published": "2026-08-14T14:03:25Z"
       }
     ],
     "MarketWatch Top Stories": [
       {
+        "title": "Should I tap my home equity or sell stocks to build a $100,000 emergency fund?",
+        "link": "https://www.marketwatch.com/story/my-husband-and-i-are-at-odds-should-we-tap-our-home-equity-or-sell-stocks-to-build-a-100-000-emergency-fund-097d36a4?mod=mw_rss_topstories",
+        "published": "Fri, 14 Aug 2026 14:30:00 GMT"
+      },
+      {
+        "title": "Congress changed the rules around charitable giving. You’ll now save more money if you donate earlier in the year.",
+        "link": "https://www.marketwatch.com/story/congress-changed-the-rules-around-charitable-giving-do-it-earlier-in-the-year-to-save-money-392e5de3?mod=mw_rss_topstories",
+        "published": "Fri, 14 Aug 2026 14:14:00 GMT"
+      },
+      {
+        "title": "‘I didn’t know what else to do’: Patients take their health-insurance battles to Facebook and LinkedIn",
+        "link": "https://www.marketwatch.com/story/i-didnt-know-what-else-to-do-patients-take-their-health-insurance-battles-to-facebook-and-linkedin-500bda58?mod=mw_rss_topstories",
+        "published": "Fri, 14 Aug 2026 14:13:00 GMT"
+      },
+      {
+        "title": "My friend’s mother died. Can she stop Medicaid from taking the family home?",
+        "link": "https://www.marketwatch.com/story/shes-desperate-my-friends-mother-died-can-she-stop-medicaid-from-taking-the-family-home-394fb6e9?mod=mw_rss_topstories",
+        "published": "Fri, 14 Aug 2026 14:01:00 GMT"
+      },
+      {
+        "title": "I have a 9-to-5 job and started dating a bartender. Can I have a future with someone who works nights?",
+        "link": "https://www.marketwatch.com/story/i-have-a-9-to-5-job-and-started-dating-a-bartender-can-i-have-a-future-with-someone-who-works-nights-500d4320?mod=mw_rss_topstories",
+        "published": "Fri, 14 Aug 2026 13:48:00 GMT"
+      },
+      {
         "title": "Bond yields are at multiyear highs, yet stocks have hit fresh records. Here’s how long the defiance can last.",
         "link": "https://www.marketwatch.com/story/rates-are-at-multiyear-highs-yet-stocks-hit-fresh-records-heres-how-long-the-defiance-may-last-b29a5d14?mod=mw_rss_topstories",
         "published": "Fri, 14 Aug 2026 13:31:00 GMT"
-      },
-      {
-        "title": "Congress changed the rules around charitable giving. Do it earlier in the year to save money.",
-        "link": "https://www.marketwatch.com/story/congress-changed-the-rules-around-charitable-giving-do-it-earlier-in-the-year-to-save-money-392e5de3?mod=mw_rss_topstories",
-        "published": "Fri, 14 Aug 2026 13:30:00 GMT"
       },
       {
         "title": "Retail sales slump. Cheaper gas and an Amazon Prime hangover are the chief culprits.",
@@ -711,38 +731,13 @@
         "title": "The average car loan is now $785 a month — and lasts for almost 6 years",
         "link": "https://www.marketwatch.com/story/the-average-car-loan-is-now-785-a-month-and-lasts-for-almost-6-years-a950c80c?mod=mw_rss_topstories",
         "published": "Fri, 14 Aug 2026 13:23:00 GMT"
-      },
-      {
-        "title": "‘The market is obviously on fire’: Should I take $1,000 from my brokerage account to pay off my car loan?",
-        "link": "https://www.marketwatch.com/story/the-market-is-obviously-on-fire-is-it-a-mistake-to-take-1-000-from-my-brokerage-account-to-pay-my-car-loan-65800d1f?mod=mw_rss_topstories",
-        "published": "Fri, 14 Aug 2026 13:00:00 GMT"
-      },
-      {
-        "title": "The U.S. national debt is about to reach $40 trillion for the first time — and hit $50 trillion soon after",
-        "link": "https://www.marketwatch.com/story/u-s-national-debt-about-to-reach-bleak-40-trillion-milestone-and-its-likely-hit-50-trillion-soon-0f10df2d?mod=mw_rss_topstories",
-        "published": "Fri, 14 Aug 2026 13:00:00 GMT"
-      },
-      {
-        "title": "‘I didn’t know what else to do’: Patients take their health-insurance battles to Facebook and LinkedIn",
-        "link": "https://www.marketwatch.com/story/i-didnt-know-what-else-to-do-patients-take-their-health-insurance-battles-to-facebook-and-linkedin-500bda58?mod=mw_rss_topstories",
-        "published": "Fri, 14 Aug 2026 12:28:00 GMT"
-      },
-      {
-        "title": "Applied Materials shares are down on guidance and margin concerns. Analysts call it time to buy.",
-        "link": "https://www.marketwatch.com/story/applied-materials-shares-are-down-on-elevated-expectations-heres-why-analysts-say-its-time-to-buy-bd34dd54?mod=mw_rss_topstories",
-        "published": "Fri, 14 Aug 2026 12:09:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "10-year Treasury yield is little changed after weak retail sales data",
-        "link": "https://www.cnbc.com/2026/08/14/treasury-yields-us-iran-economic-sanctions.html",
-        "published": "Fri, 14 Aug 2026 12:47:54 GMT"
-      },
-      {
-        "title": "How a niche copper trade became a real-time gauge of Trump’s next tariff move",
-        "link": "https://www.cnbc.com/2026/08/14/copper-trump-tariffs-metal-commodities-trade-war.html",
-        "published": "Fri, 14 Aug 2026 13:24:54 GMT"
+        "title": "S&P 500 is little changed, heads for third straight winning week: Live updates",
+        "link": "https://www.cnbc.com/2026/08/13/stock-market-today-live-updates.html",
+        "published": "Fri, 14 Aug 2026 14:26:17 GMT"
       },
       {
         "title": "‘Absolutely unacceptable’: Japan PM Takaichi condemns Putin’s visit to disputed Kuril Islands",
@@ -750,19 +745,9 @@
         "published": "Fri, 14 Aug 2026 12:28:54 GMT"
       },
       {
-        "title": "S&P 500 is little changed, heads for third straight winning week: Live updates",
-        "link": "https://www.cnbc.com/2026/08/13/stock-market-today-live-updates.html",
-        "published": "Fri, 14 Aug 2026 13:40:27 GMT"
-      },
-      {
-        "title": "Stocks making the biggest moves premarket: Reddit, Applied Materials, Sandisk, Wayfair & more",
-        "link": "https://www.cnbc.com/2026/08/14/stocks-making-the-biggest-moves-premarket-rddt-amat-sndk-w.html",
-        "published": "Fri, 14 Aug 2026 10:46:55 GMT"
-      },
-      {
-        "title": "Here are Friday's biggest analyst calls: Nvidia, Apple, SpaceX, SanDisk, JPMorgan, Dell, Wayfair, Micron & more",
-        "link": "https://www.cnbc.com/2026/08/14/friday-analyst-call-stocks-include-spacex-nvidia-apple-dell-micron.html",
-        "published": "Fri, 14 Aug 2026 12:40:41 GMT"
+        "title": "How a niche copper trade became a real-time gauge of Trump’s next tariff move",
+        "link": "https://www.cnbc.com/2026/08/14/copper-trump-tariffs-metal-commodities-trade-war.html",
+        "published": "Fri, 14 Aug 2026 13:24:54 GMT"
       },
       {
         "title": "Data breach notices have already blown past last year’s total — and AI is playing a growing role",
@@ -773,6 +758,21 @@
         "title": "Anthropic's investor talks, Workday's stock surge, Apple's new facility and more in Morning Squawk",
         "link": "https://www.cnbc.com/2026/08/14/5-things-to-know-before-the-market-opens.html",
         "published": "Fri, 14 Aug 2026 12:17:42 GMT"
+      },
+      {
+        "title": "Wall Street sees a floor under software stocks in potential Workday deal",
+        "link": "https://www.cnbc.com/2026/08/14/wall-street-sees-a-floor-for-software-in-potential-workday-deal.html",
+        "published": "Fri, 14 Aug 2026 14:33:56 GMT"
+      },
+      {
+        "title": "Drone stocks rally after Trump orders tariffs on foreign-made components",
+        "link": "https://www.cnbc.com/2026/08/14/drone-stocks-trump-tariffs.html",
+        "published": "Fri, 14 Aug 2026 14:01:32 GMT"
+      },
+      {
+        "title": "Data centers in space could be a new frontier for insurers — if they can price the risk",
+        "link": "https://www.cnbc.com/2026/08/14/data-centers-in-space-emerge-as-next-frontier-for-insurers.html",
+        "published": "Fri, 14 Aug 2026 11:19:51 GMT"
       }
     ]
   }
