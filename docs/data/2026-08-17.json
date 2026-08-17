@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-08-17T15:37:54",
+  "generated_at": "2026-08-17T15:58:50",
   "date": "2026-08-17",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7772.55,
-        "pct_change": -0.17
+        "last": 7774.88,
+        "pct_change": -0.14
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26758.69,
-        "pct_change": 0.11
+        "last": 26772.38,
+        "pct_change": 0.16
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 53513.04,
-        "pct_change": -0.41
+        "last": 53518.83,
+        "pct_change": -0.4
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3056.01,
-        "pct_change": -0.4
+        "last": 3055.21,
+        "pct_change": -0.43
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 14.93,
-        "pct_change": 4.77
+        "last": 15.06,
+        "pct_change": 5.68
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
@@ -35,70 +35,70 @@
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.53,
-        "pct_change": -0.14
+        "last": 99.52,
+        "pct_change": -0.15
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 82.71,
-        "pct_change": 0.38
+        "last": 82.73,
+        "pct_change": 0.4
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4480.8,
-        "pct_change": 2.29
+        "last": 4480.2,
+        "pct_change": 2.28
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 191.58,
-        "pct_change": 0.83
+        "last": 191.47,
+        "pct_change": 0.77
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 57.85,
-        "pct_change": -0.52
+        "last": 57.88,
+        "pct_change": -0.48
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 62.12,
-        "pct_change": 0.34
+        "last": 62.24,
+        "pct_change": 0.52
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 167.56,
-        "pct_change": 0.11
+        "last": 167.41,
+        "pct_change": 0.03
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 117.08,
-        "pct_change": -0.95
+        "last": 117.1,
+        "pct_change": -0.93
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 84.76,
-        "pct_change": -1.54
+        "last": 84.71,
+        "pct_change": -1.6
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 186.51,
-        "pct_change": 0.0
+        "last": 186.71,
+        "pct_change": 0.1
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 43.87,
-        "pct_change": -1.0
+        "last": 44.0,
+        "pct_change": -0.7
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 52.1,
-        "pct_change": -0.85
+        "last": 52.12,
+        "pct_change": -0.8
       },
       "Real Estate": {
         "symbol": "XLRE",
         "last": 44.78,
-        "pct_change": -1.08
+        "pct_change": -1.09
       },
       "Communication Services": {
         "symbol": "XLC",
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 159.36,
-        "pct_change": -0.04
+        "last": 159.35,
+        "pct_change": -0.05
       }
     }
   },
@@ -144,52 +144,52 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 175.04,
-        "pct_change": 5.45
+        "last": 175.12,
+        "pct_change": 5.5
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 303.97,
-        "pct_change": -0.64
+        "last": 303.24,
+        "pct_change": -0.88
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 484.77,
-        "pct_change": -2.14
+        "last": 485.11,
+        "pct_change": -2.08
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 261.23,
-        "pct_change": -0.54
+        "last": 261.14,
+        "pct_change": -0.57
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 343.77,
-        "pct_change": -0.62
+        "last": 343.95,
+        "pct_change": -0.56
       },
       "Meta": {
         "symbol": "META",
-        "last": 573.38,
+        "last": 573.41,
         "pct_change": -2.79
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 994.26,
-        "pct_change": 7.36
+        "last": 991.5,
+        "pct_change": 7.06
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 357.58,
-        "pct_change": 9.74
+        "last": 357.66,
+        "pct_change": 9.77
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 170.67,
-        "pct_change": 2.13
+        "last": 170.82,
+        "pct_change": 2.22
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -576,39 +576,39 @@
         "published": "2026-08-17T04:39:46Z"
       },
       {
-        "title": "The Numbers Behind Assured Guaranty’s (AGO) Record-Setting Quarter",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/numbers-behind-assured-guaranty-ago-150922259.html",
-        "published": "2026-08-17T15:09:22Z"
+        "title": "SpaceX's biggest investors are finally visible — just as millions more shares unlock: Chart of the Day",
+        "link": "https://finance.yahoo.com/markets/article/spacexs-biggest-investors-are-finally-visible--just-as-millions-more-shares-unlock-chart-of-the-day-154946600.html",
+        "published": "2026-08-17T15:49:46Z"
       },
       {
-        "title": "GSK Eyes AnaptysBio (ANAB) Acquisition to Secure Drug Control",
-        "link": "https://finance.yahoo.com/healthcare/articles/gsk-eyes-anaptysbio-anab-acquisition-150348750.html",
-        "published": "2026-08-17T15:03:48Z"
+        "title": "Stock Market Today: Dow Falls After Trump Oman Threat; Homebuilders Decline Despite This Data (Live Coverage)",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-micron-stock-sandisk-stock-sndk/?src=A00220&yptr=yahoo",
+        "published": "2026-08-17T15:39:17Z"
       },
       {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq waver ahead of retail earnings",
-        "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-17-dow-sp-500-nasdaq-094421171.html",
-        "published": "2026-08-17T09:44:21Z"
+        "title": "Cable One (CABO) Fights Subscriber Losses While Squeezing Out Cash",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/cable-one-cabo-fights-subscriber-153422519.html",
+        "published": "2026-08-17T15:34:22Z"
       },
       {
-        "title": "Gen Z swaps retirement saving for sports betting",
-        "link": "https://finance.yahoo.com/markets/article/gen-z-swaps-retirement-saving-for-sports-betting-150207350.html",
-        "published": "2026-08-17T15:02:07Z"
+        "title": "Core Thesis on Lifecore Biomedical (LFCR): Monetizing Excess Production",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/core-thesis-lifecore-biomedical-lfcr-152902193.html",
+        "published": "2026-08-17T15:29:02Z"
       },
       {
-        "title": "Medical Properties Trust (MPT) Q2 2026 Earnings Call Transcript",
-        "link": "https://finance.yahoo.com/healthcare/articles/medical-properties-trust-mpt-q2-151418679.html",
-        "published": "2026-08-17T15:14:18Z"
+        "title": "HIVE Digital Technologies Soars 11% on $350M GPU Cloud Contract, Cipher Mining Ticks Up",
+        "link": "https://finance.yahoo.com/technology/ai/articles/hive-digital-technologies-soars-11-154412127.html",
+        "published": "2026-08-17T15:44:12Z"
       },
       {
-        "title": "Sell-Side Analysts Ignore Burford’s (BUR) Massively Lucrative Protein Cases",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/sell-side-analysts-ignore-burford-145952263.html",
-        "published": "2026-08-17T14:59:52Z"
+        "title": "KKR (KKR) Remains Strong Despite Credit Fears",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/kkr-kkr-remains-strong-despite-152617990.html",
+        "published": "2026-08-17T15:26:17Z"
       },
       {
-        "title": "Nvidia, Alphabet, Peter Thiel: SpaceX Top Shareholders Disclosed",
-        "link": "https://www.investors.com/news/spacex-stock-elon-musk-nvidia-alphabet-google-peter-thiel/?src=A00220&yptr=yahoo",
-        "published": "2026-08-17T14:58:57Z"
+        "title": "PAR Technology (PAR)Positioned for Long Growth Runway",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/par-technology-par-positioned-long-152410669.html",
+        "published": "2026-08-17T15:24:10Z"
       }
     ],
     "MarketWatch Top Stories": [
@@ -670,14 +670,14 @@
         "published": "Mon, 17 Aug 2026 14:49:26 GMT"
       },
       {
-        "title": "Synchrony, credit card issuer to Amazon and Walmart, partners with OpenAI for ChatGPT shopping",
-        "link": "https://www.cnbc.com/2026/08/17/synchrony-openai-chatgpt-shopping.html",
-        "published": "Mon, 17 Aug 2026 15:28:45 GMT"
+        "title": "Nvidia financing initiative follows SEC guidance that takes sponsors off the hook for data center investments",
+        "link": "https://www.cnbc.com/2026/08/17/nvidia-financing-initiative-follows-sec-guidance-taking-sponsors-off-the-hook.html",
+        "published": "Mon, 17 Aug 2026 15:51:32 GMT"
       },
       {
         "title": "Supreme Court again rejects Trump bid to overturn E. Jean Carroll verdict",
         "link": "https://www.cnbc.com/2026/08/17/trump-supreme-court-e-jean-carroll.html",
-        "published": "Mon, 17 Aug 2026 14:51:24 GMT"
+        "published": "Mon, 17 Aug 2026 15:50:19 GMT"
       },
       {
         "title": "'Y'all Street' is booming. Wells Fargo says this regional bank stands to benefit",
@@ -685,14 +685,14 @@
         "published": "Mon, 17 Aug 2026 15:26:59 GMT"
       },
       {
+        "title": "Synchrony, credit card issuer to Amazon and Walmart, partners with OpenAI for ChatGPT shopping",
+        "link": "https://www.cnbc.com/2026/08/17/synchrony-openai-chatgpt-shopping.html",
+        "published": "Mon, 17 Aug 2026 15:52:22 GMT"
+      },
+      {
         "title": "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive",
         "link": "https://www.cnbc.com/2026/08/17/openai-brockman-leadership-changes.html",
         "published": "Mon, 17 Aug 2026 15:04:24 GMT"
-      },
-      {
-        "title": "'Don't get too comfortable': Wall Street’s ‘fear gauge’ hits 2026 low — here's why it's unlikely to last",
-        "link": "https://www.cnbc.com/2026/08/17/stock-market-volatility-vix-wall-street.html",
-        "published": "Mon, 17 Aug 2026 12:41:58 GMT"
       }
     ]
   }
