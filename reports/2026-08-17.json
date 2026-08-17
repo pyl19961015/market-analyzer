@@ -1,79 +1,79 @@
 {
-  "generated_at": "2026-08-17T14:00:36",
+  "generated_at": "2026-08-17T14:43:04",
   "date": "2026-08-17",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7773.55,
-        "pct_change": -0.16
+        "last": 7772.05,
+        "pct_change": -0.18
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26743.59,
-        "pct_change": 0.05
+        "last": 26730.5,
+        "pct_change": 0.01
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 53545.8,
-        "pct_change": -0.35
+        "last": 53509.66,
+        "pct_change": -0.41
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3054.63,
-        "pct_change": -0.45
+        "last": 3058.31,
+        "pct_change": -0.33
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 14.98,
-        "pct_change": 5.12
+        "last": 14.99,
+        "pct_change": 5.19
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.71,
-        "pct_change": 0.26
+        "last": 4.7,
+        "pct_change": 0.09
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.46,
-        "pct_change": -0.21
+        "last": 99.45,
+        "pct_change": -0.22
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 82.68,
-        "pct_change": 0.34
+        "last": 82.46,
+        "pct_change": 0.07
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4450.9,
-        "pct_change": 1.61
+        "last": 4481.0,
+        "pct_change": 2.3
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 190.93,
-        "pct_change": 0.48
+        "last": 191.04,
+        "pct_change": 0.54
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 58.12,
-        "pct_change": -0.07
+        "last": 57.96,
+        "pct_change": -0.34
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 62.17,
-        "pct_change": 0.41
+        "last": 62.3,
+        "pct_change": 0.63
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 166.94,
-        "pct_change": -0.26
+        "last": 167.58,
+        "pct_change": 0.13
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 117.11,
-        "pct_change": -0.92
+        "last": 117.2,
+        "pct_change": -0.85
       },
       "Consumer Staples": {
         "symbol": "XLP",
@@ -82,28 +82,28 @@
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 186.74,
-        "pct_change": 0.13
+        "last": 186.65,
+        "pct_change": 0.07
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 44.03,
-        "pct_change": -0.62
+        "last": 43.97,
+        "pct_change": -0.78
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 52.15,
-        "pct_change": -0.75
+        "last": 52.26,
+        "pct_change": -0.54
       },
       "Real Estate": {
         "symbol": "XLRE",
         "last": 44.83,
-        "pct_change": -0.97
+        "pct_change": -0.98
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 111.96,
-        "pct_change": -0.88
+        "last": 111.68,
+        "pct_change": -1.13
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 159.27,
-        "pct_change": -0.1
+        "last": 159.22,
+        "pct_change": -0.13
       }
     }
   },
@@ -138,58 +138,58 @@
       "as_of": "2026-08-14",
       "prev_yield": 2.873
     },
-    "spread_10y": 1.83
+    "spread_10y": 1.82
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 169.0,
-        "pct_change": 1.81
+        "last": 172.85,
+        "pct_change": 4.13
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 305.5,
-        "pct_change": -0.14
+        "last": 304.7,
+        "pct_change": -0.4
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 484.56,
-        "pct_change": -2.19
+        "last": 483.55,
+        "pct_change": -2.39
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 261.35,
-        "pct_change": -0.49
+        "last": 260.56,
+        "pct_change": -0.8
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 344.08,
-        "pct_change": -0.52
+        "last": 343.1,
+        "pct_change": -0.81
       },
       "Meta": {
         "symbol": "META",
-        "last": 579.49,
-        "pct_change": -1.76
+        "last": 575.4,
+        "pct_change": -2.45
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 953.16,
-        "pct_change": 2.92
+        "last": 973.05,
+        "pct_change": 5.06
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 342.6,
-        "pct_change": 5.15
+        "last": 350.46,
+        "pct_change": 7.56
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 168.66,
-        "pct_change": 0.93
+        "last": 169.43,
+        "pct_change": 1.39
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -571,47 +571,57 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "Billionaire Bill Ackman doubles down on these stocks in Q2",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-bill-ackman-doubles-down-020300181.html",
-        "published": "2026-08-16T02:03:00Z"
-      },
-      {
-        "title": "Target stock is on fire — but a big test lurks",
-        "link": "https://finance.yahoo.com/markets/stocks/article/target-stock-is-on-fire--but-a-big-test-lurks-134816381.html",
-        "published": "2026-08-17T13:48:16Z"
-      },
-      {
-        "title": "Gold prices today, Monday, August 17, 2026: Gold ticks up after lower retail sales report",
-        "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-august-17-2026-gold-ticks-up-after-lower-retail-sales-report-134755206.html",
-        "published": "2026-08-17T13:47:55Z"
-      },
-      {
-        "title": "Tesla (TSLA) Advances After Beating Key Metrics in Q1",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-advances-beating-key-133812996.html",
-        "published": "2026-08-17T13:38:12Z"
-      },
-      {
-        "title": "ChatGPT and Billionaire Bill Ackman Agree on Visa (V)",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/chatgpt-billionaire-bill-ackman-agree-133636224.html",
-        "published": "2026-08-17T13:36:36Z"
-      },
-      {
         "title": "Historic retailer gets lifeline after warning it could collapse",
         "link": "https://finance.yahoo.com/markets/stocks/articles/historic-retailer-gets-lifeline-warning-220700487.html",
         "published": "2026-08-17T04:39:46Z"
       },
       {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq trade mixed ahead of retail earnings",
-        "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-17-dow-sp-500-nasdaq-094421171.html",
-        "published": "2026-08-17T09:44:21Z"
+        "title": "NVIDIA Corporation (NVDA) & KKR & Co (KKR): Wall Street Just Endorsed Jensen Huang’s “Big Concept.” What Happens Next?",
+        "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-corporation-nvda-kkr-co-142307968.html",
+        "published": "2026-08-17T14:23:07Z"
       },
       {
-        "title": "Bitpanda Hit With Fine In Europe’s First MiCA Enforcement Case",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/bitpanda-hit-fine-europe-first-133500614.html",
-        "published": "2026-08-17T13:35:00Z"
+        "title": "Billionaire Stanley Druckenmiller Tripled His Stake in United Airlines (UAL). Should You Buy?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-stanley-druckenmiller-tripled-stake-141505376.html",
+        "published": "2026-08-17T14:15:05Z"
+      },
+      {
+        "title": "Tronox Holdings Plc (TROX) Pressured by Softer Guidance and Leverage Risks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/tronox-holdings-plc-trox-pressured-141158294.html",
+        "published": "2026-08-17T14:11:58Z"
+      },
+      {
+        "title": "Israel’s Largest Crypto Broker Reports Data Breach",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/israel-largest-crypto-broker-reports-141000691.html",
+        "published": "2026-08-17T14:10:00Z"
+      },
+      {
+        "title": "Aviva’s H1 profit falls by 49%",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/aviva-h1-profit-falls-49-142629507.html",
+        "published": "2026-08-17T14:26:29Z"
+      },
+      {
+        "title": "Flowserve Corporation (FLS) Trims Full-Year Growth Outlook as Organic Sales Decline ~1%",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/flowserve-corporation-fls-trims-full-140829474.html",
+        "published": "2026-08-17T14:08:29Z"
+      },
+      {
+        "title": "Mueller Water Products (MWA) Slid on Broader Investor Concerns",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/mueller-water-products-mwa-slid-140314546.html",
+        "published": "2026-08-17T14:03:14Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "Stanley Druckenmiller ditched these chip plays before the selloff. Here’s how he’s playing the tech sector now.",
+        "link": "https://www.marketwatch.com/story/stanley-druckenmiller-ditched-these-chip-plays-before-the-selloff-heres-how-hes-playing-the-tech-sector-now-9115c06f?mod=mw_rss_topstories",
+        "published": "Mon, 17 Aug 2026 14:29:00 GMT"
+      },
+      {
+        "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
+        "link": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
+        "published": "Mon, 17 Aug 2026 14:15:00 GMT"
+      },
       {
         "title": "My friend’s mother died. Can she stop Medicaid from taking the family home?",
         "link": "https://www.marketwatch.com/story/shes-desperate-my-friends-mother-died-can-she-stop-medicaid-from-taking-the-family-home-394fb6e9?mod=mw_rss_topstories",
@@ -641,23 +651,13 @@
         "title": "‘It’s a double-edged sword’: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
         "link": "https://www.marketwatch.com/story/its-a-double-edged-sword-my-husband-got-a-42-000-bonus-will-it-wipe-out-our-affordable-care-act-subsidy-32db285e?mod=mw_rss_topstories",
         "published": "Mon, 17 Aug 2026 12:16:00 GMT"
-      },
-      {
-        "title": "Investor dubbed ‘AI stock god’ had 56% of his funds in these two stocks before the July blow-up",
-        "link": "https://www.marketwatch.com/story/investor-dubbed-ai-stock-god-had-56-of-his-funds-in-these-two-stocks-before-it-blew-up-07472f46?mod=mw_rss_topstories",
-        "published": "Mon, 17 Aug 2026 12:08:00 GMT"
-      },
-      {
-        "title": "Why Goldman Sachs thinks the Fed won’t be hiking interest rates in September",
-        "link": "https://www.marketwatch.com/story/why-goldman-sachs-thinks-the-fed-wont-be-hiking-interest-rates-in-september-718275e7?mod=mw_rss_topstories",
-        "published": "Mon, 17 Aug 2026 11:33:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
         "title": "Meta faces ‘astronomical’ consequences as legal fight reaches critical moment in California",
         "link": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
-        "published": "Mon, 17 Aug 2026 13:23:20 GMT"
+        "published": "Mon, 17 Aug 2026 14:09:49 GMT"
       },
       {
         "title": "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive",
@@ -665,14 +665,24 @@
         "published": "Mon, 17 Aug 2026 13:33:04 GMT"
       },
       {
-        "title": "Oil prices rise as Iran rules out interim deal extension, threatens to escalate conflict",
-        "link": "https://www.cnbc.com/2026/08/17/oil-prices-iran-war-strait-hormuz.html",
-        "published": "Mon, 17 Aug 2026 13:17:15 GMT"
+        "title": "Nvidia backs financing for OpenAI data center in Ohio",
+        "link": "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html",
+        "published": "Mon, 17 Aug 2026 14:30:32 GMT"
       },
       {
         "title": "Trump threatens to 'bomb' Oman if it 'gets in the way' as U.S.-Iran ceasefire expires",
         "link": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
-        "published": "Mon, 17 Aug 2026 12:34:07 GMT"
+        "published": "Mon, 17 Aug 2026 14:07:16 GMT"
+      },
+      {
+        "title": "Supreme Court again rejects Trump bid to overturn E. Jean Carroll verdict",
+        "link": "https://www.cnbc.com/2026/08/17/trump-supreme-court-e-jean-carroll.html",
+        "published": "Mon, 17 Aug 2026 14:12:08 GMT"
+      },
+      {
+        "title": "The two 'HALO' stocks that haven't left Josh Brown's list since being added earlier this year",
+        "link": "https://www.cnbc.com/2026/08/17/the-two-halo-stocks-that-havent-left-josh-browns-list-since-being-added-earlier-this-year.html",
+        "published": "Mon, 17 Aug 2026 14:28:25 GMT"
       },
       {
         "title": "'Don't get too comfortable': Wall Street’s ‘fear gauge’ hits 2026 low — here's why it's unlikely to last",
@@ -680,19 +690,9 @@
         "published": "Mon, 17 Aug 2026 12:41:58 GMT"
       },
       {
-        "title": "S&P 500 to 9,000? Why Evercore ISI thinks it’s possible",
-        "link": "https://www.cnbc.com/2026/08/17/sp-500-to-9000-why-evercore-isi-thinks-its-possible.html",
-        "published": "Mon, 17 Aug 2026 13:22:01 GMT"
-      },
-      {
-        "title": "What will TV look like in three years? Media insiders share their predictions",
-        "link": "https://www.cnbc.com/2026/08/17/tv-media-insiders-predictions.html",
-        "published": "Mon, 17 Aug 2026 11:00:01 GMT"
-      },
-      {
-        "title": "Santoli: Earnings bonanza that lifted market to record may not be all that it appears to be",
-        "link": "https://www.cnbc.com/2026/08/17/santoli-earnings-bonanza-that-lifted-market-to-record-may-not-be-all-that-it-appears-to-be.html",
-        "published": "Mon, 17 Aug 2026 10:31:33 GMT"
+        "title": "Oil prices rise as Iran rules out interim deal extension, threatens to escalate conflict",
+        "link": "https://www.cnbc.com/2026/08/17/oil-prices-iran-war-strait-hormuz.html",
+        "published": "Mon, 17 Aug 2026 13:17:15 GMT"
       }
     ]
   }
