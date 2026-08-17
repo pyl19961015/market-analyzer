@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-08-17T19:28:10",
+  "generated_at": "2026-08-17T19:52:33",
   "date": "2026-08-17",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7752.33,
-        "pct_change": -0.43
+        "last": 7749.14,
+        "pct_change": -0.47
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26657.62,
-        "pct_change": -0.27
+        "last": 26647.44,
+        "pct_change": -0.31
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 53493.99,
-        "pct_change": -0.44
+        "last": 53457.13,
+        "pct_change": -0.51
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3054.66,
-        "pct_change": -0.45
+        "last": 3055.19,
+        "pct_change": -0.43
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.21,
-        "pct_change": 6.74
+        "last": 15.25,
+        "pct_change": 7.02
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
@@ -35,75 +35,75 @@
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.59,
-        "pct_change": -0.08
+        "last": 99.57,
+        "pct_change": -0.1
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 84.35,
-        "pct_change": 2.37
+        "last": 84.4,
+        "pct_change": 2.43
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4470.0,
-        "pct_change": 2.05
+        "last": 4473.8,
+        "pct_change": 2.13
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 190.49,
-        "pct_change": 0.25
+        "last": 190.44,
+        "pct_change": 0.23
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 57.74,
-        "pct_change": -0.73
+        "last": 57.65,
+        "pct_change": -0.87
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 62.48,
-        "pct_change": 0.92
+        "last": 62.59,
+        "pct_change": 1.1
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 166.99,
-        "pct_change": -0.22
+        "last": 167.07,
+        "pct_change": -0.18
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 116.85,
-        "pct_change": -1.15
+        "last": 116.56,
+        "pct_change": -1.39
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 84.62,
-        "pct_change": -1.7
+        "last": 84.78,
+        "pct_change": -1.53
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 186.53,
-        "pct_change": 0.01
+        "last": 186.33,
+        "pct_change": -0.1
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 44.1,
-        "pct_change": -0.46
+        "last": 44.16,
+        "pct_change": -0.34
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 52.24,
-        "pct_change": -0.56
+        "last": 52.22,
+        "pct_change": -0.6
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.77,
-        "pct_change": -1.09
+        "last": 44.89,
+        "pct_change": -0.84
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 110.9,
-        "pct_change": -1.81
+        "last": 110.89,
+        "pct_change": -1.83
       }
     }
   },
@@ -121,7 +121,7 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 159.45,
+        "last": 159.44,
         "pct_change": 0.01
       }
     }
@@ -144,52 +144,52 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 174.5,
-        "pct_change": 5.13
+        "last": 175.15,
+        "pct_change": 5.52
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 306.1,
-        "pct_change": 0.06
+        "last": 305.54,
+        "pct_change": -0.13
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 481.23,
-        "pct_change": -2.86
+        "last": 479.62,
+        "pct_change": -3.19
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 260.35,
-        "pct_change": -0.88
+        "last": 260.29,
+        "pct_change": -0.9
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 344.05,
-        "pct_change": -0.53
+        "last": 343.9,
+        "pct_change": -0.58
       },
       "Meta": {
         "symbol": "META",
-        "last": 569.3,
-        "pct_change": -3.48
+        "last": 568.16,
+        "pct_change": -3.68
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 970.66,
-        "pct_change": 4.81
+        "last": 972.43,
+        "pct_change": 5.0
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 351.22,
-        "pct_change": 7.79
+        "last": 351.8,
+        "pct_change": 7.97
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 171.23,
-        "pct_change": 2.47
+        "last": 171.79,
+        "pct_change": 2.8
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -276,7 +276,7 @@
       "country": "USD",
       "date": "2026-08-18T08:30:00-04:00",
       "impact": "Low",
-      "forecast": "1.35M",
+      "forecast": "1.34M",
       "previous": "1.43M"
     },
     {
@@ -324,7 +324,7 @@
       "country": "JPY",
       "date": "2026-08-18T19:50:00-04:00",
       "impact": "Low",
-      "forecast": "7.6%",
+      "forecast": "7.2%",
       "previous": "-12.4%"
     },
     {
@@ -356,7 +356,7 @@
       "country": "USD",
       "date": "2026-08-20T08:30:00-04:00",
       "impact": "Medium",
-      "forecast": "24.3",
+      "forecast": "24.1",
       "previous": "41.4"
     },
     {
@@ -596,22 +596,27 @@
         "published": "2026-08-16T10:17:19Z"
       },
       {
-        "title": "Warren Buffett's Successor, Greg Abel, Put Nearly $35 Billion of Cash to Work Last Quarter. Here's What He Bought.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-successor-greg-abel-102200832.html",
-        "published": "2026-08-16T10:22:00Z"
+        "title": "Bitcoin Miner Riot Platforms Just Signed a $9 Billion Compute Deal With Anthropic. Why AI Is Now the Key to Valuing Bitcoin Mining Stocks.",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-miner-riot-platforms-just-105000448.html",
+        "published": "2026-08-16T10:50:00Z"
+      },
+      {
+        "title": "Robert Kiyosaki reveals 'the biggest liability' that puts you at Wall Street's mercy. Is your nest egg about to crack?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/robert-kiyosaki-reveals-biggest-liability-111500295.html",
+        "published": "2026-08-16T11:15:00Z"
       },
       {
         "title": "Jim Cramer Advises Ditching Stellantis (STLA) for General Motors (GM)",
         "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-advises-ditching-stellantis-100432863.html",
         "published": "2026-08-16T10:04:32Z"
-      },
-      {
-        "title": "NiSource (NI): A Costly Quarter Masks A Bigger Bet",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/nisource-ni-costly-quarter-masks-100126971.html",
-        "published": "2026-08-16T10:01:26Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "Why it pays to stay invested: No amount of bad news could stop the stock market’s strongest run in more than 25 years",
+        "link": "https://www.marketwatch.com/story/why-it-pays-to-stay-invested-no-amount-of-bad-news-could-stop-the-stock-markets-strongest-run-in-more-than-25-years-54ba3f8a?mod=mw_rss_topstories",
+        "published": "Mon, 17 Aug 2026 19:48:00 GMT"
+      },
       {
         "title": "‘I’m running out of time’: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?",
         "link": "https://www.marketwatch.com/story/im-running-out-of-time-i-sold-my-300-000-rental-property-at-a-75-000-loss-should-i-buy-another-one-to-avoid-taxes-f214c172?mod=mw_rss_topstories",
@@ -646,11 +651,6 @@
         "title": "Investor dubbed the ‘AI stock god’ had 56% of his hedge fund invested in these two stocks before the July blow-up",
         "link": "https://www.marketwatch.com/story/investor-dubbed-ai-stock-god-had-56-of-his-funds-in-these-two-stocks-before-it-blew-up-07472f46?mod=mw_rss_topstories",
         "published": "Mon, 17 Aug 2026 16:31:00 GMT"
-      },
-      {
-        "title": "Owning a home is overrated. Renting is now often a much better money move.",
-        "link": "https://www.marketwatch.com/story/owning-a-home-is-overrated-renting-is-now-often-a-much-better-money-move-711288a6?mod=mw_rss_topstories",
-        "published": "Mon, 17 Aug 2026 16:17:00 GMT"
       }
     ],
     "CNBC Top News": [
@@ -658,6 +658,11 @@
         "title": "30-year Treasury yield tops 5.31%, the highest in 19 years",
         "link": "https://www.cnbc.com/2026/08/17/treasury-yields-federal-reserve-fomc-minutes.html",
         "published": "Mon, 17 Aug 2026 19:01:55 GMT"
+      },
+      {
+        "title": "Trump won't extend Iran ceasefire, threatens to 'bomb' Oman if it 'gets in the way'",
+        "link": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
+        "published": "Mon, 17 Aug 2026 19:24:32 GMT"
       },
       {
         "title": "Meta faces ‘astronomical’ consequences as legal fight reaches critical moment in California",
@@ -675,6 +680,11 @@
         "published": "Mon, 17 Aug 2026 18:58:54 GMT"
       },
       {
+        "title": "This small-cap ETF just hit a fresh high and its members have lots of cash. Wall Street likes these stocks",
+        "link": "https://www.cnbc.com/2026/08/17/this-small-cap-etf-just-hit-a-fresh-high-and-its-members-have-lots-of-cash.html",
+        "published": "Mon, 17 Aug 2026 19:44:35 GMT"
+      },
+      {
         "title": "Disney's new parks boss outlines investment strategy, with superfans at the fore",
         "link": "https://www.cnbc.com/2026/08/17/disney-parks-strategy-superfans-mazloum.html",
         "published": "Mon, 17 Aug 2026 18:50:36 GMT"
@@ -683,16 +693,6 @@
         "title": "Nvidia backing $105 billion in financing for OpenAI data center in Ohio",
         "link": "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html",
         "published": "Mon, 17 Aug 2026 15:26:52 GMT"
-      },
-      {
-        "title": "Two memory stocks are reasserting themselves as leaders by clearing key levels, says Katie Stockton",
-        "link": "https://www.cnbc.com/2026/08/17/two-memory-stocks-are-clearing-key-levels-says-katie-stockton.html",
-        "published": "Mon, 17 Aug 2026 18:00:01 GMT"
-      },
-      {
-        "title": "Brent oil rises above $90 as Iran rules out interim deal extension, threatens to escalate conflict",
-        "link": "https://www.cnbc.com/2026/08/17/oil-prices-iran-war-strait-hormuz.html",
-        "published": "Mon, 17 Aug 2026 19:21:02 GMT"
       }
     ]
   }
