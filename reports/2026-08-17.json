@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-08-17T14:43:04",
+  "generated_at": "2026-08-17T15:03:13",
   "date": "2026-08-17",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7772.05,
-        "pct_change": -0.18
+        "last": 7774.2,
+        "pct_change": -0.15
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26730.5,
-        "pct_change": 0.01
+        "last": 26755.46,
+        "pct_change": 0.1
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 53509.66,
+        "last": 53510.75,
         "pct_change": -0.41
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3058.31,
+        "last": 3058.3,
         "pct_change": -0.33
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 14.99,
-        "pct_change": 5.19
+        "last": 14.97,
+        "pct_change": 5.05
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
@@ -35,75 +35,75 @@
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.45,
-        "pct_change": -0.22
+        "last": 99.47,
+        "pct_change": -0.2
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 82.46,
-        "pct_change": 0.07
+        "last": 82.23,
+        "pct_change": -0.21
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4481.0,
-        "pct_change": 2.3
+        "last": 4476.4,
+        "pct_change": 2.19
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 191.04,
-        "pct_change": 0.54
+        "last": 191.45,
+        "pct_change": 0.76
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 57.96,
-        "pct_change": -0.34
+        "last": 57.94,
+        "pct_change": -0.38
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 62.3,
-        "pct_change": 0.63
+        "last": 62.08,
+        "pct_change": 0.27
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 167.58,
-        "pct_change": 0.13
+        "last": 167.38,
+        "pct_change": 0.0
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 117.2,
-        "pct_change": -0.85
+        "last": 117.33,
+        "pct_change": -0.74
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 85.21,
-        "pct_change": -1.02
+        "last": 85.02,
+        "pct_change": -1.24
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 186.65,
-        "pct_change": 0.07
+        "last": 186.77,
+        "pct_change": 0.14
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 43.97,
-        "pct_change": -0.78
+        "last": 43.99,
+        "pct_change": -0.72
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 52.26,
-        "pct_change": -0.54
+        "last": 52.28,
+        "pct_change": -0.5
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.83,
-        "pct_change": -0.98
+        "last": 44.82,
+        "pct_change": -0.99
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 111.68,
-        "pct_change": -1.13
+        "last": 111.41,
+        "pct_change": -1.36
       }
     }
   },
@@ -111,8 +111,8 @@
     "indices": {
       "Nikkei 225": {
         "symbol": "^N225",
-        "last": 69220.25,
-        "pct_change": 0.74
+        "last": 68713.8,
+        "pct_change": 0.59
       },
       "TOPIX (ETF代理)": {
         "symbol": "1306.T",
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 159.22,
-        "pct_change": -0.13
+        "last": 159.31,
+        "pct_change": -0.07
       }
     }
   },
@@ -144,57 +144,57 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 172.85,
-        "pct_change": 4.13
+        "last": 175.24,
+        "pct_change": 5.58
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 304.7,
-        "pct_change": -0.4
+        "last": 304.13,
+        "pct_change": -0.59
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 483.55,
-        "pct_change": -2.39
+        "last": 483.06,
+        "pct_change": -2.49
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 260.56,
-        "pct_change": -0.8
+        "last": 260.91,
+        "pct_change": -0.66
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 343.1,
-        "pct_change": -0.81
+        "last": 342.98,
+        "pct_change": -0.84
       },
       "Meta": {
         "symbol": "META",
-        "last": 575.4,
-        "pct_change": -2.45
+        "last": 572.91,
+        "pct_change": -2.87
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 973.05,
-        "pct_change": 5.06
+        "last": 988.42,
+        "pct_change": 6.72
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 350.46,
-        "pct_change": 7.56
+        "last": 354.91,
+        "pct_change": 8.92
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 169.43,
-        "pct_change": 1.39
+        "last": 170.76,
+        "pct_change": 2.18
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 5996.0,
-        "pct_change": 0.59
+        "last": 5961.0,
+        "pct_change": -0.12
       }
     }
   },
@@ -576,42 +576,62 @@
         "published": "2026-08-17T04:39:46Z"
       },
       {
-        "title": "NVIDIA Corporation (NVDA) & KKR & Co (KKR): Wall Street Just Endorsed Jensen Huang’s “Big Concept.” What Happens Next?",
-        "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-corporation-nvda-kkr-co-142307968.html",
-        "published": "2026-08-17T14:23:07Z"
+        "title": "Veralto’s (VLTO) Dual-Segment Advantage Fuels Long-Term Value",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/veralto-vlto-dual-segment-advantage-144304156.html",
+        "published": "2026-08-17T14:43:04Z"
       },
       {
-        "title": "Billionaire Stanley Druckenmiller Tripled His Stake in United Airlines (UAL). Should You Buy?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-stanley-druckenmiller-tripled-stake-141505376.html",
-        "published": "2026-08-17T14:15:05Z"
+        "title": "Hawaiian Electric’s (HE) Second Quarter Numbers Mask A Harder Truth",
+        "link": "https://finance.yahoo.com/energy/articles/hawaiian-electric-second-quarter-numbers-144032558.html",
+        "published": "2026-08-17T14:40:32Z"
       },
       {
-        "title": "Tronox Holdings Plc (TROX) Pressured by Softer Guidance and Leverage Risks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/tronox-holdings-plc-trox-pressured-141158294.html",
-        "published": "2026-08-17T14:11:58Z"
+        "title": "Nvidia Strikes Deal With OpenAI As Tenant; Is Nvidia A Buy Now?",
+        "link": "https://www.investors.com/research/nvidia-nvda-stock-august-2026-earnings/?src=A00220&yptr=yahoo",
+        "published": "2026-08-17T14:38:24Z"
       },
       {
-        "title": "Israel’s Largest Crypto Broker Reports Data Breach",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/israel-largest-crypto-broker-reports-141000691.html",
-        "published": "2026-08-17T14:10:00Z"
+        "title": "Eli Lilly and Company (LLY)’s Weight-Loss Pill Just Won Its First Race in Europe. Novo Nordisk A/S (NVO) Still Has a Head Start",
+        "link": "https://finance.yahoo.com/healthcare/articles/eli-lilly-company-lly-weight-143436219.html",
+        "published": "2026-08-17T14:34:36Z"
       },
       {
-        "title": "Aviva’s H1 profit falls by 49%",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/aviva-h1-profit-falls-49-142629507.html",
-        "published": "2026-08-17T14:26:29Z"
+        "title": "PwC predicts tax revamp will lure multinationals to Hong Kong – report",
+        "link": "https://finance.yahoo.com/economy/policy/articles/pwc-predicts-tax-revamp-lure-144558473.html",
+        "published": "2026-08-17T14:45:58Z"
       },
       {
-        "title": "Flowserve Corporation (FLS) Trims Full-Year Growth Outlook as Organic Sales Decline ~1%",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/flowserve-corporation-fls-trims-full-140829474.html",
-        "published": "2026-08-17T14:08:29Z"
+        "title": "He was laid off after 25 years as an Adobe engineer, applied for a year, then gave up on tech to drive a school bus",
+        "link": "https://finance.yahoo.com/technology/articles/laid-off-25-years-adobe-143000952.html",
+        "published": "2026-08-17T14:30:00Z"
       },
       {
-        "title": "Mueller Water Products (MWA) Slid on Broader Investor Concerns",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/mueller-water-products-mwa-slid-140314546.html",
-        "published": "2026-08-17T14:03:14Z"
+        "title": "Stock Market Today: Dow Falls, Oil Rises After Trump Oman Threat; Micron, Sandisk Extend Gains (Live Coverage)",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-micron-stock-sandisk-stock-sndk/?src=A00220&yptr=yahoo",
+        "published": "2026-08-17T14:26:23Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "The size of the American workforce has fallen by over 1 million people in the past year. Here’s what’s going on.",
+        "link": "https://www.marketwatch.com/story/the-size-of-the-american-workforce-has-fallen-by-over-1-million-people-in-the-past-year-heres-whats-going-on-b8141aa3?mod=mw_rss_topstories",
+        "published": "Mon, 17 Aug 2026 14:59:00 GMT"
+      },
+      {
+        "title": "Most investors are making the same costly mistake — and it has nothing to do with picking the wrong stocks",
+        "link": "https://www.marketwatch.com/story/most-investors-are-making-the-same-costly-mistake-and-it-has-nothing-to-do-with-picking-the-wrong-stocks-4af9d328?mod=mw_rss_topstories",
+        "published": "Mon, 17 Aug 2026 14:57:00 GMT"
+      },
+      {
+        "title": "5 expensive surprises new homeowners face — and how to avoid them",
+        "link": "https://www.marketwatch.com/story/5-expensive-surprises-new-homeowners-face-and-how-to-avoid-them-5bf2a8b0?mod=mw_rss_topstories",
+        "published": "Mon, 17 Aug 2026 14:52:00 GMT"
+      },
+      {
+        "title": "Prediction markets see a divided government after midterm elections. Here’s how you should trade, Citi says.",
+        "link": "https://www.marketwatch.com/story/prediction-markets-see-a-divided-government-after-midterm-elections-heres-how-you-should-trade-citi-says-26d429ca?mod=mw_rss_topstories",
+        "published": "Mon, 17 Aug 2026 14:51:00 GMT"
+      },
       {
         "title": "Stanley Druckenmiller ditched these chip plays before the selloff. Here’s how he’s playing the tech sector now.",
         "link": "https://www.marketwatch.com/story/stanley-druckenmiller-ditched-these-chip-plays-before-the-selloff-heres-how-hes-playing-the-tech-sector-now-9115c06f?mod=mw_rss_topstories",
@@ -631,26 +651,6 @@
         "title": "The stock market is driving the economy in one major way",
         "link": "https://www.marketwatch.com/story/the-stock-market-is-driving-the-economy-in-one-major-way-9ea09725?mod=mw_rss_topstories",
         "published": "Mon, 17 Aug 2026 13:35:00 GMT"
-      },
-      {
-        "title": "The AI productivity payoff is coming. Here are 20 stocks primed to capture the gains as adoption spreads.",
-        "link": "https://www.marketwatch.com/story/the-ai-productivity-payoff-is-coming-here-are-20-stocks-primed-to-capture-the-gains-as-adoption-spreads-443842ac?mod=mw_rss_topstories",
-        "published": "Mon, 17 Aug 2026 13:30:00 GMT"
-      },
-      {
-        "title": "Getting diagnosed with dementia isn’t the end. It’s a time to take financial action.",
-        "link": "https://www.marketwatch.com/story/getting-diagnosed-with-dementia-isnt-the-end-its-a-time-to-take-financial-action-f52769b6?mod=mw_rss_topstories",
-        "published": "Mon, 17 Aug 2026 13:30:00 GMT"
-      },
-      {
-        "title": "The Mediterranean diet is the best one out there. Here’s why Americans struggle with it.",
-        "link": "https://www.marketwatch.com/story/the-mediterranean-diet-is-the-best-out-there-heres-why-americans-struggle-with-it-081f3fe7?mod=mw_rss_topstories",
-        "published": "Mon, 17 Aug 2026 12:54:00 GMT"
-      },
-      {
-        "title": "‘It’s a double-edged sword’: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
-        "link": "https://www.marketwatch.com/story/its-a-double-edged-sword-my-husband-got-a-42-000-bonus-will-it-wipe-out-our-affordable-care-act-subsidy-32db285e?mod=mw_rss_topstories",
-        "published": "Mon, 17 Aug 2026 12:16:00 GMT"
       }
     ],
     "CNBC Top News": [
@@ -660,11 +660,6 @@
         "published": "Mon, 17 Aug 2026 14:09:49 GMT"
       },
       {
-        "title": "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive",
-        "link": "https://www.cnbc.com/2026/08/17/openai-brockman-leadership-changes.html",
-        "published": "Mon, 17 Aug 2026 13:33:04 GMT"
-      },
-      {
         "title": "Nvidia backs financing for OpenAI data center in Ohio",
         "link": "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html",
         "published": "Mon, 17 Aug 2026 14:30:32 GMT"
@@ -672,12 +667,17 @@
       {
         "title": "Trump threatens to 'bomb' Oman if it 'gets in the way' as U.S.-Iran ceasefire expires",
         "link": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
-        "published": "Mon, 17 Aug 2026 14:07:16 GMT"
+        "published": "Mon, 17 Aug 2026 14:49:26 GMT"
+      },
+      {
+        "title": "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive",
+        "link": "https://www.cnbc.com/2026/08/17/openai-brockman-leadership-changes.html",
+        "published": "Mon, 17 Aug 2026 14:56:10 GMT"
       },
       {
         "title": "Supreme Court again rejects Trump bid to overturn E. Jean Carroll verdict",
         "link": "https://www.cnbc.com/2026/08/17/trump-supreme-court-e-jean-carroll.html",
-        "published": "Mon, 17 Aug 2026 14:12:08 GMT"
+        "published": "Mon, 17 Aug 2026 14:51:24 GMT"
       },
       {
         "title": "The two 'HALO' stocks that haven't left Josh Brown's list since being added earlier this year",
@@ -692,7 +692,7 @@
       {
         "title": "Oil prices rise as Iran rules out interim deal extension, threatens to escalate conflict",
         "link": "https://www.cnbc.com/2026/08/17/oil-prices-iran-war-strait-hormuz.html",
-        "published": "Mon, 17 Aug 2026 13:17:15 GMT"
+        "published": "Mon, 17 Aug 2026 14:56:42 GMT"
       }
     ]
   }
