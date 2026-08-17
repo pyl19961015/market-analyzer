@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-08-17T18:04:22",
+  "generated_at": "2026-08-17T18:56:40",
   "date": "2026-08-17",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7754.54,
-        "pct_change": -0.4
+        "last": 7756.22,
+        "pct_change": -0.38
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26640.71,
-        "pct_change": -0.33
+        "last": 26663.11,
+        "pct_change": -0.25
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 53448.76,
-        "pct_change": -0.53
+        "last": 53484.54,
+        "pct_change": -0.46
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3054.18,
-        "pct_change": -0.46
+        "last": 3055.0,
+        "pct_change": -0.44
       },
       "VIX": {
         "symbol": "^VIX",
@@ -31,79 +31,79 @@
       "10Y Treasury Yield": {
         "symbol": "^TNX",
         "last": 4.72,
-        "pct_change": 0.51
+        "pct_change": 0.55
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.57,
-        "pct_change": -0.1
+        "last": 99.64,
+        "pct_change": -0.03
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 84.47,
-        "pct_change": 2.51
+        "last": 84.25,
+        "pct_change": 2.25
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4476.4,
-        "pct_change": 2.19
+        "last": 4458.5,
+        "pct_change": 1.78
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 190.54,
-        "pct_change": 0.28
+        "last": 190.79,
+        "pct_change": 0.41
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 57.83,
-        "pct_change": -0.56
+        "last": 57.75,
+        "pct_change": -0.7
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 62.57,
-        "pct_change": 1.07
+        "last": 62.65,
+        "pct_change": 1.19
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 167.32,
-        "pct_change": -0.03
+        "last": 167.01,
+        "pct_change": -0.21
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 116.62,
-        "pct_change": -1.33
+        "last": 116.71,
+        "pct_change": -1.26
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 84.79,
-        "pct_change": -1.5
+        "last": 84.67,
+        "pct_change": -1.65
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 187.11,
-        "pct_change": 0.32
+        "last": 186.87,
+        "pct_change": 0.19
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 44.19,
-        "pct_change": -0.27
+        "last": 44.15,
+        "pct_change": -0.35
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 52.24,
-        "pct_change": -0.57
+        "last": 52.26,
+        "pct_change": -0.54
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.9,
-        "pct_change": -0.81
+        "last": 44.81,
+        "pct_change": -1.03
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 110.74,
-        "pct_change": -1.96
+        "last": 110.82,
+        "pct_change": -1.89
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 159.5,
-        "pct_change": 0.05
+        "last": 159.58,
+        "pct_change": 0.1
       }
     }
   },
@@ -144,52 +144,52 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 175.59,
-        "pct_change": 5.78
+        "last": 175.69,
+        "pct_change": 5.85
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 304.09,
-        "pct_change": -0.6
+        "last": 305.56,
+        "pct_change": -0.12
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 479.56,
-        "pct_change": -3.2
+        "last": 479.85,
+        "pct_change": -3.14
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 258.96,
-        "pct_change": -1.4
+        "last": 259.64,
+        "pct_change": -1.14
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 343.11,
-        "pct_change": -0.81
+        "last": 344.02,
+        "pct_change": -0.54
       },
       "Meta": {
         "symbol": "META",
-        "last": 565.76,
-        "pct_change": -4.08
+        "last": 567.23,
+        "pct_change": -3.84
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 986.3,
-        "pct_change": 6.5
+        "last": 981.16,
+        "pct_change": 5.94
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 358.68,
-        "pct_change": 10.08
+        "last": 356.59,
+        "pct_change": 9.44
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 171.42,
-        "pct_change": 2.58
+        "last": 171.25,
+        "pct_change": 2.48
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -576,42 +576,47 @@
         "published": "2026-08-16T21:47:00Z"
       },
       {
-        "title": "APR vs. interest rate: What you need to know when mortgage shopping",
-        "link": "https://finance.yahoo.com/personal-finance/mortgages/article/apr-vs-interest-rate-175223561.html",
-        "published": "2024-01-31T17:52:23Z"
+        "title": "NiSource (NI): A Costly Quarter Masks A Bigger Bet",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/nisource-ni-costly-quarter-masks-100126971.html",
+        "published": "2026-08-16T10:01:26Z"
       },
       {
-        "title": "Stock Market Today: Dow Falls, Oil Up After Trump Oman Threat; Energy Stock Clears Entry (Live Coverage)",
-        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-micron-stock-sandisk-stock-sndk/?src=A00220&yptr=yahoo",
-        "published": "2026-08-17T17:32:39Z"
+        "title": "Jim Cramer Advises Ditching Stellantis (STLA) for General Motors (GM)",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-advises-ditching-stellantis-100432863.html",
+        "published": "2026-08-16T10:04:32Z"
       },
       {
-        "title": "SpaceX Stock: Here's A Way To Profit From This Volatile IPO",
-        "link": "https://www.investors.com/research/options/spacex-spcx-stock-space-exploration-technologies-bear-put-spread-options/?src=A00220&yptr=yahoo",
-        "published": "2026-08-17T17:30:42Z"
+        "title": "Jim Cramer Discusses Restaurant Brands (QSR) Q2 Earnings and Burger King’s Resurgence",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-restaurant-brands-093800181.html",
+        "published": "2026-08-16T09:38:00Z"
       },
       {
-        "title": "Airbnb 'rental arbitrage' lets entrepreneurs earn cash from short-term rentals without owning a single property",
-        "link": "https://finance.yahoo.com/real-estate/articles/airbnb-rental-arbitrage-lets-entrepreneurs-173000455.html",
-        "published": "2026-08-17T17:30:00Z"
+        "title": "What’s Really Behind Symbotic’s (SYM) Big Quarter?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/really-behind-symbotic-sym-big-093702283.html",
+        "published": "2026-08-16T09:37:02Z"
       },
       {
-        "title": "JPMorgan warns a brutal grocery shock could hit boomers, as USDA says prices may jump 12.3%. Is your nest egg ready?",
-        "link": "https://finance.yahoo.com/economy/articles/jpmorgan-warns-brutal-grocery-shock-173000391.html",
-        "published": "2026-08-17T17:30:00Z"
+        "title": "Here's How Much Money You'd Have Today If You Invested $1,000 in the S&P 500 During Every Stock Market Crash Since 1950 (Spoiler Alert: Wow!)",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/heres-much-money-youd-today-095000564.html",
+        "published": "2026-08-16T09:50:00Z"
       },
       {
-        "title": "The world’s third-largest shipping line has a new US chief",
-        "link": "https://finance.yahoo.com/markets/articles/world-third-largest-shipping-line-172117072.html",
-        "published": "2026-08-17T17:21:17Z"
+        "title": "The Social Security bump for 3 million Americans you completely forgot about — do you still qualify?",
+        "link": "https://finance.yahoo.com/economy/policy/articles/social-security-bump-3-million-093000754.html",
+        "published": "2026-08-16T09:30:00Z"
       },
       {
-        "title": "Apple Could Hit $400, But AI Is Coming for Its Most Profitable Business",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/apple-could-hit-400-ai-172109457.html",
-        "published": "2026-08-17T17:21:09Z"
+        "title": "Jim Cramer Explains Why Starboard Value’s Stake in Shake Shack (SHAK) Is a Game-Changer",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-why-starboard-092750956.html",
+        "published": "2026-08-16T09:27:50Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "Getting diagnosed with dementia isn’t the end. It’s a time to take financial action.",
+        "link": "https://www.marketwatch.com/story/getting-diagnosed-with-dementia-isnt-the-end-its-a-time-to-take-financial-action-f52769b6?mod=mw_rss_topstories",
+        "published": "Mon, 17 Aug 2026 18:52:00 GMT"
+      },
       {
         "title": "Here’s how Amazon’s stock could nearly double by the end of next year, according to Morgan Stanley",
         "link": "https://www.marketwatch.com/story/heres-how-amazons-stock-could-nearly-double-by-the-end-of-next-year-according-to-morgan-stanley-91b97520?mod=mw_rss_topstories",
@@ -646,11 +651,6 @@
         "title": "Micron, Sandisk and other chip stocks climb as investors get more confident about AI spending",
         "link": "https://www.marketwatch.com/story/micron-sandisk-and-other-chip-stocks-climb-as-investors-are-more-confident-about-ai-spending-128374fa?mod=mw_rss_topstories",
         "published": "Mon, 17 Aug 2026 15:22:00 GMT"
-      },
-      {
-        "title": "‘I’m running out of time’: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?",
-        "link": "https://www.marketwatch.com/story/im-running-out-of-time-i-sold-my-300-000-rental-property-at-a-75-000-loss-should-i-buy-another-one-to-avoid-taxes-f214c172?mod=mw_rss_topstories",
-        "published": "Mon, 17 Aug 2026 15:15:00 GMT"
       }
     ],
     "CNBC Top News": [
@@ -660,9 +660,19 @@
         "published": "Mon, 17 Aug 2026 16:06:28 GMT"
       },
       {
+        "title": "30-year Treasury yield tops 5.31%, the highest in 19 years",
+        "link": "https://www.cnbc.com/2026/08/17/treasury-yields-federal-reserve-fomc-minutes.html",
+        "published": "Mon, 17 Aug 2026 18:53:22 GMT"
+      },
+      {
         "title": "Stanley Druckenmiller loaded up on Amazon and chip stocks before July rout",
         "link": "https://www.cnbc.com/2026/08/17/druckenmiller-loaded-up-on-amazon-and-chip-stocks-before-july-rout.html",
         "published": "Mon, 17 Aug 2026 17:44:56 GMT"
+      },
+      {
+        "title": "Paramount seeks $1.88 billion bond from state AGs to cover costs of WBD merger delay",
+        "link": "https://www.cnbc.com/2026/08/17/paramount-bond-merger-delay-costs.html",
+        "published": "Mon, 17 Aug 2026 18:36:08 GMT"
       },
       {
         "title": "Trump threatens to 'bomb' Oman if it 'gets in the way' as U.S.-Iran ceasefire expires",
@@ -670,19 +680,9 @@
         "published": "Mon, 17 Aug 2026 14:49:26 GMT"
       },
       {
-        "title": "Stocks making the biggest moves midday: EyePoint, Intuitive Machines, Workday, JetBlue & more",
-        "link": "https://www.cnbc.com/2026/08/17/stocks-making-big-moves-midday-eypt-lunr-wday-jblu.html",
-        "published": "Mon, 17 Aug 2026 17:14:44 GMT"
-      },
-      {
-        "title": "Nvidia backing $105 billion in financing for OpenAI data center in Ohio",
-        "link": "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html",
-        "published": "Mon, 17 Aug 2026 15:26:52 GMT"
-      },
-      {
-        "title": "Supreme Court again rejects Trump bid to overturn E. Jean Carroll verdict",
-        "link": "https://www.cnbc.com/2026/08/17/trump-supreme-court-e-jean-carroll.html",
-        "published": "Mon, 17 Aug 2026 16:01:46 GMT"
+        "title": "Disney's new parks boss outlines investment strategy, with superfans at the fore",
+        "link": "https://www.cnbc.com/2026/08/17/disney-parks-strategy-superfans-mazloum.html",
+        "published": "Mon, 17 Aug 2026 18:50:36 GMT"
       },
       {
         "title": "Retail earnings and oil: What NYSE insider Jay Woods is watching this week",
@@ -690,9 +690,9 @@
         "published": "Mon, 17 Aug 2026 16:59:55 GMT"
       },
       {
-        "title": "Refiner stocks are on a nearly unprecedented run. History says it could end soon",
-        "link": "https://www.cnbc.com/2026/08/17/refiner-stocks-are-on-a-nearly-unprecedented-run-history-says-it-could-end-soon.html",
-        "published": "Mon, 17 Aug 2026 17:12:44 GMT"
+        "title": "Nvidia backing $105 billion in financing for OpenAI data center in Ohio",
+        "link": "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html",
+        "published": "Mon, 17 Aug 2026 15:26:52 GMT"
       }
     ]
   }
