@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-08-17T13:25:35",
+  "generated_at": "2026-08-17T14:00:36",
   "date": "2026-08-17",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7785.76,
-        "pct_change": -0.17
+        "last": 7773.55,
+        "pct_change": -0.16
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26729.16,
-        "pct_change": -0.28
+        "last": 26743.59,
+        "pct_change": 0.05
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 53732.41,
-        "pct_change": -0.2
+        "last": 53545.8,
+        "pct_change": -0.35
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3068.42,
-        "pct_change": 0.51
+        "last": 3054.63,
+        "pct_change": -0.45
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.04,
-        "pct_change": 5.54
+        "last": 14.98,
+        "pct_change": 5.12
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
         "last": 4.71,
-        "pct_change": 0.3
+        "pct_change": 0.26
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.44,
-        "pct_change": -0.23
+        "last": 99.46,
+        "pct_change": -0.21
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 82.64,
-        "pct_change": 0.29
+        "last": 82.68,
+        "pct_change": 0.34
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4440.9,
-        "pct_change": 1.38
+        "last": 4450.9,
+        "pct_change": 1.61
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 190.01,
-        "pct_change": -0.4
+        "last": 190.93,
+        "pct_change": 0.48
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 58.16,
-        "pct_change": -0.17
+        "last": 58.12,
+        "pct_change": -0.07
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 61.91,
-        "pct_change": 1.39
+        "last": 62.17,
+        "pct_change": 0.41
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 167.37,
-        "pct_change": -0.6
+        "last": 166.94,
+        "pct_change": -0.26
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 118.2,
-        "pct_change": -0.21
+        "last": 117.11,
+        "pct_change": -0.92
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 86.09,
-        "pct_change": 0.1
+        "last": 85.21,
+        "pct_change": -1.02
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 186.51,
-        "pct_change": 0.39
+        "last": 186.74,
+        "pct_change": 0.13
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 44.31,
-        "pct_change": 0.61
+        "last": 44.03,
+        "pct_change": -0.62
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 52.54,
-        "pct_change": 0.44
+        "last": 52.15,
+        "pct_change": -0.75
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 45.27,
-        "pct_change": 0.33
+        "last": 44.83,
+        "pct_change": -0.97
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 112.95,
-        "pct_change": 0.36
+        "last": 111.96,
+        "pct_change": -0.88
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 159.25,
-        "pct_change": -0.11
+        "last": 159.27,
+        "pct_change": -0.1
       }
     }
   },
@@ -144,52 +144,52 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 165.99,
-        "pct_change": 4.7
+        "last": 169.0,
+        "pct_change": 1.81
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 305.93,
-        "pct_change": 0.22
+        "last": 305.5,
+        "pct_change": -0.14
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 495.4,
-        "pct_change": -0.3
+        "last": 484.56,
+        "pct_change": -2.19
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 262.65,
-        "pct_change": -0.94
+        "last": 261.35,
+        "pct_change": -0.49
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 345.9,
-        "pct_change": -0.13
+        "last": 344.08,
+        "pct_change": -0.52
       },
       "Meta": {
         "symbol": "META",
-        "last": 589.85,
-        "pct_change": -0.86
+        "last": 579.49,
+        "pct_change": -1.76
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 926.14,
-        "pct_change": 5.19
+        "last": 953.16,
+        "pct_change": 2.92
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 325.83,
-        "pct_change": -0.43
+        "last": 342.6,
+        "pct_change": 5.15
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 167.11,
-        "pct_change": 0.82
+        "last": 168.66,
+        "pct_change": 0.93
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -576,24 +576,24 @@
         "published": "2026-08-16T02:03:00Z"
       },
       {
-        "title": "‘Never bet against America’: Scott Bessent endorses Warren Buffett’s forgotten rule for getting rich — use it now",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/never-bet-against-america-scott-130000391.html",
-        "published": "2026-08-17T13:00:00Z"
+        "title": "Target stock is on fire — but a big test lurks",
+        "link": "https://finance.yahoo.com/markets/stocks/article/target-stock-is-on-fire--but-a-big-test-lurks-134816381.html",
+        "published": "2026-08-17T13:48:16Z"
       },
       {
-        "title": "Goldman Sachs warns of consumer spending slowdown as tax refund boost fades",
-        "link": "https://finance.yahoo.com/economy/article/goldman-sachs-warns-of-consumer-spending-slowdown-as-tax-refund-boost-fades-125557282.html",
-        "published": "2026-08-17T12:55:57Z"
+        "title": "Gold prices today, Monday, August 17, 2026: Gold ticks up after lower retail sales report",
+        "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-august-17-2026-gold-ticks-up-after-lower-retail-sales-report-134755206.html",
+        "published": "2026-08-17T13:47:55Z"
       },
       {
-        "title": "Nvidia, Alphabet, Peter Thiel: SpaceX Top Shareholders Revealed",
-        "link": "https://www.investors.com/news/spacex-stock-elon-musk-nvidia-alphabet-google-peter-thiel/?src=A00220&yptr=yahoo",
-        "published": "2026-08-17T12:47:16Z"
+        "title": "Tesla (TSLA) Advances After Beating Key Metrics in Q1",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-advances-beating-key-133812996.html",
+        "published": "2026-08-17T13:38:12Z"
       },
       {
-        "title": "Stock Market Today: Dow Falls, Nasdaq Rises As Memory Chip Stocks Micron, Sandisk Extend Gains (Live Coverage)",
-        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-micron-stock-sandisk-stock-sndk/?src=A00220&yptr=yahoo",
-        "published": "2026-08-17T12:46:14Z"
+        "title": "ChatGPT and Billionaire Bill Ackman Agree on Visa (V)",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/chatgpt-billionaire-bill-ackman-agree-133636224.html",
+        "published": "2026-08-17T13:36:36Z"
       },
       {
         "title": "Historic retailer gets lifeline after warning it could collapse",
@@ -601,26 +601,41 @@
         "published": "2026-08-17T04:39:46Z"
       },
       {
-        "title": "Why the 'immaculate' stock market might not stay that way long",
-        "link": "https://finance.yahoo.com/markets/article/why-the-immaculate-stock-market-might-not-stay-that-way-long-121205340.html",
-        "published": "2026-08-17T12:12:05Z"
+        "title": "Stock market today: Dow, S&P 500, Nasdaq trade mixed ahead of retail earnings",
+        "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-17-dow-sp-500-nasdaq-094421171.html",
+        "published": "2026-08-17T09:44:21Z"
       },
       {
-        "title": "Stocks With This Number Of Letters In Their Symbols Do Best",
-        "link": "https://www.investors.com/etfs-and-funds/sectors/sp500-stocks-with-this-number-of-letters-in-their-symbols-do-best/?src=A00220&yptr=yahoo",
-        "published": "2026-08-17T12:00:29Z"
+        "title": "Bitpanda Hit With Fine In Europe’s First MiCA Enforcement Case",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/bitpanda-hit-fine-europe-first-133500614.html",
+        "published": "2026-08-17T13:35:00Z"
       }
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "The Mediterranean diet is the best one out there. Here’s why Americans struggle with it.",
-        "link": "https://www.marketwatch.com/story/the-mediterranean-diet-is-the-best-out-there-heres-why-americans-struggle-with-it-081f3fe7?mod=mw_rss_topstories",
-        "published": "Mon, 17 Aug 2026 12:54:00 GMT"
+        "title": "My friend’s mother died. Can she stop Medicaid from taking the family home?",
+        "link": "https://www.marketwatch.com/story/shes-desperate-my-friends-mother-died-can-she-stop-medicaid-from-taking-the-family-home-394fb6e9?mod=mw_rss_topstories",
+        "published": "Mon, 17 Aug 2026 13:45:00 GMT"
+      },
+      {
+        "title": "The stock market is driving the economy in one major way",
+        "link": "https://www.marketwatch.com/story/the-stock-market-is-driving-the-economy-in-one-major-way-9ea09725?mod=mw_rss_topstories",
+        "published": "Mon, 17 Aug 2026 13:35:00 GMT"
       },
       {
         "title": "The AI productivity payoff is coming. Here are 20 stocks primed to capture the gains as adoption spreads.",
         "link": "https://www.marketwatch.com/story/the-ai-productivity-payoff-is-coming-here-are-20-stocks-primed-to-capture-the-gains-as-adoption-spreads-443842ac?mod=mw_rss_topstories",
-        "published": "Mon, 17 Aug 2026 12:37:00 GMT"
+        "published": "Mon, 17 Aug 2026 13:30:00 GMT"
+      },
+      {
+        "title": "Getting diagnosed with dementia isn’t the end. It’s a time to take financial action.",
+        "link": "https://www.marketwatch.com/story/getting-diagnosed-with-dementia-isnt-the-end-its-a-time-to-take-financial-action-f52769b6?mod=mw_rss_topstories",
+        "published": "Mon, 17 Aug 2026 13:30:00 GMT"
+      },
+      {
+        "title": "The Mediterranean diet is the best one out there. Here’s why Americans struggle with it.",
+        "link": "https://www.marketwatch.com/story/the-mediterranean-diet-is-the-best-out-there-heres-why-americans-struggle-with-it-081f3fe7?mod=mw_rss_topstories",
+        "published": "Mon, 17 Aug 2026 12:54:00 GMT"
       },
       {
         "title": "‘It’s a double-edged sword’: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
@@ -636,33 +651,18 @@
         "title": "Why Goldman Sachs thinks the Fed won’t be hiking interest rates in September",
         "link": "https://www.marketwatch.com/story/why-goldman-sachs-thinks-the-fed-wont-be-hiking-interest-rates-in-september-718275e7?mod=mw_rss_topstories",
         "published": "Mon, 17 Aug 2026 11:33:00 GMT"
-      },
-      {
-        "title": "I’m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
-        "link": "https://www.marketwatch.com/story/im-63-and-a-retired-cpa-i-have-a-1-2-million-401-k-do-i-need-a-roth-conversion-0a227302?mod=mw_rss_topstories",
-        "published": "Mon, 17 Aug 2026 11:15:00 GMT"
-      },
-      {
-        "title": "‘I’m running out of time’: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?",
-        "link": "https://www.marketwatch.com/story/im-running-out-of-time-i-sold-my-300-000-rental-property-at-a-75-000-loss-should-i-buy-another-one-to-avoid-taxes-f214c172?mod=mw_rss_topstories",
-        "published": "Mon, 17 Aug 2026 10:16:00 GMT"
-      },
-      {
-        "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
-        "link": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
-        "published": "Mon, 17 Aug 2026 09:15:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive",
-        "link": "https://www.cnbc.com/2026/08/17/openai-brockman-leadership-changes.html",
-        "published": "Mon, 17 Aug 2026 13:22:55 GMT"
-      },
-      {
         "title": "Meta faces ‘astronomical’ consequences as legal fight reaches critical moment in California",
         "link": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
         "published": "Mon, 17 Aug 2026 13:23:20 GMT"
+      },
+      {
+        "title": "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive",
+        "link": "https://www.cnbc.com/2026/08/17/openai-brockman-leadership-changes.html",
+        "published": "Mon, 17 Aug 2026 13:33:04 GMT"
       },
       {
         "title": "Oil prices rise as Iran rules out interim deal extension, threatens to escalate conflict",
