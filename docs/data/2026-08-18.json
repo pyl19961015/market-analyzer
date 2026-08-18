@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-08-18T13:55:57",
+  "generated_at": "2026-08-18T14:31:18",
   "date": "2026-08-18",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7701.87,
-        "pct_change": -1.08
+        "last": 7709.42,
+        "pct_change": -0.98
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26289.94,
-        "pct_change": -1.64
+        "last": 26367.31,
+        "pct_change": -1.35
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 53424.04,
-        "pct_change": -0.57
+        "last": 53420.34,
+        "pct_change": -0.58
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3045.46,
-        "pct_change": -0.75
+        "last": 3037.42,
+        "pct_change": -1.01
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.73,
-        "pct_change": 10.39
+        "last": 15.82,
+        "pct_change": 11.02
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.73,
-        "pct_change": 0.68
+        "last": 4.72,
+        "pct_change": 0.43
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.6,
-        "pct_change": -0.07
+        "last": 99.55,
+        "pct_change": -0.12
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 84.32,
-        "pct_change": -0.21
+        "last": 84.06,
+        "pct_change": -0.52
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4456.7,
-        "pct_change": 0.88
+        "last": 4455.1,
+        "pct_change": 0.84
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 185.61,
-        "pct_change": -2.32
+        "last": 186.08,
+        "pct_change": -2.07
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 57.9,
-        "pct_change": -0.46
+        "last": 57.85,
+        "pct_change": -0.53
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 63.38,
-        "pct_change": 2.37
+        "last": 63.45,
+        "pct_change": 2.49
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 170.24,
-        "pct_change": 1.71
+        "last": 169.46,
+        "pct_change": 1.25
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 116.9,
-        "pct_change": -1.1
+        "last": 117.12,
+        "pct_change": -0.91
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 85.76,
-        "pct_change": -0.38
+        "last": 85.66,
+        "pct_change": -0.5
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 184.71,
-        "pct_change": -0.97
+        "last": 184.66,
+        "pct_change": -0.99
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 44.63,
-        "pct_change": 0.73
+        "last": 44.41,
+        "pct_change": 0.23
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 52.19,
-        "pct_change": -0.66
+        "last": 52.1,
+        "pct_change": -0.84
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 45.07,
-        "pct_change": -0.44
+        "last": 44.95,
+        "pct_change": -0.71
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 110.91,
-        "pct_change": -1.81
+        "last": 110.96,
+        "pct_change": -1.76
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 159.59,
-        "pct_change": 0.23
+        "last": 159.49,
+        "pct_change": 0.17
       }
     }
   },
@@ -138,58 +138,58 @@
       "as_of": "2026-08-17",
       "prev_yield": 2.878
     },
-    "spread_10y": 1.81
+    "spread_10y": 1.8
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 163.29,
-        "pct_change": -1.63
+        "last": 164.36,
+        "pct_change": -0.98
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 306.55,
-        "pct_change": 0.2
+        "last": 310.07,
+        "pct_change": 1.35
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 480.46,
-        "pct_change": -3.02
+        "last": 480.96,
+        "pct_change": -2.91
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 258.33,
-        "pct_change": -1.65
+        "last": 261.09,
+        "pct_change": -0.59
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 342.8,
-        "pct_change": -0.9
+        "last": 343.94,
+        "pct_change": -0.57
       },
       "Meta": {
         "symbol": "META",
-        "last": 548.98,
-        "pct_change": -6.93
+        "last": 547.82,
+        "pct_change": -7.13
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 909.3,
-        "pct_change": -1.82
+        "last": 904.5,
+        "pct_change": -2.34
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 312.94,
-        "pct_change": -3.96
+        "last": 317.16,
+        "pct_change": -2.66
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 160.88,
-        "pct_change": -3.73
+        "last": 161.55,
+        "pct_change": -3.32
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -576,24 +576,24 @@
         "published": "2026-08-17T23:00:00Z"
       },
       {
-        "title": "Stock Market Today: Nasdaq Sinks As Treasury Yields Jump; Nvidia, Micron, Sandisk All Tumble (Live Coverage)",
-        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-nvidia-stock-nvda/?src=A00220&yptr=yahoo",
-        "published": "2026-08-18T13:39:03Z"
+        "title": "Tech stocks today: Meta social media trial kicks off, chip stocks fall",
+        "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-meta-social-media-trial-kicks-off-chip-stocks-fall-132945569.html",
+        "published": "2026-08-17T13:29:45Z"
       },
       {
-        "title": "Stock market today: Nasdaq leads Dow and S&P 500 lower as rising Treasury yields weigh on tech stocks",
-        "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-18-dow-sp-500-nasdaq-080822735.html",
-        "published": "2026-08-18T08:08:22Z"
+        "title": "Best CD rates today, Tuesday, August 18, 2026: Lock in up to 4.30% APY today on a 16-month CD",
+        "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-tuesday-august-18-2026-lock-in-up-to-430-apy-today-on-a-16-month-cd-100000469.html",
+        "published": "2026-08-18T10:00:00Z"
       },
       {
-        "title": "Everforth (EFOR) Positioned to Deliver Modern IT Solutions as Demand Nomalizes",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/everforth-efor-positioned-deliver-modern-133507845.html",
-        "published": "2026-08-18T13:35:07Z"
+        "title": "Klarna stock plunges 20% on trimmed guidance as German retail sales slow",
+        "link": "https://finance.yahoo.com/markets/stocks/article/klarna-stock-plunges-20-on-trimmed-guidance-as-german-retail-sales-slow-141517463.html",
+        "published": "2026-08-18T14:15:17Z"
       },
       {
-        "title": "Comcast expands Xfinity security offerings to deepen broadband customer ties",
-        "link": "https://finance.yahoo.com/technology/articles/comcast-expands-xfinity-security-offerings-133318080.html",
-        "published": "2026-08-18T13:33:18Z"
+        "title": "Citigroup To Launch Bitcoin Custody For Institutional Clients",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/citigroup-launch-bitcoin-custody-institutional-141400472.html",
+        "published": "2026-08-18T14:14:00Z"
       },
       {
         "title": "5-star analyst sets alarming SpaceX stock price target",
@@ -601,17 +601,42 @@
         "published": "2026-08-18T03:07:00Z"
       },
       {
-        "title": "Cognex Corp’s (CGNX) Elevated Growth Supported by Cost Discipline and Sales Strength",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/cognex-corp-cgnx-elevated-growth-132913511.html",
-        "published": "2026-08-18T13:29:13Z"
+        "title": "Vertiv Holdings (VRT) Well Positioned for Key Tech Transitions",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/vertiv-holdings-vrt-well-positioned-140249832.html",
+        "published": "2026-08-18T14:02:49Z"
       },
       {
-        "title": "Amazon.com (AMZN): AI Demand Triggers AWS Revenue Acceleration",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-com-amzn-ai-demand-131822860.html",
-        "published": "2026-08-18T13:18:22Z"
+        "title": "XRP Falls Below $1 For First Time Since 2024",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/xrp-falls-below-1-first-135900489.html",
+        "published": "2026-08-18T13:59:00Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "U.S. investors have been buying stocks all month and are now sitting on profits. Here’s what might make them sell.",
+        "link": "https://www.marketwatch.com/story/u-s-investors-have-been-buying-stocks-all-month-and-are-sitting-on-profits-heres-what-might-make-them-sell-0371e78a?mod=mw_rss_topstories",
+        "published": "Tue, 18 Aug 2026 14:18:00 GMT"
+      },
+      {
+        "title": "‘We are committed Christians’: Our son and daughter-in-law cut us out of their lives after a political argument. Should we change our $3 million will?",
+        "link": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
+        "published": "Tue, 18 Aug 2026 14:16:00 GMT"
+      },
+      {
+        "title": "‘Too many people go bankrupt’: Should Medicare provide catastrophic coverage?",
+        "link": "https://www.marketwatch.com/story/too-many-people-go-bankrupt-should-medicare-provide-catastrophic-coverage-f7c653da?mod=mw_rss_topstories",
+        "published": "Tue, 18 Aug 2026 14:07:00 GMT"
+      },
+      {
+        "title": "I used a human travel agent instead of AI — and cut $2,000 off the price of my European vacation",
+        "link": "https://www.marketwatch.com/story/i-used-a-human-travel-agent-instead-of-ai-and-cut-2-000-off-the-price-of-my-european-vacation-e8b344cb?mod=mw_rss_topstories",
+        "published": "Tue, 18 Aug 2026 13:55:00 GMT"
+      },
+      {
+        "title": "Why it’s better to buy stocks at record highs than wait for the next crash",
+        "link": "https://www.marketwatch.com/story/why-its-better-to-buy-stocks-at-record-highs-than-wait-for-the-next-crash-2bf5610e?mod=mw_rss_topstories",
+        "published": "Tue, 18 Aug 2026 13:54:00 GMT"
+      },
       {
         "title": "Jimmy Kimmel infuriated Trump. Now Disney is suing the FCC over what it calls a ‘retaliatory campaign.’",
         "link": "https://www.marketwatch.com/story/disney-sues-fcc-over-broadcast-license-threat-9fb4745d?mod=mw_rss_topstories",
@@ -626,38 +651,13 @@
         "title": "Financial advisers tell us how they handle clients who love to gamble",
         "link": "https://www.marketwatch.com/story/financial-advisers-tell-us-how-they-handle-clients-who-love-to-gamble-9438f239?mod=mw_rss_topstories",
         "published": "Tue, 18 Aug 2026 13:45:00 GMT"
-      },
-      {
-        "title": "Stocks keep shrugging off rising Treasury yields. Here’s the level that could finally trigger a selloff.",
-        "link": "https://www.marketwatch.com/story/stocks-keep-shrugging-off-rising-treasury-yields-heres-the-level-that-could-finally-trigger-a-selloff-80c1634c?mod=mw_rss_topstories",
-        "published": "Tue, 18 Aug 2026 13:06:00 GMT"
-      },
-      {
-        "title": "How do I deal with co-workers who constantly complain about the dumbest problems?",
-        "link": "https://www.marketwatch.com/story/how-do-i-deal-with-co-workers-who-constantly-complain-about-the-dumbest-problems-44060bc7?mod=mw_rss_topstories",
-        "published": "Tue, 18 Aug 2026 12:56:00 GMT"
-      },
-      {
-        "title": "Home Depot revenue rises even as customers turn away from bigger projects",
-        "link": "https://www.marketwatch.com/story/home-depot-revenue-rises-even-as-customers-turn-away-from-bigger-projects-0798f7fd?mod=mw_rss_topstories",
-        "published": "Tue, 18 Aug 2026 12:32:00 GMT"
-      },
-      {
-        "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
-        "link": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
-        "published": "Tue, 18 Aug 2026 12:16:00 GMT"
-      },
-      {
-        "title": "Fund managers have rarely been this bullish about stocks, says a Bank of America survey",
-        "link": "https://www.marketwatch.com/story/fund-manager-have-rarely-been-this-bullish-about-stocks-says-bank-of-america-survey-dccd304a?mod=mw_rss_topstories",
-        "published": "Tue, 18 Aug 2026 12:07:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
         "title": "30-year Treasury yield tops 5.33%, new 19-year high on inflation, spending concerns",
         "link": "https://www.cnbc.com/2026/08/18/treasury-yields-.html",
-        "published": "Tue, 18 Aug 2026 13:13:10 GMT"
+        "published": "Tue, 18 Aug 2026 14:11:51 GMT"
       },
       {
         "title": "Disney-owned ABC files First Amendment lawsuit against FCC",
@@ -665,34 +665,34 @@
         "published": "Tue, 18 Aug 2026 13:55:20 GMT"
       },
       {
-        "title": "Home Depot reaffirms guidance amid 'frozen housing market conditions'",
-        "link": "https://www.cnbc.com/2026/08/18/home-depot-hd-q2-2026-earnings.html",
-        "published": "Tue, 18 Aug 2026 13:43:28 GMT"
-      },
-      {
         "title": "American Airlines to add seatback screens, bigger first class in race to catch up to Delta and United",
         "link": "https://www.cnbc.com/2026/08/18/american-airlines-seatback-screens.html",
         "published": "Tue, 18 Aug 2026 13:00:01 GMT"
       },
       {
+        "title": "Hims & Hers CEO says FTC lawsuit misunderstands how the company works",
+        "link": "https://www.cnbc.com/2026/08/18/hims-hers-ceo-andrew-dudum-ftc-lawsuit-glp-1s-ai.html",
+        "published": "Tue, 18 Aug 2026 14:20:05 GMT"
+      },
+      {
+        "title": "Kalshi seeks to launch ‘perps’ on equity indexes as it moves in on traditional exchanges' turf",
+        "link": "https://www.cnbc.com/2026/08/18/kalshi-wants-to-launch-perps-tied-to-equity-indexes.html",
+        "published": "Tue, 18 Aug 2026 14:22:10 GMT"
+      },
+      {
+        "title": "This gene-based therapeutics stock could nearly triple, analysts say",
+        "link": "https://www.cnbc.com/2026/08/18/this-gene-editing-stock-could-nearly-triple-its-shares-analysts-say.html",
+        "published": "Tue, 18 Aug 2026 14:18:17 GMT"
+      },
+      {
+        "title": "Home Depot reaffirms guidance amid 'frozen housing market conditions'",
+        "link": "https://www.cnbc.com/2026/08/18/home-depot-hd-q2-2026-earnings.html",
+        "published": "Tue, 18 Aug 2026 13:43:28 GMT"
+      },
+      {
         "title": "Contrarian vs. the crowd: One trader made a massive bet against chip stocks",
         "link": "https://www.cnbc.com/2026/08/18/contrarian-vs-the-crowd-one-trader-made-a-massive-bet-against-chip-stocks.html",
         "published": "Tue, 18 Aug 2026 13:13:13 GMT"
-      },
-      {
-        "title": "Popular language app is on the cusp of a turnaround. Buy the stock now, D.A. Davidson says",
-        "link": "https://www.cnbc.com/2026/08/18/popular-app-is-on-the-cusp-of-a-big-turnaround-da-davidson-says.html",
-        "published": "Tue, 18 Aug 2026 12:15:34 GMT"
-      },
-      {
-        "title": "Primary election season rolls into Alaska, Florida and Wyoming",
-        "link": "https://www.cnbc.com/2026/08/18/primary-elections-alaska-florida-wyoming-midterms.html",
-        "published": "Tue, 18 Aug 2026 13:34:30 GMT"
-      },
-      {
-        "title": "A payments app built by crypto exchange Kraken just launched a cash back debit card in bid for consumer wallets",
-        "link": "https://www.cnbc.com/2026/08/18/kraken-launches-debit-card-in-bid-for-consumer-wallets.html",
-        "published": "Tue, 18 Aug 2026 13:52:26 GMT"
       }
     ]
   }
