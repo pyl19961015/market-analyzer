@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-18T17:22:37",
+  "generated_at": "2026-08-18T17:52:52",
   "date": "2026-08-18",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7703.9,
-        "pct_change": -0.53
+        "last": 7700.86,
+        "pct_change": -0.57
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26342.08,
-        "pct_change": -1.14
+        "last": 26327.35,
+        "pct_change": -1.19
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 53389.26,
-        "pct_change": -0.13
+        "last": 53367.7,
+        "pct_change": -0.17
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3027.72,
-        "pct_change": -0.98
+        "last": 3023.71,
+        "pct_change": -1.11
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.67,
-        "pct_change": 3.16
+        "last": 15.73,
+        "pct_change": 3.55
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
         "last": 4.71,
-        "pct_change": -0.21
+        "pct_change": -0.3
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
@@ -40,13 +40,13 @@
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 84.25,
-        "pct_change": -0.3
+        "last": 84.18,
+        "pct_change": -0.38
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4421.5,
-        "pct_change": 0.08
+        "last": 4418.1,
+        "pct_change": 0.01
       }
     },
     "sectors": {
@@ -57,53 +57,53 @@
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 57.85,
-        "pct_change": 0.48
+        "last": 57.88,
+        "pct_change": 0.51
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 63.43,
-        "pct_change": 1.36
+        "last": 63.51,
+        "pct_change": 1.48
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 169.82,
-        "pct_change": 1.66
+        "last": 169.79,
+        "pct_change": 1.64
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 117.23,
-        "pct_change": 0.41
+        "last": 116.95,
+        "pct_change": 0.17
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 85.88,
-        "pct_change": 1.41
+        "last": 85.81,
+        "pct_change": 1.33
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 183.96,
-        "pct_change": -1.27
+        "last": 183.91,
+        "pct_change": -1.29
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 44.43,
-        "pct_change": 0.57
+        "last": 44.29,
+        "pct_change": 0.25
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 51.98,
-        "pct_change": -0.5
+        "last": 51.86,
+        "pct_change": -0.73
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.97,
-        "pct_change": 0.3
+        "last": 44.9,
+        "pct_change": 0.14
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 111.22,
-        "pct_change": 0.36
+        "last": 111.08,
+        "pct_change": 0.24
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 159.58,
-        "pct_change": 0.23
+        "last": 159.61,
+        "pct_change": 0.24
       }
     }
   },
@@ -144,52 +144,52 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 159.68,
-        "pct_change": -7.81
+        "last": 159.3,
+        "pct_change": -8.03
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 310.67,
-        "pct_change": 1.66
+        "last": 310.11,
+        "pct_change": 1.48
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 481.92,
-        "pct_change": 0.33
+        "last": 482.02,
+        "pct_change": 0.35
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 261.77,
-        "pct_change": 0.18
+        "last": 260.59,
+        "pct_change": -0.28
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 343.2,
-        "pct_change": -0.23
+        "last": 343.53,
+        "pct_change": -0.14
       },
       "Meta": {
         "symbol": "META",
-        "last": 549.59,
-        "pct_change": -3.41
+        "last": 548.1,
+        "pct_change": -3.67
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 873.1,
-        "pct_change": -9.89
+        "last": 870.97,
+        "pct_change": -10.11
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 308.61,
-        "pct_change": -12.13
+        "last": 309.2,
+        "pct_change": -11.96
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 158.84,
-        "pct_change": -7.04
+        "last": 158.91,
+        "pct_change": -7.0
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -576,46 +576,46 @@
         "published": "2026-08-18T16:03:00Z"
       },
       {
+        "title": "Stock Market Today: Nasdaq Weighed Down By Chip Names; Credo Plunges With Micron, Sandisk (Live Coverage)",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-nvidia-stock-nvda/?src=A00220&yptr=yahoo",
+        "published": "2026-08-18T17:35:06Z"
+      },
+      {
+        "title": "Nasdaq slides, yields elevated as Mideast conflict fears grow",
+        "link": "https://finance.yahoo.com/news/stocks-slide-yields-elevated-mideast-150928612.html",
+        "published": "2026-08-18T17:30:21Z"
+      },
+      {
+        "title": "Extract Profit From Starbucks Stock Swings With This Long Strangle Option Trade",
+        "link": "https://www.investors.com/research/options/starbucks-stock-sbux-coffee-trading-options-income-trade-strategy-markets/?src=A00220&yptr=yahoo",
+        "published": "2026-08-18T17:24:46Z"
+      },
+      {
+        "title": "Beyond Oil: Record Revenue & U.S. Direct-Sales Expansion Fuel Scaling Phase – Quarterly Update Report",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/beyond-oil-record-revenue-u-171951108.html",
+        "published": "2026-08-18T17:19:51Z"
+      },
+      {
+        "title": "Is This The Next CoreWeave Or Nebius Group? A Crusoe IPO Looms",
+        "link": "https://www.investors.com/news/is-this-the-next-coreweave-or-nebius-group-a-crusoe-ipo-looms/?src=A00220&yptr=yahoo",
+        "published": "2026-08-18T17:15:47Z"
+      },
+      {
         "title": "State Farm's $5 billion dividend payout is largest in company history: Who's eligible?",
         "link": "https://finance.yahoo.com/personal-finance/banking/article/state-farms-5-billion-dividend-payout-is-largest-in-company-history-whos-eligible-170817212.html",
         "published": "2026-08-18T17:08:17Z"
       },
       {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq fall as chip stocks sell off, bond yields remain high",
-        "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-18-dow-sp-500-nasdaq-080822735.html",
-        "published": "2026-08-18T08:08:22Z"
-      },
-      {
-        "title": "Eltek Ltd. Q2 2026 Earnings Call Summary",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/eltek-ltd-q2-2026-earnings-165224874.html",
-        "published": "2026-08-18T16:52:24Z"
-      },
-      {
-        "title": "Micron, Other Chip Stocks Drop During Dog Days Of Summer",
-        "link": "https://www.investors.com/news/technology/chip-stocks-micron-nvidia-drop-dog-days-summer/?src=A00220&yptr=yahoo",
-        "published": "2026-08-18T16:39:56Z"
-      },
-      {
-        "title": "APA Targets $700M Cost Cuts, 5% Oil Growth as Suriname Project Nears 2028 Start",
-        "link": "https://finance.yahoo.com/energy/articles/apa-targets-700m-cost-cuts-170203957.html",
-        "published": "2026-08-18T17:02:03Z"
-      },
-      {
-        "title": "Eli Lilly, Stock Of The Day, Is Erasing Novo's Early Lead In Weight-Loss Pills",
-        "link": "https://www.investors.com/research/ibd-stock-of-the-day/eli-lilly-stock-foundayo-wegovy-weight-loss-pills/?src=A00220&yptr=yahoo",
-        "published": "2026-08-18T16:39:49Z"
-      },
-      {
-        "title": "Ecopetrol Completes $1.2 Billion Brazilian Oil Deal",
-        "link": "https://finance.yahoo.com/energy/articles/ecopetrol-completes-1-2-billion-163715015.html",
-        "published": "2026-08-18T16:37:15Z"
+        "title": "Two Florida cities top the list of US regions where home sellers are most likely to lose money on their listings",
+        "link": "https://finance.yahoo.com/real-estate/articles/two-florida-cities-top-list-170000896.html",
+        "published": "2026-08-18T17:00:00Z"
       }
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "Here’s the case for Nvidia’s stock to climb 55% from here, according to BofA",
+        "title": "Here’s the case for Nvidia’s stock to climb 55%, according to BofA",
         "link": "https://www.marketwatch.com/story/heres-the-case-for-nvidias-stock-to-climb-55-from-here-according-to-bofa-f5483409?mod=mw_rss_topstories",
-        "published": "Tue, 18 Aug 2026 17:02:00 GMT"
+        "published": "Tue, 18 Aug 2026 17:26:00 GMT"
       },
       {
         "title": "‘I’m running out of time’: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?",
@@ -672,7 +672,12 @@
       {
         "title": "S&P 500 falls, hurt by elevated global bond yields and oil prices: Live updates",
         "link": "https://www.cnbc.com/2026/08/17/stock-market-today-live-updates.html",
-        "published": "Tue, 18 Aug 2026 17:18:31 GMT"
+        "published": "Tue, 18 Aug 2026 17:29:49 GMT"
+      },
+      {
+        "title": "U.S. government debt yields are surging at a bad time. Here's what's behind the move",
+        "link": "https://www.cnbc.com/2026/08/18/us-government-debt-yields-are-surging-at-a-bad-time-heres-whats-behind-the-move.html",
+        "published": "Tue, 18 Aug 2026 17:35:17 GMT"
       },
       {
         "title": "Apple overhauls Europe app store fees to resolve payments clash",
@@ -680,19 +685,14 @@
         "published": "Tue, 18 Aug 2026 17:16:49 GMT"
       },
       {
-        "title": "30-year Treasury yield tops 5.33%, new 19-year high on inflation, spending concerns",
-        "link": "https://www.cnbc.com/2026/08/18/treasury-yields-.html",
-        "published": "Tue, 18 Aug 2026 16:13:23 GMT"
-      },
-      {
         "title": "Widely followed investor survey shows extreme bullishness with little worry about rate hikes or AI spending",
         "link": "https://www.cnbc.com/2026/08/18/widely-followed-investor-survey-shows-extreme-bullishness-.html",
         "published": "Tue, 18 Aug 2026 16:07:34 GMT"
       },
       {
-        "title": "Stocks making the biggest moves midday: Meta, Amylyx, Baidu, Klarna, Coherent, Sandisk & more",
-        "link": "https://www.cnbc.com/2026/08/18/stocks-making-the-biggest-moves-midday-meta-amlx-bidu-klar.html",
-        "published": "Tue, 18 Aug 2026 16:59:02 GMT"
+        "title": "30-year Treasury yield tops 5.33%, new 19-year high on inflation, spending concerns",
+        "link": "https://www.cnbc.com/2026/08/18/treasury-yields-.html",
+        "published": "Tue, 18 Aug 2026 16:13:23 GMT"
       }
     ]
   }
