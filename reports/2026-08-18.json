@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T08:52:13",
+  "generated_at": "2026-08-18T09:28:19",
   "date": "2026-08-18",
   "market_sentiment": {
     "indices": {
@@ -25,8 +25,8 @@
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.93,
-        "pct_change": 11.79
+        "last": 15.87,
+        "pct_change": 11.37
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
@@ -35,18 +35,18 @@
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.65,
-        "pct_change": -0.02
+        "last": 99.64,
+        "pct_change": -0.03
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 84.12,
-        "pct_change": -0.45
+        "last": 84.08,
+        "pct_change": -0.5
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4453.8,
-        "pct_change": 0.81
+        "last": 4447.0,
+        "pct_change": 0.66
       }
     },
     "sectors": {
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 159.67,
-        "pct_change": 0.28
+        "last": 159.62,
+        "pct_change": 0.25
       }
     }
   },
@@ -571,47 +571,62 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "Warren Buffett's Berkshire raises stake in world's largest airline",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-berkshire-raises-stake-214700937.html",
-        "published": "2026-08-16T21:47:00Z"
-      },
-      {
-        "title": "Have Middle East Oil Flows Rebounded to 15 Million Bpd as U.S. Claims?",
-        "link": "https://finance.yahoo.com/energy/articles/middle-east-oil-flows-rebounded-230000187.html",
-        "published": "2026-08-16T23:00:00Z"
-      },
-      {
-        "title": "After Being Left for Dead, These High-Yield Stocks Look to Rally Again. Here's How to Play It.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/being-left-dead-high-yield-010002559.html",
-        "published": "2026-08-17T01:00:02Z"
-      },
-      {
-        "title": "Argentina LNG Seeks RIGI Approval for $51 Billion Export Project",
-        "link": "https://finance.yahoo.com/energy/articles/argentina-lng-seeks-rigi-approval-015747805.html",
-        "published": "2026-08-17T01:57:47Z"
-      },
-      {
-        "title": "Petrobras Finds Hydrocarbons in First Amapá Offshore Discovery",
-        "link": "https://finance.yahoo.com/energy/articles/petrobras-finds-hydrocarbons-first-amap-021500715.html",
-        "published": "2026-08-17T02:15:00Z"
-      },
-      {
         "title": "5-star analyst sets alarming SpaceX stock price target",
         "link": "https://finance.yahoo.com/markets/stocks/articles/5-star-analyst-sets-alarming-030700322.html",
         "published": "2026-08-18T03:07:00Z"
       },
       {
-        "title": "SpaceX stock volatility: What to do next if you own shares",
-        "link": "https://finance.yahoo.com/personal-finance/investing/article/spacex-stock-volatility-what-to-do-next-if-you-own-shares-141704338.html",
-        "published": "2026-06-17T14:17:04Z"
+        "title": "Warren Buffett's Berkshire raises stake in world's largest airline",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-berkshire-raises-stake-214700937.html",
+        "published": "2026-08-16T21:47:00Z"
       },
       {
-        "title": "Dow Jones Futures: Nvidia Leads 5 Stocks In Buy Areas, Sandisk Nears Key Level; Walmart Looms",
-        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-run-sandisk-soars-nvidia-buy-walmart-target/?src=A00220&yptr=yahoo",
-        "published": "2026-08-17T03:06:02Z"
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures extend losses amid US-Iran tensions",
+        "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-18-dow-sp-500-nasdaq-080822735.html",
+        "published": "2026-08-18T08:08:22Z"
+      },
+      {
+        "title": "AdvanSix (ASIX) Offsets Rising Costs With Pricing As Fertilizer Demand Softens",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/advansix-asix-offsets-rising-costs-085557984.html",
+        "published": "2026-08-18T08:55:57Z"
+      },
+      {
+        "title": "Bonds, stocks jolted as Middle East tensions shatter market calm",
+        "link": "https://finance.yahoo.com/energy/articles/oil-prices-climb-bond-yields-011655842.html",
+        "published": "2026-08-18T08:42:25Z"
+      },
+      {
+        "title": "Sylvamo’s (SLVM) Rocky Road To A Stronger Second Half",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/sylvamo-slvm-rocky-road-stronger-082838278.html",
+        "published": "2026-08-18T08:28:38Z"
+      },
+      {
+        "title": "He Put $300,000 Into Real Assets at 64. One Ownership Choice Made Social Security Treat Him as Still Working.",
+        "link": "https://finance.yahoo.com/real-estate/articles/put-300-000-real-assets-090916381.html",
+        "published": "2026-08-18T09:09:16Z"
+      },
+      {
+        "title": "Dollar feeble as rate hike bets dwindle, Iran conflict in focus",
+        "link": "https://finance.yahoo.com/news/dollar-feeble-rate-hike-bets-015445875.html",
+        "published": "2026-08-18T08:20:46Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "‘We are hurt’: Our son and daughter-in-law cut off contact with us over politics. Should we change our $3 million will?",
+        "link": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
+        "published": "Tue, 18 Aug 2026 09:15:00 GMT"
+      },
+      {
+        "title": "Usher’s art-packed Atlanta mansion also has a hookah lounge and a barbershop",
+        "link": "https://www.marketwatch.com/story/ushers-art-packed-atlanta-mansion-also-has-a-hookah-lounge-and-a-barbershop-00309302?mod=mw_rss_topstories",
+        "published": "Tue, 18 Aug 2026 09:03:00 GMT"
+      },
+      {
+        "title": "Chris Pratt’s Pacific Palisades home returns to the market for just under $20 million",
+        "link": "https://www.marketwatch.com/story/chris-pratts-pacific-palisades-home-returns-to-the-market-for-just-under-20-million-1b83f5c3?mod=mw_rss_topstories",
+        "published": "Tue, 18 Aug 2026 09:01:00 GMT"
+      },
       {
         "title": "Why this popular Treasury-bond ETF is trading at its lowest since 2004",
         "link": "https://www.marketwatch.com/story/why-this-popular-treasury-bond-etf-is-trading-at-its-lowest-since-2004-27de9a77?mod=mw_rss_topstories",
@@ -636,21 +651,6 @@
         "title": "I’m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
         "link": "https://www.marketwatch.com/story/im-63-and-a-retired-cpa-i-have-a-1-2-million-401-k-do-i-need-a-roth-conversion-0a227302?mod=mw_rss_topstories",
         "published": "Mon, 17 Aug 2026 21:00:00 GMT"
-      },
-      {
-        "title": "Micron, Sandisk and other chip stocks climb as investors get more confident about AI spending",
-        "link": "https://www.marketwatch.com/story/micron-sandisk-and-other-chip-stocks-climb-as-investors-are-more-confident-about-ai-spending-128374fa?mod=mw_rss_topstories",
-        "published": "Mon, 17 Aug 2026 20:43:00 GMT"
-      },
-      {
-        "title": "A new set of Trump tariffs for Canada could take effect Wednesday. Here’s what’s at stake.",
-        "link": "https://www.marketwatch.com/story/a-new-set-of-trump-tariffs-for-canada-could-take-effect-wednesday-heres-whats-at-stake-8aa0eeb8?mod=mw_rss_topstories",
-        "published": "Mon, 17 Aug 2026 20:28:00 GMT"
-      },
-      {
-        "title": "SpaceX’s stock is rising, and that’s a good sign for Nvidia and Google",
-        "link": "https://www.marketwatch.com/story/spacexs-stock-is-rising-and-thats-a-good-sign-for-nvidia-and-google-913ce9de?mod=mw_rss_topstories",
-        "published": "Mon, 17 Aug 2026 20:18:00 GMT"
       }
     ],
     "CNBC Top News": [
@@ -660,29 +660,14 @@
         "published": "Tue, 18 Aug 2026 06:11:52 GMT"
       },
       {
-        "title": "Trump's Oman bomb threat an attempt to get their 'attention,' says former ambassador",
-        "link": "https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceasefire-expires-extension-.html",
-        "published": "Tue, 18 Aug 2026 08:49:50 GMT"
-      },
-      {
         "title": "South Korea must brace for ‘worst-case scenario,’ President Lee says, as Trump cuts military drills",
         "link": "https://www.cnbc.com/2026/08/18/trump-south-korea-military-exercises-iran-north-korea.html",
         "published": "Tue, 18 Aug 2026 05:16:51 GMT"
       },
       {
-        "title": "Treasury yields rise as oil gains and U.S.-Iran tensions fuel inflation fears",
-        "link": "https://www.cnbc.com/2026/08/18/treasury-yields-.html",
-        "published": "Tue, 18 Aug 2026 07:58:59 GMT"
-      },
-      {
-        "title": "Meta faces ‘astronomical’ consequences as legal fight reaches critical moment in California",
-        "link": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
-        "published": "Mon, 17 Aug 2026 16:06:28 GMT"
-      },
-      {
-        "title": "'Absolutely crazy': Here's what South Korean stock investors are doing in U.S. markets",
-        "link": "https://www.cnbc.com/2026/08/18/korean-stock-investors-flee-bruising-home-market-pile-into-us.html",
-        "published": "Mon, 17 Aug 2026 23:39:54 GMT"
+        "title": "Trump's Oman bomb threat an attempt to get their 'attention,' says former ambassador",
+        "link": "https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceasefire-expires-extension-.html",
+        "published": "Tue, 18 Aug 2026 09:18:27 GMT"
       },
       {
         "title": "Lakers governor Jeanie Buss says siblings cannot sell family’s stake to Bob Iger, Joshua Kushner",
@@ -693,6 +678,21 @@
         "title": "Bitcoin is overdue for moves of 30% or more, Fundstrat says",
         "link": "https://www.cnbc.com/2026/08/18/bitcoin-price-volatility-fundstrat.html",
         "published": "Tue, 18 Aug 2026 03:02:10 GMT"
+      },
+      {
+        "title": "Looking for under-the-radar stocks? Cramer gives his take on 5 unfamiliar names",
+        "link": "https://www.cnbc.com/2026/08/17/cramer-under-the-radar-stocks.html",
+        "published": "Mon, 17 Aug 2026 23:24:19 GMT"
+      },
+      {
+        "title": "L3Harris ousts CEO Chris Kubasik over unspecified 'conduct,' stock drops 4%",
+        "link": "https://www.cnbc.com/2026/08/17/l3harris-ceo-chris-kubasik-lhx-defense-mehta.html",
+        "published": "Mon, 17 Aug 2026 22:52:11 GMT"
+      },
+      {
+        "title": "Stanley Druckenmiller loaded up on Amazon and chip stocks before July rout",
+        "link": "https://www.cnbc.com/2026/08/17/druckenmiller-loaded-up-on-amazon-and-chip-stocks-before-july-rout.html",
+        "published": "Mon, 17 Aug 2026 17:44:56 GMT"
       }
     ]
   }
