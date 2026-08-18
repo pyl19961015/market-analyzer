@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-08-18T19:15:39",
+  "generated_at": "2026-08-18T19:48:15",
   "date": "2026-08-18",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7697.08,
+        "last": 7697.07,
         "pct_change": -0.62
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26294.74,
-        "pct_change": -1.31
+        "last": 26303.21,
+        "pct_change": -1.28
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 53375.32,
-        "pct_change": -0.16
+        "last": 53386.47,
+        "pct_change": -0.14
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3021.49,
-        "pct_change": -1.18
+        "last": 3023.27,
+        "pct_change": -1.12
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.67,
-        "pct_change": 3.16
+        "last": 15.63,
+        "pct_change": 2.9
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
@@ -35,75 +35,75 @@
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.66,
-        "pct_change": 0.02
+        "last": 99.63,
+        "pct_change": -0.01
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 84.15,
-        "pct_change": -0.41
+        "last": 84.03,
+        "pct_change": -0.56
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4411.5,
-        "pct_change": -0.14
+        "last": 4409.3,
+        "pct_change": -0.19
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 185.39,
-        "pct_change": -2.59
+        "last": 185.57,
+        "pct_change": -2.5
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 57.91,
-        "pct_change": 0.57
+        "last": 57.88,
+        "pct_change": 0.53
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 63.58,
-        "pct_change": 1.6
+        "last": 63.64,
+        "pct_change": 1.69
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 170.03,
-        "pct_change": 1.78
+        "last": 169.88,
+        "pct_change": 1.69
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 116.85,
-        "pct_change": 0.08
+        "last": 116.69,
+        "pct_change": -0.05
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 85.79,
-        "pct_change": 1.31
+        "last": 85.59,
+        "pct_change": 1.07
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 183.58,
-        "pct_change": -1.47
+        "last": 183.63,
+        "pct_change": -1.44
       },
       "Utilities": {
         "symbol": "XLU",
         "last": 44.01,
-        "pct_change": -0.38
+        "pct_change": -0.37
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 51.83,
-        "pct_change": -0.78
+        "last": 51.82,
+        "pct_change": -0.8
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.78,
-        "pct_change": -0.12
+        "last": 44.76,
+        "pct_change": -0.16
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 110.87,
-        "pct_change": 0.05
+        "last": 110.77,
+        "pct_change": -0.05
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 159.59,
-        "pct_change": 0.23
+        "last": 159.61,
+        "pct_change": 0.24
       }
     }
   },
@@ -144,52 +144,52 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 159.38,
-        "pct_change": -7.98
+        "last": 160.28,
+        "pct_change": -7.46
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 309.7,
-        "pct_change": 1.34
+        "last": 310.47,
+        "pct_change": 1.6
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 483.14,
-        "pct_change": 0.58
+        "last": 482.27,
+        "pct_change": 0.4
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 260.34,
-        "pct_change": -0.37
+        "last": 259.74,
+        "pct_change": -0.6
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 343.58,
-        "pct_change": -0.12
+        "last": 344.17,
+        "pct_change": 0.05
       },
       "Meta": {
         "symbol": "META",
-        "last": 544.65,
-        "pct_change": -4.27
+        "last": 545.48,
+        "pct_change": -4.13
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 872.97,
-        "pct_change": -9.9
+        "last": 874.81,
+        "pct_change": -9.71
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 309.21,
-        "pct_change": -11.96
+        "last": 307.43,
+        "pct_change": -12.47
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 158.52,
-        "pct_change": -7.23
+        "last": 159.12,
+        "pct_change": -6.88
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -576,19 +576,14 @@
         "published": "2026-08-18T17:10:35Z"
       },
       {
-        "title": "SaaSpocalypse Defied: Atlassian and Cloudflare Push Back Against Enterprise Tech Fears",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/saaspocalypse-defied-atlassian-cloudflare-push-101315374.html",
-        "published": "2026-08-17T10:13:15Z"
+        "title": "Do Wall Street Analysts Like Pentair Stock?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-pentair-stock-103829222.html",
+        "published": "2026-08-17T10:38:29Z"
       },
       {
-        "title": "Bill Ackman lost $400M dumping Netflix — now says it ‘won the streaming wars.’ Should you rebuy a stock that burned you?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-lost-400m-dumping-101500398.html",
-        "published": "2026-08-17T10:15:00Z"
-      },
-      {
-        "title": "Do Wall Street Analysts Like Marathon Petroleum Stock?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-marathon-petroleum-102300856.html",
-        "published": "2026-08-17T10:23:00Z"
+        "title": "I stayed for 8 years and got a $2,600 raise. A colleague who quit got $15,000 more. Do I have to leave to get paid?",
+        "link": "https://finance.yahoo.com/small-business/articles/stayed-8-years-got-2-104500877.html",
+        "published": "2026-08-17T10:45:00Z"
       },
       {
         "title": "Morning Bid: Retail risk",
@@ -596,22 +591,32 @@
         "published": "2026-08-17T10:35:58Z"
       },
       {
-        "title": "Daimler Truck plans Rs40bn investment in India",
-        "link": "https://finance.yahoo.com/economy/policy/articles/daimler-truck-plans-rs40bn-investment-100724086.html",
-        "published": "2026-08-17T10:07:24Z"
-      },
-      {
         "title": "Stocks Set to Open Higher on Tech Boost, Fed Minutes and Retail Earnings Awaited",
         "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-set-open-higher-tech-103548577.html",
         "published": "2026-08-17T10:35:48Z"
       },
       {
-        "title": "Do Wall Street Analysts Like Pentair Stock?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-pentair-stock-103829222.html",
-        "published": "2026-08-17T10:38:29Z"
+        "title": "Snap shares tumble as court ruling and insider selling deepen investor concerns",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/snap-shares-tumble-court-ruling-103741202.html",
+        "published": "2026-08-17T10:37:41Z"
+      },
+      {
+        "title": "Capital One Stock: Is Wall Street Bullish or Bearish?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/capital-one-stock-wall-street-104700766.html",
+        "published": "2026-08-17T10:47:00Z"
+      },
+      {
+        "title": "Equity Residential Stock: Analyst Estimates & Ratings",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/equity-residential-stock-analyst-estimates-105842940.html",
+        "published": "2026-08-17T10:58:42Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "Mortgage rates could move even higher — dealing a fresh blow to home buyers",
+        "link": "https://www.marketwatch.com/story/mortgage-rates-could-move-even-higher-dealing-a-fresh-blow-to-home-buyers-ad8d0f3d?mod=mw_rss_topstories",
+        "published": "Tue, 18 Aug 2026 19:17:00 GMT"
+      },
       {
         "title": "Soon you can buy Medicare Advantage plans at Costco. What you need to know.",
         "link": "https://www.marketwatch.com/story/soon-you-can-buy-medicare-advantage-plans-at-costco-what-you-need-to-know-34e03242?mod=mw_rss_topstories",
@@ -646,11 +651,6 @@
         "title": "‘I’m running out of time’: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?",
         "link": "https://www.marketwatch.com/story/im-running-out-of-time-i-sold-my-300-000-rental-property-at-a-75-000-loss-should-i-buy-another-one-to-avoid-taxes-f214c172?mod=mw_rss_topstories",
         "published": "Tue, 18 Aug 2026 17:00:00 GMT"
-      },
-      {
-        "title": "Wall Street wants to turn sports betting into ETFs. Critics call it dangerous ‘nonsense.’",
-        "link": "https://www.marketwatch.com/story/wall-street-wants-to-turn-sports-betting-into-etfs-critics-call-it-dangerous-nonsense-a83db946?mod=mw_rss_topstories",
-        "published": "Tue, 18 Aug 2026 16:48:00 GMT"
       }
     ],
     "CNBC Top News": [
@@ -672,7 +672,7 @@
       {
         "title": "S&P 500 falls, hurt by elevated global bond yields and oil prices: Live updates",
         "link": "https://www.cnbc.com/2026/08/17/stock-market-today-live-updates.html",
-        "published": "Tue, 18 Aug 2026 19:11:46 GMT"
+        "published": "Tue, 18 Aug 2026 19:31:20 GMT"
       },
       {
         "title": "U.S. government debt yields are surging at a bad time. Here's what's behind the move",
@@ -685,9 +685,9 @@
         "published": "Tue, 18 Aug 2026 16:57:08 GMT"
       },
       {
-        "title": "Walmart, Target results could put this earnings season to the test. What analysts are saying on retailers",
-        "link": "https://www.cnbc.com/2026/08/18/retailer-earnings-could-put-this-season-to-the-test.html",
-        "published": "Tue, 18 Aug 2026 18:20:11 GMT"
+        "title": "Income investors need to 'wake up' to the new market regime. Where to find solid yields now",
+        "link": "https://www.cnbc.com/2026/08/18/income-investors-wake-up-to-new-market-regime-where-to-find-solid-yields-now.html",
+        "published": "Tue, 18 Aug 2026 19:20:20 GMT"
       },
       {
         "title": "Data centers, crypto, and tax revisions take center stage in Tuesday primaries",
