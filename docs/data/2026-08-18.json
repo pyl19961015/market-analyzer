@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-08-18T19:48:15",
+  "generated_at": "2026-08-18T20:19:17",
   "date": "2026-08-18",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7697.07,
-        "pct_change": -0.62
+        "last": 7691.76,
+        "pct_change": -0.69
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26303.21,
-        "pct_change": -1.28
+        "last": 26289.71,
+        "pct_change": -1.33
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 53386.47,
-        "pct_change": -0.14
+        "last": 53343.4,
+        "pct_change": -0.22
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3023.27,
-        "pct_change": -1.12
+        "last": 3017.89,
+        "pct_change": -1.3
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.63,
-        "pct_change": 2.9
+        "last": 15.83,
+        "pct_change": 4.21
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
@@ -35,75 +35,75 @@
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.63,
-        "pct_change": -0.01
+        "last": 99.68,
+        "pct_change": 0.04
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 84.03,
-        "pct_change": -0.56
+        "last": 84.17,
+        "pct_change": -0.39
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4409.3,
-        "pct_change": -0.19
+        "last": 4397.3,
+        "pct_change": -0.46
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 185.57,
-        "pct_change": -2.5
+        "last": 185.62,
+        "pct_change": -2.47
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 57.88,
-        "pct_change": 0.53
+        "last": 57.84,
+        "pct_change": 0.45
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 63.64,
-        "pct_change": 1.69
+        "last": 63.68,
+        "pct_change": 1.76
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 169.88,
-        "pct_change": 1.69
+        "last": 169.73,
+        "pct_change": 1.6
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 116.69,
-        "pct_change": -0.05
+        "last": 116.36,
+        "pct_change": -0.33
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 85.59,
-        "pct_change": 1.07
+        "last": 85.58,
+        "pct_change": 1.06
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 183.63,
-        "pct_change": -1.44
+        "last": 183.57,
+        "pct_change": -1.48
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 44.01,
-        "pct_change": -0.37
+        "last": 44.02,
+        "pct_change": -0.36
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 51.82,
-        "pct_change": -0.8
+        "last": 51.78,
+        "pct_change": -0.88
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.76,
-        "pct_change": -0.16
+        "last": 44.63,
+        "pct_change": -0.45
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 110.77,
-        "pct_change": -0.05
+        "last": 110.48,
+        "pct_change": -0.31
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 159.61,
-        "pct_change": 0.24
+        "last": 159.65,
+        "pct_change": 0.27
       }
     }
   },
@@ -144,52 +144,52 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 160.28,
-        "pct_change": -7.46
+        "last": 159.87,
+        "pct_change": -7.7
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 310.47,
-        "pct_change": 1.6
+        "last": 310.03,
+        "pct_change": 1.45
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 482.27,
-        "pct_change": 0.4
+        "last": 481.63,
+        "pct_change": 0.27
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 259.74,
-        "pct_change": -0.6
+        "last": 259.45,
+        "pct_change": -0.71
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 344.17,
-        "pct_change": 0.05
+        "last": 344.2,
+        "pct_change": 0.06
       },
       "Meta": {
         "symbol": "META",
-        "last": 545.48,
-        "pct_change": -4.13
+        "last": 543.67,
+        "pct_change": -4.45
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 874.81,
-        "pct_change": -9.71
+        "last": 873.31,
+        "pct_change": -9.87
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 307.43,
-        "pct_change": -12.47
+        "last": 306.43,
+        "pct_change": -12.75
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 159.12,
-        "pct_change": -6.88
+        "last": 159.57,
+        "pct_change": -6.61
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -576,42 +576,57 @@
         "published": "2026-08-18T17:10:35Z"
       },
       {
-        "title": "Do Wall Street Analysts Like Pentair Stock?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-pentair-stock-103829222.html",
-        "published": "2026-08-17T10:38:29Z"
+        "title": "Midera Food’s Net Sales Up 13%, Raises 2026 Outlook",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/midera-food-net-sales-13-112700910.html",
+        "published": "2026-08-17T11:27:00Z"
       },
       {
-        "title": "I stayed for 8 years and got a $2,600 raise. A colleague who quit got $15,000 more. Do I have to leave to get paid?",
-        "link": "https://finance.yahoo.com/small-business/articles/stayed-8-years-got-2-104500877.html",
-        "published": "2026-08-17T10:45:00Z"
+        "title": "Silver Price Predictions: Why Citi Analysts See Silver Prices Soaring to $90 Soon",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/silver-price-predictions-why-citi-113002494.html",
+        "published": "2026-08-17T11:30:02Z"
       },
       {
-        "title": "Morning Bid: Retail risk",
-        "link": "https://finance.yahoo.com/markets/articles/morning-bid-retail-risk-103558500.html",
-        "published": "2026-08-17T10:35:58Z"
+        "title": "Local Bounti’s Network Yields at Record Levels, Retail Momentum Broadened  – Quarterly Update Report",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/local-bounti-network-yields-record-112953084.html",
+        "published": "2026-08-17T11:29:53Z"
       },
       {
-        "title": "Stocks Set to Open Higher on Tech Boost, Fed Minutes and Retail Earnings Awaited",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-set-open-higher-tech-103548577.html",
-        "published": "2026-08-17T10:35:48Z"
+        "title": "Azerbaijan seeks to nurture tech sector as it looks beyond oil",
+        "link": "https://finance.yahoo.com/technology/articles/azerbaijan-seeks-nurture-tech-sector-110022390.html",
+        "published": "2026-08-17T11:00:22Z"
       },
       {
-        "title": "Snap shares tumble as court ruling and insider selling deepen investor concerns",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/snap-shares-tumble-court-ruling-103741202.html",
-        "published": "2026-08-17T10:37:41Z"
-      },
-      {
-        "title": "Capital One Stock: Is Wall Street Bullish or Bearish?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/capital-one-stock-wall-street-104700766.html",
-        "published": "2026-08-17T10:47:00Z"
+        "title": "I've More Than Tripled My Stake in This Historically Cheap, High-Octane Dividend Stock That's Yielding 13.2%",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/ive-more-tripled-stake-historically-112600783.html",
+        "published": "2026-08-17T11:26:00Z"
       },
       {
         "title": "Equity Residential Stock: Analyst Estimates & Ratings",
         "link": "https://finance.yahoo.com/markets/stocks/articles/equity-residential-stock-analyst-estimates-105842940.html",
         "published": "2026-08-17T10:58:42Z"
+      },
+      {
+        "title": "Option Volatility And Earnings Report For Aug 17-21",
+        "link": "https://finance.yahoo.com/markets/options/articles/option-volatility-earnings-report-aug-110002337.html",
+        "published": "2026-08-17T11:00:02Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "Here’s a ‘ridiculously cheap’ way to protect yourself against a stock-market selloff",
+        "link": "https://www.marketwatch.com/story/heres-a-ridiculously-cheap-way-to-protect-yourself-against-a-stock-market-selloff-67d3b312?mod=mw_rss_topstories",
+        "published": "Tue, 18 Aug 2026 20:07:00 GMT"
+      },
+      {
+        "title": "My co-workers complain about minor things and make every meeting miserable. How should I deal with them?",
+        "link": "https://www.marketwatch.com/story/how-do-i-deal-with-co-workers-who-constantly-complain-about-the-dumbest-problems-44060bc7?mod=mw_rss_topstories",
+        "published": "Tue, 18 Aug 2026 19:54:00 GMT"
+      },
+      {
+        "title": "America’s growing debt pile will be the big focus Wednesday as global bond rout deepens",
+        "link": "https://www.marketwatch.com/story/americas-growing-debt-pile-will-be-the-big-focus-wednesday-as-global-bond-rout-deepens-a6955c80?mod=mw_rss_topstories",
+        "published": "Tue, 18 Aug 2026 19:52:00 GMT"
+      },
       {
         "title": "Mortgage rates could move even higher — dealing a fresh blow to home buyers",
         "link": "https://www.marketwatch.com/story/mortgage-rates-could-move-even-higher-dealing-a-fresh-blow-to-home-buyers-ad8d0f3d?mod=mw_rss_topstories",
@@ -636,21 +651,6 @@
         "title": "‘Too many people go bankrupt’: Should Medicare provide catastrophic coverage?",
         "link": "https://www.marketwatch.com/story/too-many-people-go-bankrupt-should-medicare-provide-catastrophic-coverage-f7c653da?mod=mw_rss_topstories",
         "published": "Tue, 18 Aug 2026 18:30:00 GMT"
-      },
-      {
-        "title": "The Fed minutes are coming —and they’re more crucial now as Warsh limits his communication",
-        "link": "https://www.marketwatch.com/story/the-fed-minutes-are-coming-and-theyre-more-crucial-now-as-warsh-limits-his-communication-fd780695?mod=mw_rss_topstories",
-        "published": "Tue, 18 Aug 2026 18:19:00 GMT"
-      },
-      {
-        "title": "Here’s the case for Nvidia’s stock to climb 55%, according to BofA",
-        "link": "https://www.marketwatch.com/story/heres-the-case-for-nvidias-stock-to-climb-55-from-here-according-to-bofa-f5483409?mod=mw_rss_topstories",
-        "published": "Tue, 18 Aug 2026 17:26:00 GMT"
-      },
-      {
-        "title": "‘I’m running out of time’: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?",
-        "link": "https://www.marketwatch.com/story/im-running-out-of-time-i-sold-my-300-000-rental-property-at-a-75-000-loss-should-i-buy-another-one-to-avoid-taxes-f214c172?mod=mw_rss_topstories",
-        "published": "Tue, 18 Aug 2026 17:00:00 GMT"
       }
     ],
     "CNBC Top News": [
@@ -670,9 +670,9 @@
         "published": "Tue, 18 Aug 2026 18:05:05 GMT"
       },
       {
-        "title": "S&P 500 falls, hurt by elevated global bond yields and oil prices: Live updates",
+        "title": "S&P 500 falls for a third day, as elevated global bond yields and oil prices weigh on market: Live updates",
         "link": "https://www.cnbc.com/2026/08/17/stock-market-today-live-updates.html",
-        "published": "Tue, 18 Aug 2026 19:31:20 GMT"
+        "published": "Tue, 18 Aug 2026 20:18:57 GMT"
       },
       {
         "title": "U.S. government debt yields are surging at a bad time. Here's what's behind the move",
@@ -680,14 +680,14 @@
         "published": "Tue, 18 Aug 2026 18:54:58 GMT"
       },
       {
+        "title": "If AI is a bubble, could rising yields pop it?",
+        "link": "https://www.cnbc.com/2026/08/18/if-ai-is-a-bubble-could-rising-yields-pop-it.html",
+        "published": "Tue, 18 Aug 2026 20:03:14 GMT"
+      },
+      {
         "title": "Disney-owned ABC files First Amendment lawsuit against FCC",
         "link": "https://www.cnbc.com/2026/08/18/disney-abc-first-amendment-lawsuit-fcc.html",
         "published": "Tue, 18 Aug 2026 16:57:08 GMT"
-      },
-      {
-        "title": "Income investors need to 'wake up' to the new market regime. Where to find solid yields now",
-        "link": "https://www.cnbc.com/2026/08/18/income-investors-wake-up-to-new-market-regime-where-to-find-solid-yields-now.html",
-        "published": "Tue, 18 Aug 2026 19:20:20 GMT"
       },
       {
         "title": "Data centers, crypto, and tax revisions take center stage in Tuesday primaries",
