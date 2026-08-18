@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T12:00:09",
+  "generated_at": "2026-08-18T13:00:49",
   "date": "2026-08-18",
   "market_sentiment": {
     "indices": {
@@ -25,28 +25,28 @@
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.72,
-        "pct_change": 10.32
+        "last": 15.79,
+        "pct_change": 10.81
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.7,
-        "pct_change": 1.19
+        "last": 4.74,
+        "pct_change": 0.94
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.67,
-        "pct_change": -0.01
+        "last": 99.63,
+        "pct_change": -0.04
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 84.14,
-        "pct_change": -0.43
+        "last": 84.35,
+        "pct_change": -0.18
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4449.0,
-        "pct_change": 0.71
+        "last": 4453.1,
+        "pct_change": 0.8
       }
     },
     "sectors": {
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 159.69,
-        "pct_change": 0.29
+        "last": 159.65,
+        "pct_change": 0.27
       }
     }
   },
@@ -131,14 +131,14 @@
       "effr": 3.63,
       "target_low": 3.5,
       "target_high": 3.75,
-      "as_of": "2026-08-14"
+      "as_of": "2026-08-17"
     },
     "japan": {
       "yield": 2.919,
       "as_of": "2026-08-17",
       "prev_yield": 2.878
     },
-    "spread_10y": 1.78
+    "spread_10y": 1.82
   },
   "watchlist": {
     "holdings": {
@@ -571,56 +571,76 @@
   "news": {
     "Yahoo Finance": [
       {
+        "title": "Bankrupt Italian chain shuts 50 restaurants, exits state entirely",
+        "link": "https://finance.yahoo.com/small-business/articles/bankrupt-italian-chain-shuts-50-230000785.html",
+        "published": "2026-08-17T23:00:00Z"
+      },
+      {
+        "title": "Strong Shareholder Backing Validates Republic Services’ (RSG) Attractive Valuation",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/strong-shareholder-backing-validates-republic-123541541.html",
+        "published": "2026-08-18T12:35:41Z"
+      },
+      {
+        "title": "Chevron Corporation (CVX) Drops as Oil Price Retreats",
+        "link": "https://finance.yahoo.com/energy/articles/chevron-corporation-cvx-drops-oil-123322272.html",
+        "published": "2026-08-18T12:33:22Z"
+      },
+      {
+        "title": "Betting retirement on the big game? Gen Z investors are gambling on sports as a financial plan",
+        "link": "https://finance.yahoo.com/markets/articles/betting-retirement-big-game-gen-123000699.html",
+        "published": "2026-08-18T12:30:00Z"
+      },
+      {
+        "title": "Anthropic could beat Elon Musk's SpaceX for largest 2026 IPO, prediction markets show",
+        "link": "https://finance.yahoo.com/markets/stocks/article/anthropic-could-beat-elon-musks-spacex-for-largest-2026-ipo-prediction-markets-show-122619825.html",
+        "published": "2026-08-18T12:26:19Z"
+      },
+      {
         "title": "5-star analyst sets alarming SpaceX stock price target",
         "link": "https://finance.yahoo.com/markets/stocks/articles/5-star-analyst-sets-alarming-030700322.html",
         "published": "2026-08-18T03:07:00Z"
       },
       {
-        "title": "‘Indefensible and ugly’: $20 burritos have Tucker Carlson, JD Vance, Ben Shapiro fighting over America’s inflation woes",
-        "link": "https://finance.yahoo.com/economy/articles/indefensible-ugly-20-burritos-tucker-115500194.html",
-        "published": "2026-08-18T11:55:00Z"
+        "title": "Home Depot Beats Estimates in a “Frozen” Housing Market",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-beats-estimates-frozen-122124759.html",
+        "published": "2026-08-18T12:21:24Z"
       },
       {
-        "title": "Klarna posts Q2 profit, revenue growth, trims volume outlook",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/klarna-posts-q2-profit-revenue-growth-trims-volume-outlook-113515385.html",
-        "published": "2026-08-18T11:35:15Z"
-      },
-      {
-        "title": "Cellebrite’s (CLBT) Compounding Track Record Demands Enterprise Software Re-Rating",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/cellebrite-clbt-compounding-track-record-115027224.html",
-        "published": "2026-08-18T11:50:27Z"
-      },
-      {
-        "title": "Verizon’s Dividend Looks Secure But Investors Should Keep an Eye on Growth",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/verizon-dividend-looks-secure-investors-114804997.html",
-        "published": "2026-08-18T11:48:04Z"
-      },
-      {
-        "title": "A Doximity Director Moved 7,500 Shares the Day the Stock Popped 33%. Here's What to Know",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/doximity-director-moved-7-500-115301416.html",
-        "published": "2026-08-18T11:53:01Z"
-      },
-      {
-        "title": "Why Colgate-Palmolive Remains an Overlooked Dividend King",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/why-colgate-palmolive-remains-overlooked-114500190.html",
-        "published": "2026-08-18T11:45:00Z"
-      },
-      {
-        "title": "Realty Income Corporation (O)’s Monthly Dividend Makes it a Standout Income Stock",
-        "link": "https://finance.yahoo.com/real-estate/articles/realty-income-corporation-o-monthly-114156841.html",
-        "published": "2026-08-18T11:41:56Z"
+        "title": "Investors’ Focus on Higher Capital Spending Weighed on Northrop Grumman (NOC)",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/investors-focus-higher-capital-spending-122045999.html",
+        "published": "2026-08-18T12:20:45Z"
       }
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "The TI-84 has ruled math classes for decades. Can cheaper calculators gain ground?",
-        "link": "https://www.marketwatch.com/story/the-ti-84-has-ruled-math-classes-for-decades-can-cheaper-calculators-gain-ground-4c4554af?mod=mw_rss_topstories",
-        "published": "Tue, 18 Aug 2026 11:51:00 GMT"
+        "title": "How do I deal with co-workers who constantly complain about the dumbest problems?",
+        "link": "https://www.marketwatch.com/story/how-do-i-deal-with-co-workers-who-constantly-complain-about-the-dumbest-problems-44060bc7?mod=mw_rss_topstories",
+        "published": "Tue, 18 Aug 2026 12:56:00 GMT"
+      },
+      {
+        "title": "Home Depot revenue rises even as customers turn away from bigger projects",
+        "link": "https://www.marketwatch.com/story/home-depot-revenue-rises-even-as-customers-turn-away-from-bigger-projects-0798f7fd?mod=mw_rss_topstories",
+        "published": "Tue, 18 Aug 2026 12:32:00 GMT"
       },
       {
         "title": "Stocks keep shrugging off rising Treasury yields. Here’s the level that could finally trigger a selloff.",
         "link": "https://www.marketwatch.com/story/stocks-keep-shrugging-off-rising-treasury-yields-heres-the-level-that-could-finally-trigger-a-selloff-80c1634c?mod=mw_rss_topstories",
-        "published": "Tue, 18 Aug 2026 11:39:00 GMT"
+        "published": "Tue, 18 Aug 2026 12:17:00 GMT"
+      },
+      {
+        "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
+        "link": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
+        "published": "Tue, 18 Aug 2026 12:16:00 GMT"
+      },
+      {
+        "title": "Fund managers have rarely been this bullish about stocks, says a Bank of America survey",
+        "link": "https://www.marketwatch.com/story/fund-manager-have-rarely-been-this-bullish-about-stocks-says-bank-of-america-survey-dccd304a?mod=mw_rss_topstories",
+        "published": "Tue, 18 Aug 2026 12:07:00 GMT"
+      },
+      {
+        "title": "The TI-84 has ruled math classes for decades. Can cheaper calculators gain ground?",
+        "link": "https://www.marketwatch.com/story/the-ti-84-has-ruled-math-classes-for-decades-can-cheaper-calculators-gain-ground-4c4554af?mod=mw_rss_topstories",
+        "published": "Tue, 18 Aug 2026 11:51:00 GMT"
       },
       {
         "title": "‘I’m running out of time’: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?",
@@ -628,36 +648,16 @@
         "published": "Tue, 18 Aug 2026 11:15:00 GMT"
       },
       {
-        "title": "U.S. 30-year Treasury yield hits highest level since 2007 amid global bond sell-off",
+        "title": "U.S. 30-year Treasury yield hits highest level since 2007 amid global bond selloff",
         "link": "https://www.marketwatch.com/story/u-s-30-year-treasury-yield-hits-highest-level-since-2007-amid-global-bond-sell-off-f8dfb1df?mod=mw_rss_topstories",
         "published": "Tue, 18 Aug 2026 10:58:00 GMT"
-      },
-      {
-        "title": "‘This is very stressful’: My son’s insurance company won’t pay for his damaged roof. How can he fight this?",
-        "link": "https://www.marketwatch.com/story/this-is-very-stressful-my-sons-insurance-company-wont-pay-for-his-damaged-roof-how-can-he-fight-this-22f3a821?mod=mw_rss_topstories",
-        "published": "Tue, 18 Aug 2026 10:30:00 GMT"
-      },
-      {
-        "title": "Financial advisers tell us how they handle clients who love to gamble",
-        "link": "https://www.marketwatch.com/story/financial-advisers-tell-us-how-they-handle-clients-who-love-to-gamble-9438f239?mod=mw_rss_topstories",
-        "published": "Tue, 18 Aug 2026 10:00:00 GMT"
-      },
-      {
-        "title": "‘We are hurt’: Our son and daughter-in-law cut off contact with us over politics. Should we change our $3 million will?",
-        "link": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
-        "published": "Tue, 18 Aug 2026 09:15:00 GMT"
-      },
-      {
-        "title": "Usher’s art-packed Atlanta mansion also has a hookah lounge and a barbershop",
-        "link": "https://www.marketwatch.com/story/ushers-art-packed-atlanta-mansion-also-has-a-hookah-lounge-and-a-barbershop-00309302?mod=mw_rss_topstories",
-        "published": "Tue, 18 Aug 2026 09:03:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
         "title": "30-year Treasury yield tops 5.33%, new 19-year high on inflation, spending concerns",
         "link": "https://www.cnbc.com/2026/08/18/treasury-yields-.html",
-        "published": "Tue, 18 Aug 2026 11:51:36 GMT"
+        "published": "Tue, 18 Aug 2026 12:39:04 GMT"
       },
       {
         "title": "Home Depot reaffirms guidance amid 'frozen housing market conditions'",
@@ -670,14 +670,14 @@
         "published": "Tue, 18 Aug 2026 11:55:33 GMT"
       },
       {
-        "title": "Stocks making the biggest moves premarket: Home Depot, Tesla, Fabrinet, Duolingo & more",
-        "link": "https://www.cnbc.com/2026/08/18/stocks-making-the-biggest-moves-premarket-hd-tsla-fn-duol.html",
-        "published": "Tue, 18 Aug 2026 11:46:11 GMT"
+        "title": "Sea Ray parent Brunswick bets on AI navigation and new revenue streams to help stalling boat sales",
+        "link": "https://www.cnbc.com/2026/08/18/sea-ray-parent-brunswick-ai-recurring-revenue-boat-sales.html",
+        "published": "Tue, 18 Aug 2026 11:59:01 GMT"
       },
       {
-        "title": "Bitcoin is overdue for moves of 30% or more, Fundstrat says",
-        "link": "https://www.cnbc.com/2026/08/18/bitcoin-price-volatility-fundstrat.html",
-        "published": "Tue, 18 Aug 2026 03:02:10 GMT"
+        "title": "Popular language app is on the cusp of a turnaround. Buy the stock now, D.A. Davidson says",
+        "link": "https://www.cnbc.com/2026/08/18/popular-app-is-on-the-cusp-of-a-big-turnaround-da-davidson-says.html",
+        "published": "Tue, 18 Aug 2026 12:15:34 GMT"
       },
       {
         "title": "Trump's Oman bomb threat an attempt to get their 'attention,' says former ambassador",
@@ -685,14 +685,14 @@
         "published": "Tue, 18 Aug 2026 10:23:09 GMT"
       },
       {
-        "title": "L3Harris ousts CEO Chris Kubasik over unspecified 'conduct,' stock drops 4%",
-        "link": "https://www.cnbc.com/2026/08/17/l3harris-ceo-chris-kubasik-lhx-defense-mehta.html",
-        "published": "Mon, 17 Aug 2026 22:52:11 GMT"
+        "title": "'Worrisome': AI is driving a looming market correction, central bank economists warn",
+        "link": "https://www.cnbc.com/2026/08/18/ai-tech-rally-correction-economists.html",
+        "published": "Tue, 18 Aug 2026 12:07:05 GMT"
       },
       {
-        "title": "The startup using AI to help rare disease families develop custom treatments",
-        "link": "https://www.cnbc.com/2026/08/18/the-startup-using-ai-to-help-build-custom-treatments-for-rare-diseases.html",
-        "published": "Tue, 18 Aug 2026 11:00:01 GMT"
+        "title": "Stocks making the biggest moves premarket: Home Depot, Tesla, Fabrinet, Duolingo & more",
+        "link": "https://www.cnbc.com/2026/08/18/stocks-making-the-biggest-moves-premarket-hd-tsla-fn-duol.html",
+        "published": "Tue, 18 Aug 2026 11:46:11 GMT"
       }
     ]
   }
