@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-08-19T17:23:00",
+  "generated_at": "2026-08-19T17:49:34",
   "date": "2026-08-19",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7710.99,
-        "pct_change": 0.25
+        "last": 7715.75,
+        "pct_change": 0.31
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26317.19,
-        "pct_change": 0.1
+        "last": 26339.14,
+        "pct_change": 0.19
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 53414.64,
-        "pct_change": 0.13
+        "last": 53456.54,
+        "pct_change": 0.21
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3037.91,
-        "pct_change": 0.66
+        "last": 3035.7,
+        "pct_change": 0.59
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.17,
-        "pct_change": -4.23
+        "last": 15.25,
+        "pct_change": -3.72
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
@@ -35,75 +35,75 @@
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 98.91,
-        "pct_change": -0.74
+        "last": 98.94,
+        "pct_change": -0.71
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 85.69,
-        "pct_change": 0.88
+        "last": 85.24,
+        "pct_change": 0.35
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4549.5,
-        "pct_change": 4.2
+        "last": 4546.7,
+        "pct_change": 4.14
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 183.72,
-        "pct_change": -1.03
+        "last": 183.88,
+        "pct_change": -0.94
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 57.74,
-        "pct_change": -0.18
+        "last": 57.71,
+        "pct_change": -0.22
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 63.76,
-        "pct_change": 0.12
+        "last": 63.74,
+        "pct_change": 0.09
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 174.81,
-        "pct_change": 2.99
+        "last": 175.07,
+        "pct_change": 3.15
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 118.34,
-        "pct_change": 1.7
+        "last": 118.4,
+        "pct_change": 1.76
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 86.6,
-        "pct_change": 1.19
+        "last": 86.73,
+        "pct_change": 1.34
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 182.46,
-        "pct_change": -0.6
+        "last": 182.51,
+        "pct_change": -0.58
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 44.0,
-        "pct_change": -0.06
+        "last": 44.03,
+        "pct_change": 0.03
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 52.72,
-        "pct_change": 1.83
+        "last": 52.6,
+        "pct_change": 1.58
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.72,
-        "pct_change": 0.21
+        "last": 44.78,
+        "pct_change": 0.34
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 111.55,
-        "pct_change": 0.97
+        "last": 111.74,
+        "pct_change": 1.14
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 158.47,
-        "pct_change": -0.55
+        "last": 158.56,
+        "pct_change": -0.49
       }
     }
   },
@@ -144,52 +144,52 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 151.95,
-        "pct_change": -4.97
+        "last": 151.79,
+        "pct_change": -5.07
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 314.98,
-        "pct_change": 1.6
+        "last": 315.26,
+        "pct_change": 1.69
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 483.02,
-        "pct_change": 0.29
+        "last": 483.25,
+        "pct_change": 0.34
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 264.09,
-        "pct_change": 1.79
+        "last": 264.17,
+        "pct_change": 1.82
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 343.86,
-        "pct_change": -0.1
+        "last": 343.79,
+        "pct_change": -0.12
       },
       "Meta": {
         "symbol": "META",
-        "last": 551.9,
-        "pct_change": 1.51
+        "last": 552.19,
+        "pct_change": 1.57
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 834.44,
-        "pct_change": -4.45
+        "last": 833.9,
+        "pct_change": -4.51
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 289.1,
-        "pct_change": -5.66
+        "last": 288.67,
+        "pct_change": -5.8
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 156.88,
-        "pct_change": -1.69
+        "last": 156.9,
+        "pct_change": -1.67
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -584,42 +584,52 @@
         "published": "2026-08-18T17:10:35Z"
       },
       {
-        "title": "ASML Stock Takes A Break After Rebounding",
-        "link": "https://www.investors.com/research/asml-stock-chip-equipment-lithography/?src=A00220&yptr=yahoo",
-        "published": "2026-08-19T16:58:13Z"
+        "title": "US Treasury Secretary Bessent doubles US long-bond buybacks in the face of surging yields",
+        "link": "https://finance.yahoo.com/economy/policy/articles/us-treasury-double-sizes-debt-134308742.html",
+        "published": "2026-08-19T17:25:44Z"
       },
       {
-        "title": "Marvell Stock Jumps On Google Chip, Investment Deal",
-        "link": "https://www.investors.com/news/technology/marvell-stock-jumps-on-google-chip-investment-deal/?src=A00220&yptr=yahoo",
-        "published": "2026-08-19T16:50:23Z"
+        "title": "Tencent Music (TME) Turns Streaming Into A Sprawling Entertainment Machine",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/tencent-music-tme-turns-streaming-172444596.html",
+        "published": "2026-08-19T17:24:44Z"
       },
       {
-        "title": "Cardinal Health’s (CAH) Big Earnings Beat Hides a More Complicated Story",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/cardinal-health-cah-big-earnings-165020198.html",
-        "published": "2026-08-19T16:50:20Z"
+        "title": "Tech stocks today: OpenAI's growth disappoints, Meta trial continues",
+        "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-openais-growth-disappoints-meta-trial-continues-132945569.html",
+        "published": "2026-08-17T13:29:45Z"
       },
       {
-        "title": "Moderna shares double as cancer vaccine data rekindles investor hopes",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/moderna-shares-double-cancer-vaccine-164453025.html",
-        "published": "2026-08-19T16:49:17Z"
-      },
-      {
-        "title": "Nebius (NBIS) Q2 2026 Earnings Call Transcript",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-nbis-q2-2026-earnings-165907370.html",
-        "published": "2026-08-19T16:59:07Z"
-      },
-      {
-        "title": "CrowdStrike Stock Likely To Swing On Earnings. This Trade Generates A Return From The Moves.",
-        "link": "https://www.investors.com/research/options/crowdstrike-stock-crwd-cybersecurity-tech-options-market-trade-earnings-volatility/?src=A00220&yptr=yahoo",
-        "published": "2026-08-19T16:44:19Z"
-      },
-      {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq gain steam as bonds rally, Trump pauses tariffs on Canadian goods",
+        "title": "Stock market today: Dow, S&P 500, Nasdaq rise as bonds rally, Moderna stock skyrockets",
         "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-19-dow-sp-500-nasdaq-081116064.html",
         "published": "2026-08-19T08:11:16Z"
+      },
+      {
+        "title": "EU approves Mercedes, BMW and Seres joint control of Ionchi",
+        "link": "https://finance.yahoo.com/energy/articles/eu-approves-mercedes-bmw-seres-173519418.html",
+        "published": "2026-08-19T17:35:19Z"
+      },
+      {
+        "title": "Venture Global (VG): Record Earnings and Raised Outlook Signal Strong Growth",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/venture-global-vg-record-earnings-171746060.html",
+        "published": "2026-08-19T17:17:46Z"
+      },
+      {
+        "title": "Stock Market Today: S&P 500 Higher As Fed Minutes Loom; Bitcoin Jumps Ahead Of White House Meet (Live Coverage)",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-minutes-nvidia-sk-hynix-skhy/?src=A00220&yptr=yahoo",
+        "published": "2026-08-19T17:14:38Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "Apple’s stock could be the savviest buy within Big Tech, according to this analysis",
+        "link": "https://www.marketwatch.com/story/apples-stock-could-be-the-savviest-buy-within-big-tech-according-to-this-analysis-84d67c92?mod=mw_rss_topstories",
+        "published": "Wed, 19 Aug 2026 17:39:00 GMT"
+      },
+      {
+        "title": "‘I’m running out of time’: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?",
+        "link": "https://www.marketwatch.com/story/im-running-out-of-time-i-sold-my-300-000-rental-property-at-a-75-000-loss-should-i-buy-another-one-to-avoid-taxes-f214c172?mod=mw_rss_topstories",
+        "published": "Wed, 19 Aug 2026 17:30:00 GMT"
+      },
       {
         "title": "‘Trump accounts’ won’t help solve Americans’ savings problems. Here’s a better way.",
         "link": "https://www.marketwatch.com/story/trump-accounts-wont-help-solve-americans-savings-problems-heres-a-better-way-73c32cff?mod=mw_rss_topstories",
@@ -649,16 +659,6 @@
         "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
         "link": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
         "published": "Wed, 19 Aug 2026 15:30:00 GMT"
-      },
-      {
-        "title": "I want to be a snowbird, but I’m not sure my $2 million nest egg can sustain two homes",
-        "link": "https://www.marketwatch.com/story/i-want-to-be-a-snowbird-but-im-not-sure-my-2-million-nest-egg-can-sustain-two-homes-ce903e6b?mod=mw_rss_topstories",
-        "published": "Wed, 19 Aug 2026 15:17:00 GMT"
-      },
-      {
-        "title": "‘Too many people go bankrupt’: Should Medicare provide catastrophic coverage?",
-        "link": "https://www.marketwatch.com/story/too-many-people-go-bankrupt-should-medicare-provide-catastrophic-coverage-f7c653da?mod=mw_rss_topstories",
-        "published": "Wed, 19 Aug 2026 15:15:00 GMT"
       }
     ],
     "CNBC Top News": [
@@ -673,9 +673,14 @@
         "published": "Wed, 19 Aug 2026 16:40:21 GMT"
       },
       {
-        "title": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock more than doubles",
+        "title": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock soars 150%",
         "link": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
-        "published": "Wed, 19 Aug 2026 14:12:04 GMT"
+        "published": "Wed, 19 Aug 2026 17:48:08 GMT"
+      },
+      {
+        "title": "Meta's legal troubles has options traders eyeing the 'jade lizard'",
+        "link": "https://www.cnbc.com/2026/08/19/metas-legal-troubles-has-options-traders-eyeing-the-jade-lizard.html",
+        "published": "Wed, 19 Aug 2026 17:25:05 GMT"
       },
       {
         "title": "Carvana shares are under pressure this week as Mark Walter probe fuels investor jitters",
@@ -688,19 +693,14 @@
         "published": "Wed, 19 Aug 2026 15:41:55 GMT"
       },
       {
+        "title": "Stephanie Link is buying this little-known play on the AI food chain. And it's cheap",
+        "link": "https://www.cnbc.com/2026/08/19/stephanie-link-buying-ai-play-timken.html",
+        "published": "Wed, 19 Aug 2026 16:49:02 GMT"
+      },
+      {
         "title": "Cramer on Treasury buying: People want to preserve the stock rally ‘in the worst way’",
         "link": "https://www.cnbc.com/2026/08/19/cramer-on-treasury-buying-people-want-to-preserve-the-stock-rally-in-the-worst-way.html",
         "published": "Wed, 19 Aug 2026 16:44:34 GMT"
-      },
-      {
-        "title": "Yields are driving the stock market right now. These are the stocks with the most at stake",
-        "link": "https://www.cnbc.com/2026/08/19/yields-are-driving-the-stock-market-right-now-these-are-the-stocks-with-the-most-at-stake.html",
-        "published": "Wed, 19 Aug 2026 16:26:41 GMT"
-      },
-      {
-        "title": "Board approves $19.9 billion plan to overhaul Washington Dulles airport",
-        "link": "https://www.cnbc.com/2026/08/19/board-approves-19point9-billion-plan-to-overhaul-dcs-dulles-airport.html",
-        "published": "Wed, 19 Aug 2026 16:30:07 GMT"
       }
     ]
   }
