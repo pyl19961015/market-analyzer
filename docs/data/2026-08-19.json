@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-08-19T18:29:24",
+  "generated_at": "2026-08-19T19:03:52",
   "date": "2026-08-19",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7714.4,
-        "pct_change": 0.29
+        "last": 7715.26,
+        "pct_change": 0.31
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26330.8,
-        "pct_change": 0.16
+        "last": 26340.0,
+        "pct_change": 0.19
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 53466.26,
-        "pct_change": 0.23
+        "last": 53430.12,
+        "pct_change": 0.16
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3031.83,
-        "pct_change": 0.46
+        "last": 3032.34,
+        "pct_change": 0.48
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.15,
-        "pct_change": -4.36
+        "last": 15.07,
+        "pct_change": -4.86
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.66,
-        "pct_change": -1.04
+        "last": 4.65,
+        "pct_change": -1.1
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 98.88,
-        "pct_change": -0.77
+        "last": 98.84,
+        "pct_change": -0.82
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 84.72,
-        "pct_change": -0.26
+        "last": 84.28,
+        "pct_change": -0.78
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4543.8,
-        "pct_change": 4.07
+        "last": 4551.5,
+        "pct_change": 4.25
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 183.71,
-        "pct_change": -1.03
+        "last": 183.79,
+        "pct_change": -0.99
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 57.68,
-        "pct_change": -0.28
+        "last": 57.56,
+        "pct_change": -0.48
       },
       "Energy": {
         "symbol": "XLE",
         "last": 63.63,
-        "pct_change": -0.07
+        "pct_change": -0.08
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 175.5,
-        "pct_change": 3.4
+        "last": 175.85,
+        "pct_change": 3.61
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 118.56,
-        "pct_change": 1.89
+        "last": 118.39,
+        "pct_change": 1.75
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 86.95,
-        "pct_change": 1.6
+        "last": 86.88,
+        "pct_change": 1.52
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 182.32,
-        "pct_change": -0.68
+        "last": 181.99,
+        "pct_change": -0.86
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 44.06,
-        "pct_change": 0.08
+        "last": 44.04,
+        "pct_change": 0.05
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 52.31,
-        "pct_change": 1.02
+        "last": 52.45,
+        "pct_change": 1.29
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.87,
-        "pct_change": 0.54
+        "last": 44.88,
+        "pct_change": 0.57
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 111.71,
-        "pct_change": 1.12
+        "last": 111.75,
+        "pct_change": 1.15
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 158.49,
-        "pct_change": -0.53
+        "last": 158.33,
+        "pct_change": -0.63
       }
     }
   },
@@ -138,58 +138,58 @@
       "as_of": "2026-08-18",
       "prev_yield": 2.919
     },
-    "spread_10y": 1.73
+    "spread_10y": 1.72
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 151.25,
-        "pct_change": -5.41
+        "last": 151.36,
+        "pct_change": -5.34
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 314.94,
-        "pct_change": 1.58
+        "last": 315.08,
+        "pct_change": 1.63
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 484.07,
-        "pct_change": 0.51
+        "last": 484.27,
+        "pct_change": 0.55
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 264.32,
-        "pct_change": 1.88
+        "last": 264.18,
+        "pct_change": 1.82
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 343.84,
-        "pct_change": -0.1
+        "last": 344.35,
+        "pct_change": 0.04
       },
       "Meta": {
         "symbol": "META",
-        "last": 550.24,
-        "pct_change": 1.21
+        "last": 551.33,
+        "pct_change": 1.41
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 828.43,
-        "pct_change": -5.14
+        "last": 822.8,
+        "pct_change": -5.78
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 286.28,
-        "pct_change": -6.58
+        "last": 285.51,
+        "pct_change": -6.83
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 156.55,
-        "pct_change": -1.89
+        "last": 156.4,
+        "pct_change": -1.98
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -584,51 +584,61 @@
         "published": "2026-08-18T17:10:35Z"
       },
       {
-        "title": "Wendy’s (WEN) New Leadership Confronts A Steep Turnaround",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/wendy-wen-leadership-confronts-steep-092529600.html",
-        "published": "2026-08-18T09:25:29Z"
+        "title": "ServiceNow Stock Outlook: Is Wall Street Bullish or Bearish?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/servicenow-stock-outlook-wall-street-100830588.html",
+        "published": "2026-08-18T10:08:30Z"
       },
       {
-        "title": "Social Security now poised for big ‘Trump Bump’ in the months ahead — here’s how much extra cash you’ll likely get",
-        "link": "https://finance.yahoo.com/economy/policy/articles/social-security-now-poised-big-163000521.html",
-        "published": "2026-08-18T09:15:00Z"
+        "title": "Why states fought to present a united case against Meta over youth social media harms",
+        "link": "https://finance.yahoo.com/media-advertising/articles/why-states-fought-present-united-100840947.html",
+        "published": "2026-08-18T10:08:40Z"
       },
       {
-        "title": "European direct lending volume rebounds, amid support for software names",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/european-direct-lending-volume-rebounds-093531367.html",
-        "published": "2026-08-18T09:35:31Z"
+        "title": "Do Wall Street Analysts Like Omnicom Group Stock?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-omnicom-group-100346066.html",
+        "published": "2026-08-18T10:03:46Z"
       },
       {
-        "title": "China's Pony.ai plans to deploy more than 4,000 robotaxis abroad",
-        "link": "https://finance.yahoo.com/technology/ai/articles/chinas-pony-ais-overseas-robotaxi-090300147.html",
-        "published": "2026-08-18T09:03:00Z"
+        "title": "Analysis-Canada's pipeline ambitions hinge on uncertain output expansion",
+        "link": "https://finance.yahoo.com/news/analysis-canadas-pipeline-ambitions-hinge-100608458.html",
+        "published": "2026-08-18T10:06:08Z"
       },
       {
-        "title": "US AI infrastructure company Groq raises $350m Series A at $3.5bn valuation",
-        "link": "https://finance.yahoo.com/technology/ai/articles/us-ai-infrastructure-company-groq-092426806.html",
-        "published": "2026-08-18T09:24:26Z"
+        "title": "He Withdrew $70,000 From His 401(k) and Earned $10,000 Welding. Social Security Counted Only the Smaller Number.",
+        "link": "https://finance.yahoo.com/markets/articles/withdrew-70-000-401-k-100923539.html",
+        "published": "2026-08-18T10:09:23Z"
       },
       {
-        "title": "What Are Wall Street Analysts' Target Price for Expeditors International Stock?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-093541496.html",
-        "published": "2026-08-18T09:35:41Z"
+        "title": "Did the Commodities Complex See Turnaround Activity Overnight?",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/did-commodities-complex-see-turnaround-095943320.html",
+        "published": "2026-08-18T09:59:43Z"
       },
       {
-        "title": "Ask an Advisor: I'm 43 With $315K in an IRA, $90K in a Roth and Maxing My 401(k). Is Retirement at 57 Realistic?",
-        "link": "https://finance.yahoo.com/news/ask-advisor-im-43-old-160032038.html",
-        "published": "2026-08-18T09:00:00Z"
+        "title": "Xylem Stock: Analyst Estimates & Ratings",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/xylem-stock-analyst-estimates-ratings-095644774.html",
+        "published": "2026-08-18T09:56:44Z"
       }
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "I want to be a snowbird. Can my $2 million nest egg sustain two homes?",
-        "link": "https://www.marketwatch.com/story/i-want-to-be-a-snowbird-but-im-not-sure-my-2-million-nest-egg-can-sustain-two-homes-ce903e6b?mod=mw_rss_topstories",
-        "published": "Wed, 19 Aug 2026 18:26:00 GMT"
+        "title": "My wife can claim $900 at 62. Should she take it now — or wait for her spousal benefit?",
+        "link": "https://www.marketwatch.com/story/i-want-her-to-choose-the-best-strategy-my-wifes-social-security-is-just-900-should-she-claim-spousal-benefit-at-62-e3ef621d?mod=mw_rss_topstories",
+        "published": "Wed, 19 Aug 2026 18:39:00 GMT"
+      },
+      {
+        "title": "Gen Z used to embrace AI. Now most young adults fear it will steal their jobs.",
+        "link": "https://www.marketwatch.com/story/gen-z-used-to-embrace-ai-now-most-young-adults-fear-it-will-steal-their-jobs-b02bdcfb?mod=mw_rss_topstories",
+        "published": "Wed, 19 Aug 2026 18:35:00 GMT"
       },
       {
         "title": "Fed minutes reveal growing support for rate hikes",
         "link": "https://www.marketwatch.com/story/fed-minutes-reveal-growing-support-for-rate-hikes-84fc9afa?mod=mw_rss_topstories",
-        "published": "Wed, 19 Aug 2026 18:04:00 GMT"
+        "published": "Wed, 19 Aug 2026 18:27:00 GMT"
+      },
+      {
+        "title": "I want to be a snowbird. Can my $2 million nest egg sustain two homes?",
+        "link": "https://www.marketwatch.com/story/i-want-to-be-a-snowbird-but-im-not-sure-my-2-million-nest-egg-can-sustain-two-homes-ce903e6b?mod=mw_rss_topstories",
+        "published": "Wed, 19 Aug 2026 18:26:00 GMT"
       },
       {
         "title": "Want to bet on the bond rally? Check out these overlooked funds.",
@@ -649,16 +659,6 @@
         "title": "Five reasons we’re headed for a 10% stock-market correction — or worse",
         "link": "https://www.marketwatch.com/story/five-reasons-were-headed-for-a-10-stock-market-correction-or-worse-74840e8e?mod=mw_rss_topstories",
         "published": "Wed, 19 Aug 2026 17:47:00 GMT"
-      },
-      {
-        "title": "Apple’s stock could be the savviest buy within Big Tech, according to this analysis",
-        "link": "https://www.marketwatch.com/story/apples-stock-could-be-the-savviest-buy-within-big-tech-according-to-this-analysis-84d67c92?mod=mw_rss_topstories",
-        "published": "Wed, 19 Aug 2026 17:39:00 GMT"
-      },
-      {
-        "title": "‘I’m running out of time’: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?",
-        "link": "https://www.marketwatch.com/story/im-running-out-of-time-i-sold-my-300-000-rental-property-at-a-75-000-loss-should-i-buy-another-one-to-avoid-taxes-f214c172?mod=mw_rss_topstories",
-        "published": "Wed, 19 Aug 2026 17:30:00 GMT"
       }
     ],
     "CNBC Top News": [
@@ -670,7 +670,7 @@
       {
         "title": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show",
         "link": "https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html",
-        "published": "Wed, 19 Aug 2026 18:07:21 GMT"
+        "published": "Wed, 19 Aug 2026 18:54:50 GMT"
       },
       {
         "title": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock soars 150%",
@@ -678,14 +678,14 @@
         "published": "Wed, 19 Aug 2026 17:48:08 GMT"
       },
       {
-        "title": "DOJ cites Comey's novel in urging judge not to toss '86 47' seashells threat to Trump case",
+        "title": "DOJ cites Comey's novel in urging judge not to toss ‘86 47' seashells threat to Trump case",
         "link": "https://www.cnbc.com/2026/08/19/comey-trump-8647-seashells-threat-doj.html",
-        "published": "Wed, 19 Aug 2026 18:07:40 GMT"
+        "published": "Wed, 19 Aug 2026 18:54:04 GMT"
       },
       {
         "title": "Yields pull back from multi-year highs after Treasury Department says it will double government debt repurchase size",
         "link": "https://www.cnbc.com/2026/08/19/treasury-yields-multi-decade-highs-bonds-inflation.html",
-        "published": "Wed, 19 Aug 2026 18:06:04 GMT"
+        "published": "Wed, 19 Aug 2026 19:02:50 GMT"
       },
       {
         "title": "Meta's legal troubles has options traders eyeing the 'jade lizard'",
@@ -693,9 +693,9 @@
         "published": "Wed, 19 Aug 2026 17:25:05 GMT"
       },
       {
-        "title": "Stephanie Link is buying this little-known play on the AI food chain. And it's cheap",
-        "link": "https://www.cnbc.com/2026/08/19/stephanie-link-buying-ai-play-timken.html",
-        "published": "Wed, 19 Aug 2026 16:49:02 GMT"
+        "title": "Bullish chart patterns are emerging for Range Resources, Frank Cappelleri says",
+        "link": "https://www.cnbc.com/2026/08/19/bullish-chart-patterns-emerging-for-range-resources-cappelleri-says.html",
+        "published": "Wed, 19 Aug 2026 18:20:38 GMT"
       },
       {
         "title": "Carvana shares are under pressure this week as Mark Walter probe fuels investor jitters",
