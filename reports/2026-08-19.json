@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T05:25:43",
+  "generated_at": "2026-08-19T05:55:20",
   "date": "2026-08-19",
   "market_sentiment": {
     "indices": {
@@ -15,13 +15,13 @@
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 53343.4,
-        "pct_change": -0.22
+        "last": 53459.78,
+        "pct_change": -0.51
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3017.89,
-        "pct_change": -1.3
+        "last": 3057.54,
+        "pct_change": -0.35
       },
       "VIX": {
         "symbol": "^VIX",
@@ -30,45 +30,45 @@
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.71,
-        "pct_change": -0.38
+        "last": 4.72,
+        "pct_change": 0.6
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.55,
+        "last": 99.54,
         "pct_change": -0.1
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 84.58,
-        "pct_change": -0.42
+        "last": 84.72,
+        "pct_change": -0.26
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4392.2,
-        "pct_change": 0.6
+        "last": 4393.6,
+        "pct_change": 0.63
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 185.62,
-        "pct_change": -2.47
+        "last": 190.32,
+        "pct_change": 0.16
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 57.84,
-        "pct_change": 0.45
+        "last": 57.58,
+        "pct_change": -1.0
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 63.68,
-        "pct_change": 1.76
+        "last": 62.58,
+        "pct_change": 1.08
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 169.73,
-        "pct_change": 1.6
+        "last": 167.05,
+        "pct_change": -0.19
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
@@ -77,8 +77,8 @@
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 85.58,
-        "pct_change": 1.06
+        "last": 84.68,
+        "pct_change": -1.64
       },
       "Industrials": {
         "symbol": "XLI",
@@ -87,13 +87,13 @@
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 44.02,
-        "pct_change": -0.36
+        "last": 44.18,
+        "pct_change": -0.29
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 51.78,
-        "pct_change": -0.88
+        "last": 52.24,
+        "pct_change": -0.57
       },
       "Real Estate": {
         "symbol": "XLRE",
@@ -102,8 +102,8 @@
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 110.48,
-        "pct_change": -0.31
+        "last": 110.82,
+        "pct_change": -1.89
       }
     }
   },
@@ -111,18 +111,18 @@
     "indices": {
       "Nikkei 225": {
         "symbol": "^N225",
-        "last": 65465.07,
-        "pct_change": -2.96
+        "last": 65255.07,
+        "pct_change": -5.73
       },
       "TOPIX (ETF代理)": {
         "symbol": "1306.T",
-        "last": 418.5,
-        "pct_change": -2.9
+        "last": 417.7,
+        "pct_change": -3.09
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 159.26,
-        "pct_change": -0.05
+        "last": 159.3,
+        "pct_change": -0.03
       }
     }
   },
@@ -138,14 +138,14 @@
       "as_of": "2026-08-18",
       "prev_yield": 2.919
     },
-    "spread_10y": 1.78
+    "spread_10y": 1.79
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 159.9,
-        "pct_change": -7.68
+        "last": 173.21,
+        "pct_change": 4.35
       }
     },
     "demand_drivers": {
@@ -156,13 +156,13 @@
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 481.63,
-        "pct_change": 0.27
+        "last": 480.35,
+        "pct_change": -3.04
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 259.45,
-        "pct_change": -0.71
+        "last": 261.31,
+        "pct_change": -0.51
       },
       "Alphabet": {
         "symbol": "GOOGL",
@@ -171,15 +171,15 @@
       },
       "Meta": {
         "symbol": "META",
-        "last": 543.67,
-        "pct_change": -4.45
+        "last": 568.97,
+        "pct_change": -3.54
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 873.31,
-        "pct_change": -9.87
+        "last": 968.9,
+        "pct_change": 4.62
       },
       "Coherent": {
         "symbol": "COHR",
@@ -188,13 +188,13 @@
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 159.57,
-        "pct_change": -6.61
+        "last": 170.87,
+        "pct_change": 2.25
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 5635.0,
-        "pct_change": -5.04
+        "last": 5621.0,
+        "pct_change": -5.27
       }
     }
   },
@@ -584,24 +584,24 @@
         "published": "2026-08-18T17:10:35Z"
       },
       {
-        "title": "SpaceX Stock: Here's A Way To Profit From This Volatile IPO",
-        "link": "https://www.investors.com/research/options/spacex-spcx-stock-space-exploration-technologies-bear-put-spread-options/?src=A00220&yptr=yahoo",
-        "published": "2026-08-17T17:30:42Z"
+        "title": "OpenAI staff are cashing out millions before the IPO because they're 'burnt out' and 'frustrated'",
+        "link": "https://finance.yahoo.com/technology/ai/articles/openai-staff-cashing-millions-ipo-180000874.html",
+        "published": "2026-08-17T18:00:00Z"
       },
       {
-        "title": "Huge Unusual Long-Dated Call Options in Oracle Corp - A Covered Call ORCL Play?",
-        "link": "https://finance.yahoo.com/markets/options/articles/huge-unusual-long-dated-call-173002778.html",
-        "published": "2026-08-17T17:30:02Z"
+        "title": "This Quantum Computing Stock Just Scored a Major Breakthrough Deal. How to Play QNT Here.",
+        "link": "https://finance.yahoo.com/technology/articles/quantum-computing-stock-just-scored-180252016.html",
+        "published": "2026-08-17T18:02:52Z"
       },
       {
-        "title": "Airbnb 'rental arbitrage' lets entrepreneurs earn cash from short-term rentals without owning a single property",
-        "link": "https://finance.yahoo.com/real-estate/articles/airbnb-rental-arbitrage-lets-entrepreneurs-173000455.html",
-        "published": "2026-08-17T17:30:00Z"
+        "title": "Applied Material Falls Despite Posting Above-Average Q3 Results. Why, and What to  Do With AMAT Stock Now.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/applied-material-falls-despite-posting-175748379.html",
+        "published": "2026-08-17T17:57:48Z"
       },
       {
-        "title": "JPMorgan warns a brutal grocery shock could hit boomers, as USDA says prices may jump 12.3%. Is your nest egg ready?",
-        "link": "https://finance.yahoo.com/economy/articles/jpmorgan-warns-brutal-grocery-shock-173000391.html",
-        "published": "2026-08-17T17:30:00Z"
+        "title": "Hedge Fund Heavyweights Are Dumping Micron (MU). Except One Billionaire.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/hedge-fund-heavyweights-dumping-micron-180820254.html",
+        "published": "2026-08-17T18:08:20Z"
       },
       {
         "title": "Italian chain closes 50 restaurants after Chapter 11 bankruptcy",
@@ -609,14 +609,14 @@
         "published": "2026-08-17T23:00:00Z"
       },
       {
-        "title": "Berkshire Is Chasing GOOG Stock Big Time, But It Might Not Help Reverse Warren Buffett’s Historical Mistake",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-chasing-goog-stock-big-173734375.html",
-        "published": "2026-08-17T17:37:34Z"
+        "title": "Billionaire Jeff Bezos Says He Didn’t Put All His Eggs in His ‘Space Basket’ and Still Is Very Involved in Amazon —‘I’ve Actually Never Worked Harder’",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-jeff-bezos-says-didn-181351360.html",
+        "published": "2026-08-17T18:13:51Z"
       },
       {
-        "title": "The world’s third-largest shipping line has a new US chief",
-        "link": "https://finance.yahoo.com/markets/articles/world-third-largest-shipping-line-172117072.html",
-        "published": "2026-08-17T17:21:17Z"
+        "title": "Three Center-Stage AI Players Join Eli Lilly On Elite Screen",
+        "link": "https://www.investors.com/research/stock-market-ai-data-center-hewlett-packard-enterprise-hpe/?src=A00220&yptr=yahoo",
+        "published": "2026-08-17T18:13:57Z"
       }
     ],
     "MarketWatch Top Stories": [
