@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-08-19T13:56:30",
+  "generated_at": "2026-08-19T14:33:07",
   "date": "2026-08-19",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7719.31,
-        "pct_change": 0.36
+        "last": 7721.24,
+        "pct_change": 0.38
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26249.73,
-        "pct_change": -0.15
+        "last": 26293.51,
+        "pct_change": 0.01
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 53606.55,
-        "pct_change": 0.49
+        "last": 53614.08,
+        "pct_change": 0.51
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3041.69,
-        "pct_change": 0.79
+        "last": 3035.81,
+        "pct_change": 0.59
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.41,
-        "pct_change": -2.71
+        "last": 15.33,
+        "pct_change": -3.22
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.65,
-        "pct_change": -1.25
+        "last": 4.64,
+        "pct_change": -1.34
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 98.97,
-        "pct_change": -0.68
+        "last": 98.9,
+        "pct_change": -0.76
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 84.52,
-        "pct_change": -0.49
+        "last": 84.76,
+        "pct_change": -0.21
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4519.2,
-        "pct_change": 3.51
+        "last": 4531.8,
+        "pct_change": 3.8
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 183.63,
-        "pct_change": -1.07
+        "last": 183.54,
+        "pct_change": -1.12
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 58.08,
-        "pct_change": 0.41
+        "last": 57.99,
+        "pct_change": 0.25
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 64.19,
-        "pct_change": 0.8
+        "last": 64.14,
+        "pct_change": 0.71
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 176.13,
-        "pct_change": 3.77
+        "last": 176.03,
+        "pct_change": 3.71
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 117.83,
-        "pct_change": 1.26
+        "last": 118.45,
+        "pct_change": 1.8
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 87.03,
-        "pct_change": 1.69
+        "last": 86.86,
+        "pct_change": 1.5
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 183.34,
-        "pct_change": -0.13
+        "last": 183.24,
+        "pct_change": -0.18
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 44.33,
-        "pct_change": 0.7
+        "last": 44.12,
+        "pct_change": 0.22
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 52.83,
-        "pct_change": 2.03
+        "last": 53.02,
+        "pct_change": 2.39
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 45.06,
-        "pct_change": 0.97
+        "last": 44.89,
+        "pct_change": 0.58
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 111.21,
-        "pct_change": 0.66
+        "last": 111.7,
+        "pct_change": 1.1
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 158.51,
-        "pct_change": -0.52
+        "last": 158.12,
+        "pct_change": -0.77
       }
     }
   },
@@ -138,58 +138,58 @@
       "as_of": "2026-08-18",
       "prev_yield": 2.919
     },
-    "spread_10y": 1.72
+    "spread_10y": 1.71
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 153.24,
-        "pct_change": -4.17
+        "last": 153.6,
+        "pct_change": -3.94
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 315.1,
-        "pct_change": 1.63
+        "last": 316.57,
+        "pct_change": 2.11
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 481.81,
-        "pct_change": 0.04
+        "last": 481.86,
+        "pct_change": 0.05
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 259.44,
-        "pct_change": -0.0
+        "last": 261.57,
+        "pct_change": 0.82
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 342.62,
-        "pct_change": -0.46
+        "last": 343.33,
+        "pct_change": -0.25
       },
       "Meta": {
         "symbol": "META",
-        "last": 544.2,
-        "pct_change": 0.1
+        "last": 547.17,
+        "pct_change": 0.64
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 840.45,
-        "pct_change": -3.76
+        "last": 852.5,
+        "pct_change": -2.38
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 294.45,
-        "pct_change": -3.91
+        "last": 295.94,
+        "pct_change": -3.42
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 158.09,
-        "pct_change": -0.93
+        "last": 158.29,
+        "pct_change": -0.8
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -584,103 +584,108 @@
         "published": "2026-08-18T17:10:35Z"
       },
       {
-        "title": "SpaceX stock in focus after China rocket milestone, share unlock ahead",
-        "link": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-in-focus-after-china-rocket-milestone-share-unlock-ahead-134536527.html",
-        "published": "2026-08-19T13:45:36Z"
+        "title": "Tech stocks today: OpenAI's growth disappoints, Meta trial continues",
+        "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-openais-growth-disappoints-meta-trial-continues-132945569.html",
+        "published": "2026-08-17T13:29:45Z"
       },
       {
-        "title": "Instant View: US Treasury will double some bond buy backs",
-        "link": "https://finance.yahoo.com/news/instant-view-us-treasury-double-134328359.html",
-        "published": "2026-08-19T13:43:28Z"
+        "title": "‘AI Plays in Disguise’ – Analyst Highlights Quanta Services (PWR) as a Promising AI Power Stock",
+        "link": "https://finance.yahoo.com/technology/ai/articles/ai-plays-disguise-analyst-highlights-141818851.html",
+        "published": "2026-08-19T14:18:18Z"
       },
       {
-        "title": "Stock Market Today: Dow Rises On Treasury Buybacks; Moderna Soars On Cancer Drug News (Live Coverage)",
-        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-minutes-nvidia-sk-hynix-skhy/?src=A00220&yptr=yahoo",
-        "published": "2026-08-19T13:39:24Z"
+        "title": "Vestis (VSTS) Delivers Its First Real Pricing Win",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/vestis-vsts-delivers-first-real-141518943.html",
+        "published": "2026-08-19T14:15:18Z"
       },
       {
-        "title": "Taiwan Semiconductor Manufacturing Company (TSM) Looks Built for Long-Term Growth, but What Happens in the Next Downturn?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-tsm-133617895.html",
-        "published": "2026-08-19T13:36:17Z"
+        "title": "Tech sell-off resumes, counterbalancing bond yield relief: AlphaCheck",
+        "link": "https://finance.yahoo.com/markets/article/tech-sell-off-resumes-counterbalancing-bond-yield-relief-alphacheck-141446892.html",
+        "published": "2026-08-19T14:14:46Z"
       },
       {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq gain steam as bonds rally, Trump pauses tariffs on Canadian goods",
+        "title": "Two Yields, One SPYI ETF: 12% for the Marketing, 0.47% for the SEC",
+        "link": "https://finance.yahoo.com/markets/options/articles/two-yields-one-spyi-etf-142033277.html",
+        "published": "2026-08-19T14:20:33Z"
+      },
+      {
+        "title": "Stock market today: Dow, S&P 500 gain steam as bonds rally, Trump pauses tariffs on Canadian goods",
         "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-19-dow-sp-500-nasdaq-081116064.html",
         "published": "2026-08-19T08:11:16Z"
       },
       {
-        "title": "Why ASML (ASML) Could Remain a Long-Term Winner in Advanced Semiconductors",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/why-asml-asml-could-remain-132748383.html",
-        "published": "2026-08-19T13:27:48Z"
-      },
-      {
-        "title": "Wall Street just borrowed $500 billion to build AI — here's what it could mean for your 401(k). Are you ready?",
-        "link": "https://finance.yahoo.com/technology/ai/articles/wall-street-just-borrowed-500-132500322.html",
-        "published": "2026-08-19T13:25:00Z"
+        "title": "Target Earnings Double, Outlook Hiked. TGT Stock Jumps To A High.",
+        "link": "https://www.investors.com/news/target-earnings-q2-tgt-stock/?src=A00220&yptr=yahoo",
+        "published": "2026-08-19T14:13:41Z"
       }
     ],
     "MarketWatch Top Stories": [
       {
+        "title": "Soon you can buy Medicare Advantage plans at Costco. What you need to know.",
+        "link": "https://www.marketwatch.com/story/soon-you-can-buy-medicare-advantage-plans-at-costco-what-you-need-to-know-34e03242?mod=mw_rss_topstories",
+        "published": "Wed, 19 Aug 2026 14:31:00 GMT"
+      },
+      {
+        "title": "Can you get a piece of State Farm’s $5 billion cash-back dividend? Here’s how to check.",
+        "link": "https://www.marketwatch.com/story/can-you-get-a-piece-of-state-farms-5-billion-cash-back-dividend-heres-how-to-check-027d1c21?mod=mw_rss_topstories",
+        "published": "Wed, 19 Aug 2026 14:29:00 GMT"
+      },
+      {
+        "title": "Mortgage rates could move even higher — dealing a fresh blow to home buyers",
+        "link": "https://www.marketwatch.com/story/mortgage-rates-could-move-even-higher-dealing-a-fresh-blow-to-home-buyers-ad8d0f3d?mod=mw_rss_topstories",
+        "published": "Wed, 19 Aug 2026 14:23:00 GMT"
+      },
+      {
+        "title": "Moderna’s experimental vaccine prevents cancer recurrence, in ‘historic’ win for personalized medicine. Its stock is soaring.",
+        "link": "https://www.marketwatch.com/story/modernas-stock-doubles-on-promising-cancer-vaccine-results-896b1f2c?mod=mw_rss_topstories",
+        "published": "Wed, 19 Aug 2026 14:16:00 GMT"
+      },
+      {
+        "title": "America’s growing debt pile will be the big focus Wednesday as global bond rout deepens",
+        "link": "https://www.marketwatch.com/story/americas-growing-debt-pile-will-be-the-big-focus-wednesday-as-global-bond-rout-deepens-a6955c80?mod=mw_rss_topstories",
+        "published": "Wed, 19 Aug 2026 14:15:00 GMT"
+      },
+      {
+        "title": "Meta is facing its ‘Big Tobacco’ moment — and investors can profit",
+        "link": "https://www.marketwatch.com/story/meta-is-facing-its-big-tobacco-moment-and-investors-can-profit-e0f27b2d?mod=mw_rss_topstories",
+        "published": "Wed, 19 Aug 2026 14:15:00 GMT"
+      },
+      {
         "title": "Pressure on bonds abates as Treasury announces buybacks. What may come next.",
         "link": "https://www.marketwatch.com/story/pressure-on-bonds-abates-as-treasury-announces-buybacks-what-may-come-next-af7d7c76?mod=mw_rss_topstories",
-        "published": "Wed, 19 Aug 2026 13:39:00 GMT"
+        "published": "Wed, 19 Aug 2026 13:58:00 GMT"
       },
       {
         "title": "The bond selloff is rattling investors, but here’s why they shouldn’t expect a deeper stock downturn",
         "link": "https://www.marketwatch.com/story/the-bond-selloff-is-rattling-investors-but-heres-why-they-shouldnt-expect-a-deeper-stock-downturn-43139350?mod=mw_rss_topstories",
         "published": "Wed, 19 Aug 2026 13:35:00 GMT"
-      },
-      {
-        "title": "Target’s grocery overhaul is helping it win back customers",
-        "link": "https://www.marketwatch.com/story/targets-grocery-overhaul-is-helping-it-win-back-customers-eb40d5c9?mod=mw_rss_topstories",
-        "published": "Wed, 19 Aug 2026 13:34:00 GMT"
-      },
-      {
-        "title": "I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have ultimate authority?",
-        "link": "https://www.marketwatch.com/story/im-my-mother-in-laws-power-of-attorney-executor-and-trustee-do-i-hold-all-the-power-a11968a2?mod=mw_rss_topstories",
-        "published": "Wed, 19 Aug 2026 13:30:00 GMT"
-      },
-      {
-        "title": "‘We are committed Christians’: Our son and daughter-in-law cut us out of their lives after a political argument. Should we change our $3 million will?",
-        "link": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
-        "published": "Wed, 19 Aug 2026 13:15:00 GMT"
-      },
-      {
-        "title": "I’m leaving my grandkids money — but they must pass financial-literacy classes to get it. Is that fair?",
-        "link": "https://www.marketwatch.com/story/im-leaving-my-grandkids-money-but-they-must-pass-financial-literacy-classes-to-get-it-is-that-fair-8a630648?mod=mw_rss_topstories",
-        "published": "Wed, 19 Aug 2026 13:07:00 GMT"
-      },
-      {
-        "title": "Marvell’s stock surges on news of Google chip deal — and Broadcom’s falls",
-        "link": "https://www.marketwatch.com/story/marvells-stock-soars-on-news-of-google-chip-deal-and-broadcoms-falls-c2a7f559?mod=mw_rss_topstories",
-        "published": "Wed, 19 Aug 2026 13:05:00 GMT"
-      },
-      {
-        "title": "My male co-workers with kids expect me to pick up their slack because I don’t have children. Do I push back?",
-        "link": "https://www.marketwatch.com/story/my-male-co-workers-with-kids-expect-me-to-pick-up-their-slack-because-i-dont-have-children-do-i-push-back-700f3a2a?mod=mw_rss_topstories",
-        "published": "Wed, 19 Aug 2026 13:01:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
         "title": "Treasury doubles debt buybacks as Bessent moves to steady bond market",
         "link": "https://www.cnbc.com/2026/08/19/treasury-announces-upscaled-buyback-operation-for-longer-term-debt-sending-yields-lower.html",
-        "published": "Wed, 19 Aug 2026 13:30:22 GMT"
+        "published": "Wed, 19 Aug 2026 14:30:33 GMT"
       },
       {
-        "title": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock soars 90%",
+        "title": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock more than doubles",
         "link": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
-        "published": "Wed, 19 Aug 2026 13:48:47 GMT"
+        "published": "Wed, 19 Aug 2026 14:12:04 GMT"
       },
       {
-        "title": "UAE severs trade with Iran after reported missile strike",
-        "link": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz.html",
-        "published": "Wed, 19 Aug 2026 11:27:32 GMT"
+        "title": "Nvidia plays matchmaker in Nordics, sources tell CNBC, as AI data center deals boom in region",
+        "link": "https://www.cnbc.com/2026/08/19/nvidia-nordic-ai-data-centers.html",
+        "published": "Wed, 19 Aug 2026 14:25:12 GMT"
       },
       {
         "title": "Hedge funds are about to jump into prediction markets in a big way",
         "link": "https://www.cnbc.com/2026/08/19/hedge-funds-are-about-to-jump-in-big-to-prediction-markets.html",
         "published": "Wed, 19 Aug 2026 13:38:44 GMT"
+      },
+      {
+        "title": "UAE severs trade with Iran after reported missile strike",
+        "link": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz.html",
+        "published": "Wed, 19 Aug 2026 11:27:32 GMT"
       },
       {
         "title": "What's behind the move higher in yields? Blame AI",
@@ -690,17 +695,12 @@
       {
         "title": "Target says its turnaround is picking up steam, with help from a big tariff refund",
         "link": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
-        "published": "Wed, 19 Aug 2026 13:43:39 GMT"
+        "published": "Wed, 19 Aug 2026 14:21:45 GMT"
       },
       {
         "title": "Trump pauses 50% scheduled tariffs on Canada for three days, announces 'deal' with Ottawa",
         "link": "https://www.cnbc.com/2026/08/18/trump-carney-canada-tariffs-dealine-talks.html",
         "published": "Wed, 19 Aug 2026 03:18:57 GMT"
-      },
-      {
-        "title": "Lowe's gives muted outlook as it sees 'pressure' in home improvement spending",
-        "link": "https://www.cnbc.com/2026/08/19/lowes-low-q2-2026-earnings.html",
-        "published": "Wed, 19 Aug 2026 12:24:19 GMT"
       }
     ]
   }
