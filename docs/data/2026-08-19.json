@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T02:31:08",
+  "generated_at": "2026-08-19T03:28:39",
   "date": "2026-08-19",
   "market_sentiment": {
     "indices": {
@@ -35,18 +35,18 @@
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.58,
-        "pct_change": -0.06
+        "last": 99.56,
+        "pct_change": -0.08
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 84.92,
-        "pct_change": 0.5
+        "last": 84.77,
+        "pct_change": 0.32
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4413.4,
-        "pct_change": -0.1
+        "last": 4405.9,
+        "pct_change": -0.27
       }
     },
     "sectors": {
@@ -111,8 +111,8 @@
     "indices": {
       "Nikkei 225": {
         "symbol": "^N225",
-        "last": 65653.25,
-        "pct_change": -2.68
+        "last": 65724.25,
+        "pct_change": -2.57
       },
       "TOPIX (ETF代理)": {
         "symbol": "1306.T",
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 159.35,
-        "pct_change": 0.0
+        "last": 159.38,
+        "pct_change": 0.02
       }
     }
   },
@@ -193,8 +193,8 @@
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 5672.0,
-        "pct_change": -4.42
+        "last": 5679.0,
+        "pct_change": -4.3
       }
     }
   },
@@ -340,6 +340,14 @@
       "country": "USD",
       "date": "2026-08-19T14:00:00-04:00",
       "impact": "High",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "President Trump Speaks",
+      "country": "USD",
+      "date": "2026-08-19T14:30:00-04:00",
+      "impact": "Medium",
       "forecast": "",
       "previous": ""
     },
@@ -571,47 +579,52 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "Shein Is Said to Target Up to $27 Billion Valuation in HK IPO",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/shein-said-target-27-billion-143209036.html",
-        "published": "2026-08-17T14:32:09Z"
+        "title": "Costco launching Medicare Advantage plans with SCAN Group",
+        "link": "https://finance.yahoo.com/healthcare/articles/costco-launching-medicare-advantage-plans-171035001.html",
+        "published": "2026-08-18T17:10:35Z"
       },
       {
-        "title": "Dollar Slips on Dialed-Back Fed Rate Hike Expectations",
-        "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-slips-dialed-back-fed-143125364.html",
-        "published": "2026-08-17T14:31:25Z"
+        "title": "AppLovin (APP) Offers Attractive Cash Flow Multiple?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/applovin-app-offers-attractive-cash-153854153.html",
+        "published": "2026-08-17T15:38:54Z"
       },
       {
-        "title": "Thermo Fisher Scientific Stock: Analyst Estimates & Ratings",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/thermo-fisher-scientific-stock-analyst-143129026.html",
-        "published": "2026-08-17T14:31:29Z"
+        "title": "Crude Prices Slightly Lower as Oil Supplies Transit Through the Persian Gulf",
+        "link": "https://finance.yahoo.com/energy/articles/crude-prices-slightly-lower-oil-153307983.html",
+        "published": "2026-08-17T15:33:07Z"
       },
       {
-        "title": "Wheat Prices Are Headed Higher: Buy December SRW Wheat Here",
-        "link": "https://finance.yahoo.com/markets/commodities/articles/wheat-prices-headed-higher-buy-143354579.html",
-        "published": "2026-08-17T14:33:54Z"
+        "title": "Cable One (CABO) Fights Subscriber Losses While Squeezing Out Cash",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/cable-one-cabo-fights-subscriber-153422519.html",
+        "published": "2026-08-17T15:34:22Z"
       },
       {
-        "title": "Eli Lilly and Company (LLY)’s Weight-Loss Pill Just Won Its First Race in Europe. Novo Nordisk A/S (NVO) Still Has a Head Start",
-        "link": "https://finance.yahoo.com/healthcare/articles/eli-lilly-company-lly-weight-143436219.html",
-        "published": "2026-08-17T14:34:36Z"
+        "title": "Core Thesis Behind Lifecore Biomedical (LFCR): Monetizing Excess Capacity",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/core-thesis-lifecore-biomedical-lfcr-152902193.html",
+        "published": "2026-08-17T15:29:02Z"
       },
       {
-        "title": "India launches limited tax amnesty for small foreign asset disclosures",
-        "link": "https://finance.yahoo.com/economy/policy/articles/india-launches-limited-tax-amnesty-143325445.html",
-        "published": "2026-08-17T14:33:25Z"
+        "title": "Italian chain closes 50 restaurants after Chapter 11 bankruptcy",
+        "link": "https://finance.yahoo.com/small-business/articles/bankrupt-italian-chain-shuts-50-230000785.html",
+        "published": "2026-08-17T23:00:00Z"
       },
       {
-        "title": "He was laid off after 25 years as an Adobe engineer, applied for a year, then gave up on tech to drive a school bus",
-        "link": "https://finance.yahoo.com/technology/articles/laid-off-25-years-adobe-143000952.html",
-        "published": "2026-08-17T14:30:00Z"
+        "title": "Rocket Lab’s Biggest Breakthrough Has Nothing to Do With Neutron",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-biggest-breakthrough-nothing-154229929.html",
+        "published": "2026-08-17T15:42:29Z"
       },
       {
-        "title": "Hawaiian Electric’s (HE) Second Quarter Numbers Mask A Harder Truth",
-        "link": "https://finance.yahoo.com/energy/articles/hawaiian-electric-second-quarter-numbers-144032558.html",
-        "published": "2026-08-17T14:40:32Z"
+        "title": "Target Stock Is Near a 52-Week High and Wall Street Is Raising the Bar",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/target-stock-near-52-week-152612230.html",
+        "published": "2026-08-17T15:26:12Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "Trump holds off on new 50% tariffs for Canadian goods",
+        "link": "https://www.marketwatch.com/story/trump-holds-off-on-new-50-tariffs-for-canadian-goods-71f75005?mod=mw_rss_topstories",
+        "published": "Wed, 19 Aug 2026 02:42:00 GMT"
+      },
       {
         "title": "Cerebras’s stock has been a post-IPO bust. Its comeback hinges on this new chip.",
         "link": "https://www.marketwatch.com/story/cerebrass-stock-has-been-a-post-ipo-bust-its-comeback-hinges-on-this-new-chip-a25a7ca4?mod=mw_rss_topstories",
@@ -646,14 +659,14 @@
         "title": "AI chip stocks were riding high. Here’s why Micron and others are now pulling back.",
         "link": "https://www.marketwatch.com/story/ai-chip-stocks-were-riding-high-heres-why-micron-and-others-are-now-pulling-back-cb4fd5af?mod=mw_rss_topstories",
         "published": "Tue, 18 Aug 2026 21:08:00 GMT"
-      },
-      {
-        "title": "Hidden Valley Ranch dressing may be a victim of this summer’s salad scare",
-        "link": "https://www.marketwatch.com/story/hidden-valley-ranch-dressing-may-be-a-victim-of-this-summers-salad-scare-f8537cd5?mod=mw_rss_topstories",
-        "published": "Tue, 18 Aug 2026 20:46:00 GMT"
       }
     ],
     "CNBC Top News": [
+      {
+        "title": "Trump pauses 50% scheduled tariffs on Canada for three days, announces 'deal' with Ottawa",
+        "link": "https://www.cnbc.com/2026/08/18/trump-carney-canada-tariffs-dealine-talks.html",
+        "published": "Wed, 19 Aug 2026 03:18:57 GMT"
+      },
       {
         "title": "China’s backflipping robot maker Unitree pops 542% in Shanghai debut",
         "link": "https://www.cnbc.com/2026/08/19/china-backflipping-robot-maker-unitree-jumps-shanghai-ipo.html",
@@ -665,19 +678,14 @@
         "published": "Wed, 19 Aug 2026 01:57:05 GMT"
       },
       {
-        "title": "California AG Bonta says case against Meta is about 'restitution and distortion,' not damages",
-        "link": "https://www.cnbc.com/2026/08/18/meta-attorneys-general-opening-arguments-california-bonta-restitution.html",
-        "published": "Wed, 19 Aug 2026 01:34:22 GMT"
-      },
-      {
         "title": "Stock futures are little changed after S&P 500 posts third straight losing day: Live updates",
         "link": "https://www.cnbc.com/2026/08/18/stock-market-today-live-updates.html",
         "published": "Wed, 19 Aug 2026 02:07:46 GMT"
       },
       {
-        "title": "Trump says no talks scheduled with Iran as he teases action in Hormuz Strait",
-        "link": "https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceasefire-expires-extension-.html",
-        "published": "Tue, 18 Aug 2026 18:28:37 GMT"
+        "title": "California AG Bonta says case against Meta is about 'restitution and distortion,' not damages",
+        "link": "https://www.cnbc.com/2026/08/18/meta-attorneys-general-opening-arguments-california-bonta-restitution.html",
+        "published": "Wed, 19 Aug 2026 01:34:22 GMT"
       },
       {
         "title": "If AI is a bubble, could rising yields pop it?",
@@ -685,14 +693,14 @@
         "published": "Tue, 18 Aug 2026 20:03:14 GMT"
       },
       {
-        "title": "Here’s the best place to hedge severe El Niño shocks to the food supply chain, BofA says",
-        "link": "https://www.cnbc.com/2026/08/19/el-nino-food-supply-chain-hedge-bofa.html",
-        "published": "Wed, 19 Aug 2026 01:49:04 GMT"
+        "title": "Trump says no talks scheduled with Iran as he teases action in Hormuz Strait",
+        "link": "https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceasefire-expires-extension-.html",
+        "published": "Tue, 18 Aug 2026 18:28:37 GMT"
       },
       {
-        "title": "In upset, Florida democratic socialist Nixon wins Democratic Senate primary",
-        "link": "https://www.cnbc.com/2026/08/18/democratic-representative-moskowitz-fends-off-challenge-in-florida-from-democratic-socialist.html",
-        "published": "Wed, 19 Aug 2026 02:11:46 GMT"
+        "title": "Here’s the best place to hedge severe El Niño shocks to the food supply chain, BofA says",
+        "link": "https://www.cnbc.com/2026/08/19/el-nino-food-supply-chain-hedge-bofa.html",
+        "published": "Wed, 19 Aug 2026 02:40:02 GMT"
       }
     ]
   }
