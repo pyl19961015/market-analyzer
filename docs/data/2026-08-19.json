@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-08-19T19:37:47",
+  "generated_at": "2026-08-19T19:58:26",
   "date": "2026-08-19",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7713.73,
-        "pct_change": 0.29
+        "last": 7706.72,
+        "pct_change": 0.19
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26347.91,
-        "pct_change": 0.22
+        "last": 26327.83,
+        "pct_change": 0.14
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 53458.66,
-        "pct_change": 0.22
+        "last": 53438.68,
+        "pct_change": 0.18
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3032.25,
-        "pct_change": 0.48
+        "last": 3032.04,
+        "pct_change": 0.47
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 14.97,
-        "pct_change": -5.49
+        "last": 15.01,
+        "pct_change": -5.24
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
@@ -35,75 +35,75 @@
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 98.8,
-        "pct_change": -0.85
+        "last": 98.83,
+        "pct_change": -0.82
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 84.07,
-        "pct_change": -1.02
+        "last": 84.04,
+        "pct_change": -1.06
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4563.3,
-        "pct_change": 4.52
+        "last": 4567.0,
+        "pct_change": 4.6
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 183.9,
-        "pct_change": -0.93
+        "last": 183.55,
+        "pct_change": -1.12
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 57.44,
-        "pct_change": -0.69
+        "last": 57.49,
+        "pct_change": -0.61
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 63.49,
-        "pct_change": -0.3
+        "last": 63.56,
+        "pct_change": -0.2
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 175.91,
-        "pct_change": 3.64
+        "last": 175.63,
+        "pct_change": 3.48
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 118.57,
-        "pct_change": 1.9
+        "last": 118.55,
+        "pct_change": 1.88
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 86.64,
-        "pct_change": 1.23
+        "last": 86.5,
+        "pct_change": 1.07
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 182.02,
-        "pct_change": -0.84
+        "last": 181.84,
+        "pct_change": -0.94
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 44.02,
-        "pct_change": -0.0
+        "last": 44.0,
+        "pct_change": -0.04
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 52.44,
-        "pct_change": 1.26
+        "last": 52.49,
+        "pct_change": 1.36
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.95,
-        "pct_change": 0.72
+        "last": 44.97,
+        "pct_change": 0.77
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 111.5,
-        "pct_change": 0.93
+        "last": 111.31,
+        "pct_change": 0.75
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 158.25,
-        "pct_change": -0.68
+        "last": 158.12,
+        "pct_change": -0.76
       }
     }
   },
@@ -144,52 +144,52 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 151.87,
-        "pct_change": -5.02
+        "last": 152.17,
+        "pct_change": -4.83
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 315.86,
-        "pct_change": 1.88
+        "last": 316.63,
+        "pct_change": 2.13
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 483.56,
-        "pct_change": 0.4
+        "last": 484.17,
+        "pct_change": 0.53
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 265.9,
-        "pct_change": 2.49
+        "last": 265.89,
+        "pct_change": 2.48
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 344.52,
-        "pct_change": 0.09
+        "last": 344.72,
+        "pct_change": 0.15
       },
       "Meta": {
         "symbol": "META",
-        "last": 546.84,
-        "pct_change": 0.58
+        "last": 546.39,
+        "pct_change": 0.5
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 824.83,
-        "pct_change": -5.55
+        "last": 827.69,
+        "pct_change": -5.22
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 286.86,
-        "pct_change": -6.38
+        "last": 287.52,
+        "pct_change": -6.17
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 156.39,
-        "pct_change": -1.99
+        "last": 155.95,
+        "pct_change": -2.27
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -584,14 +584,14 @@
         "published": "2026-08-18T17:10:35Z"
       },
       {
-        "title": "Morning Bid: Yields give way",
-        "link": "https://finance.yahoo.com/markets/articles/morning-bid-yields-way-103702133.html",
-        "published": "2026-08-18T10:37:02Z"
+        "title": "What Are Wall Street Analysts' Target Price for Edison International Stock?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-105159570.html",
+        "published": "2026-08-18T10:51:59Z"
       },
       {
-        "title": "Beyond marathons and backflips, China's robots face a commercial test",
-        "link": "https://finance.yahoo.com/technology/ai/articles/beyond-marathons-backflips-chinas-robots-101921394.html",
-        "published": "2026-08-18T10:26:31Z"
+        "title": "Bonds, stocks jolted as Middle East tensions shatter market calm",
+        "link": "https://finance.yahoo.com/energy/articles/oil-prices-climb-bond-yields-011655842.html",
+        "published": "2026-08-18T10:55:09Z"
       },
       {
         "title": "Trump says ‘prices are dropping fast’ and the ‘only thing’ going up is your 401(k) — but is he right? How to stay ahead",
@@ -599,27 +599,32 @@
         "published": "2026-08-18T10:45:00Z"
       },
       {
-        "title": "Einride to deploy 500 Tesla electric trucks for North American fleet",
-        "link": "https://finance.yahoo.com/news/einride-deploy-500-tesla-electric-103341790.html",
-        "published": "2026-08-18T10:33:41Z"
+        "title": "Burq bets on the last-mile decision layer as giants retreat",
+        "link": "https://finance.yahoo.com/small-business/articles/burq-bets-last-mile-decision-110000069.html",
+        "published": "2026-08-18T11:00:00Z"
       },
       {
-        "title": "iQIYI Shares Fall After Q2 Earnings Miss and Wider Net Loss",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/iqiyi-shares-fall-q2-earnings-103240978.html",
-        "published": "2026-08-18T10:32:40Z"
+        "title": "Reddit Fell Almost 30% This Year: 80% Gains Are In Store According to Wall Street Pros",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/reddit-fell-almost-30-80-110102269.html",
+        "published": "2026-08-18T11:01:02Z"
+      },
+      {
+        "title": "Target Option Trade: Selling High Volatility Before Earnings",
+        "link": "https://finance.yahoo.com/markets/options/articles/target-option-trade-selling-high-110002287.html",
+        "published": "2026-08-18T11:00:02Z"
       },
       {
         "title": "Nasdaq Futures Plunge as Rising Bond Yields Drive Chip Selloff",
         "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-plunge-rising-bond-104454089.html",
         "published": "2026-08-18T10:44:54Z"
-      },
-      {
-        "title": "What Are Wall Street Analysts' Target Price for Edison International Stock?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-105159570.html",
-        "published": "2026-08-18T10:51:59Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "Moderna’s cancer-vaccine breakthrough drives broad biopharma stock rally",
+        "link": "https://www.marketwatch.com/story/modernas-cancer-vaccine-breakthrough-drives-broad-biopharma-stock-rally-ff2816aa?mod=mw_rss_topstories",
+        "published": "Wed, 19 Aug 2026 19:38:00 GMT"
+      },
       {
         "title": "Trump calls for passage of a key cryptocurrency bill as it falters in the Senate: ‘We need Congress to take the next step’",
         "link": "https://www.marketwatch.com/story/trump-calls-for-passage-of-a-key-cryptocurrency-bill-as-it-falters-in-the-senate-we-need-congress-to-take-the-next-step-ce9aa046?mod=mw_rss_topstories",
@@ -654,11 +659,6 @@
         "title": "I want to be a snowbird. Can my $2 million nest egg sustain two homes?",
         "link": "https://www.marketwatch.com/story/i-want-to-be-a-snowbird-but-im-not-sure-my-2-million-nest-egg-can-sustain-two-homes-ce903e6b?mod=mw_rss_topstories",
         "published": "Wed, 19 Aug 2026 18:26:00 GMT"
-      },
-      {
-        "title": "Want to bet on the bond rally? Check out these overlooked funds.",
-        "link": "https://www.marketwatch.com/story/want-to-bet-on-the-bond-rally-check-out-these-overlooked-funds-15e957a2?mod=mw_rss_topstories",
-        "published": "Wed, 19 Aug 2026 18:04:00 GMT"
       }
     ],
     "CNBC Top News": [
@@ -675,7 +675,7 @@
       {
         "title": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees",
         "link": "https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html",
-        "published": "Wed, 19 Aug 2026 19:31:38 GMT"
+        "published": "Wed, 19 Aug 2026 19:52:03 GMT"
       },
       {
         "title": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show",
@@ -688,9 +688,9 @@
         "published": "Wed, 19 Aug 2026 18:54:04 GMT"
       },
       {
-        "title": "This fintech turned bank is winning with AI-powered lending and the right customers",
-        "link": "https://www.cnbc.com/2026/08/19/this-fintech-turned-bank-is-winning-with-ai-powered-lending-and-the-right-customers.html",
-        "published": "Wed, 19 Aug 2026 18:55:14 GMT"
+        "title": "Japan's bond market may be the canary in the coal mine for the AI stock rally",
+        "link": "https://www.cnbc.com/2026/08/19/japans-bond-market-may-be-the-canary-in-the-coal-mine-for-the-ai-stock-rally.html",
+        "published": "Wed, 19 Aug 2026 19:36:07 GMT"
       },
       {
         "title": "Yields pull back from multi-year highs after Treasury Department says it will double government debt repurchase size",
