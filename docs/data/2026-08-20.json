@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-08-20T18:13:52",
+  "generated_at": "2026-08-20T19:01:17",
   "date": "2026-08-20",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7653.97,
-        "pct_change": -0.7
+        "last": 7652.1,
+        "pct_change": -0.72
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26039.87,
-        "pct_change": -1.11
+        "last": 26059.91,
+        "pct_change": -1.03
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 52855.97,
-        "pct_change": -1.14
+        "last": 52805.93,
+        "pct_change": -1.23
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2994.77,
-        "pct_change": -1.26
+        "last": 2990.63,
+        "pct_change": -1.39
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.79,
-        "pct_change": 6.04
+        "last": 16.05,
+        "pct_change": 7.79
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
         "last": 4.7,
-        "pct_change": 0.92
+        "pct_change": 1.01
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 98.89,
-        "pct_change": 0.06
+        "last": 98.9,
+        "pct_change": 0.08
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 86.49,
-        "pct_change": 0.77
+        "last": 86.92,
+        "pct_change": 1.27
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4577.8,
-        "pct_change": 1.97
+        "last": 4580.1,
+        "pct_change": 2.02
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 182.88,
-        "pct_change": -0.41
+        "last": 183.04,
+        "pct_change": -0.33
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 57.28,
-        "pct_change": -0.36
+        "last": 57.15,
+        "pct_change": -0.58
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 63.88,
-        "pct_change": 0.47
+        "last": 63.86,
+        "pct_change": 0.44
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 173.7,
-        "pct_change": -1.13
+        "last": 173.24,
+        "pct_change": -1.39
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 116.41,
-        "pct_change": -1.84
+        "last": 116.51,
+        "pct_change": -1.75
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 85.67,
-        "pct_change": -1.01
+        "last": 85.52,
+        "pct_change": -1.18
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 179.87,
-        "pct_change": -1.15
+        "last": 179.73,
+        "pct_change": -1.22
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 43.97,
-        "pct_change": -0.1
+        "last": 43.92,
+        "pct_change": -0.22
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 52.47,
-        "pct_change": -0.1
+        "last": 52.46,
+        "pct_change": -0.11
       },
       "Real Estate": {
         "symbol": "XLRE",
         "last": 45.24,
-        "pct_change": 0.56
+        "pct_change": 0.57
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 110.38,
-        "pct_change": -0.84
+        "last": 110.56,
+        "pct_change": -0.69
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 159.13,
-        "pct_change": -0.26
+        "last": 159.15,
+        "pct_change": -0.25
       }
     }
   },
@@ -144,30 +144,30 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 150.8,
-        "pct_change": -1.09
+        "last": 151.16,
+        "pct_change": -0.85
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 315.48,
-        "pct_change": -0.42
+        "last": 314.98,
+        "pct_change": -0.58
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 480.76,
-        "pct_change": -0.73
+        "last": 482.42,
+        "pct_change": -0.39
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 260.24,
-        "pct_change": -2.11
+        "last": 260.83,
+        "pct_change": -1.88
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 339.72,
-        "pct_change": -1.45
+        "last": 340.13,
+        "pct_change": -1.33
       },
       "Meta": {
         "symbol": "META",
@@ -178,18 +178,18 @@
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 871.01,
-        "pct_change": 5.25
+        "last": 874.99,
+        "pct_change": 5.73
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 283.94,
-        "pct_change": -1.23
+        "last": 284.61,
+        "pct_change": -1.0
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 154.1,
-        "pct_change": -1.24
+        "last": 153.85,
+        "pct_change": -1.4
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -592,24 +592,24 @@
         "published": "2026-08-19T23:00:00Z"
       },
       {
-        "title": "Samsung hikes chipmaking prices by up to 15% on demand spike, sources say",
-        "link": "https://finance.yahoo.com/technology/ai/articles/samsung-hikes-chipmaking-prices-15-082956191.html",
-        "published": "2026-08-19T08:29:56Z"
-      },
-      {
         "title": "Alphabet raises $3.9 billion in inaugural Australian dollar bond",
         "link": "https://finance.yahoo.com/technology/articles/alphabet-raises-3-9-billion-084802381.html",
         "published": "2026-08-19T08:48:02Z"
       },
       {
-        "title": "SK Hynix plans $28.6 billion buyback after share price declines",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-stock-jumps-amid-29b-treasury-buyback-plan-070906682.html",
-        "published": "2026-08-19T07:09:06Z"
+        "title": "Can I Retire at 62 With $2.5M in a Roth IRA and $2,500 a Month From Social Security?",
+        "link": "https://finance.yahoo.com/news/2-5-million-roth-ira-110000154.html",
+        "published": "2026-08-19T09:00:00Z"
       },
       {
-        "title": "Unitree soars in Shanghai debut, a milestone for China's humanoid robotics sector",
-        "link": "https://finance.yahoo.com/technology/articles/unitree-soars-shanghai-debut-milestone-070855689.html",
-        "published": "2026-08-19T07:08:55Z"
+        "title": "More millennials are breaking their way into the 401(k) millionaire club than ever. How you can steal their strategy",
+        "link": "https://finance.yahoo.com/markets/articles/more-millennials-breaking-way-401-090000839.html",
+        "published": "2026-08-19T09:00:00Z"
+      },
+      {
+        "title": "Prolific investor and author Robert Kiyosaki challenges wisdom of Ramsey, Orman - 3 tips from his playbook",
+        "link": "https://finance.yahoo.com/small-business/articles/prolific-investor-author-robert-kiyosaki-090500104.html",
+        "published": "2026-08-19T09:05:00Z"
       },
       {
         "title": "Bank of America sends message on Capital One stock",
@@ -617,17 +617,27 @@
         "published": "2026-08-20T09:03:00Z"
       },
       {
-        "title": "I'm 62 With $800,000 and $2,600 Monthly Social Security. How Much Can I Spend in Retirement?",
-        "link": "https://finance.yahoo.com/news/im-62-800-000-receive-100000521.html",
-        "published": "2026-08-19T07:00:00Z"
+        "title": "Samsung hikes chipmaking prices by up to 15% on demand spike, sources say",
+        "link": "https://finance.yahoo.com/technology/ai/articles/samsung-hikes-chipmaking-prices-15-082956191.html",
+        "published": "2026-08-19T08:29:56Z"
       },
       {
-        "title": "Can I Retire at 62 With $2.5M in a Roth IRA and $2,500 a Month From Social Security?",
-        "link": "https://finance.yahoo.com/news/2-5-million-roth-ira-110000154.html",
-        "published": "2026-08-19T09:00:00Z"
+        "title": "The billionaire 'Bond King' just compared Wall Street's $500 billion AI bet to a warehouse full of bananas",
+        "link": "https://finance.yahoo.com/technology/ai/articles/billionaire-bond-king-just-compared-093000734.html",
+        "published": "2026-08-19T09:30:00Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "Neocloud stocks like CoreWeave are having a moment — and time’s running out to cash in",
+        "link": "https://www.marketwatch.com/story/neocloud-stocks-like-coreweave-are-having-a-moment-and-times-running-out-to-cash-in-8aca34c8?mod=mw_rss_topstories",
+        "published": "Thu, 20 Aug 2026 18:20:00 GMT"
+      },
+      {
+        "title": "‘There is considerable tension’: My grandmother, 99, wants to cut my mother out of her will. Should I intervene?",
+        "link": "https://www.marketwatch.com/story/there-is-considerable-tension-my-grandmother-99-wants-to-cut-my-mother-out-of-her-will-should-i-intervene-5e8f408e?mod=mw_rss_topstories",
+        "published": "Thu, 20 Aug 2026 18:15:00 GMT"
+      },
       {
         "title": "The rise in interest rates hit a ‘raw nerve’ at the White House. Bessent’s plan has analysts on edge.",
         "link": "https://www.marketwatch.com/story/bessent-suggests-treasury-could-intervene-again-in-bond-market-we-have-a-big-tool-kit-358829e1?mod=mw_rss_topstories",
@@ -657,16 +667,6 @@
         "title": "Walmart’s stock slides as investors worry that pressure on consumers is getting worse",
         "link": "https://www.marketwatch.com/story/walmart-shares-slide-as-u-s-sales-hit-by-falling-drug-prices-1e308c61?mod=mw_rss_topstories",
         "published": "Thu, 20 Aug 2026 16:48:00 GMT"
-      },
-      {
-        "title": "Apple has gotten too predictable. Can its next CEO bring back the element of surprise?",
-        "link": "https://www.marketwatch.com/story/apple-has-gotten-too-predictable-can-its-next-ceo-bring-back-the-element-of-surprise-5bd674a0?mod=mw_rss_topstories",
-        "published": "Thu, 20 Aug 2026 16:48:00 GMT"
-      },
-      {
-        "title": "Social Security union says it needs $3 billion and another 20,000 workers to fix long wait times and ‘ghost offices’",
-        "link": "https://www.marketwatch.com/story/ghost-offices-and-long-wait-times-social-security-workers-demand-3-billion-and-20-000-hires-ac975af0?mod=mw_rss_topstories",
-        "published": "Thu, 20 Aug 2026 16:35:00 GMT"
       }
     ],
     "CNBC Top News": [
@@ -681,14 +681,14 @@
         "published": "Thu, 20 Aug 2026 15:56:12 GMT"
       },
       {
+        "title": "Dow falls 600 points with stock losses increasing after a Treasury plan to tamp down yields fails: Live updates",
+        "link": "https://www.cnbc.com/2026/08/19/stock-market-today-live-updates.html",
+        "published": "Thu, 20 Aug 2026 18:57:51 GMT"
+      },
+      {
         "title": "Bessent says U.S. likely won't restart large-scale Iran combat as it steps up economic pressure",
         "link": "https://www.cnbc.com/2026/08/20/bessent-economy-iran-war-trump.html",
         "published": "Thu, 20 Aug 2026 17:19:03 GMT"
-      },
-      {
-        "title": "Dow falls 600 points with stock losses increasing after a Treasury plan to tamp down yields fails: Live updates",
-        "link": "https://www.cnbc.com/2026/08/19/stock-market-today-live-updates.html",
-        "published": "Thu, 20 Aug 2026 18:08:58 GMT"
       },
       {
         "title": "Stocks making the biggest moves midday: Walmart, Deere, CrowdStrike, Moderna & more",
@@ -696,9 +696,9 @@
         "published": "Thu, 20 Aug 2026 17:05:48 GMT"
       },
       {
-        "title": "Meta shares seem cheap, but the charts are showing an ominous sign, says Jay Woods",
-        "link": "https://www.cnbc.com/2026/08/20/meta-shares-seem-cheap-but-the-charts-are-showing-an-ominous-sign-says-jay-woods.html",
-        "published": "Thu, 20 Aug 2026 17:00:01 GMT"
+        "title": "Yields are on the move once again. These stocks could get a boost if they keep going higher",
+        "link": "https://www.cnbc.com/2026/08/20/yields-are-on-the-move-once-again-these-stocks-could-get-a-boost-if-they-keep-going-higher.html",
+        "published": "Thu, 20 Aug 2026 18:28:05 GMT"
       },
       {
         "title": "California AG tells CNBC that settling Paramount-WBD lawsuit would require 'robust structural remedies'",
