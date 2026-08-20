@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-08-20T16:30:28",
+  "generated_at": "2026-08-20T17:05:35",
   "date": "2026-08-20",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7674.94,
-        "pct_change": -0.43
+        "last": 7678.23,
+        "pct_change": -0.39
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26110.92,
-        "pct_change": -0.84
+        "last": 26129.48,
+        "pct_change": -0.77
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 52996.56,
-        "pct_change": -0.87
+        "last": 53040.29,
+        "pct_change": -0.79
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2995.34,
-        "pct_change": -1.24
+        "last": 2998.52,
+        "pct_change": -1.13
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.92,
-        "pct_change": 6.92
+        "last": 15.64,
+        "pct_change": 5.04
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
         "last": 4.7,
-        "pct_change": 1.05
+        "pct_change": 1.01
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 98.87,
-        "pct_change": 0.04
+        "last": 98.91,
+        "pct_change": 0.08
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 86.55,
-        "pct_change": 0.84
+        "last": 86.18,
+        "pct_change": 0.41
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4568.6,
-        "pct_change": 1.76
+        "last": 4566.3,
+        "pct_change": 1.71
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 183.44,
-        "pct_change": -0.11
+        "last": 183.66,
+        "pct_change": 0.01
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 57.31,
-        "pct_change": -0.29
+        "last": 57.36,
+        "pct_change": -0.21
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 64.18,
-        "pct_change": 0.94
+        "last": 64.04,
+        "pct_change": 0.72
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 174.37,
-        "pct_change": -0.75
+        "last": 174.3,
+        "pct_change": -0.79
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 116.87,
-        "pct_change": -1.45
+        "last": 116.9,
+        "pct_change": -1.43
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 85.85,
-        "pct_change": -0.8
+        "last": 85.9,
+        "pct_change": -0.74
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 180.56,
-        "pct_change": -0.76
+        "last": 180.46,
+        "pct_change": -0.82
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 43.99,
-        "pct_change": -0.07
+        "last": 43.87,
+        "pct_change": -0.34
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 52.72,
-        "pct_change": 0.38
+        "last": 52.67,
+        "pct_change": 0.29
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 45.19,
-        "pct_change": 0.46
+        "last": 45.15,
+        "pct_change": 0.37
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 110.47,
-        "pct_change": -0.76
+        "last": 110.52,
+        "pct_change": -0.72
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 159.07,
-        "pct_change": -0.3
+        "last": 158.97,
+        "pct_change": -0.37
       }
     }
   },
@@ -144,52 +144,52 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 151.37,
-        "pct_change": -0.71
+        "last": 151.47,
+        "pct_change": -0.65
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 316.32,
-        "pct_change": -0.16
+        "last": 317.28,
+        "pct_change": 0.14
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 481.24,
-        "pct_change": -0.63
+        "last": 482.5,
+        "pct_change": -0.37
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 262.08,
-        "pct_change": -1.41
+        "last": 261.89,
+        "pct_change": -1.49
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 340.88,
-        "pct_change": -1.11
+        "last": 341.06,
+        "pct_change": -1.06
       },
       "Meta": {
         "symbol": "META",
-        "last": 543.33,
-        "pct_change": -0.49
+        "last": 542.77,
+        "pct_change": -0.6
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 864.01,
-        "pct_change": 4.4
+        "last": 868.51,
+        "pct_change": 4.94
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 285.7,
-        "pct_change": -0.61
+        "last": 286.27,
+        "pct_change": -0.42
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 154.43,
-        "pct_change": -1.03
+        "last": 154.63,
+        "pct_change": -0.9
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -592,24 +592,24 @@
         "published": "2026-08-19T23:00:00Z"
       },
       {
-        "title": "Tech stocks today: OpenAI's growth disappoints, Nvidia earnings provide next test for AI trade",
-        "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-openais-growth-disappoints-nvidia-earnings-provide-next-test-for-ai-trade-132945569.html",
-        "published": "2026-08-17T13:29:45Z"
+        "title": "Trump administration moves ahead with new crypto rules, with key bill stalled in Congress",
+        "link": "https://finance.yahoo.com/markets/crypto/article/trump-administration-moves-ahead-with-new-crypto-rules-with-key-bill-stalled-in-congress-165233256.html",
+        "published": "2026-08-20T16:52:33Z"
       },
       {
-        "title": "Leaderboard Chip Stock Called 'Technology Disruptor'",
-        "link": "https://www.investors.com/news/technology/sitime-stock-buy-rating-technology-disruptor/?src=A00220&yptr=yahoo",
-        "published": "2026-08-20T16:07:23Z"
+        "title": "Stock market today: Dow, S&P 500, Nasdaq slide as bond yields rebound after Treasury intervention, oil rises",
+        "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-20-dow-sp-500-nasdaq-081139322.html",
+        "published": "2026-08-20T08:11:39Z"
       },
       {
-        "title": "Mortgage rates dropped last week despite heightened bond market volatility: Mortgage and refinance interest rates today, Thursday, August 20, 2026",
-        "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-dropped-last-week-despite-heightened-bond-market-volatility-mortgage-and-refinance-interest-rates-today-thursday-august-20-2026-100000272.html",
-        "published": "2026-08-20T10:00:00Z"
+        "title": "AIR Global Reports 1H Revenue & Gross Profit Growth, Maintains 2026 Guidance",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/air-global-reports-1h-revenue-163804354.html",
+        "published": "2026-08-20T16:38:04Z"
       },
       {
-        "title": "Stock Market Today: Dow Off On 'Economic D-Day' Threat; This Medical Firm Hits New Entry (Live Coverage)",
-        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-threat-walmart-stock-wmt/?src=A00220&yptr=yahoo",
-        "published": "2026-08-20T15:53:59Z"
+        "title": "Driver shortages, booming exports reshape US-Mexico freight market",
+        "link": "https://finance.yahoo.com/economy/articles/driver-shortages-booming-exports-reshape-162434955.html",
+        "published": "2026-08-20T16:24:34Z"
       },
       {
         "title": "Bank of America sends message on Capital One stock",
@@ -617,17 +617,32 @@
         "published": "2026-08-20T09:03:00Z"
       },
       {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq slip as bond yields rebound after Treasury intervention, oil rises",
-        "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-20-dow-sp-500-nasdaq-081139322.html",
-        "published": "2026-08-20T08:11:39Z"
+        "title": "What is a down payment?",
+        "link": "https://finance.yahoo.com/news/down-payment-200052911.html",
+        "published": "2026-08-20T16:15:23Z"
       },
       {
-        "title": "Rationale Behind Baron Focused Growth Fund’s IDEXX Laboratories (IDXX) Holding",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/rationale-behind-baron-focused-growth-154228414.html",
-        "published": "2026-08-20T15:42:28Z"
+        "title": "Verra Mobility (VRRM): How a Lost Customer Contract Changed the Investment Case",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/verra-mobility-vrrm-lost-customer-161042764.html",
+        "published": "2026-08-20T16:10:42Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "Walmart’s stock slides as investors worry that pressure on consumers is getting worse",
+        "link": "https://www.marketwatch.com/story/walmart-shares-slide-as-u-s-sales-hit-by-falling-drug-prices-1e308c61?mod=mw_rss_topstories",
+        "published": "Thu, 20 Aug 2026 16:48:00 GMT"
+      },
+      {
+        "title": "Apple has gotten too predictable. Can its next CEO bring back the element of surprise?",
+        "link": "https://www.marketwatch.com/story/apple-has-gotten-too-predictable-can-its-next-ceo-bring-back-the-element-of-surprise-5bd674a0?mod=mw_rss_topstories",
+        "published": "Thu, 20 Aug 2026 16:48:00 GMT"
+      },
+      {
+        "title": "‘Ghost offices’ and long wait times: Social Security workers demand $3 billion and 20,000 hires",
+        "link": "https://www.marketwatch.com/story/ghost-offices-and-long-wait-times-social-security-workers-demand-3-billion-and-20-000-hires-ac975af0?mod=mw_rss_topstories",
+        "published": "Thu, 20 Aug 2026 16:35:00 GMT"
+      },
       {
         "title": "The rise in interest rates hit a ‘raw nerve’ at the White House. Bessent’s plan has analysts on edge.",
         "link": "https://www.marketwatch.com/story/bessent-suggests-treasury-could-intervene-again-in-bond-market-we-have-a-big-tool-kit-358829e1?mod=mw_rss_topstories",
@@ -652,21 +667,6 @@
         "title": "The energy market’s rising ‘crack spread’ is threatening to break the American consumer",
         "link": "https://www.marketwatch.com/story/the-energy-markets-rising-crack-spread-is-threatening-to-break-the-american-consumer-90b421dc?mod=mw_rss_topstories",
         "published": "Thu, 20 Aug 2026 15:22:00 GMT"
-      },
-      {
-        "title": "More SpaceX stock is about to hit the market. Here’s what to know.",
-        "link": "https://www.marketwatch.com/story/more-spacex-stock-is-about-to-hit-the-market-heres-what-to-know-789923d4?mod=mw_rss_topstories",
-        "published": "Thu, 20 Aug 2026 14:53:00 GMT"
-      },
-      {
-        "title": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
-        "link": "https://www.marketwatch.com/story/our-4-year-old-son-has-100-000-in-his-529-account-should-we-buy-him-stocks-instead-3ca745b2?mod=mw_rss_topstories",
-        "published": "Thu, 20 Aug 2026 14:30:00 GMT"
-      },
-      {
-        "title": "‘There is considerable tension’: My grandmother, 99, wants to cut my mother out of her will. Should I intervene?",
-        "link": "https://www.marketwatch.com/story/there-is-considerable-tension-my-grandmother-99-wants-to-cut-my-mother-out-of-her-will-should-i-intervene-5e8f408e?mod=mw_rss_topstories",
-        "published": "Thu, 20 Aug 2026 14:15:00 GMT"
       }
     ],
     "CNBC Top News": [
@@ -686,14 +686,14 @@
         "published": "Thu, 20 Aug 2026 16:14:24 GMT"
       },
       {
-        "title": "Dow drops nearly 500 points as Treasury plan fails to keep yields down, Walmart tanks: Live updates",
+        "title": "Dow drops 400 points as Treasury plan fails to keep yields down, Walmart tanks: Live updates",
         "link": "https://www.cnbc.com/2026/08/19/stock-market-today-live-updates.html",
-        "published": "Thu, 20 Aug 2026 16:27:04 GMT"
+        "published": "Thu, 20 Aug 2026 16:41:37 GMT"
       },
       {
         "title": "California AG tells CNBC that settling Paramount-WBD lawsuit would require 'robust structural remedies'",
         "link": "https://www.cnbc.com/2026/08/20/california-ag-bonta-paramount-wbd-lawsuit-remedies.html",
-        "published": "Thu, 20 Aug 2026 15:32:04 GMT"
+        "published": "Thu, 20 Aug 2026 16:42:56 GMT"
       },
       {
         "title": "Tom Lee's favorite buy ideas heading into the fall",
