@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-08-20T13:32:51",
+  "generated_at": "2026-08-20T14:20:02",
   "date": "2026-08-20",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7684.05,
-        "pct_change": -0.31
+        "last": 7673.26,
+        "pct_change": -0.45
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26213.43,
-        "pct_change": -0.45
+        "last": 26112.78,
+        "pct_change": -0.83
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 53083.4,
-        "pct_change": -0.71
+        "last": 53015.74,
+        "pct_change": -0.84
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3032.94,
-        "pct_change": 0.5
+        "last": 3005.76,
+        "pct_change": -0.9
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.92,
-        "pct_change": 6.92
+        "last": 15.94,
+        "pct_change": 7.05
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
         "last": 4.7,
-        "pct_change": 1.05
+        "pct_change": 1.01
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 98.74,
-        "pct_change": -0.09
+        "last": 98.86,
+        "pct_change": 0.03
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 86.55,
-        "pct_change": 0.84
+        "last": 86.61,
+        "pct_change": 0.91
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4527.7,
-        "pct_change": 0.85
+        "last": 4540.6,
+        "pct_change": 1.14
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 183.93,
-        "pct_change": 0.16
+        "last": 183.21,
+        "pct_change": -0.23
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 57.37,
-        "pct_change": -0.19
+        "last": 57.24,
+        "pct_change": -0.42
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 64.47,
-        "pct_change": 1.4
+        "last": 64.49,
+        "pct_change": 1.42
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 174.21,
-        "pct_change": -0.84
+        "last": 174.34,
+        "pct_change": -0.76
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 116.81,
-        "pct_change": -1.5
+        "last": 116.53,
+        "pct_change": -1.74
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 85.19,
-        "pct_change": -1.56
+        "last": 85.61,
+        "pct_change": -1.07
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 181.04,
-        "pct_change": -0.5
+        "last": 181.15,
+        "pct_change": -0.44
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 43.84,
-        "pct_change": -0.41
+        "last": 44.19,
+        "pct_change": 0.4
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 52.28,
-        "pct_change": -0.45
+        "last": 52.4,
+        "pct_change": -0.22
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.86,
-        "pct_change": -0.29
+        "last": 45.16,
+        "pct_change": 0.38
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 111.04,
-        "pct_change": -0.25
+        "last": 110.9,
+        "pct_change": -0.38
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 158.67,
-        "pct_change": -0.55
+        "last": 158.84,
+        "pct_change": -0.45
       }
     }
   },
@@ -144,52 +144,52 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 151.79,
-        "pct_change": -0.44
+        "last": 150.76,
+        "pct_change": -1.12
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 319.24,
-        "pct_change": 0.76
+        "last": 316.85,
+        "pct_change": 0.01
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 480.26,
-        "pct_change": -0.84
+        "last": 482.5,
+        "pct_change": -0.37
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 262.32,
-        "pct_change": -1.32
+        "last": 261.01,
+        "pct_change": -1.82
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 341.98,
-        "pct_change": -0.79
+        "last": 341.26,
+        "pct_change": -1.0
       },
       "Meta": {
         "symbol": "META",
-        "last": 545.29,
-        "pct_change": -0.13
+        "last": 543.51,
+        "pct_change": -0.46
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 819.4,
-        "pct_change": -0.99
+        "last": 845.53,
+        "pct_change": 2.17
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 284.83,
-        "pct_change": -0.92
+        "last": 282.99,
+        "pct_change": -1.56
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 153.6,
-        "pct_change": -1.56
+        "last": 154.6,
+        "pct_change": -0.92
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -584,24 +584,24 @@
         "published": "2026-08-19T23:00:00Z"
       },
       {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures mixed after Treasury's bond intervention buoys markets",
-        "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-20-dow-sp-500-nasdaq-081139322.html",
-        "published": "2026-08-20T08:11:39Z"
-      },
-      {
-        "title": "Why Capital One (COF) Could See Both Earnings Growth and Multiple Expansion?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/why-capital-one-cof-could-131434106.html",
-        "published": "2026-08-20T13:14:34Z"
-      },
-      {
-        "title": "Stock Market Today: Dow Falls On Trump's 'Economic D-Day' Threat; Walmart Takes A Dive (Live Coverage)",
+        "title": "Stock Market Today: Dow Falls On Trump's 'Economic D-Day' Threat; Energy Giant Breaks Out (Live Coverage)",
         "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-threat-walmart-stock-wmt/?src=A00220&yptr=yahoo",
-        "published": "2026-08-20T13:07:02Z"
+        "published": "2026-08-20T14:06:37Z"
       },
       {
-        "title": "Structural Supply Tightening Drives Multi-Year Bull Case for Alcoa Corp. (AA)",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/structural-supply-tightening-drives-multi-130702304.html",
-        "published": "2026-08-20T13:07:02Z"
+        "title": "Walmart stock drops as sales growth slows, customers make 'trade-offs' amid high fuel costs",
+        "link": "https://finance.yahoo.com/markets/stocks/article/walmart-stock-drops-as-sales-growth-slows-customers-make-trade-offs-amid-high-fuel-costs-182327744.html",
+        "published": "2026-08-19T18:23:27Z"
+      },
+      {
+        "title": "Stocks dip as bond yields and oil rise, Walmart earnings drag on retail: AlphaCheck",
+        "link": "https://finance.yahoo.com/markets/article/stocks-dip-as-bond-yields-and-oil-rise-walmart-earnings-drag-on-retail-alphacheck-140142173.html",
+        "published": "2026-08-20T14:01:42Z"
+      },
+      {
+        "title": "Wall Street has an answer to 60/40 — this ETF crams 90/60 into the same dollar: One Big Investment Idea",
+        "link": "https://finance.yahoo.com/markets/article/wall-street-has-an-answer-to-6040--this-etf-crams-9060-into-the-same-dollar-one-big-investment-idea-135503448.html",
+        "published": "2026-08-20T13:55:03Z"
       },
       {
         "title": "Bank of America sends message on Capital One stock",
@@ -609,17 +609,37 @@
         "published": "2026-08-20T09:03:00Z"
       },
       {
-        "title": "Bitcoin Price Spikes Above $72K On Treasury-Fueled Short Squeeze",
-        "link": "https://www.investors.com/news/bitcoin-price-72000-two-month-high-treasury-bond-crypto-shorts-cftc-trump-clarity-act-white-house/?src=A00220&yptr=yahoo",
-        "published": "2026-08-20T13:03:43Z"
+        "title": "Short Sellers Lose Nearly $3 Billion As Bitcoin’s Price Spikes",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/short-sellers-lose-nearly-3-134900822.html",
+        "published": "2026-08-20T13:49:00Z"
       },
       {
-        "title": "Tech stocks today: OpenAI's growth disappoints, Nvidia earnings provide next test for AI trade",
-        "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-openais-growth-disappoints-nvidia-earnings-provide-next-test-for-ai-trade-132945569.html",
-        "published": "2026-08-17T13:29:45Z"
+        "title": "Stock market today: Dow, S&P 500, Nasdaq slip as bond yields rebound after Treasury intervention, oil rises",
+        "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-20-dow-sp-500-nasdaq-081139322.html",
+        "published": "2026-08-20T08:11:39Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "‘There is considerable tension’: My grandmother, 99, wants to cut my mother out of her will. Should I intervene?",
+        "link": "https://www.marketwatch.com/story/there-is-considerable-tension-my-grandmother-99-wants-to-cut-my-mother-out-of-her-will-should-i-intervene-5e8f408e?mod=mw_rss_topstories",
+        "published": "Thu, 20 Aug 2026 14:15:00 GMT"
+      },
+      {
+        "title": "Conditions are ripe for a market ‘accident,’ but surging bond yields alone won’t cause it, concedes pessimistic strategist",
+        "link": "https://www.marketwatch.com/story/conditions-are-ripe-for-a-market-accident-but-surging-bond-yields-alone-wont-cause-it-concedes-pessimistic-strategist-222cfc57?mod=mw_rss_topstories",
+        "published": "Thu, 20 Aug 2026 14:14:00 GMT"
+      },
+      {
+        "title": "Crypto comeback? Bitcoin, ethereum are headed for their best day in months as investors flock to hard assets",
+        "link": "https://www.marketwatch.com/story/crypto-comeback-bitcoin-ethereum-are-headed-for-their-best-day-in-months-as-investors-flock-to-hard-assets-1573b803?mod=mw_rss_topstories",
+        "published": "Thu, 20 Aug 2026 14:09:00 GMT"
+      },
+      {
+        "title": "Treasury’s buyback blitz may end up driving bond yields higher, warns JPMorgan. Here’s its advice for investors.",
+        "link": "https://www.marketwatch.com/story/treasurys-bond-buyback-blitz-may-end-up-driving-yields-higher-warns-jpmorgan-heres-their-investment-advice-b8f507be?mod=mw_rss_topstories",
+        "published": "Thu, 20 Aug 2026 13:33:00 GMT"
+      },
       {
         "title": "Walmart’s stock slides as U.S. sales are hit by falling drug prices",
         "link": "https://www.marketwatch.com/story/walmart-shares-slide-as-u-s-sales-hit-by-falling-drug-prices-1e308c61?mod=mw_rss_topstories",
@@ -636,51 +656,41 @@
         "published": "Thu, 20 Aug 2026 13:00:00 GMT"
       },
       {
-        "title": "Treasury’s buyback blitz may end up driving bond yields higher, warns JPMorgan. Here’s its advice for investors.",
-        "link": "https://www.marketwatch.com/story/treasurys-bond-buyback-blitz-may-end-up-driving-yields-higher-warns-jpmorgan-heres-their-investment-advice-b8f507be?mod=mw_rss_topstories",
-        "published": "Thu, 20 Aug 2026 12:54:00 GMT"
-      },
-      {
         "title": "Want to bet on the bond rally? Check out these overlooked funds.",
         "link": "https://www.marketwatch.com/story/want-to-bet-on-the-bond-rally-check-out-these-overlooked-funds-15e957a2?mod=mw_rss_topstories",
         "published": "Thu, 20 Aug 2026 12:38:00 GMT"
-      },
-      {
-        "title": "Most of Gen Z is now afraid AI will steal their jobs.",
-        "link": "https://www.marketwatch.com/story/gen-z-used-to-embrace-ai-now-most-young-adults-fear-it-will-steal-their-jobs-b02bdcfb?mod=mw_rss_topstories",
-        "published": "Thu, 20 Aug 2026 12:37:00 GMT"
-      },
-      {
-        "title": "I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have ultimate authority?",
-        "link": "https://www.marketwatch.com/story/im-my-mother-in-laws-power-of-attorney-executor-and-trustee-do-i-hold-all-the-power-a11968a2?mod=mw_rss_topstories",
-        "published": "Thu, 20 Aug 2026 12:15:00 GMT"
-      },
-      {
-        "title": "A $420 camera for $10: China’s young consumers would rather rent than buy. It’s a problem for the government and the economy.",
-        "link": "https://www.marketwatch.com/story/test-driving-that-drone-or-just-renting-why-the-chinese-government-needs-to-know-07ca4d1b?mod=mw_rss_topstories",
-        "published": "Thu, 20 Aug 2026 11:44:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
         "title": "Treasury yields rebound, wiping out the decline following Bessent's intervention",
         "link": "https://www.cnbc.com/2026/08/20/bond-yields-edge-higher-as-traders-digest-treasury-debt-buyback-plan.html",
-        "published": "Thu, 20 Aug 2026 13:04:26 GMT"
+        "published": "Thu, 20 Aug 2026 14:02:31 GMT"
       },
       {
-        "title": "Walmart hikes full-year outlook, says it will use huge tariff refund to keep prices low",
-        "link": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
-        "published": "Thu, 20 Aug 2026 13:32:32 GMT"
-      },
-      {
-        "title": "Dow opens 400 points lower, hurt by rising Treasury yields and a decline in Walmart: Live updates",
-        "link": "https://www.cnbc.com/2026/08/19/stock-market-today-live-updates.html",
-        "published": "Thu, 20 Aug 2026 13:32:19 GMT"
+        "title": "AI data center outrage is showing up everywhere from ads to elections",
+        "link": "https://www.cnbc.com/2026/08/20/ai-data-center-election-backlash.html",
+        "published": "Thu, 20 Aug 2026 14:04:23 GMT"
       },
       {
         "title": "How Micron's $50 billion Boise buildout is reshaping its hometown",
         "link": "https://www.cnbc.com/2026/08/20/micron-boise-chip-fab-expansion.html",
-        "published": "Thu, 20 Aug 2026 11:00:01 GMT"
+        "published": "Thu, 20 Aug 2026 13:50:21 GMT"
+      },
+      {
+        "title": "Dow drops 400 points, hurt by rising Treasury yields and a decline in Walmart: Live updates",
+        "link": "https://www.cnbc.com/2026/08/19/stock-market-today-live-updates.html",
+        "published": "Thu, 20 Aug 2026 14:19:53 GMT"
+      },
+      {
+        "title": "Walmart hikes full-year outlook and gets huge tariff refund, but stock falls on sales concerns",
+        "link": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
+        "published": "Thu, 20 Aug 2026 13:48:48 GMT"
+      },
+      {
+        "title": "Why Walmart’s results have investors so worried: 'One of the biggest misses in years'",
+        "link": "https://www.cnbc.com/2026/08/20/why-walmarts-results-have-investors-so-worried-one-of-the-biggest-misses-in-years-.html",
+        "published": "Thu, 20 Aug 2026 13:36:06 GMT"
       },
       {
         "title": "Trump threatens 'Economic D-Day' for Iran and ‘tremendous’ consequences for its backers",
@@ -688,19 +698,9 @@
         "published": "Thu, 20 Aug 2026 12:28:13 GMT"
       },
       {
-        "title": "This fertility benefit business is set to boom. Buy the stock now, Wells Fargo says",
-        "link": "https://www.cnbc.com/2026/08/20/this-fertility-benefits-business-is-set-to-boom-per-wells-fargo.html",
-        "published": "Thu, 20 Aug 2026 13:16:56 GMT"
-      },
-      {
         "title": "Call-buying bonanza around Trump's Hyperliquid comments includes some eyebrow-raising trades",
         "link": "https://www.cnbc.com/2026/08/19/call-buying-bonanza-around-trumps-hyperliquid-comments-includes-eyebrow-raising-trades.html",
         "published": "Wed, 19 Aug 2026 23:57:47 GMT"
-      },
-      {
-        "title": "Bitcoin surges 11% in two days as Trump, crypto execs lead last ditch effort for Clarity Act",
-        "link": "https://www.cnbc.com/2026/08/20/bitcoin-surges-as-trump-crypto-execs-lead-final-push-for-clarity-act.html",
-        "published": "Thu, 20 Aug 2026 13:06:30 GMT"
       }
     ]
   }
