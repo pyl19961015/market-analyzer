@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-08-20T17:05:35",
+  "generated_at": "2026-08-20T17:44:37",
   "date": "2026-08-20",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7678.23,
-        "pct_change": -0.39
+        "last": 7662.54,
+        "pct_change": -0.59
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26129.48,
-        "pct_change": -0.77
+        "last": 26083.61,
+        "pct_change": -0.94
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 53040.29,
-        "pct_change": -0.79
+        "last": 52906.63,
+        "pct_change": -1.04
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2998.52,
-        "pct_change": -1.13
+        "last": 2992.19,
+        "pct_change": -1.34
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.64,
-        "pct_change": 5.04
+        "last": 15.85,
+        "pct_change": 6.45
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
         "last": 4.7,
-        "pct_change": 1.01
+        "pct_change": 1.05
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 98.91,
+        "last": 98.9,
         "pct_change": 0.08
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 86.18,
-        "pct_change": 0.41
+        "last": 86.57,
+        "pct_change": 0.86
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4566.3,
-        "pct_change": 1.71
+        "last": 4574.0,
+        "pct_change": 1.88
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 183.66,
-        "pct_change": 0.01
+        "last": 183.23,
+        "pct_change": -0.22
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 57.36,
-        "pct_change": -0.21
+        "last": 57.25,
+        "pct_change": -0.41
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 64.04,
-        "pct_change": 0.72
+        "last": 63.94,
+        "pct_change": 0.56
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 174.3,
-        "pct_change": -0.79
+        "last": 173.67,
+        "pct_change": -1.14
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 116.9,
-        "pct_change": -1.43
+        "last": 116.6,
+        "pct_change": -1.68
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 85.9,
-        "pct_change": -0.74
+        "last": 85.68,
+        "pct_change": -1.0
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 180.46,
-        "pct_change": -0.82
+        "last": 180.05,
+        "pct_change": -1.04
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 43.87,
-        "pct_change": -0.34
+        "last": 43.96,
+        "pct_change": -0.13
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 52.67,
-        "pct_change": 0.29
+        "last": 52.54,
+        "pct_change": 0.05
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 45.15,
-        "pct_change": 0.37
+        "last": 45.17,
+        "pct_change": 0.41
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 110.52,
-        "pct_change": -0.72
+        "last": 110.49,
+        "pct_change": -0.75
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 158.97,
-        "pct_change": -0.37
+        "last": 159.05,
+        "pct_change": -0.31
       }
     }
   },
@@ -144,52 +144,52 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 151.47,
-        "pct_change": -0.65
+        "last": 151.29,
+        "pct_change": -0.77
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 317.28,
-        "pct_change": 0.14
+        "last": 316.65,
+        "pct_change": -0.06
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 482.5,
-        "pct_change": -0.37
+        "last": 481.92,
+        "pct_change": -0.49
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 261.89,
-        "pct_change": -1.49
+        "last": 261.5,
+        "pct_change": -1.63
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 341.06,
-        "pct_change": -1.06
+        "last": 340.67,
+        "pct_change": -1.17
       },
       "Meta": {
         "symbol": "META",
-        "last": 542.77,
-        "pct_change": -0.6
+        "last": 541.89,
+        "pct_change": -0.76
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 868.51,
-        "pct_change": 4.94
+        "last": 873.91,
+        "pct_change": 5.6
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 286.27,
-        "pct_change": -0.42
+        "last": 285.04,
+        "pct_change": -0.85
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 154.63,
-        "pct_change": -0.9
+        "last": 154.2,
+        "pct_change": -1.18
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -592,9 +592,9 @@
         "published": "2026-08-19T23:00:00Z"
       },
       {
-        "title": "Trump administration moves ahead with new crypto rules, with key bill stalled in Congress",
-        "link": "https://finance.yahoo.com/markets/crypto/article/trump-administration-moves-ahead-with-new-crypto-rules-with-key-bill-stalled-in-congress-165233256.html",
-        "published": "2026-08-20T16:52:33Z"
+        "title": "Kids Discount Retailer Reaps Rich Rewards As Stock Hits New Highs, Nears A Buy Point",
+        "link": "https://www.investors.com/research/five-below-five-stock-discount-retailer/?src=A00220&yptr=yahoo",
+        "published": "2026-08-20T17:33:35Z"
       },
       {
         "title": "Stock market today: Dow, S&P 500, Nasdaq slide as bond yields rebound after Treasury intervention, oil rises",
@@ -602,14 +602,14 @@
         "published": "2026-08-20T08:11:39Z"
       },
       {
-        "title": "AIR Global Reports 1H Revenue & Gross Profit Growth, Maintains 2026 Guidance",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/air-global-reports-1h-revenue-163804354.html",
-        "published": "2026-08-20T16:38:04Z"
+        "title": "Use Meta Stock Volatility To Capture A 35% Return In A Few Weeks",
+        "link": "https://www.investors.com/research/options/meta-stock-tech-volatility-options-trade-income-investing-markets/?src=A00220&yptr=yahoo",
+        "published": "2026-08-20T17:30:05Z"
       },
       {
-        "title": "Driver shortages, booming exports reshape US-Mexico freight market",
-        "link": "https://finance.yahoo.com/economy/articles/driver-shortages-booming-exports-reshape-162434955.html",
-        "published": "2026-08-20T16:24:34Z"
+        "title": "SOL Strategies Evolving Into Broader Blockchain Platform – Quarterly Update Report",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/sol-strategies-evolving-broader-blockchain-172631865.html",
+        "published": "2026-08-20T17:26:31Z"
       },
       {
         "title": "Bank of America sends message on Capital One stock",
@@ -617,17 +617,27 @@
         "published": "2026-08-20T09:03:00Z"
       },
       {
-        "title": "What is a down payment?",
-        "link": "https://finance.yahoo.com/news/down-payment-200052911.html",
-        "published": "2026-08-20T16:15:23Z"
+        "title": "Cathie Wood's Firm Launches New ETF; Buys Broadcom, Rocket Lab, Cloudflare",
+        "link": "https://www.investors.com/news/cathie-wood-ark-invest-etf-broadcom-rocket-lab-cloudflare/?src=A00220&yptr=yahoo",
+        "published": "2026-08-20T17:21:19Z"
       },
       {
-        "title": "Verra Mobility (VRRM): How a Lost Customer Contract Changed the Investment Case",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/verra-mobility-vrrm-lost-customer-161042764.html",
-        "published": "2026-08-20T16:10:42Z"
+        "title": "US Treasury buyback briefly eases bond rout, but debt worries persist",
+        "link": "https://finance.yahoo.com/economy/policy/articles/bonds-bounce-us-buybacks-relief-040238251.html",
+        "published": "2026-08-20T17:19:29Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
+        "link": "https://www.marketwatch.com/story/our-4-year-old-son-has-100-000-in-his-529-account-should-we-buy-him-stocks-instead-3ca745b2?mod=mw_rss_topstories",
+        "published": "Thu, 20 Aug 2026 17:30:00 GMT"
+      },
+      {
+        "title": "Seahawks player on his real-estate side hustle: ‘I brought my Super Bowl ring to the open houses’",
+        "link": "https://www.marketwatch.com/story/i-brought-my-super-bowl-ring-to-the-open-houses-seahawks-player-shares-story-of-getting-his-real-estate-license-4372785a?mod=mw_rss_topstories",
+        "published": "Thu, 20 Aug 2026 17:20:00 GMT"
+      },
       {
         "title": "Walmart’s stock slides as investors worry that pressure on consumers is getting worse",
         "link": "https://www.marketwatch.com/story/walmart-shares-slide-as-u-s-sales-hit-by-falling-drug-prices-1e308c61?mod=mw_rss_topstories",
@@ -639,7 +649,7 @@
         "published": "Thu, 20 Aug 2026 16:48:00 GMT"
       },
       {
-        "title": "‘Ghost offices’ and long wait times: Social Security workers demand $3 billion and 20,000 hires",
+        "title": "Social Security union says it needs $3 billion and another 20,000 workers to fix long wait times and ‘ghost offices’",
         "link": "https://www.marketwatch.com/story/ghost-offices-and-long-wait-times-social-security-workers-demand-3-billion-and-20-000-hires-ac975af0?mod=mw_rss_topstories",
         "published": "Thu, 20 Aug 2026 16:35:00 GMT"
       },
@@ -657,16 +667,6 @@
         "title": "U.S. bond yields are already surging again a day after Bessent’s debt-buyback plan",
         "link": "https://www.marketwatch.com/story/treasury-rout-restarts-one-day-after-bessents-beefed-up-buyback-plan-972766a1?mod=mw_rss_topstories",
         "published": "Thu, 20 Aug 2026 15:40:00 GMT"
-      },
-      {
-        "title": "I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have too much power over her affairs?",
-        "link": "https://www.marketwatch.com/story/im-my-mother-in-laws-power-of-attorney-executor-and-trustee-do-i-hold-all-the-power-a11968a2?mod=mw_rss_topstories",
-        "published": "Thu, 20 Aug 2026 15:30:00 GMT"
-      },
-      {
-        "title": "The energy market’s rising ‘crack spread’ is threatening to break the American consumer",
-        "link": "https://www.marketwatch.com/story/the-energy-markets-rising-crack-spread-is-threatening-to-break-the-american-consumer-90b421dc?mod=mw_rss_topstories",
-        "published": "Thu, 20 Aug 2026 15:22:00 GMT"
       }
     ],
     "CNBC Top News": [
@@ -683,27 +683,27 @@
       {
         "title": "Bessent says U.S. likely won't restart large-scale Iran combat as it steps up economic pressure",
         "link": "https://www.cnbc.com/2026/08/20/bessent-economy-iran-war-trump.html",
-        "published": "Thu, 20 Aug 2026 16:14:24 GMT"
+        "published": "Thu, 20 Aug 2026 17:19:03 GMT"
       },
       {
-        "title": "Dow drops 400 points as Treasury plan fails to keep yields down, Walmart tanks: Live updates",
+        "title": "Dow falls 500 points with stock losses increasing after a Treasury plan to tamp down yields fails: Live updates",
         "link": "https://www.cnbc.com/2026/08/19/stock-market-today-live-updates.html",
-        "published": "Thu, 20 Aug 2026 16:41:37 GMT"
+        "published": "Thu, 20 Aug 2026 17:43:46 GMT"
+      },
+      {
+        "title": "Stocks making the biggest moves midday: Walmart, Deere, CrowdStrike, Moderna & more",
+        "link": "https://www.cnbc.com/2026/08/20/stocks-making-the-biggest-moves-midday-wmt-de-crwd-mrna-more.html",
+        "published": "Thu, 20 Aug 2026 17:05:48 GMT"
+      },
+      {
+        "title": "Meta shares seem cheap, but the charts are showing an ominous sign, says Jay Woods",
+        "link": "https://www.cnbc.com/2026/08/20/meta-shares-seem-cheap-but-the-charts-are-showing-an-ominous-sign-says-jay-woods.html",
+        "published": "Thu, 20 Aug 2026 17:00:01 GMT"
       },
       {
         "title": "California AG tells CNBC that settling Paramount-WBD lawsuit would require 'robust structural remedies'",
         "link": "https://www.cnbc.com/2026/08/20/california-ag-bonta-paramount-wbd-lawsuit-remedies.html",
         "published": "Thu, 20 Aug 2026 16:42:56 GMT"
-      },
-      {
-        "title": "Tom Lee's favorite buy ideas heading into the fall",
-        "link": "https://www.cnbc.com/2026/08/20/tom-lees-favorite-buy-ideas-heading-into-the-fall.html",
-        "published": "Thu, 20 Aug 2026 16:22:57 GMT"
-      },
-      {
-        "title": "How Micron's $50 billion Boise buildout is reshaping its hometown",
-        "link": "https://www.cnbc.com/2026/08/20/micron-boise-chip-fab-expansion.html",
-        "published": "Thu, 20 Aug 2026 16:07:24 GMT"
       },
       {
         "title": "Walmart hikes full-year outlook and gets huge tariff refund, but stock falls on sales concerns",
