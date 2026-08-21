@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-08-21T16:28:49",
+  "generated_at": "2026-08-21T17:02:18",
   "date": "2026-08-21",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7683.99,
-        "pct_change": 0.56
+        "last": 7682.47,
+        "pct_change": 0.54
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26209.67,
-        "pct_change": 0.55
+        "last": 26215.57,
+        "pct_change": 0.57
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 53182.82,
-        "pct_change": 0.8
+        "last": 53173.53,
+        "pct_change": 0.79
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3013.79,
-        "pct_change": 0.71
+        "last": 3014.77,
+        "pct_change": 0.75
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.34,
-        "pct_change": -4.18
+        "last": 15.31,
+        "pct_change": -4.37
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
@@ -35,75 +35,75 @@
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 98.82,
-        "pct_change": -0.08
+        "last": 98.81,
+        "pct_change": -0.09
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 86.88,
-        "pct_change": -1.08
+        "last": 86.76,
+        "pct_change": -1.22
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4672.6,
-        "pct_change": 3.46
+        "last": 4682.7,
+        "pct_change": 3.68
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 183.41,
-        "pct_change": 0.17
+        "last": 183.36,
+        "pct_change": 0.14
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 57.49,
-        "pct_change": 0.94
+        "last": 57.38,
+        "pct_change": 0.76
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 63.81,
-        "pct_change": 0.09
+        "last": 63.8,
+        "pct_change": 0.08
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 175.1,
-        "pct_change": 1.57
+        "last": 174.99,
+        "pct_change": 1.51
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 118.07,
-        "pct_change": 1.19
+        "last": 118.18,
+        "pct_change": 1.29
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 85.85,
-        "pct_change": 0.62
+        "last": 85.78,
+        "pct_change": 0.53
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 180.23,
-        "pct_change": 0.25
+        "last": 180.09,
+        "pct_change": 0.18
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 43.17,
-        "pct_change": -1.38
+        "last": 43.04,
+        "pct_change": -1.67
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 53.56,
-        "pct_change": 2.17
+        "last": 53.54,
+        "pct_change": 2.15
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 45.12,
-        "pct_change": 0.09
+        "last": 45.04,
+        "pct_change": -0.08
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 111.71,
-        "pct_change": 0.94
+        "last": 111.83,
+        "pct_change": 1.04
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 158.96,
-        "pct_change": 0.43
+        "last": 158.99,
+        "pct_change": 0.45
       }
     }
   },
@@ -144,52 +144,52 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 149.57,
-        "pct_change": -1.24
+        "last": 149.62,
+        "pct_change": -1.21
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 311.26,
-        "pct_change": -0.01
+        "last": 311.16,
+        "pct_change": -0.04
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 484.36,
-        "pct_change": 0.67
+        "last": 484.59,
+        "pct_change": 0.71
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 259.15,
-        "pct_change": -0.37
+        "last": 259.5,
+        "pct_change": -0.23
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 344.29,
-        "pct_change": 1.06
+        "last": 346.01,
+        "pct_change": 1.57
       },
       "Meta": {
         "symbol": "META",
-        "last": 550.67,
-        "pct_change": 0.89
+        "last": 552.53,
+        "pct_change": 1.23
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 864.91,
-        "pct_change": -1.63
+        "last": 866.87,
+        "pct_change": -1.41
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 284.71,
-        "pct_change": -1.83
+        "last": 286.94,
+        "pct_change": -1.07
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 154.77,
-        "pct_change": 1.09
+        "last": 155.7,
+        "pct_change": 1.69
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -600,19 +600,19 @@
         "published": "2026-08-20T09:03:00Z"
       },
       {
-        "title": "Silver prices today, Friday, August 21, 2026: Silver pushes higher on weaker dollar",
-        "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-friday-august-21-2026-silver-pushes-higher-on-weaker-dollar-161325787.html",
-        "published": "2026-08-21T16:13:25Z"
+        "title": "Intuitive Machines (LUNR) Hits Record $1.8B Backlog as Spending Scales Up",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/intuitive-machines-lunr-hits-record-165051224.html",
+        "published": "2026-08-21T16:50:51Z"
       },
       {
-        "title": "Gold prices today, Friday, August 21, 2026: Gold remains strong amid U.S. debt concerns",
-        "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-friday-august-21-2026-gold-remains-strong-amid-us-debt-concerns-161052751.html",
-        "published": "2026-08-21T16:10:52Z"
+        "title": "Uber Stock Options Trade Offers Exposure Without The Ownership Price Tag",
+        "link": "https://www.investors.com/research/options/uber-stock-tech-markets-options-trade-strategy-income-investing/?src=A00220&yptr=yahoo",
+        "published": "2026-08-21T16:45:24Z"
       },
       {
-        "title": "Stratasys (SSYS): A Pivotal Transition Meets Cash Flow Realities",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/stratasys-ssys-pivotal-transition-meets-160146586.html",
-        "published": "2026-08-21T16:01:46Z"
+        "title": "Einride AB Reports Growth Acceleration & Fleet Scale Moves Towards 2028 – Quarterly Update Report",
+        "link": "https://finance.yahoo.com/technology/articles/einride-ab-reports-growth-acceleration-164314486.html",
+        "published": "2026-08-21T16:43:14Z"
       },
       {
         "title": "Stock market today: Dow, S&P 500, Nasdaq rise as bitcoin surges",
@@ -625,17 +625,32 @@
         "published": "2026-08-21T11:21:06Z"
       },
       {
-        "title": "Abeona’s (ABEO) Gene Therapy Launch Hits A Pivotal Reimbursement Milestone",
-        "link": "https://finance.yahoo.com/healthcare/articles/abeona-abeo-gene-therapy-launch-154235589.html",
-        "published": "2026-08-21T15:42:35Z"
+        "title": "Figure Technologies (FIGR) Leverages Blockchain Infrastructure for Accelerated Growth",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/figure-technologies-figr-leverages-blockchain-164103050.html",
+        "published": "2026-08-21T16:41:03Z"
       },
       {
-        "title": "Golar LNG (GLNG) Just Locked In The World’s Scarcest LNG Capacity",
-        "link": "https://finance.yahoo.com/energy/articles/golar-lng-glng-just-locked-153353596.html",
-        "published": "2026-08-21T15:33:53Z"
+        "title": "U.S. Billionaires Are Piling Into Argentina’s Vaca Muerta Shale",
+        "link": "https://finance.yahoo.com/energy/articles/u-billionaires-piling-argentina-vaca-164010172.html",
+        "published": "2026-08-21T16:40:10Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "The U.S. and Canada are scrambling to avoid new tariffs and seal a trade deal. Here’s what could be in it.",
+        "link": "https://www.marketwatch.com/story/the-u-s-and-canada-are-scrambling-to-avoid-new-tariffs-and-seal-a-trade-deal-heres-what-could-be-in-it-f01dd61c?mod=mw_rss_topstories",
+        "published": "Fri, 21 Aug 2026 16:38:00 GMT"
+      },
+      {
+        "title": "‘The estrangement isn’t about politics’: My daughter hasn’t spoken to me for 4 years. Do I leave her a monthly annuity?",
+        "link": "https://www.marketwatch.com/story/its-truly-a-tragedy-my-daughter-hasnt-spoken-to-me-for-4-years-but-it-has-nothing-to-do-with-politics-86c4bcf6?mod=mw_rss_topstories",
+        "published": "Fri, 21 Aug 2026 16:31:00 GMT"
+      },
+      {
+        "title": "6 AI hardware stocks to own for the remainder of the year, according to an analyst",
+        "link": "https://www.marketwatch.com/story/6-ai-hardware-stocks-to-own-for-the-remainder-of-the-year-according-to-an-analyst-ec0bad4e?mod=mw_rss_topstories",
+        "published": "Fri, 21 Aug 2026 16:27:00 GMT"
+      },
       {
         "title": "‘We are committed Christians’: Our son and daughter-in-law cut us out of their lives after a political argument. Should we change our $3 million will?",
         "link": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
@@ -660,21 +675,6 @@
         "title": "Social Security union says it needs $3 billion and another 20,000 workers to fix long wait times and ‘ghost offices’",
         "link": "https://www.marketwatch.com/story/ghost-offices-and-long-wait-times-social-security-workers-demand-3-billion-and-20-000-hires-ac975af0?mod=mw_rss_topstories",
         "published": "Fri, 21 Aug 2026 14:03:00 GMT"
-      },
-      {
-        "title": "‘There is considerable tension’: My grandmother, 99, wants to cut my mother out of her will. Should I intervene?",
-        "link": "https://www.marketwatch.com/story/there-is-considerable-tension-my-grandmother-99-wants-to-cut-my-mother-out-of-her-will-should-i-intervene-5e8f408e?mod=mw_rss_topstories",
-        "published": "Fri, 21 Aug 2026 14:00:00 GMT"
-      },
-      {
-        "title": "Nvidia earnings could rescue a stalled-out stock market — if the AI chip maker breaks this trend",
-        "link": "https://www.marketwatch.com/story/nvidia-earnings-could-rescue-a-stalling-stock-market-if-the-ai-chip-maker-breaks-this-trend-9b6504bc?mod=mw_rss_topstories",
-        "published": "Fri, 21 Aug 2026 13:33:00 GMT"
-      },
-      {
-        "title": "I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have too much power over her affairs?",
-        "link": "https://www.marketwatch.com/story/im-my-mother-in-laws-power-of-attorney-executor-and-trustee-do-i-hold-all-the-power-a11968a2?mod=mw_rss_topstories",
-        "published": "Fri, 21 Aug 2026 13:30:00 GMT"
       }
     ],
     "CNBC Top News": [
@@ -691,32 +691,32 @@
       {
         "title": "Trump to allow import of 300,000 metric tons of ground beef without tariff",
         "link": "https://www.cnbc.com/2026/08/21/trump-ground-beef-import-tariff.html",
-        "published": "Fri, 21 Aug 2026 15:56:37 GMT"
+        "published": "Fri, 21 Aug 2026 16:42:13 GMT"
+      },
+      {
+        "title": "Stocks making the biggest moves midday: Moderna, Robinhood, BJ's Wholesale, Coinbase & more",
+        "link": "https://www.cnbc.com/2026/08/21/stocks-making-the-biggest-moves-midday-mrna-hood-bj-coin.html",
+        "published": "Fri, 21 Aug 2026 16:21:52 GMT"
       },
       {
         "title": "Stocks rebound after sell-off but remain on pace for weekly decline: Live updates",
         "link": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html",
-        "published": "Fri, 21 Aug 2026 16:14:30 GMT"
+        "published": "Fri, 21 Aug 2026 17:01:58 GMT"
+      },
+      {
+        "title": "Energy sector is in focus because of Iran, AI and California. Here are hedge funds' top plays",
+        "link": "https://www.cnbc.com/2026/08/21/energy-sector-is-in-focus-because-of-iran-ai-and-california-here-are-hedge-funds-top-plays.html",
+        "published": "Fri, 21 Aug 2026 16:29:13 GMT"
+      },
+      {
+        "title": "Yields had a big week. Why these moves may be reminiscent of 1987",
+        "link": "https://www.cnbc.com/2026/08/21/yields-had-a-big-week-why-these-moves-may-be-reminiscent-of-1987.html",
+        "published": "Fri, 21 Aug 2026 16:26:05 GMT"
       },
       {
         "title": "Broadcom debt deal expected to reach upwards of $70 billion, sources say",
         "link": "https://www.cnbc.com/2026/08/21/broadcom-debt-deal-expected-to-reach-upwards-of-70-billion-sources.html",
         "published": "Fri, 21 Aug 2026 15:59:25 GMT"
-      },
-      {
-        "title": "Broadcom is primed for a big gain. How to trade it while protecting against risk",
-        "link": "https://www.cnbc.com/2026/08/21/broadcom-is-primed-for-a-big-gain-how-to-trade-it-while-protecting-against-risk.html",
-        "published": "Fri, 21 Aug 2026 15:27:52 GMT"
-      },
-      {
-        "title": "Longer-dated Treasury yields rise as Bessent's bond buyback rally fizzles out",
-        "link": "https://www.cnbc.com/2026/08/21/treasury-yields-bonds-inflation-rates.html",
-        "published": "Fri, 21 Aug 2026 16:23:34 GMT"
-      },
-      {
-        "title": "U.S. military says it aided passage of 660 million barrels of oil through Strait of Hormuz since May",
-        "link": "https://www.cnbc.com/2026/08/21/strait-hormuz-central-command-centcom-oil-iran-war.html",
-        "published": "Fri, 21 Aug 2026 16:27:06 GMT"
       }
     ]
   }
