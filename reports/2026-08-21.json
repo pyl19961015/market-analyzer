@@ -1,99 +1,99 @@
 {
-  "generated_at": "2026-08-21T13:31:35",
+  "generated_at": "2026-08-21T14:18:23",
   "date": "2026-08-21",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7672.63,
-        "pct_change": 0.41
+        "last": 7666.78,
+        "pct_change": 0.34
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26167.35,
-        "pct_change": 0.38
+        "last": 26086.46,
+        "pct_change": 0.07
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 53021.86,
-        "pct_change": 0.5
+        "last": 53150.19,
+        "pct_change": 0.74
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2992.43,
-        "pct_change": -1.34
+        "last": 3011.32,
+        "pct_change": 0.63
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.49,
-        "pct_change": -3.25
+        "last": 15.48,
+        "pct_change": -3.31
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.71,
-        "pct_change": 0.3
+        "last": 4.72,
+        "pct_change": 0.43
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 98.76,
-        "pct_change": -0.14
+        "last": 98.82,
+        "pct_change": -0.08
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 86.8,
-        "pct_change": -1.17
+        "last": 86.31,
+        "pct_change": -1.73
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4640.3,
-        "pct_change": 2.75
+        "last": 4643.3,
+        "pct_change": 2.81
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 184.18,
-        "pct_change": 0.59
+        "last": 182.29,
+        "pct_change": -0.44
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 57.32,
-        "pct_change": 0.65
+        "last": 57.62,
+        "pct_change": 1.17
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 64.0,
-        "pct_change": 0.39
+        "last": 63.98,
+        "pct_change": 0.36
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 172.34,
-        "pct_change": -0.03
+        "last": 174.76,
+        "pct_change": 1.37
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 117.19,
-        "pct_change": 0.44
+        "last": 117.59,
+        "pct_change": 0.78
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 85.53,
-        "pct_change": 0.25
+        "last": 85.71,
+        "pct_change": 0.46
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 180.88,
-        "pct_change": 0.62
+        "last": 180.0,
+        "pct_change": 0.13
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 43.74,
-        "pct_change": -0.08
+        "last": 43.52,
+        "pct_change": -0.57
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 53.22,
-        "pct_change": 1.54
+        "last": 53.52,
+        "pct_change": 2.1
       },
       "Real Estate": {
         "symbol": "XLRE",
@@ -102,8 +102,8 @@
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 110.82,
-        "pct_change": 0.13
+        "last": 111.28,
+        "pct_change": 0.54
       }
     }
   },
@@ -121,7 +121,7 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 158.85,
+        "last": 158.84,
         "pct_change": 0.36
       }
     }
@@ -138,58 +138,58 @@
       "as_of": "2026-08-20",
       "prev_yield": 2.894
     },
-    "spread_10y": 1.86
+    "spread_10y": 1.87
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 155.17,
-        "pct_change": 2.46
+        "last": 149.16,
+        "pct_change": -1.51
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 310.24,
-        "pct_change": -0.34
+        "last": 308.02,
+        "pct_change": -1.05
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 480.57,
-        "pct_change": -0.12
+        "last": 484.37,
+        "pct_change": 0.67
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 258.87,
-        "pct_change": -0.48
+        "last": 259.57,
+        "pct_change": -0.21
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 341.24,
-        "pct_change": 0.17
+        "last": 342.76,
+        "pct_change": 0.61
       },
       "Meta": {
         "symbol": "META",
-        "last": 545.76,
-        "pct_change": -0.01
+        "last": 550.4,
+        "pct_change": 0.84
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 905.85,
-        "pct_change": 3.02
+        "last": 875.51,
+        "pct_change": -0.43
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 298.03,
-        "pct_change": 2.76
+        "last": 294.52,
+        "pct_change": 1.55
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 156.46,
-        "pct_change": 2.19
+        "last": 154.12,
+        "pct_change": 0.66
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -600,24 +600,24 @@
         "published": "2026-08-20T09:03:00Z"
       },
       {
-        "title": "Marathon Petroleum (MPC) is Up 121% in 2026. Is There Still More Upside?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-121-2026-012432439.html",
-        "published": "2026-08-20T01:24:32Z"
+        "title": "This 'Dynamo' Biotech Puts AI-Fueled Breakout In Motion",
+        "link": "https://www.investors.com/research/ibd-stock-analysis/relay-therapeutics-dynamo-biotech-puts-ai-fueled-breakout-in-motion/?src=A00220&yptr=yahoo",
+        "published": "2026-08-21T14:01:45Z"
       },
       {
-        "title": "Permian Resources (PR): Is the 55% Rally Just Getting Started?",
-        "link": "https://finance.yahoo.com/energy/articles/permian-resources-pr-55-rally-013635256.html",
-        "published": "2026-08-20T01:36:35Z"
+        "title": "Bitcoin’s Surge Leaves Strategy With $1.4 Billion Profit",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-surge-leaves-strategy-1-140100375.html",
+        "published": "2026-08-21T14:01:00Z"
       },
       {
-        "title": "Energy Transfer’s (ET) Natural Gas Opportunity is Huge. So are the Risks",
-        "link": "https://finance.yahoo.com/energy/articles/energy-transfer-et-natural-gas-013937108.html",
-        "published": "2026-08-20T01:39:37Z"
+        "title": "Bitcoin Rally Tops $79,000. Crypto Shorts, ETF Flows Soar. CFTC Explores Crypto Rules.",
+        "link": "https://www.investors.com/news/bitcoin-price-3-month-high-79000-treasury-bonds-short-squeeze-bitcoin-etfs-crypto-stocks/?src=A00220&yptr=yahoo",
+        "published": "2026-08-21T14:00:37Z"
       },
       {
-        "title": "Japan's exports surge on chips demand, imports hit record on oil costs",
-        "link": "https://finance.yahoo.com/economy/articles/japans-exports-jump-23-monthly-002331518.html",
-        "published": "2026-08-20T01:55:28Z"
+        "title": "The Trillion-Dollar AI Capex Gap: Why Too Much Hardware Could Be Nvidia’s Trap and Microsoft’s Opportunity",
+        "link": "https://finance.yahoo.com/technology/ai/articles/trillion-dollar-ai-capex-gap-140007152.html",
+        "published": "2026-08-21T14:00:07Z"
       },
       {
         "title": "Hyundai considers Georgia Metaplant expansion to 800,000 units",
@@ -625,17 +625,37 @@
         "published": "2026-08-21T11:21:06Z"
       },
       {
-        "title": "Treasury Makes a Surprise Move to Bring Down Borrowing Costs",
-        "link": "https://finance.yahoo.com/economy/policy/articles/treasury-makes-surprise-move-bring-020819303.html",
-        "published": "2026-08-20T02:08:19Z"
+        "title": "Stocks trade higher, lifted by crypto, commodities: AlphaCheck",
+        "link": "https://finance.yahoo.com/markets/article/stocks-trade-higher-lifted-by-crypto-commodities-alphacheck-135720189.html",
+        "published": "2026-08-21T13:57:20Z"
       },
       {
-        "title": "LG Energy Solution Starts Production at 35-GWh Michigan Battery Plant",
-        "link": "https://finance.yahoo.com/energy/articles/lg-energy-solution-starts-production-021921915.html",
-        "published": "2026-08-20T02:19:21Z"
+        "title": "Stock Market Today: Dow Rebounding From Sell-Off; Bitcoin Surges Near $77K (Live Coverage)",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-stock-market-sell-off-bitcoin-surges/?src=A00220&yptr=yahoo",
+        "published": "2026-08-21T13:51:45Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "Social Security union says it needs $3 billion and another 20,000 workers to fix long wait times and ‘ghost offices’",
+        "link": "https://www.marketwatch.com/story/ghost-offices-and-long-wait-times-social-security-workers-demand-3-billion-and-20-000-hires-ac975af0?mod=mw_rss_topstories",
+        "published": "Fri, 21 Aug 2026 14:03:00 GMT"
+      },
+      {
+        "title": "‘There is considerable tension’: My grandmother, 99, wants to cut my mother out of her will. Should I intervene?",
+        "link": "https://www.marketwatch.com/story/there-is-considerable-tension-my-grandmother-99-wants-to-cut-my-mother-out-of-her-will-should-i-intervene-5e8f408e?mod=mw_rss_topstories",
+        "published": "Fri, 21 Aug 2026 14:00:00 GMT"
+      },
+      {
+        "title": "Nvidia earnings could rescue a stalled-out stock market — if the AI chip maker breaks this trend",
+        "link": "https://www.marketwatch.com/story/nvidia-earnings-could-rescue-a-stalling-stock-market-if-the-ai-chip-maker-breaks-this-trend-9b6504bc?mod=mw_rss_topstories",
+        "published": "Fri, 21 Aug 2026 13:33:00 GMT"
+      },
+      {
+        "title": "I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have too much power over her affairs?",
+        "link": "https://www.marketwatch.com/story/im-my-mother-in-laws-power-of-attorney-executor-and-trustee-do-i-hold-all-the-power-a11968a2?mod=mw_rss_topstories",
+        "published": "Fri, 21 Aug 2026 13:30:00 GMT"
+      },
       {
         "title": "‘It’s truly a tragedy’: My daughter hasn’t spoken to me for 4 years, but it has nothing to do with politics",
         "link": "https://www.marketwatch.com/story/its-truly-a-tragedy-my-daughter-hasnt-spoken-to-me-for-4-years-but-it-has-nothing-to-do-with-politics-86c4bcf6?mod=mw_rss_topstories",
@@ -655,68 +675,48 @@
         "title": "When it comes to stock buybacks, anything SK Hynix can do, Samsung can do bigger",
         "link": "https://www.marketwatch.com/story/when-it-comes-to-returning-cash-to-shareholders-anything-sk-hynix-can-do-samsung-can-do-bigger-87db6ef4?mod=mw_rss_topstories",
         "published": "Fri, 21 Aug 2026 12:15:00 GMT"
-      },
-      {
-        "title": "American consumers are delivering a retail reality check as they laser in on bargains",
-        "link": "https://www.marketwatch.com/story/american-consumers-are-delivering-a-retail-reality-check-as-they-laser-in-on-bargains-96816053?mod=mw_rss_topstories",
-        "published": "Fri, 21 Aug 2026 12:00:00 GMT"
-      },
-      {
-        "title": "Moderna’s personalized mRNA shot could reshape the fight against skin cancer — but it may also be overhyped",
-        "link": "https://www.marketwatch.com/story/modernas-personalized-mrna-shot-could-reshape-the-fight-against-skin-cancer-but-it-may-also-be-overhyped-a6f1bc88?mod=mw_rss_topstories",
-        "published": "Fri, 21 Aug 2026 11:22:00 GMT"
-      },
-      {
-        "title": "The U.S. government plans to crack down on its $40 trillion debt — but brace for a ‘wrenching time’ ahead",
-        "link": "https://www.marketwatch.com/story/the-u-s-government-plans-to-crack-down-on-its-40-trillion-debt-but-brace-for-a-wrenching-time-ahead-b3fb76a8?mod=mw_rss_topstories",
-        "published": "Fri, 21 Aug 2026 11:00:00 GMT"
-      },
-      {
-        "title": "Nvidia earnings could rescue a stalled-out stock market — if the AI chip maker breaks this trend",
-        "link": "https://www.marketwatch.com/story/nvidia-earnings-could-rescue-a-stalling-stock-market-if-the-ai-chip-maker-breaks-this-trend-9b6504bc?mod=mw_rss_topstories",
-        "published": "Fri, 21 Aug 2026 10:54:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "Stocks rebound after sell-off but remain on pace for weekly decline: Live updates",
-        "link": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html",
-        "published": "Fri, 21 Aug 2026 13:31:06 GMT"
+        "title": "Bessent's efforts in the Treasury market so far haven't worked. Here's what else he can try",
+        "link": "https://www.cnbc.com/2026/08/20/bessents-efforts-in-the-treasury-market-so-far-havent-worked-heres-what-else-he-can-try.html",
+        "published": "Fri, 21 Aug 2026 12:43:04 GMT"
       },
       {
         "title": "U.S., Canada near final trade deal as Trump tariff deadline looms",
         "link": "https://www.cnbc.com/2026/08/21/trump-canada-tariffs-trade-deal-deadline.html",
-        "published": "Fri, 21 Aug 2026 12:17:29 GMT"
+        "published": "Fri, 21 Aug 2026 13:32:50 GMT"
       },
       {
-        "title": "Why some of America's biggest brands are losing ground in China",
-        "link": "https://www.cnbc.com/2026/08/21/us-brands-china-competition.html",
-        "published": "Fri, 21 Aug 2026 11:30:02 GMT"
+        "title": "U.S. military says it aided passage of 660 million barrels of oil through Strait of Hormuz since May",
+        "link": "https://www.cnbc.com/2026/08/21/strait-hormuz-central-command-centcom-oil-iran-war.html",
+        "published": "Fri, 21 Aug 2026 13:55:15 GMT"
       },
       {
-        "title": "'A delicate dance': JD Vance says economic pressure is the best way to achieve Washington's objectives in Iran",
-        "link": "https://www.cnbc.com/2026/08/21/us-iran-war-trump-hormuz-vance-economic-pressure.html",
-        "published": "Fri, 21 Aug 2026 08:10:55 GMT"
+        "title": "Trump admin taps former JPMorgan Chase exec Matt Zames to advise Social Security agency",
+        "link": "https://www.cnbc.com/2026/08/21/jpmorgan-matt-zames-social-security-administration.html",
+        "published": "Fri, 21 Aug 2026 14:06:15 GMT"
       },
       {
-        "title": "Walmart just had its worst day in 4 years. JPMorgan says buy it now",
-        "link": "https://www.cnbc.com/2026/08/21/walmart-just-had-its-worst-day-in-4-years-jpmorgan-says-buy-it-now.html",
-        "published": "Fri, 21 Aug 2026 12:17:51 GMT"
+        "title": "Stocks rebound after sell-off but remain on pace for weekly decline: Live updates",
+        "link": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html",
+        "published": "Fri, 21 Aug 2026 14:10:08 GMT"
       },
       {
-        "title": "Gold rebounds as bond jitters, debt fears and weaker dollar revive bullion demand",
-        "link": "https://www.cnbc.com/2026/08/21/gold-prices-us-debt-dollar.html",
-        "published": "Fri, 21 Aug 2026 13:21:19 GMT"
+        "title": "JPMorgan is worried about an autumn downturn. Says AI stocks show similarities to 2000 tech peak",
+        "link": "https://www.cnbc.com/2026/08/21/jpmorgan-worries-about-autumn-downturn-in-stocks.html",
+        "published": "Fri, 21 Aug 2026 13:34:59 GMT"
       },
       {
-        "title": "Most Americans aren't anti-vaccine. They're uncertain — and that's a growing public health challenge",
-        "link": "https://www.cnbc.com/2026/08/21/why-vaccination-rates-are-falling-in-the-us.html",
-        "published": "Fri, 21 Aug 2026 13:23:03 GMT"
+        "title": "Trump to allow import of 300,000 metric tons of ground beef without tariff",
+        "link": "https://www.cnbc.com/2026/08/21/trump-ground-beef-import-tariff.html",
+        "published": "Fri, 21 Aug 2026 13:37:43 GMT"
       },
       {
-        "title": "NATO member Romania scrambles F-16 fighter jets to destroy drone near critical European gas project",
-        "link": "https://www.cnbc.com/2026/08/21/romania-russia-ukraine-drone-gas-nato.html",
-        "published": "Fri, 21 Aug 2026 10:15:18 GMT"
+        "title": "Bitcoin on track for 23% weekly gain as investor optimism floods back",
+        "link": "https://www.cnbc.com/2026/08/21/bitcoin-gain-cryptocurrency-investors-optimistic.html",
+        "published": "Fri, 21 Aug 2026 13:53:19 GMT"
       }
     ]
   }
