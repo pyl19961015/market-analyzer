@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-08-21T15:47:31",
+  "generated_at": "2026-08-21T16:28:49",
   "date": "2026-08-21",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7691.72,
-        "pct_change": 0.66
+        "last": 7683.99,
+        "pct_change": 0.56
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26237.25,
-        "pct_change": 0.65
+        "last": 26209.67,
+        "pct_change": 0.55
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 53234.79,
-        "pct_change": 0.9
+        "last": 53182.82,
+        "pct_change": 0.8
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3009.51,
-        "pct_change": 0.57
+        "last": 3013.79,
+        "pct_change": 0.71
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.26,
-        "pct_change": -4.68
+        "last": 15.34,
+        "pct_change": -4.18
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.74,
-        "pct_change": 0.85
+        "last": 4.73,
+        "pct_change": 0.81
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 98.83,
-        "pct_change": -0.07
+        "last": 98.82,
+        "pct_change": -0.08
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 86.79,
-        "pct_change": -1.18
+        "last": 86.88,
+        "pct_change": -1.08
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4665.0,
-        "pct_change": 3.29
+        "last": 4672.6,
+        "pct_change": 3.46
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 183.66,
-        "pct_change": 0.31
+        "last": 183.41,
+        "pct_change": 0.17
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 57.51,
-        "pct_change": 0.98
+        "last": 57.49,
+        "pct_change": 0.94
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 63.69,
-        "pct_change": -0.09
+        "last": 63.81,
+        "pct_change": 0.09
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 175.33,
-        "pct_change": 1.71
+        "last": 175.1,
+        "pct_change": 1.57
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 118.21,
-        "pct_change": 1.31
+        "last": 118.07,
+        "pct_change": 1.19
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 85.83,
-        "pct_change": 0.6
+        "last": 85.85,
+        "pct_change": 0.62
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 180.41,
-        "pct_change": 0.36
+        "last": 180.23,
+        "pct_change": 0.25
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 43.22,
-        "pct_change": -1.25
+        "last": 43.17,
+        "pct_change": -1.38
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 53.7,
-        "pct_change": 2.44
+        "last": 53.56,
+        "pct_change": 2.17
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 45.06,
-        "pct_change": -0.03
+        "last": 45.12,
+        "pct_change": 0.09
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 111.74,
-        "pct_change": 0.96
+        "last": 111.71,
+        "pct_change": 0.94
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 158.93,
-        "pct_change": 0.41
+        "last": 158.96,
+        "pct_change": 0.43
       }
     }
   },
@@ -138,58 +138,58 @@
       "as_of": "2026-08-20",
       "prev_yield": 2.894
     },
-    "spread_10y": 1.89
+    "spread_10y": 1.88
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 149.99,
-        "pct_change": -0.96
+        "last": 149.57,
+        "pct_change": -1.24
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 311.35,
-        "pct_change": 0.01
+        "last": 311.26,
+        "pct_change": -0.01
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 485.12,
-        "pct_change": 0.83
+        "last": 484.36,
+        "pct_change": 0.67
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 259.85,
-        "pct_change": -0.1
+        "last": 259.15,
+        "pct_change": -0.37
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 344.98,
-        "pct_change": 1.26
+        "last": 344.29,
+        "pct_change": 1.06
       },
       "Meta": {
         "symbol": "META",
-        "last": 548.28,
-        "pct_change": 0.45
+        "last": 550.67,
+        "pct_change": 0.89
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 870.49,
-        "pct_change": -1.0
+        "last": 864.91,
+        "pct_change": -1.63
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 284.92,
-        "pct_change": -1.76
+        "last": 284.71,
+        "pct_change": -1.83
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 155.18,
-        "pct_change": 1.36
+        "last": 154.77,
+        "pct_change": 1.09
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -600,19 +600,19 @@
         "published": "2026-08-20T09:03:00Z"
       },
       {
-        "title": "Artificial intelligence could push up inflation - SNB's Tschudin says",
-        "link": "https://finance.yahoo.com/economy/policy/articles/artificial-intelligence-could-push-inflation-152413855.html",
-        "published": "2026-08-21T15:24:13Z"
+        "title": "Silver prices today, Friday, August 21, 2026: Silver pushes higher on weaker dollar",
+        "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-friday-august-21-2026-silver-pushes-higher-on-weaker-dollar-161325787.html",
+        "published": "2026-08-21T16:13:25Z"
       },
       {
-        "title": "Bitcoin Nears $80K as Whales Accumulate, ETF Inflows Fuel Rally: Experts",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-nears-80k-whales-accumulate-150800758.html",
-        "published": "2026-08-21T15:08:00Z"
+        "title": "Gold prices today, Friday, August 21, 2026: Gold remains strong amid U.S. debt concerns",
+        "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-friday-august-21-2026-gold-remains-strong-amid-us-debt-concerns-161052751.html",
+        "published": "2026-08-21T16:10:52Z"
       },
       {
-        "title": "Ross Stores Trounces Earnings, Set To Retake Buy Point",
-        "link": "https://www.investors.com/news/ross-dress-for-less-earnings-retail-tariff-refunds/?src=A00220&yptr=yahoo",
-        "published": "2026-08-21T15:03:38Z"
+        "title": "Stratasys (SSYS): A Pivotal Transition Meets Cash Flow Realities",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/stratasys-ssys-pivotal-transition-meets-160146586.html",
+        "published": "2026-08-21T16:01:46Z"
       },
       {
         "title": "Stock market today: Dow, S&P 500, Nasdaq rise as bitcoin surges",
@@ -625,17 +625,27 @@
         "published": "2026-08-21T11:21:06Z"
       },
       {
-        "title": "Is bitcoin's price volatility an investing opportunity? How to buy bitcoin.",
-        "link": "https://finance.yahoo.com/personal-finance/investing/article/how-to-buy-bitcoin-222211772.html",
-        "published": "2026-02-19T22:22:11Z"
+        "title": "Abeona’s (ABEO) Gene Therapy Launch Hits A Pivotal Reimbursement Milestone",
+        "link": "https://finance.yahoo.com/healthcare/articles/abeona-abeo-gene-therapy-launch-154235589.html",
+        "published": "2026-08-21T15:42:35Z"
       },
       {
-        "title": "Bank of America's sell signals are flashing red, but 56% of fund managers are going all-in on stocks anyway",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/bank-americas-sell-signals-flashing-145500469.html",
-        "published": "2026-08-21T14:55:00Z"
+        "title": "Golar LNG (GLNG) Just Locked In The World’s Scarcest LNG Capacity",
+        "link": "https://finance.yahoo.com/energy/articles/golar-lng-glng-just-locked-153353596.html",
+        "published": "2026-08-21T15:33:53Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "‘We are committed Christians’: Our son and daughter-in-law cut us out of their lives after a political argument. Should we change our $3 million will?",
+        "link": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
+        "published": "Fri, 21 Aug 2026 16:15:00 GMT"
+      },
+      {
+        "title": "States are coming after prediction markets — and setting up a costly legal battle over who gets to regulate them",
+        "link": "https://www.marketwatch.com/story/states-are-coming-after-prediction-markets-and-setting-up-a-costly-legal-battle-over-who-gets-to-regulate-them-f9ab9a37?mod=mw_rss_topstories",
+        "published": "Fri, 21 Aug 2026 16:14:00 GMT"
+      },
       {
         "title": "‘This is very stressful’: My son’s roof was damaged in a storm, but his insurance won’t pay. Can he fight this?",
         "link": "https://www.marketwatch.com/story/this-is-very-stressful-my-sons-insurance-company-wont-pay-for-his-damaged-roof-how-can-he-fight-this-22f3a821?mod=mw_rss_topstories",
@@ -665,43 +675,33 @@
         "title": "I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have too much power over her affairs?",
         "link": "https://www.marketwatch.com/story/im-my-mother-in-laws-power-of-attorney-executor-and-trustee-do-i-hold-all-the-power-a11968a2?mod=mw_rss_topstories",
         "published": "Fri, 21 Aug 2026 13:30:00 GMT"
-      },
-      {
-        "title": "‘It’s truly a tragedy’: My daughter hasn’t spoken to me for 4 years, but it has nothing to do with politics",
-        "link": "https://www.marketwatch.com/story/its-truly-a-tragedy-my-daughter-hasnt-spoken-to-me-for-4-years-but-it-has-nothing-to-do-with-politics-86c4bcf6?mod=mw_rss_topstories",
-        "published": "Fri, 21 Aug 2026 13:15:00 GMT"
-      },
-      {
-        "title": "I need to get out of my job. Can I leave for a competitor if I’ve signed a non-compete?",
-        "link": "https://www.marketwatch.com/story/i-need-to-get-out-of-my-job-can-i-leave-for-a-competitor-if-ive-signed-a-non-compete-33d3164b?mod=mw_rss_topstories",
-        "published": "Fri, 21 Aug 2026 13:07:00 GMT"
       }
     ],
     "CNBC Top News": [
+      {
+        "title": "Ken Griffin says Citadel unwound more than 80% of risk tied to Situational Awareness portfolio",
+        "link": "https://www.cnbc.com/2026/08/21/citadel-situational-awareness-ken-griffin.html",
+        "published": "Fri, 21 Aug 2026 16:18:39 GMT"
+      },
       {
         "title": "Bessent's efforts in the Treasury market so far haven't worked. Here's what else he can try",
         "link": "https://www.cnbc.com/2026/08/20/bessents-efforts-in-the-treasury-market-so-far-havent-worked-heres-what-else-he-can-try.html",
         "published": "Fri, 21 Aug 2026 12:43:04 GMT"
       },
       {
-        "title": "Ken Griffin says Citadel unwound more than 80% of risk tied to Situational Awareness portfolio",
-        "link": "https://www.cnbc.com/2026/08/21/citadel-situational-awareness-ken-griffin.html",
-        "published": "Fri, 21 Aug 2026 15:17:07 GMT"
-      },
-      {
         "title": "Trump to allow import of 300,000 metric tons of ground beef without tariff",
         "link": "https://www.cnbc.com/2026/08/21/trump-ground-beef-import-tariff.html",
-        "published": "Fri, 21 Aug 2026 15:28:11 GMT"
+        "published": "Fri, 21 Aug 2026 15:56:37 GMT"
       },
       {
         "title": "Stocks rebound after sell-off but remain on pace for weekly decline: Live updates",
         "link": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html",
-        "published": "Fri, 21 Aug 2026 15:47:17 GMT"
+        "published": "Fri, 21 Aug 2026 16:14:30 GMT"
       },
       {
-        "title": "U.S. military says it aided passage of 660 million barrels of oil through Strait of Hormuz since May",
-        "link": "https://www.cnbc.com/2026/08/21/strait-hormuz-central-command-centcom-oil-iran-war.html",
-        "published": "Fri, 21 Aug 2026 13:55:15 GMT"
+        "title": "Broadcom debt deal expected to reach upwards of $70 billion, sources say",
+        "link": "https://www.cnbc.com/2026/08/21/broadcom-debt-deal-expected-to-reach-upwards-of-70-billion-sources.html",
+        "published": "Fri, 21 Aug 2026 15:59:25 GMT"
       },
       {
         "title": "Broadcom is primed for a big gain. How to trade it while protecting against risk",
@@ -709,14 +709,14 @@
         "published": "Fri, 21 Aug 2026 15:27:52 GMT"
       },
       {
-        "title": "Trump admin taps former JPMorgan Chase exec Matt Zames to advise Social Security agency",
-        "link": "https://www.cnbc.com/2026/08/21/jpmorgan-matt-zames-social-security-administration.html",
-        "published": "Fri, 21 Aug 2026 15:10:31 GMT"
+        "title": "Longer-dated Treasury yields rise as Bessent's bond buyback rally fizzles out",
+        "link": "https://www.cnbc.com/2026/08/21/treasury-yields-bonds-inflation-rates.html",
+        "published": "Fri, 21 Aug 2026 16:23:34 GMT"
       },
       {
-        "title": "Trump tariff deadline looms as U.S. and Canada say final trade deal is near",
-        "link": "https://www.cnbc.com/2026/08/21/trump-canada-tariffs-trade-deal-deadline.html",
-        "published": "Fri, 21 Aug 2026 14:53:47 GMT"
+        "title": "U.S. military says it aided passage of 660 million barrels of oil through Strait of Hormuz since May",
+        "link": "https://www.cnbc.com/2026/08/21/strait-hormuz-central-command-centcom-oil-iran-war.html",
+        "published": "Fri, 21 Aug 2026 16:27:06 GMT"
       }
     ]
   }
