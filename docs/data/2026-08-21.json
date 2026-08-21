@@ -1,64 +1,64 @@
 {
-  "generated_at": "2026-08-21T17:43:36",
+  "generated_at": "2026-08-21T18:04:25",
   "date": "2026-08-21",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7674.66,
-        "pct_change": 0.44
+        "last": 7675.4,
+        "pct_change": 0.45
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26182.68,
+        "last": 26182.96,
         "pct_change": 0.44
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 53182.34,
-        "pct_change": 0.8
+        "last": 53211.93,
+        "pct_change": 0.86
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3014.13,
-        "pct_change": 0.73
+        "last": 3015.12,
+        "pct_change": 0.76
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.31,
-        "pct_change": -4.37
+        "last": 15.22,
+        "pct_change": -4.93
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.73,
-        "pct_change": 0.77
+        "last": 4.74,
+        "pct_change": 0.98
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 98.81,
-        "pct_change": -0.09
+        "last": 98.82,
+        "pct_change": -0.08
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 87.34,
-        "pct_change": -0.56
+        "last": 87.29,
+        "pct_change": -0.61
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4678.0,
-        "pct_change": 3.58
+        "last": 4679.9,
+        "pct_change": 3.62
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 183.31,
-        "pct_change": 0.11
+        "last": 183.36,
+        "pct_change": 0.14
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 57.36,
-        "pct_change": 0.72
+        "last": 57.39,
+        "pct_change": 0.77
       },
       "Energy": {
         "symbol": "XLE",
@@ -67,43 +67,43 @@
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 174.74,
-        "pct_change": 1.37
+        "last": 174.71,
+        "pct_change": 1.35
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 117.97,
+        "last": 117.98,
         "pct_change": 1.11
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 85.82,
-        "pct_change": 0.58
+        "last": 85.78,
+        "pct_change": 0.54
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 180.24,
-        "pct_change": 0.26
+        "last": 180.33,
+        "pct_change": 0.31
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 43.1,
-        "pct_change": -1.54
+        "last": 43.04,
+        "pct_change": -1.66
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 53.45,
-        "pct_change": 1.96
+        "last": 53.48,
+        "pct_change": 2.02
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 45.03,
-        "pct_change": -0.1
+        "last": 45.01,
+        "pct_change": -0.15
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 111.58,
-        "pct_change": 0.82
+        "last": 111.51,
+        "pct_change": 0.75
       }
     }
   },
@@ -138,58 +138,58 @@
       "as_of": "2026-08-20",
       "prev_yield": 2.894
     },
-    "spread_10y": 1.88
+    "spread_10y": 1.89
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 150.23,
-        "pct_change": -0.81
+        "last": 150.49,
+        "pct_change": -0.63
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 309.92,
-        "pct_change": -0.44
+        "last": 309.55,
+        "pct_change": -0.56
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 482.82,
-        "pct_change": 0.35
+        "last": 481.44,
+        "pct_change": 0.06
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 258.41,
-        "pct_change": -0.65
+        "last": 258.63,
+        "pct_change": -0.57
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 345.2,
-        "pct_change": 1.33
+        "last": 345.15,
+        "pct_change": 1.32
       },
       "Meta": {
         "symbol": "META",
-        "last": 550.22,
-        "pct_change": 0.81
+        "last": 549.71,
+        "pct_change": 0.71
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 868.53,
-        "pct_change": -1.22
+        "last": 873.22,
+        "pct_change": -0.69
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 288.56,
-        "pct_change": -0.51
+        "last": 289.18,
+        "pct_change": -0.29
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 157.05,
-        "pct_change": 2.57
+        "last": 157.19,
+        "pct_change": 2.66
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -600,6 +600,11 @@
         "published": "2026-08-20T09:03:00Z"
       },
       {
+        "title": "AI Stock JFrog Jumps 159% From A Low, Eyes Entry As Earnings Accelerate",
+        "link": "https://www.investors.com/stock-lists/stock-spotlight/ai-stock-jfrog-frog-jumps-entry-earnings-accelerate/?src=A00220&yptr=yahoo",
+        "published": "2026-08-21T17:28:22Z"
+      },
+      {
         "title": "Standard Chartered Forecasts Bitcoin Will Retest All-Time High",
         "link": "https://finance.yahoo.com/markets/crypto/articles/standard-chartered-forecasts-bitcoin-retest-172300311.html",
         "published": "2026-08-21T17:23:00Z"
@@ -615,27 +620,27 @@
         "published": "2026-08-21T17:09:56Z"
       },
       {
-        "title": "REPOWR, ATBS team up to expand trailer access for owner-operators",
-        "link": "https://finance.yahoo.com/small-business/articles/repowr-atbs-team-expand-trailer-170911123.html",
-        "published": "2026-08-21T17:09:11Z"
-      },
-      {
         "title": "AT&T stands to gain as Verizon loses a customer related battle",
         "link": "https://finance.yahoo.com/technology/articles/t-stands-gain-verizon-loses-230000780.html",
         "published": "2026-08-20T23:00:00Z"
       },
       {
+        "title": "REPOWR, ATBS team up to expand trailer access for owner-operators",
+        "link": "https://finance.yahoo.com/small-business/articles/repowr-atbs-team-expand-trailer-170911123.html",
+        "published": "2026-08-21T17:09:11Z"
+      },
+      {
         "title": "Ross Stores Trounces Earnings, Set To Retake Buy Point",
         "link": "https://www.investors.com/news/ross-dress-for-less-earnings-retail-tariff-refunds/?src=A00220&yptr=yahoo",
         "published": "2026-08-21T17:08:50Z"
-      },
-      {
-        "title": "Bond yields head higher again, giving back almost all gains since Treasury Department intervention",
-        "link": "https://finance.yahoo.com/markets/article/bond-yields-head-higher-again-giving-back-almost-all-gains-since-treasury-department-intervention-165921301.html",
-        "published": "2026-08-21T16:59:21Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
+        "link": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
+        "published": "Fri, 21 Aug 2026 18:00:00 GMT"
+      },
       {
         "title": "5 things to know about the Chinese e-commerce juggernaut Shein ahead of its IPO",
         "link": "https://www.marketwatch.com/story/5-things-to-know-about-the-chinese-e-commerce-juggernaut-shein-ahead-of-its-ipo-ee73d6b1?mod=mw_rss_topstories",
@@ -670,11 +675,6 @@
         "title": "States are coming after prediction markets — and setting up a costly legal battle over who gets to regulate them",
         "link": "https://www.marketwatch.com/story/states-are-coming-after-prediction-markets-and-setting-up-a-costly-legal-battle-over-who-gets-to-regulate-them-f9ab9a37?mod=mw_rss_topstories",
         "published": "Fri, 21 Aug 2026 16:14:00 GMT"
-      },
-      {
-        "title": "‘This is very stressful’: My son’s roof was damaged in a storm, but his insurance won’t pay. Can he fight this?",
-        "link": "https://www.marketwatch.com/story/this-is-very-stressful-my-sons-insurance-company-wont-pay-for-his-damaged-roof-how-can-he-fight-this-22f3a821?mod=mw_rss_topstories",
-        "published": "Fri, 21 Aug 2026 15:30:00 GMT"
       }
     ],
     "CNBC Top News": [
@@ -684,9 +684,9 @@
         "published": "Fri, 21 Aug 2026 16:18:39 GMT"
       },
       {
-        "title": "Bessent's efforts in the Treasury market so far haven't worked. Here's what else he can try",
-        "link": "https://www.cnbc.com/2026/08/20/bessents-efforts-in-the-treasury-market-so-far-havent-worked-heres-what-else-he-can-try.html",
-        "published": "Fri, 21 Aug 2026 12:43:04 GMT"
+        "title": "Trump tariff deadline looms as Canada says it's working to resolve 'trade issues' with U.S.",
+        "link": "https://www.cnbc.com/2026/08/21/trump-canada-tariffs-trade-deal-deadline.html",
+        "published": "Fri, 21 Aug 2026 17:45:20 GMT"
       },
       {
         "title": "Trump to allow import of 300,000 metric tons of ground beef without tariff",
@@ -699,14 +699,14 @@
         "published": "Fri, 21 Aug 2026 17:21:11 GMT"
       },
       {
-        "title": "Stocks making the biggest moves midday: Moderna, Robinhood, BJ's Wholesale, Coinbase & more",
-        "link": "https://www.cnbc.com/2026/08/21/stocks-making-the-biggest-moves-midday-mrna-hood-bj-coin.html",
-        "published": "Fri, 21 Aug 2026 17:38:21 GMT"
+        "title": "Kalshi traders think the bitcoin rally could end the year near current levels",
+        "link": "https://www.cnbc.com/2026/08/21/kalshi-traders-say-bitcoin-rally-wont-go-much-higher-by-end-of-2026.html",
+        "published": "Fri, 21 Aug 2026 17:43:25 GMT"
       },
       {
-        "title": "This sleepy sector could offer big returns, says Mike Khouw",
-        "link": "https://www.cnbc.com/2026/08/21/this-sleepy-sector-could-offer-big-returns-says-mike-khouw.html",
-        "published": "Fri, 21 Aug 2026 17:31:40 GMT"
+        "title": "Bessent's efforts in the Treasury market so far haven't worked. Here's what else he can try",
+        "link": "https://www.cnbc.com/2026/08/20/bessents-efforts-in-the-treasury-market-so-far-havent-worked-heres-what-else-he-can-try.html",
+        "published": "Fri, 21 Aug 2026 12:43:04 GMT"
       },
       {
         "title": "Yields had a big week. Why these moves may be reminiscent of 1987",
@@ -714,9 +714,9 @@
         "published": "Fri, 21 Aug 2026 16:26:05 GMT"
       },
       {
-        "title": "Energy sector is in focus because of Iran, AI and California. Here are hedge funds' top plays",
-        "link": "https://www.cnbc.com/2026/08/21/energy-sector-is-in-focus-because-of-iran-ai-and-california-here-are-hedge-funds-top-plays.html",
-        "published": "Fri, 21 Aug 2026 16:29:13 GMT"
+        "title": "Stocks making the biggest moves midday: Moderna, Robinhood, BJ's Wholesale, Coinbase & more",
+        "link": "https://www.cnbc.com/2026/08/21/stocks-making-the-biggest-moves-midday-mrna-hood-bj-coin.html",
+        "published": "Fri, 21 Aug 2026 17:38:21 GMT"
       }
     ]
   }
