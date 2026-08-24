@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-08-24T17:49:28",
+  "generated_at": "2026-08-24T18:34:59",
   "date": "2026-08-24",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7650.74,
-        "pct_change": -0.31
+        "last": 7665.31,
+        "pct_change": -0.12
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26025.75,
-        "pct_change": -0.59
+        "last": 26080.85,
+        "pct_change": -0.38
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 53319.39,
-        "pct_change": 0.08
+        "last": 53422.08,
+        "pct_change": 0.27
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2994.59,
-        "pct_change": -0.77
+        "last": 2996.02,
+        "pct_change": -0.72
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.77,
-        "pct_change": 4.23
+        "last": 15.72,
+        "pct_change": 3.9
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
         "last": 4.7,
-        "pct_change": -0.76
+        "pct_change": -0.84
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.03,
-        "pct_change": 0.23
+        "last": 99.01,
+        "pct_change": 0.21
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 85.01,
-        "pct_change": -2.35
+        "last": 84.93,
+        "pct_change": -2.45
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4697.1,
-        "pct_change": 1.58
+        "last": 4692.8,
+        "pct_change": 1.49
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 180.28,
-        "pct_change": -1.65
+        "last": 181.07,
+        "pct_change": -1.22
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 58.0,
-        "pct_change": 0.9
+        "last": 58.1,
+        "pct_change": 1.07
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 62.97,
-        "pct_change": -1.06
+        "last": 63.04,
+        "pct_change": -0.93
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 174.45,
-        "pct_change": -0.1
+        "last": 174.38,
+        "pct_change": -0.14
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 118.2,
-        "pct_change": 0.15
+        "last": 118.35,
+        "pct_change": 0.28
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 87.14,
-        "pct_change": 1.33
+        "last": 87.12,
+        "pct_change": 1.31
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 178.43,
-        "pct_change": -1.01
+        "last": 178.78,
+        "pct_change": -0.82
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 43.1,
-        "pct_change": 0.77
+        "last": 43.17,
+        "pct_change": 0.95
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 53.29,
-        "pct_change": -0.47
+        "last": 53.37,
+        "pct_change": -0.33
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 45.08,
-        "pct_change": 0.01
+        "last": 45.22,
+        "pct_change": 0.32
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 112.51,
-        "pct_change": 1.0
+        "last": 112.5,
+        "pct_change": 0.98
       }
     }
   },
@@ -144,52 +144,52 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 145.36,
-        "pct_change": -2.99
+        "last": 146.02,
+        "pct_change": -2.55
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 311.93,
-        "pct_change": 0.83
+        "last": 311.42,
+        "pct_change": 0.67
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 488.03,
-        "pct_change": 0.99
+        "last": 488.35,
+        "pct_change": 1.06
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 262.02,
-        "pct_change": 1.31
+        "last": 262.87,
+        "pct_change": 1.64
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 348.92,
-        "pct_change": 1.19
+        "last": 348.84,
+        "pct_change": 1.17
       },
       "Meta": {
         "symbol": "META",
-        "last": 557.71,
-        "pct_change": 1.42
+        "last": 560.38,
+        "pct_change": 1.9
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 831.39,
-        "pct_change": -4.08
+        "last": 842.34,
+        "pct_change": -2.81
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 276.09,
-        "pct_change": -4.64
+        "last": 279.43,
+        "pct_change": -3.49
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 154.69,
-        "pct_change": -1.48
+        "last": 155.73,
+        "pct_change": -0.81
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -616,44 +616,64 @@
         "published": "2026-08-24T02:47:00Z"
       },
       {
-        "title": "Trump bought shares in Elon Musk's SpaceX in June, financial disclosure shows",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/trump-bought-shares-elon-musks-171836919.html",
-        "published": "2026-08-24T17:24:35Z"
+        "title": "Citibank exec says every 10-year delay in retirement savings means saving 3x as much monthly to catch up",
+        "link": "https://finance.yahoo.com/markets/articles/citibank-exec-says-every-10-093000427.html",
+        "published": "2026-08-23T09:30:00Z"
       },
       {
-        "title": "AI Infrastructure Stocks Surge: How Long Can CoreWeave (CRWV) and Super Micro Computer (SMCI) Keep It Up?",
-        "link": "https://finance.yahoo.com/technology/ai/articles/ai-infrastructure-stocks-surge-long-172411864.html",
-        "published": "2026-08-24T17:24:11Z"
+        "title": "I'm a 57-year-old unemployed tech worker, I can't find a job — and I'm starting to panic. How can I get back on track?",
+        "link": "https://finance.yahoo.com/small-business/articles/im-57-old-unemployed-tech-094500348.html",
+        "published": "2026-08-23T09:45:00Z"
       },
       {
-        "title": "General Motors Company (GM) Spends $4.5B on Chips: Is Ford Motor Company (F) Betting Bigger on America?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/general-motors-company-gm-spends-172052073.html",
-        "published": "2026-08-24T17:20:52Z"
+        "title": "Gen Z needs a 'reality check,' says BofA: Is the 'little treat economy' blowing up their future one coffee at a time?",
+        "link": "https://finance.yahoo.com/economy/articles/gen-z-needs-reality-check-091500298.html",
+        "published": "2026-08-23T09:15:00Z"
       },
       {
-        "title": "Oil slips ahead of US announcement of new sanctions on Iran",
-        "link": "https://finance.yahoo.com/news/oil-falls-1-ahead-us-231835385.html",
-        "published": "2026-08-24T17:17:29Z"
+        "title": "New combines now list for $1 million as farm income drops 2.6% — forcing farmers to rely on 70s machines and scrap parts",
+        "link": "https://finance.yahoo.com/economy/articles/combines-now-list-1-million-100000884.html",
+        "published": "2026-08-23T10:00:00Z"
       },
       {
-        "title": "California Attorney General Cancels Paramount Meeting, Citing Leaks",
-        "link": "https://www.wsj.com/business/media/californias-bonta-cancels-paramount-meeting-citing-leaks-b4be3859?siteid=yhoof2&yptr=yahoo",
-        "published": "2026-08-24T17:34:00Z"
+        "title": "Tesla Stock in 2027: Why I Think It Still Has Room to Run",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-2027-why-think-093500285.html",
+        "published": "2026-08-23T09:35:00Z"
       },
       {
-        "title": "Stock Market Today: Dow Up As Trump Makes This Canada Warning; Steel Gains Melt (Live Coverage)",
-        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-economic-d-day-alibaba-stock-baba/?src=A00220&yptr=yahoo",
-        "published": "2026-08-24T17:05:00Z"
+        "title": "AWS Was Lagging Microsoft Azure and Google Cloud in Growth—Is Amazon Finally Catching Up?",
+        "link": "https://finance.yahoo.com/technology/ai/articles/aws-lagging-microsoft-azure-google-084105975.html",
+        "published": "2026-08-23T08:41:05Z"
       },
       {
-        "title": "Gas Price Watch: Bessent To Detail 'Economic D-Day' On Iran",
-        "link": "https://www.investors.com/news/gas-price-watch-bessent-economic-d-day-on-iran/?src=A00220&yptr=yahoo",
-        "published": "2026-08-24T16:57:40Z"
+        "title": "Stephen Mandel’s Lone Pine and Whale Rock Piled Into This Little Known AI Stock",
+        "link": "https://finance.yahoo.com/technology/ai/articles/stephen-mandel-lone-pine-whale-083519611.html",
+        "published": "2026-08-23T08:35:19Z"
       }
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "Ford’s $3 billion Canadian gamble is getting caught in trade-war crosshairs",
+        "title": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
+        "link": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
+        "published": "Mon, 24 Aug 2026 18:16:00 GMT"
+      },
+      {
+        "title": "Oil prices pull back as Bessent launches ‘Operation Economic Outcast’ against Iran but holds off on new secondary sanctions",
+        "link": "https://www.marketwatch.com/story/oil-trades-lower-even-as-bessent-promises-economic-d-day-announcement-on-iran-a90d862e?mod=mw_rss_topstories",
+        "published": "Mon, 24 Aug 2026 18:09:00 GMT"
+      },
+      {
+        "title": "Here’s how overvalued the stock market really is",
+        "link": "https://www.marketwatch.com/story/heres-how-overvalued-the-stock-market-really-is-f26540c5?mod=mw_rss_topstories",
+        "published": "Mon, 24 Aug 2026 18:05:00 GMT"
+      },
+      {
+        "title": "Trump suggested states should fund Medicare — which would weaken the program and put Americans at risk",
+        "link": "https://www.marketwatch.com/story/trump-suggested-states-should-fund-medicare-which-would-weaken-the-program-and-put-americans-at-risk-c240c1b9?mod=mw_rss_topstories",
+        "published": "Mon, 24 Aug 2026 17:55:00 GMT"
+      },
+      {
+        "title": "Ford’s $3 billion Canadian bet is getting caught in trade-war crosshairs",
         "link": "https://www.marketwatch.com/story/u-s-automakers-and-home-builders-are-among-the-big-losers-as-trump-launches-a-trade-war-against-canada-063c1d4c?mod=mw_rss_topstories",
         "published": "Mon, 24 Aug 2026 17:44:00 GMT"
       },
@@ -671,33 +691,13 @@
         "title": "Bessent tapping Treasury’s rainy-day fund for buybacks isn’t a ‘bazooka’ to get markets to move his way",
         "link": "https://www.marketwatch.com/story/bessent-tapping-treasurys-rainy-day-fund-for-buybacks-isnt-a-bazooka-to-get-markets-to-move-his-way-705ca356?mod=mw_rss_topstories",
         "published": "Mon, 24 Aug 2026 16:52:00 GMT"
-      },
-      {
-        "title": "Make these 7 money moves before taking out a private student loan",
-        "link": "https://www.marketwatch.com/story/make-these-7-money-moves-before-taking-out-a-private-student-loan-09cf3e08?mod=mw_rss_topstories",
-        "published": "Mon, 24 Aug 2026 16:28:00 GMT"
-      },
-      {
-        "title": "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?",
-        "link": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
-        "published": "Mon, 24 Aug 2026 16:15:00 GMT"
-      },
-      {
-        "title": "My father-in-law passed away, leaving a house with tenants. Do I evict them?",
-        "link": "https://www.marketwatch.com/story/my-father-in-law-passed-away-leaving-a-house-with-tenants-do-i-evict-them-f974428c?mod=mw_rss_topstories",
-        "published": "Mon, 24 Aug 2026 16:15:00 GMT"
-      },
-      {
-        "title": "Global oil prices above $90 a barrel ahead of Bessent’s ‘economic D-Day’ announcement on Iran",
-        "link": "https://www.marketwatch.com/story/oil-trades-lower-even-as-bessent-promises-economic-d-day-announcement-on-iran-a90d862e?mod=mw_rss_topstories",
-        "published": "Mon, 24 Aug 2026 16:03:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
         "title": "Trump admin unveils anti-Iran global sanctions plan, signals China not exempt",
         "link": "https://www.cnbc.com/2026/08/24/trump-iran-economy-sanctions-china-bessent.html",
-        "published": "Mon, 24 Aug 2026 17:49:15 GMT"
+        "published": "Mon, 24 Aug 2026 18:32:36 GMT"
       },
       {
         "title": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
@@ -710,19 +710,9 @@
         "published": "Mon, 24 Aug 2026 17:19:34 GMT"
       },
       {
-        "title": "Bessent could tap near $1 trillion Treasury General Account to fund bond buybacks, sources said",
-        "link": "https://www.cnbc.com/2026/08/24/bessent-1-trillion-treasury-general-account-bond-buybacks.html",
-        "published": "Mon, 24 Aug 2026 13:17:35 GMT"
-      },
-      {
-        "title": "Stocks making the biggest moves midday: Expedia, Nvidia, Strategy, Hims & Hers and more",
-        "link": "https://www.cnbc.com/2026/08/24/stocks-making-the-biggest-moves-midday-expe-nvda-mstr-hims.html",
-        "published": "Mon, 24 Aug 2026 17:48:08 GMT"
-      },
-      {
-        "title": "A Goldman portfolio of favorite stocks is up 29% this year. Here are the new members",
-        "link": "https://www.cnbc.com/2026/08/24/a-goldman-portfolio-of-favorite-stocks-is-up-29percent-this-year-here-are-the-new-members.html",
-        "published": "Mon, 24 Aug 2026 17:02:30 GMT"
+        "title": "S&P 500 falls slightly as chip stock slide outweighs yield decline: Live updates",
+        "link": "https://www.cnbc.com/2026/08/23/stock-market-today-live-updates.html",
+        "published": "Mon, 24 Aug 2026 18:15:25 GMT"
       },
       {
         "title": "California AG Rob Bonta cancels Paramount settlement meeting, citing 'lack of good faith'",
@@ -730,9 +720,19 @@
         "published": "Mon, 24 Aug 2026 17:23:54 GMT"
       },
       {
+        "title": "A Goldman portfolio of favorite stocks is up 29% this year. Here are the new members",
+        "link": "https://www.cnbc.com/2026/08/24/a-goldman-portfolio-of-favorite-stocks-is-up-29percent-this-year-here-are-the-new-members.html",
+        "published": "Mon, 24 Aug 2026 17:02:30 GMT"
+      },
+      {
         "title": "A massive trade just happened in gold. The options market is buzzing",
         "link": "https://www.cnbc.com/2026/08/24/a-massive-trade-just-happened-in-gold-the-options-market-is-buzzing.html",
-        "published": "Mon, 24 Aug 2026 16:38:37 GMT"
+        "published": "Mon, 24 Aug 2026 18:34:53 GMT"
+      },
+      {
+        "title": "Crypto extends gains after biggest 3-day rally since 2023",
+        "link": "https://www.cnbc.com/2026/08/24/crypto-extends-gains-after-biggest-3-day-rally-since-2023.html",
+        "published": "Mon, 24 Aug 2026 14:02:54 GMT"
       }
     ]
   }
