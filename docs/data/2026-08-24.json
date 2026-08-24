@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-08-24T17:15:10",
+  "generated_at": "2026-08-24T17:49:28",
   "date": "2026-08-24",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7663.23,
-        "pct_change": -0.15
+        "last": 7650.74,
+        "pct_change": -0.31
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26078.76,
-        "pct_change": -0.39
+        "last": 26025.75,
+        "pct_change": -0.59
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 53404.55,
-        "pct_change": 0.24
+        "last": 53319.39,
+        "pct_change": 0.08
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2997.31,
-        "pct_change": -0.68
+        "last": 2994.59,
+        "pct_change": -0.77
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.67,
-        "pct_change": 3.57
+        "last": 15.77,
+        "pct_change": 4.23
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.69,
-        "pct_change": -0.93
+        "last": 4.7,
+        "pct_change": -0.76
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.0,
-        "pct_change": 0.2
+        "last": 99.03,
+        "pct_change": 0.23
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 85.06,
-        "pct_change": -2.3
+        "last": 85.01,
+        "pct_change": -2.35
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4702.8,
-        "pct_change": 1.7
+        "last": 4697.1,
+        "pct_change": 1.58
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 180.75,
-        "pct_change": -1.4
+        "last": 180.28,
+        "pct_change": -1.65
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 58.06,
-        "pct_change": 1.01
+        "last": 58.0,
+        "pct_change": 0.9
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 62.9,
-        "pct_change": -1.15
+        "last": 62.97,
+        "pct_change": -1.06
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 174.59,
-        "pct_change": -0.02
+        "last": 174.45,
+        "pct_change": -0.1
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 118.36,
-        "pct_change": 0.29
+        "last": 118.2,
+        "pct_change": 0.15
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 87.15,
-        "pct_change": 1.35
+        "last": 87.14,
+        "pct_change": 1.33
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 178.72,
-        "pct_change": -0.85
+        "last": 178.43,
+        "pct_change": -1.01
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 43.17,
-        "pct_change": 0.94
+        "last": 43.1,
+        "pct_change": 0.77
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 53.38,
-        "pct_change": -0.3
+        "last": 53.29,
+        "pct_change": -0.47
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 45.16,
-        "pct_change": 0.18
+        "last": 45.08,
+        "pct_change": 0.01
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 112.67,
-        "pct_change": 1.14
+        "last": 112.51,
+        "pct_change": 1.0
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 159.09,
-        "pct_change": 0.13
+        "last": 159.18,
+        "pct_change": 0.19
       }
     }
   },
@@ -138,58 +138,58 @@
       "as_of": "2026-08-21",
       "prev_yield": 2.854
     },
-    "spread_10y": 1.81
+    "spread_10y": 1.82
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 145.54,
-        "pct_change": -2.87
+        "last": 145.36,
+        "pct_change": -2.99
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 312.45,
-        "pct_change": 1.0
+        "last": 311.93,
+        "pct_change": 0.83
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 489.23,
-        "pct_change": 1.24
+        "last": 488.03,
+        "pct_change": 0.99
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 262.36,
-        "pct_change": 1.44
+        "last": 262.02,
+        "pct_change": 1.31
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 349.77,
-        "pct_change": 1.44
+        "last": 348.92,
+        "pct_change": 1.19
       },
       "Meta": {
         "symbol": "META",
-        "last": 558.89,
-        "pct_change": 1.63
+        "last": 557.71,
+        "pct_change": 1.42
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 834.27,
-        "pct_change": -3.74
+        "last": 831.39,
+        "pct_change": -4.08
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 276.15,
-        "pct_change": -4.62
+        "last": 276.09,
+        "pct_change": -4.64
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 154.87,
-        "pct_change": -1.36
+        "last": 154.69,
+        "pct_change": -1.48
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -616,42 +616,52 @@
         "published": "2026-08-24T02:47:00Z"
       },
       {
-        "title": "Elon Musk’s Social Security reset is coming even after DOGE’s death — protect your check whether you like him or not",
-        "link": "https://finance.yahoo.com/economy/policy/articles/elon-musk-social-security-reset-163919950.html",
-        "published": "2026-08-24T16:39:19Z"
+        "title": "Trump bought shares in Elon Musk's SpaceX in June, financial disclosure shows",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/trump-bought-shares-elon-musks-171836919.html",
+        "published": "2026-08-24T17:24:35Z"
       },
       {
-        "title": "President Trump’s Portfolio Added 2 Stocks Bill Gates and Bill Ackman Also Own",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/president-trump-portfolio-added-2-162941904.html",
-        "published": "2026-08-24T16:29:41Z"
+        "title": "AI Infrastructure Stocks Surge: How Long Can CoreWeave (CRWV) and Super Micro Computer (SMCI) Keep It Up?",
+        "link": "https://finance.yahoo.com/technology/ai/articles/ai-infrastructure-stocks-surge-long-172411864.html",
+        "published": "2026-08-24T17:24:11Z"
       },
       {
-        "title": "Guardant Health Dives After Losing A Patent Dispute; Judge Orders Royalties",
-        "link": "https://www.investors.com/news/technology/guardant-health-stock-twinstrand-biosciences-royalties/?src=A00220&yptr=yahoo",
-        "published": "2026-08-24T16:08:20Z"
+        "title": "General Motors Company (GM) Spends $4.5B on Chips: Is Ford Motor Company (F) Betting Bigger on America?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/general-motors-company-gm-spends-172052073.html",
+        "published": "2026-08-24T17:20:52Z"
       },
       {
-        "title": "Stock market today: S&P 500, Nasdaq slip as tech stocks sag, US-Canada trade spat escalates",
-        "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-24-dow-sp-500-nasdaq-080306047.html",
-        "published": "2026-08-24T08:03:06Z"
+        "title": "Oil slips ahead of US announcement of new sanctions on Iran",
+        "link": "https://finance.yahoo.com/news/oil-falls-1-ahead-us-231835385.html",
+        "published": "2026-08-24T17:17:29Z"
       },
       {
-        "title": "The Monthly Fees in 55+ Communities Are Rising Faster Than Social Security",
-        "link": "https://finance.yahoo.com/real-estate/articles/monthly-fees-55-communities-rising-164632272.html",
-        "published": "2026-08-24T16:46:32Z"
+        "title": "California Attorney General Cancels Paramount Meeting, Citing Leaks",
+        "link": "https://www.wsj.com/business/media/californias-bonta-cancels-paramount-meeting-citing-leaks-b4be3859?siteid=yhoof2&yptr=yahoo",
+        "published": "2026-08-24T17:34:00Z"
       },
       {
-        "title": "Analysts Fall Over Themselves With Bullish Ratings On IBD Stock Of The Day",
-        "link": "https://www.investors.com/research/ibd-stock-of-the-day/jersey-mikes-jmke-stock-of-the-day/?src=A00220&yptr=yahoo",
-        "published": "2026-08-24T16:03:22Z"
+        "title": "Stock Market Today: Dow Up As Trump Makes This Canada Warning; Steel Gains Melt (Live Coverage)",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-economic-d-day-alibaba-stock-baba/?src=A00220&yptr=yahoo",
+        "published": "2026-08-24T17:05:00Z"
       },
       {
-        "title": "Tech stocks today: All eyes on Nvidia as Meta trial resumes",
-        "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-all-eyes-on-nvidia-as-meta-trial-resumes-125406169.html",
-        "published": "2026-08-24T12:54:06Z"
+        "title": "Gas Price Watch: Bessent To Detail 'Economic D-Day' On Iran",
+        "link": "https://www.investors.com/news/gas-price-watch-bessent-economic-d-day-on-iran/?src=A00220&yptr=yahoo",
+        "published": "2026-08-24T16:57:40Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "Ford’s $3 billion Canadian gamble is getting caught in trade-war crosshairs",
+        "link": "https://www.marketwatch.com/story/u-s-automakers-and-home-builders-are-among-the-big-losers-as-trump-launches-a-trade-war-against-canada-063c1d4c?mod=mw_rss_topstories",
+        "published": "Mon, 24 Aug 2026 17:44:00 GMT"
+      },
+      {
+        "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
+        "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
+        "published": "Mon, 24 Aug 2026 17:15:00 GMT"
+      },
       {
         "title": "Dell’s stock is up 235% this year — and earnings could propel it even higher, analysts say",
         "link": "https://www.marketwatch.com/story/dells-stock-is-up-235-this-year-and-earnings-could-propel-it-even-higher-analysts-say-c1be29d7?mod=mw_rss_topstories",
@@ -681,28 +691,13 @@
         "title": "Global oil prices above $90 a barrel ahead of Bessent’s ‘economic D-Day’ announcement on Iran",
         "link": "https://www.marketwatch.com/story/oil-trades-lower-even-as-bessent-promises-economic-d-day-announcement-on-iran-a90d862e?mod=mw_rss_topstories",
         "published": "Mon, 24 Aug 2026 16:03:00 GMT"
-      },
-      {
-        "title": "U.S. automakers and home builders are among the big losers as Trump launches a trade war against Canada",
-        "link": "https://www.marketwatch.com/story/u-s-automakers-and-home-builders-are-among-the-big-losers-as-trump-launches-a-trade-war-against-canada-063c1d4c?mod=mw_rss_topstories",
-        "published": "Mon, 24 Aug 2026 15:46:00 GMT"
-      },
-      {
-        "title": "Think Medicare Advantage provides better care for chronic conditions? A new study suggests otherwise.",
-        "link": "https://www.marketwatch.com/story/think-medicare-advantage-provides-better-care-for-chronic-conditions-a-new-study-suggests-otherwise-276c7ffd?mod=mw_rss_topstories",
-        "published": "Mon, 24 Aug 2026 15:29:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates",
-        "link": "https://www.cnbc.com/2026/08/24/trump-canada-auto-tariffs-trade-war.html",
-        "published": "Mon, 24 Aug 2026 16:31:04 GMT"
-      },
-      {
-        "title": "Bessent could tap near $1 trillion Treasury General Account to fund bond buybacks, sources said",
-        "link": "https://www.cnbc.com/2026/08/24/bessent-1-trillion-treasury-general-account-bond-buybacks.html",
-        "published": "Mon, 24 Aug 2026 13:17:35 GMT"
+        "title": "Trump admin unveils anti-Iran global sanctions plan, signals China not exempt",
+        "link": "https://www.cnbc.com/2026/08/24/trump-iran-economy-sanctions-china-bessent.html",
+        "published": "Mon, 24 Aug 2026 17:49:15 GMT"
       },
       {
         "title": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
@@ -712,22 +707,27 @@
       {
         "title": "Nvidia says Groq racks will be online this year following $20 billion purchase",
         "link": "https://www.cnbc.com/2026/08/24/nvidia-says-groq-racks-will-be-online-this-year-after-20-billion-deal.html",
-        "published": "Mon, 24 Aug 2026 17:11:01 GMT"
+        "published": "Mon, 24 Aug 2026 17:19:34 GMT"
+      },
+      {
+        "title": "Bessent could tap near $1 trillion Treasury General Account to fund bond buybacks, sources said",
+        "link": "https://www.cnbc.com/2026/08/24/bessent-1-trillion-treasury-general-account-bond-buybacks.html",
+        "published": "Mon, 24 Aug 2026 13:17:35 GMT"
       },
       {
         "title": "Stocks making the biggest moves midday: Expedia, Nvidia, Strategy, Hims & Hers and more",
         "link": "https://www.cnbc.com/2026/08/24/stocks-making-the-biggest-moves-midday-expe-nvda-mstr-hims.html",
-        "published": "Mon, 24 Aug 2026 16:47:03 GMT"
+        "published": "Mon, 24 Aug 2026 17:48:08 GMT"
       },
       {
-        "title": "Nvidia reports earnings this week. Jay Woods says these are the key levels to watch",
-        "link": "https://www.cnbc.com/2026/08/24/nvidia-to-report-earnings-jay-woods-says-watch-these-key-levels.html",
-        "published": "Mon, 24 Aug 2026 16:05:24 GMT"
+        "title": "A Goldman portfolio of favorite stocks is up 29% this year. Here are the new members",
+        "link": "https://www.cnbc.com/2026/08/24/a-goldman-portfolio-of-favorite-stocks-is-up-29percent-this-year-here-are-the-new-members.html",
+        "published": "Mon, 24 Aug 2026 17:02:30 GMT"
       },
       {
         "title": "California AG Rob Bonta cancels Paramount settlement meeting, citing 'lack of good faith'",
         "link": "https://www.cnbc.com/2026/08/24/california-ag-bonta-paramount-settlement-meeting.html",
-        "published": "Mon, 24 Aug 2026 15:41:29 GMT"
+        "published": "Mon, 24 Aug 2026 17:23:54 GMT"
       },
       {
         "title": "A massive trade just happened in gold. The options market is buzzing",
