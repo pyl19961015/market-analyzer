@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-08-24T15:54:54",
+  "generated_at": "2026-08-24T16:32:27",
   "date": "2026-08-24",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7661.98,
-        "pct_change": -0.16
+        "last": 7664.09,
+        "pct_change": -0.13
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26088.12,
-        "pct_change": -0.35
+        "last": 26082.15,
+        "pct_change": -0.38
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 53425.56,
-        "pct_change": 0.28
+        "last": 53435.12,
+        "pct_change": 0.3
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3002.99,
-        "pct_change": -0.49
+        "last": 3001.54,
+        "pct_change": -0.54
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.78,
-        "pct_change": 4.3
+        "last": 15.66,
+        "pct_change": 3.5
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
         "last": 4.69,
-        "pct_change": -0.93
+        "pct_change": -1.01
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 98.96,
-        "pct_change": 0.16
+        "last": 98.97,
+        "pct_change": 0.17
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 84.77,
-        "pct_change": -2.63
+        "last": 85.14,
+        "pct_change": -2.21
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4718.0,
-        "pct_change": 2.03
+        "last": 4714.4,
+        "pct_change": 1.95
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 180.68,
-        "pct_change": -1.43
+        "last": 180.65,
+        "pct_change": -1.45
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 58.15,
-        "pct_change": 1.17
+        "last": 58.1,
+        "pct_change": 1.08
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 62.65,
-        "pct_change": -1.56
+        "last": 62.8,
+        "pct_change": -1.32
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 174.13,
-        "pct_change": -0.28
+        "last": 174.55,
+        "pct_change": -0.04
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 118.56,
-        "pct_change": 0.46
+        "last": 118.62,
+        "pct_change": 0.51
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 87.2,
-        "pct_change": 1.41
+        "last": 87.29,
+        "pct_change": 1.52
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 178.81,
-        "pct_change": -0.8
+        "last": 178.66,
+        "pct_change": -0.88
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 42.84,
-        "pct_change": 0.16
+        "last": 43.06,
+        "pct_change": 0.67
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 53.41,
-        "pct_change": -0.24
+        "last": 53.5,
+        "pct_change": -0.07
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 45.03,
-        "pct_change": -0.12
+        "last": 45.15,
+        "pct_change": 0.14
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 112.64,
-        "pct_change": 1.11
+        "last": 112.65,
+        "pct_change": 1.13
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 159.15,
-        "pct_change": 0.17
+        "last": 159.07,
+        "pct_change": 0.11
       }
     }
   },
@@ -151,45 +151,45 @@
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 311.79,
-        "pct_change": 0.79
+        "last": 312.03,
+        "pct_change": 0.87
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 489.44,
-        "pct_change": 1.28
+        "last": 489.31,
+        "pct_change": 1.26
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 262.55,
-        "pct_change": 1.51
+        "last": 262.62,
+        "pct_change": 1.54
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 350.81,
-        "pct_change": 1.74
+        "last": 350.97,
+        "pct_change": 1.78
       },
       "Meta": {
         "symbol": "META",
-        "last": 556.08,
-        "pct_change": 1.12
+        "last": 555.34,
+        "pct_change": 0.99
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 826.53,
-        "pct_change": -4.64
+        "last": 829.6,
+        "pct_change": -4.28
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 275.68,
-        "pct_change": -4.78
+        "last": 274.99,
+        "pct_change": -5.02
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 153.72,
-        "pct_change": -2.1
+        "last": 154.65,
+        "pct_change": -1.5
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -611,9 +611,14 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "Should You Buy Marvell Technology Stock Before Aug. 27?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/buy-marvell-technology-stock-aug-153621635.html",
-        "published": "2026-08-24T15:36:21Z"
+        "title": "The Only Asset Guaranteeing Me a Positive Real Return Right Now",
+        "link": "https://finance.yahoo.com/markets/options/articles/only-asset-guaranteeing-positive-real-160931150.html",
+        "published": "2026-08-24T16:09:31Z"
+      },
+      {
+        "title": "Guardant Health Dives After Losing A Patent Dispute; Judge Orders Royalties",
+        "link": "https://www.investors.com/news/technology/guardant-health-stock-twinstrand-biosciences-royalties/?src=A00220&yptr=yahoo",
+        "published": "2026-08-24T16:08:20Z"
       },
       {
         "title": "Stock market today: S&P 500, Nasdaq slip as tech stocks sag, US-Canada trade spat escalates",
@@ -621,37 +626,52 @@
         "published": "2026-08-24T08:03:06Z"
       },
       {
-        "title": "Salesforce Earnings Due. Will Sales Growth Reacceleration Theme Hold Up?",
-        "link": "https://www.investors.com/news/technology/salesforce-stock-crm-salesforce-earnings-q2-2026-preview/?src=A00220&yptr=yahoo",
-        "published": "2026-08-24T15:20:11Z"
+        "title": "Tech stocks today: All eyes on Nvidia as Meta trial resumes",
+        "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-all-eyes-on-nvidia-as-meta-trial-resumes-125406169.html",
+        "published": "2026-08-24T12:54:06Z"
       },
       {
-        "title": "Dollar edges up, loonie drops after U.S. announces tariffs",
-        "link": "https://finance.yahoo.com/news/dollar-pinned-at-multi-month-lows-as-debt-nerves-unnerve-investors-084611780.html",
-        "published": "2026-08-24T15:07:00Z"
+        "title": "Delta CEO Ed Bastian says AI could boost profits by 50% as airline tests AI-set fares on 3% of tickets",
+        "link": "https://finance.yahoo.com/technology/ai/articles/delta-ceo-ed-bastian-says-160000381.html",
+        "published": "2026-08-24T16:00:00Z"
       },
       {
-        "title": "Billionaire Leon Cooperman Says Investors Are Acting Like ‘Pavlov’s Dog’ — Reveals 2 New Stock Picks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-leon-cooperman-says-investors-145743521.html",
-        "published": "2026-08-24T14:57:43Z"
+        "title": "Royal Caribbean Is Down 20% From Its 52-Week High. Is the Dip Worth Buying?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/royal-caribbean-down-20-52-160800199.html",
+        "published": "2026-08-24T16:08:00Z"
       },
       {
-        "title": "Guardant Health Dives After Losing A Patent Dispute; Judge Orders Royalties",
-        "link": "https://www.investors.com/news/technology/guardant-health-stock-twinstrand-biosciences-royalties/?src=A00220&yptr=yahoo",
-        "published": "2026-08-24T14:49:08Z"
-      },
-      {
-        "title": "Why gold and silver prices have added $5 trillion in value",
-        "link": "https://finance.yahoo.com/markets/commodities/article/why-gold-and-silver-prices-have-added-5-trillion-in-value-092246961.html",
-        "published": "2026-08-24T09:22:46Z"
-      },
-      {
-        "title": "Stock Market Today: Dow Up As Trump Says This On Canada; Tech Hit With Micron, Nvidia Drops (Live Coverage)",
+        "title": "Stock Market Today: Dow Up As Trump Makes This Canada Warning; Nvidia Dips, Retailer Tests Entry (Live Coverage)",
         "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-economic-d-day-alibaba-stock-baba/?src=A00220&yptr=yahoo",
-        "published": "2026-08-24T14:43:36Z"
+        "published": "2026-08-24T15:56:19Z"
+      },
+      {
+        "title": "Shares dip on pressure from technology; yields and oil fall",
+        "link": "https://finance.yahoo.com/news/shares-flat-asia-iran-sanctions-004936320.html",
+        "published": "2026-08-24T15:47:51Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "Make these 7 money moves before taking out a private student loan",
+        "link": "https://www.marketwatch.com/story/make-these-7-money-moves-before-taking-out-a-private-student-loan-09cf3e08?mod=mw_rss_topstories",
+        "published": "Mon, 24 Aug 2026 16:28:00 GMT"
+      },
+      {
+        "title": "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?",
+        "link": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
+        "published": "Mon, 24 Aug 2026 16:15:00 GMT"
+      },
+      {
+        "title": "My father-in-law passed away, leaving a house with tenants. Do I evict them?",
+        "link": "https://www.marketwatch.com/story/my-father-in-law-passed-away-leaving-a-house-with-tenants-do-i-evict-them-f974428c?mod=mw_rss_topstories",
+        "published": "Mon, 24 Aug 2026 16:15:00 GMT"
+      },
+      {
+        "title": "Global oil prices above $90 a barrel ahead of Bessent’s ‘economic D-Day’ announcement on Iran",
+        "link": "https://www.marketwatch.com/story/oil-trades-lower-even-as-bessent-promises-economic-d-day-announcement-on-iran-a90d862e?mod=mw_rss_topstories",
+        "published": "Mon, 24 Aug 2026 16:03:00 GMT"
+      },
       {
         "title": "U.S. automakers and home builders are among the big losers as Trump launches a trade war against Canada",
         "link": "https://www.marketwatch.com/story/u-s-automakers-and-home-builders-are-among-the-big-losers-as-trump-launches-a-trade-war-against-canada-063c1d4c?mod=mw_rss_topstories",
@@ -671,33 +691,13 @@
         "title": "‘There is considerable tension’: My grandmother, 99, wants to cut my mother out of her will. Should I intervene?",
         "link": "https://www.marketwatch.com/story/there-is-considerable-tension-my-grandmother-99-wants-to-cut-my-mother-out-of-her-will-should-i-intervene-5e8f408e?mod=mw_rss_topstories",
         "published": "Mon, 24 Aug 2026 15:15:00 GMT"
-      },
-      {
-        "title": "It’s time to bet big on Nvidia’s stock, says this analyst who thinks the market has it all wrong",
-        "link": "https://www.marketwatch.com/story/its-time-to-bet-big-on-nvidias-stock-says-this-analyst-who-thinks-the-market-has-it-all-wrong-4388d3a6?mod=mw_rss_topstories",
-        "published": "Mon, 24 Aug 2026 15:02:00 GMT"
-      },
-      {
-        "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
-        "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
-        "published": "Mon, 24 Aug 2026 14:15:00 GMT"
-      },
-      {
-        "title": "Oil trades lower even as Bessent promises ‘economic D-Day’ announcement on Iran",
-        "link": "https://www.marketwatch.com/story/oil-trades-lower-even-as-bessent-promises-economic-d-day-announcement-on-iran-a90d862e?mod=mw_rss_topstories",
-        "published": "Mon, 24 Aug 2026 13:58:00 GMT"
-      },
-      {
-        "title": "Trump, Vance and Bessent try to calm the bond market with ‘alternative facts’",
-        "link": "https://www.marketwatch.com/story/trump-vance-and-bessent-try-to-calm-the-bond-market-with-alternative-facts-8e424378?mod=mw_rss_topstories",
-        "published": "Mon, 24 Aug 2026 13:50:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
         "title": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates",
         "link": "https://www.cnbc.com/2026/08/24/trump-canada-auto-tariffs-trade-war.html",
-        "published": "Mon, 24 Aug 2026 15:45:13 GMT"
+        "published": "Mon, 24 Aug 2026 16:31:04 GMT"
       },
       {
         "title": "Bessent could tap near $1 trillion Treasury General Account to fund bond buybacks, sources said",
@@ -720,9 +720,9 @@
         "published": "Mon, 24 Aug 2026 15:41:29 GMT"
       },
       {
-        "title": "Biotech stocks are breaking out. How Josh Brown is trading them",
-        "link": "https://www.cnbc.com/2026/08/24/biotech-stocks-are-breaking-out-how-josh-brown-is-trading-them.html",
-        "published": "Mon, 24 Aug 2026 15:10:31 GMT"
+        "title": "Nvidia reports earnings this week. Jay Woods says these are the key levels to watch",
+        "link": "https://www.cnbc.com/2026/08/24/nvidia-to-report-earnings-jay-woods-says-watch-these-key-levels.html",
+        "published": "Mon, 24 Aug 2026 16:05:24 GMT"
       },
       {
         "title": "Crypto extends gains after biggest 3-day rally since 2023",
@@ -730,9 +730,9 @@
         "published": "Mon, 24 Aug 2026 14:02:54 GMT"
       },
       {
-        "title": "Santoli: Why all the fuss about bond yields is happening now",
-        "link": "https://www.cnbc.com/2026/08/24/why-all-the-fuss-about-bond-yields-is-happening-now.html",
-        "published": "Mon, 24 Aug 2026 12:31:13 GMT"
+        "title": "From Nvidia earnings to trade war tape bombs, a simple strategy could be this week's best bet",
+        "link": "https://www.cnbc.com/2026/08/24/from-nvidia-earnings-to-trade-war-tape-bombs-a-simple-strategy-could-be-this-weeks-best-bet.html",
+        "published": "Mon, 24 Aug 2026 16:07:35 GMT"
       }
     ]
   }
