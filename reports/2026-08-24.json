@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-08-24T19:16:58",
+  "generated_at": "2026-08-24T19:54:07",
   "date": "2026-08-24",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7658.09,
-        "pct_change": -0.21
+        "last": 7652.28,
+        "pct_change": -0.29
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26025.47,
-        "pct_change": -0.59
+        "last": 25988.15,
+        "pct_change": -0.73
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 53450.23,
-        "pct_change": 0.33
+        "last": 53436.1,
+        "pct_change": 0.3
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2997.36,
-        "pct_change": -0.68
+        "last": 2997.03,
+        "pct_change": -0.69
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.76,
-        "pct_change": 4.16
+        "last": 15.81,
+        "pct_change": 4.49
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
@@ -35,25 +35,25 @@
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.02,
+        "last": 99.01,
         "pct_change": 0.22
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 85.26,
-        "pct_change": -2.07
+        "last": 85.03,
+        "pct_change": -2.33
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4695.4,
-        "pct_change": 1.54
+        "last": 4706.4,
+        "pct_change": 1.78
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 180.49,
-        "pct_change": -1.54
+        "last": 179.89,
+        "pct_change": -1.87
       },
       "Financials": {
         "symbol": "XLF",
@@ -62,43 +62,43 @@
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 63.13,
-        "pct_change": -0.79
+        "last": 63.1,
+        "pct_change": -0.85
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 174.55,
-        "pct_change": -0.04
+        "last": 174.88,
+        "pct_change": 0.15
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 118.22,
-        "pct_change": 0.17
+        "last": 118.38,
+        "pct_change": 0.31
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 87.13,
-        "pct_change": 1.33
+        "last": 87.39,
+        "pct_change": 1.62
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 178.77,
-        "pct_change": -0.82
+        "last": 178.73,
+        "pct_change": -0.84
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 43.19,
-        "pct_change": 0.99
+        "last": 43.2,
+        "pct_change": 1.01
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 53.42,
-        "pct_change": -0.23
+        "last": 53.47,
+        "pct_change": -0.14
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 45.27,
-        "pct_change": 0.42
+        "last": 45.28,
+        "pct_change": 0.45
       },
       "Communication Services": {
         "symbol": "XLC",
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 159.19,
-        "pct_change": 0.19
+        "last": 159.13,
+        "pct_change": 0.16
       }
     }
   },
@@ -144,52 +144,52 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 145.2,
-        "pct_change": -3.1
+        "last": 144.49,
+        "pct_change": -3.57
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 311.5,
-        "pct_change": 0.7
+        "last": 310.9,
+        "pct_change": 0.5
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 488.78,
-        "pct_change": 1.15
+        "last": 488.77,
+        "pct_change": 1.14
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 261.89,
-        "pct_change": 1.26
+        "last": 262.32,
+        "pct_change": 1.42
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 348.38,
-        "pct_change": 1.03
+        "last": 348.62,
+        "pct_change": 1.1
       },
       "Meta": {
         "symbol": "META",
-        "last": 560.36,
-        "pct_change": 1.9
+        "last": 560.51,
+        "pct_change": 1.93
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 834.36,
-        "pct_change": -3.73
+        "last": 826.06,
+        "pct_change": -4.69
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 277.77,
-        "pct_change": -4.06
+        "last": 274.73,
+        "pct_change": -5.11
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 155.47,
-        "pct_change": -0.98
+        "last": 155.05,
+        "pct_change": -1.25
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -616,14 +616,29 @@
         "published": "2026-08-24T02:47:00Z"
       },
       {
+        "title": "A 22-year-old inherited $1.7 million after her mom's sudden death. These are the tax and IRS rules she needs to know now",
+        "link": "https://finance.yahoo.com/markets/currencies/articles/22-old-inherited-1-7-103000483.html",
+        "published": "2026-08-23T10:30:00Z"
+      },
+      {
+        "title": "Wall Street firms are waiting for people to die so they can get their life insurance money. And yes, it’s legal",
+        "link": "https://finance.yahoo.com/healthcare/articles/wall-street-firms-waiting-people-110000647.html",
+        "published": "2026-08-23T11:00:00Z"
+      },
+      {
+        "title": "‘The village idiot could have made it’: Warren Buffett’s dead-simple playbook to supercharge your retirement now",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/village-idiot-could-made-warren-110000603.html",
+        "published": "2026-08-23T11:00:00Z"
+      },
+      {
         "title": "Grant Cardone says ‘America will become a renter nation.’ Can you make the most of the market without a mortgage?",
         "link": "https://finance.yahoo.com/real-estate/articles/grant-cardone-says-america-become-101500797.html",
         "published": "2026-08-23T10:15:00Z"
       },
       {
-        "title": "A 22-year-old inherited $1.7 million after her mom's sudden death. These are the tax and IRS rules she needs to know now",
-        "link": "https://finance.yahoo.com/markets/currencies/articles/22-old-inherited-1-7-103000483.html",
-        "published": "2026-08-23T10:30:00Z"
+        "title": "Cardinal Health's CEO Moved 124,529 Shares in Two Days. Here's What Long-Term Investors Should Know",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/cardinal-healths-ceo-moved-124-104448184.html",
+        "published": "2026-08-23T10:44:48Z"
       },
       {
         "title": "New combines now list for $1 million as farm income drops 2.6% — forcing farmers to rely on 70s machines and scrap parts",
@@ -634,24 +649,19 @@
         "title": "I'm a 57-year-old unemployed tech worker, I can't find a job — and I'm starting to panic. How can I get back on track?",
         "link": "https://finance.yahoo.com/small-business/articles/im-57-old-unemployed-tech-094500348.html",
         "published": "2026-08-23T09:45:00Z"
-      },
-      {
-        "title": "Billionaire David Tepper Has 16% of His $7.5 Billion Appaloosa Portfolio in Amazon Stock. Is It Still a Buy?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-david-tepper-16-7-102200897.html",
-        "published": "2026-08-23T10:22:00Z"
-      },
-      {
-        "title": "Citibank exec says every 10-year delay in retirement savings means saving 3x as much monthly to catch up",
-        "link": "https://finance.yahoo.com/markets/articles/citibank-exec-says-every-10-093000427.html",
-        "published": "2026-08-23T09:30:00Z"
-      },
-      {
-        "title": "‘The village idiot could have made it’: Warren Buffett’s dead-simple playbook to supercharge your retirement now",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/village-idiot-could-made-warren-110000603.html",
-        "published": "2026-08-23T11:00:00Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "Bessent’s sweeping sanctions against Iran send oil prices to their biggest drop in 3 weeks, while fueling hopes of de-escalation",
+        "link": "https://www.marketwatch.com/story/oil-trades-lower-even-as-bessent-promises-economic-d-day-announcement-on-iran-a90d862e?mod=mw_rss_topstories",
+        "published": "Mon, 24 Aug 2026 19:40:00 GMT"
+      },
+      {
+        "title": "My father-in-law passed away, leaving a house with tenants. Do I evict them?",
+        "link": "https://www.marketwatch.com/story/my-father-in-law-passed-away-leaving-a-house-with-tenants-do-i-evict-them-f974428c?mod=mw_rss_topstories",
+        "published": "Mon, 24 Aug 2026 19:30:00 GMT"
+      },
       {
         "title": "Trump’s trade war with Canada could lead the U.S. back to quantitative easing",
         "link": "https://www.marketwatch.com/story/trumps-canada-trade-war-could-lead-the-u-s-back-to-quantitative-easing-eef9be8b?mod=mw_rss_topstories",
@@ -668,11 +678,6 @@
         "published": "Mon, 24 Aug 2026 18:16:00 GMT"
       },
       {
-        "title": "Oil prices pull back as Bessent launches ‘Operation Economic Outcast’ against Iran but holds off on new secondary sanctions",
-        "link": "https://www.marketwatch.com/story/oil-trades-lower-even-as-bessent-promises-economic-d-day-announcement-on-iran-a90d862e?mod=mw_rss_topstories",
-        "published": "Mon, 24 Aug 2026 18:09:00 GMT"
-      },
-      {
         "title": "Here’s how overvalued the stock market really is",
         "link": "https://www.marketwatch.com/story/heres-how-overvalued-the-stock-market-really-is-f26540c5?mod=mw_rss_topstories",
         "published": "Mon, 24 Aug 2026 18:05:00 GMT"
@@ -686,11 +691,6 @@
         "title": "Ford’s $3 billion Canadian bet is getting caught in trade-war crosshairs",
         "link": "https://www.marketwatch.com/story/u-s-automakers-and-home-builders-are-among-the-big-losers-as-trump-launches-a-trade-war-against-canada-063c1d4c?mod=mw_rss_topstories",
         "published": "Mon, 24 Aug 2026 17:44:00 GMT"
-      },
-      {
-        "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
-        "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
-        "published": "Mon, 24 Aug 2026 17:15:00 GMT"
       }
     ],
     "CNBC Top News": [
@@ -712,7 +712,7 @@
       {
         "title": "S&P 500 falls slightly as chip stock slide outweighs yield decline: Live updates",
         "link": "https://www.cnbc.com/2026/08/23/stock-market-today-live-updates.html",
-        "published": "Mon, 24 Aug 2026 19:13:19 GMT"
+        "published": "Mon, 24 Aug 2026 19:50:54 GMT"
       },
       {
         "title": "Trump’s oil and gas stocks gained up to $15.5 million amid Iran war, congressional Democrats say",
@@ -720,9 +720,9 @@
         "published": "Mon, 24 Aug 2026 18:34:34 GMT"
       },
       {
-        "title": "There's one agriculture stock emerging from a 'corrective phase', says Katie Stockton",
-        "link": "https://www.cnbc.com/2026/08/24/theres-one-agriculture-stock-emerging-from-a-corrective-phase-says-katie-stockton.html",
-        "published": "Mon, 24 Aug 2026 17:19:32 GMT"
+        "title": "These 'overlooked gems' pay attractive income, a dividend specialist says",
+        "link": "https://www.cnbc.com/2026/08/24/these-overlooked-gems-pay-attractive-income-a-dividend-specialist-says.html",
+        "published": "Mon, 24 Aug 2026 19:04:53 GMT"
       },
       {
         "title": "California AG Rob Bonta cancels Paramount settlement meeting, citing 'lack of good faith'",
