@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-08-24T12:41:39",
+  "generated_at": "2026-08-24T13:37:02",
   "date": "2026-08-24",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7674.37,
-        "pct_change": 0.43
+        "last": 7655.67,
+        "pct_change": -0.24
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26180.46,
-        "pct_change": 0.43
+        "last": 26051.64,
+        "pct_change": -0.49
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 53277.01,
-        "pct_change": 0.98
+        "last": 53351.2,
+        "pct_change": 0.14
       },
       "Russell 2000": {
         "symbol": "^RUT",
@@ -25,85 +25,85 @@
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.88,
-        "pct_change": 4.96
+        "last": 15.84,
+        "pct_change": 4.69
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.71,
-        "pct_change": -0.63
+        "last": 4.72,
+        "pct_change": -0.46
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 98.93,
-        "pct_change": 0.13
+        "last": 98.94,
+        "pct_change": 0.14
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 85.43,
-        "pct_change": -1.87
+        "last": 85.66,
+        "pct_change": -1.61
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4717.6,
-        "pct_change": 2.02
+        "last": 4729.4,
+        "pct_change": 2.28
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 183.31,
-        "pct_change": 0.11
+        "last": 180.69,
+        "pct_change": -1.43
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 57.48,
-        "pct_change": 0.93
+        "last": 57.95,
+        "pct_change": 0.82
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 63.64,
-        "pct_change": -0.17
+        "last": 63.47,
+        "pct_change": -0.26
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 174.62,
-        "pct_change": 1.29
+        "last": 173.6,
+        "pct_change": -0.58
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 118.02,
-        "pct_change": 1.15
+        "last": 118.32,
+        "pct_change": 0.25
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 85.99,
-        "pct_change": 0.79
+        "last": 86.87,
+        "pct_change": 1.02
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 180.25,
-        "pct_change": 0.27
+        "last": 179.39,
+        "pct_change": -0.48
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 42.77,
-        "pct_change": -2.28
+        "last": 42.71,
+        "pct_change": -0.14
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 53.54,
-        "pct_change": 2.14
+        "last": 53.94,
+        "pct_change": 0.75
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 45.08,
-        "pct_change": 0.0
+        "last": 45.07,
+        "pct_change": -0.02
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 111.4,
-        "pct_change": 0.65
+        "last": 112.11,
+        "pct_change": 0.63
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 158.96,
-        "pct_change": 0.05
+        "last": 159.14,
+        "pct_change": 0.16
       }
     }
   },
@@ -131,65 +131,65 @@
       "effr": 3.63,
       "target_low": 3.5,
       "target_high": 3.75,
-      "as_of": "2026-08-20"
+      "as_of": "2026-08-21"
     },
     "japan": {
       "yield": 2.882,
       "as_of": "2026-08-21",
       "prev_yield": 2.854
     },
-    "spread_10y": 1.83
+    "spread_10y": 1.84
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 149.84,
-        "pct_change": -1.06
+        "last": 144.26,
+        "pct_change": -3.72
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 309.35,
-        "pct_change": -0.63
+        "last": 311.72,
+        "pct_change": 0.77
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 483.24,
-        "pct_change": 0.43
+        "last": 483.97,
+        "pct_change": 0.15
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 258.63,
-        "pct_change": -0.57
+        "last": 261.36,
+        "pct_change": 1.06
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 344.82,
-        "pct_change": 1.22
+        "last": 347.6,
+        "pct_change": 0.81
       },
       "Meta": {
         "symbol": "META",
-        "last": 549.9,
-        "pct_change": 0.75
+        "last": 551.69,
+        "pct_change": 0.33
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 866.71,
-        "pct_change": -1.43
+        "last": 817.45,
+        "pct_change": -5.68
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 289.52,
-        "pct_change": -0.18
+        "last": 269.13,
+        "pct_change": -7.04
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 157.01,
-        "pct_change": 2.55
+        "last": 152.94,
+        "pct_change": -2.59
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -592,42 +592,67 @@
         "published": "2026-08-24T01:37:00Z"
       },
       {
-        "title": "Why this analyst predicts Circle stock could surge 75%",
-        "link": "https://finance.yahoo.com/markets/stocks/article/why-this-analyst-predicts-circle-stock-could-surge-75-123017242.html",
-        "published": "2026-08-24T12:30:17Z"
+        "title": "Alibaba Stock Falls As AI Push Drives $10 Billion Share Sale",
+        "link": "https://www.investors.com/news/technology/alibaba-stock-falls-as-ai-push-drives-10-billion-share-sale/?src=A00220&yptr=yahoo",
+        "published": "2026-08-24T13:13:52Z"
       },
       {
-        "title": "Is Netflix (NFLX) Facing a Growth Slowdown After Its Strong First Quarter?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-facing-growth-slowdown-121811891.html",
-        "published": "2026-08-24T12:18:11Z"
+        "title": "Can AMD (AMD) Win From the Shift Toward More CPU-Heavy AI Data Centers?",
+        "link": "https://finance.yahoo.com/technology/articles/amd-amd-win-shift-toward-131307134.html",
+        "published": "2026-08-24T13:13:07Z"
       },
       {
         "title": "U.S. Steel Stocks Nucor, Steel Dynamics Rally As Canada Trade Talks Collapse",
         "link": "https://www.investors.com/news/u-s-steel-stocks-nucor-steel-dynamics-canada-trade-talks-collapse/?src=A00220&yptr=yahoo",
-        "published": "2026-08-24T12:10:14Z"
+        "published": "2026-08-24T13:09:39Z"
       },
       {
-        "title": "Nvidia earnings face a frustrating reality",
-        "link": "https://finance.yahoo.com/markets/stocks/article/nvidia-earnings-face-a-frustrating-reality-103234712.html",
-        "published": "2026-08-24T10:32:34Z"
+        "title": "Bitcoin and ethereum prices today, Monday, August 24, 2026: Prices rising, as investors look for more Fed clues this week",
+        "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-august-24-2026-prices-rising-as-investors-look-for-more-fed-clues-this-week-130538704.html",
+        "published": "2026-08-24T13:05:38Z"
       },
       {
-        "title": "Shein launches Hong Kong IPO at $27 billion valuation",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/shein-launches-hong-kong-ipo-122327003.html",
-        "published": "2026-08-24T12:23:27Z"
+        "title": "AB InBev invests in New York Cutwater production",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/ab-inbev-invests-york-cutwater-132429706.html",
+        "published": "2026-08-24T13:24:29Z"
       },
       {
-        "title": "Trip.com (TCOM): China’s Largest Travel Platform Set for Long Term Gains",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/trip-com-tcom-china-largest-120739032.html",
-        "published": "2026-08-24T12:07:39Z"
+        "title": "Strategy Leaves Bitcoin Holdings Unchanged As Price Rises",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-leaves-bitcoin-holdings-unchanged-130500704.html",
+        "published": "2026-08-24T13:05:00Z"
       },
       {
-        "title": "Streaming Scale and Global Base Power Netflix’s (NFLX) Next Phase of Monetization",
-        "link": "https://finance.yahoo.com/media-advertising/articles/streaming-scale-global-power-netflix-120428736.html",
-        "published": "2026-08-24T12:04:28Z"
+        "title": "This Fund Exits Intuit (INTU) Amid Concerns of AI Disruption to TurboTax’s Moat",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/fund-exits-intuit-intu-amid-130402105.html",
+        "published": "2026-08-24T13:04:02Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "I’m turning 70. Here’s how I’m making this decade the richest of my retirement.",
+        "link": "https://www.marketwatch.com/story/im-turning-70-heres-how-im-making-this-decade-the-richest-of-my-retirement-ae351f90?mod=mw_rss_topstories",
+        "published": "Mon, 24 Aug 2026 13:35:00 GMT"
+      },
+      {
+        "title": "Here are two trades to make ahead of a critical week for markets as Nvidia results and Jackson Hole loom",
+        "link": "https://www.marketwatch.com/story/here-are-two-trades-to-make-ahead-of-a-critical-week-for-markets-as-nvidia-results-and-jackson-hole-loom-8ac3653c?mod=mw_rss_topstories",
+        "published": "Mon, 24 Aug 2026 13:31:00 GMT"
+      },
+      {
+        "title": "My father-in-law passed away, leaving a house with tenants. Do I evict them?",
+        "link": "https://www.marketwatch.com/story/my-father-in-law-passed-away-leaving-a-house-with-tenants-do-i-evict-them-f974428c?mod=mw_rss_topstories",
+        "published": "Mon, 24 Aug 2026 13:15:00 GMT"
+      },
+      {
+        "title": "Yields are the highest they’ve been in years — but are bonds cheap enough to buy? Two strategists disagree.",
+        "link": "https://www.marketwatch.com/story/theyre-the-highest-theyve-been-in-years-but-are-bonds-cheap-enough-to-buy-here-two-strategists-disagree-348fe330?mod=mw_rss_topstories",
+        "published": "Mon, 24 Aug 2026 13:04:00 GMT"
+      },
+      {
+        "title": "The Treasury’s bond-market intervention isn’t working. So what comes next?",
+        "link": "https://www.marketwatch.com/story/the-treasurys-bond-market-intervention-isnt-working-so-what-comes-next-ba5e132a?mod=mw_rss_topstories",
+        "published": "Mon, 24 Aug 2026 13:02:00 GMT"
+      },
       {
         "title": "There are six stocks that hedge funds and mutual funds are both overweight — and SpaceX is one",
         "link": "https://www.marketwatch.com/story/there-are-six-stocks-that-hedge-funds-and-mutual-funds-are-both-overweight-and-spacex-is-one-2a17ffb1?mod=mw_rss_topstories",
@@ -642,43 +667,23 @@
         "title": "‘The estrangement isn’t about politics’: My daughter hasn’t spoken to me for 4 years. Do I leave her a monthly annuity?",
         "link": "https://www.marketwatch.com/story/its-truly-a-tragedy-my-daughter-hasnt-spoken-to-me-for-4-years-but-it-has-nothing-to-do-with-politics-86c4bcf6?mod=mw_rss_topstories",
         "published": "Mon, 24 Aug 2026 12:15:00 GMT"
-      },
-      {
-        "title": "This market shift resembles the post–World War II era — and bond yields could have room to go higher, says Morgan Stanley",
-        "link": "https://www.marketwatch.com/story/the-post-world-war-ii-market-shift-is-here-and-bond-yields-could-have-higher-to-go-says-morgan-stanley-9381532c?mod=mw_rss_topstories",
-        "published": "Mon, 24 Aug 2026 12:10:00 GMT"
-      },
-      {
-        "title": "Yields are the highest they’ve been in years — but are bonds cheap enough to buy? Two strategists disagree.",
-        "link": "https://www.marketwatch.com/story/theyre-the-highest-theyve-been-in-years-but-are-bonds-cheap-enough-to-buy-here-two-strategists-disagree-348fe330?mod=mw_rss_topstories",
-        "published": "Mon, 24 Aug 2026 11:59:00 GMT"
-      },
-      {
-        "title": "Think Medicare Advantage provides better care for chronic conditions? A new study suggests otherwise.",
-        "link": "https://www.marketwatch.com/story/think-medicare-advantage-provides-better-care-for-chronic-conditions-a-new-study-suggests-otherwise-276c7ffd?mod=mw_rss_topstories",
-        "published": "Mon, 24 Aug 2026 11:19:00 GMT"
-      },
-      {
-        "title": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
-        "link": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
-        "published": "Mon, 24 Aug 2026 11:15:00 GMT"
-      },
-      {
-        "title": "Here are two trades to make ahead of a critical week for markets as Nvidia results and Jackson Hole loom",
-        "link": "https://www.marketwatch.com/story/here-are-two-trades-to-make-ahead-of-a-critical-week-for-markets-as-nvidia-results-and-jackson-hole-loom-8ac3653c?mod=mw_rss_topstories",
-        "published": "Mon, 24 Aug 2026 10:40:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
         "title": "Bessent could tap near $1 trillion Treasury General Account to fund bond buybacks, sources said",
         "link": "https://www.cnbc.com/2026/08/24/bessent-1-trillion-treasury-general-account-bond-buybacks.html",
-        "published": "Mon, 24 Aug 2026 12:32:52 GMT"
+        "published": "Mon, 24 Aug 2026 13:17:35 GMT"
       },
       {
-        "title": "'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war",
-        "link": "https://www.cnbc.com/2026/08/24/canada-us-trade-war-deal.html",
-        "published": "Mon, 24 Aug 2026 12:38:45 GMT"
+        "title": "U.S. Trade Rep Greer blames Canada for failed tariff talks: 'They wanted more'",
+        "link": "https://www.cnbc.com/2026/08/24/trump-canada-trade-tariffs-greer.html",
+        "published": "Mon, 24 Aug 2026 13:24:51 GMT"
+      },
+      {
+        "title": "California AG Rob Bonta cancels Paramount settlement meeting, citing 'lack of good faith'",
+        "link": "https://www.cnbc.com/2026/08/24/california-ag-bonta-paramount-settlement-meeting.html",
+        "published": "Mon, 24 Aug 2026 13:33:29 GMT"
       },
       {
         "title": "Trump Media CEO defends selling faster access to president's Truth Social posts, says more have signed up",
@@ -686,29 +691,24 @@
         "published": "Mon, 24 Aug 2026 12:35:50 GMT"
       },
       {
-        "title": "UPS is investing $2 billion in international, healthcare and supply chain businesses",
-        "link": "https://www.cnbc.com/2026/08/24/ups-global-logistics-investment.html",
-        "published": "Mon, 24 Aug 2026 11:00:01 GMT"
-      },
-      {
         "title": "Santoli: Why all the fuss about bond yields is happening now",
         "link": "https://www.cnbc.com/2026/08/24/why-all-the-fuss-about-bond-yields-is-happening-now.html",
         "published": "Mon, 24 Aug 2026 12:31:13 GMT"
       },
       {
-        "title": "CoreWeave shares are set to nearly double even as chip costs rise, Truist says",
-        "link": "https://www.cnbc.com/2026/08/24/coreweave-shares-are-set-to-nearly-double-even-as-chip-costs-rise-truist-says.html",
-        "published": "Mon, 24 Aug 2026 12:08:06 GMT"
+        "title": "Here are Monday's biggest analyst calls: Nvidia, Jersey Mike's, Dell, Chipotle, Marvell, CoreWeave & more",
+        "link": "https://www.cnbc.com/2026/08/24/mondays-top-analyst-calls-on-wall-street-include-nvidia.html",
+        "published": "Mon, 24 Aug 2026 12:40:11 GMT"
       },
       {
-        "title": "A media M&A chill: The Paramount-WBD antitrust challenge may hold up more deals than one",
-        "link": "https://www.cnbc.com/2026/08/24/paramount-wbd-antitrust-media-deals.html",
-        "published": "Mon, 24 Aug 2026 12:07:27 GMT"
+        "title": "'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war",
+        "link": "https://www.cnbc.com/2026/08/24/canada-us-trade-war-deal.html",
+        "published": "Mon, 24 Aug 2026 13:35:08 GMT"
       },
       {
-        "title": "Democratic House leader Jeffries meets with Jared Kushner as midterms loom",
-        "link": "https://www.cnbc.com/2026/08/23/democratic-leader-jeffries-meets-with-jared-kushner-as-midterms-loom.html",
-        "published": "Sun, 23 Aug 2026 17:58:06 GMT"
+        "title": "UPS is investing $2 billion in international, healthcare and supply chain businesses",
+        "link": "https://www.cnbc.com/2026/08/24/ups-global-logistics-investment.html",
+        "published": "Mon, 24 Aug 2026 11:00:01 GMT"
       }
     ]
   }
