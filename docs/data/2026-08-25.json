@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T07:29:44",
+  "generated_at": "2026-08-25T08:10:05",
   "date": "2026-08-25",
   "market_sentiment": {
     "indices": {
@@ -25,8 +25,8 @@
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.85,
-        "pct_change": 4.76
+        "last": 15.81,
+        "pct_change": -0.25
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
@@ -35,18 +35,18 @@
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.02,
-        "pct_change": 0.02
+        "last": 99.07,
+        "pct_change": 0.07
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 84.27,
-        "pct_change": -0.87
+        "last": 84.54,
+        "pct_change": -0.55
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4698.3,
-        "pct_change": 1.24
+        "last": 4686.5,
+        "pct_change": 0.98
       }
     },
     "sectors": {
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 159.4,
-        "pct_change": 0.31
+        "last": 159.49,
+        "pct_change": 0.37
       }
     }
   },
@@ -611,9 +611,14 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "UBS revamps S&P 500 target for rest of 2026",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-revamps-p-500-target-202300404.html",
-        "published": "2026-08-23T20:23:00Z"
+        "title": "Tilray Posted Record Fiscal 2026 Revenue -- Why Isn't the Stock Rallying?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/tilray-posted-record-fiscal-2026-205900068.html",
+        "published": "2026-08-23T20:59:00Z"
+      },
+      {
+        "title": "Pemex and Petrobras Bet Big on High-Risk High-Reward Drilling Off Mexico",
+        "link": "https://finance.yahoo.com/energy/articles/pemex-petrobras-bet-big-high-210000211.html",
+        "published": "2026-08-23T21:00:00Z"
       },
       {
         "title": "Gilead’s Revenue Is Accelerating, But are its Acquisitions Worth the Cost?",
@@ -621,37 +626,42 @@
         "published": "2026-08-23T19:57:47Z"
       },
       {
-        "title": "Pfizer vs. Gilead: Which Drugmaker Has the Stronger Growth Story?",
-        "link": "https://finance.yahoo.com/healthcare/articles/pfizer-vs-gilead-drugmaker-stronger-195408536.html",
-        "published": "2026-08-23T19:54:08Z"
+        "title": "Danaher vs. Medtronic: Which Healthcare Recovery Story Has More Upside?",
+        "link": "https://finance.yahoo.com/healthcare/articles/danaher-vs-medtronic-healthcare-recovery-221012046.html",
+        "published": "2026-08-23T22:10:12Z"
       },
       {
-        "title": "Zoetis Earnings Reveal a Divided Business, But Can its Pipeline Restore Growth?",
-        "link": "https://finance.yahoo.com/healthcare/articles/zoetis-earnings-reveal-divided-business-194924344.html",
-        "published": "2026-08-23T19:49:24Z"
+        "title": "Thermo Fisher vs. Intuitive Surgical: Which Premium Healthcare Stock Deserves its Valuation?",
+        "link": "https://finance.yahoo.com/healthcare/articles/thermo-fisher-vs-intuitive-surgical-221530352.html",
+        "published": "2026-08-23T22:15:30Z"
       },
       {
-        "title": "Medtronic vs. Tenet Healthcare: Which Healthcare Stock Offers Better Long-Term Growth?",
-        "link": "https://finance.yahoo.com/healthcare/articles/medtronic-vs-tenet-healthcare-healthcare-194303713.html",
-        "published": "2026-08-23T19:43:03Z"
+        "title": "SK Hynix Is Buying Back 3.3% of Its Shares and Canceling Every One",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-buying-back-3-205701464.html",
+        "published": "2026-08-23T20:57:01Z"
       },
       {
-        "title": "Oracle vs. Amazon: Which Is the Better AI Cloud Stock to Own for the Next 5 Years?",
-        "link": "https://finance.yahoo.com/technology/ai/articles/oracle-vs-amazon-better-ai-201300850.html",
-        "published": "2026-08-23T20:13:00Z"
+        "title": "Danaher vs. Intuitive Surgical: Is Recovery or Innovation the Better Long-Term Bet?",
+        "link": "https://finance.yahoo.com/healthcare/articles/danaher-vs-intuitive-surgical-recovery-222135336.html",
+        "published": "2026-08-23T22:21:35Z"
       },
       {
-        "title": "AstraZeneca Made a $1.5 Billion Lung Cancer Bet, but Can Zegfrovy Strengthen its Oncology Growth?",
-        "link": "https://finance.yahoo.com/healthcare/articles/astrazeneca-made-1-5-billion-193855181.html",
-        "published": "2026-08-23T19:38:55Z"
-      },
-      {
-        "title": "Pemex and Petrobras Bet Big on High-Risk High-Reward Drilling Off Mexico",
-        "link": "https://finance.yahoo.com/energy/articles/pemex-petrobras-bet-big-high-210000211.html",
-        "published": "2026-08-23T21:00:00Z"
+        "title": "Johnson & Johnson vs. Thermo Fisher: Which Healthcare Growth Story Is More Durable?",
+        "link": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-vs-thermo-fisher-223203633.html",
+        "published": "2026-08-23T22:32:03Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "Bitcoin has beaten stocks and gold over six months. Now it’s crossed the $80,000 mark.",
+        "link": "https://www.marketwatch.com/story/bitcoin-has-beaten-stocks-and-gold-over-six-months-now-its-closing-in-on-80-000-b8aa48f9?mod=mw_rss_topstories",
+        "published": "Tue, 25 Aug 2026 08:00:00 GMT"
+      },
+      {
+        "title": "Investors poured into Canadian ETFs right before trade talks broke down",
+        "link": "https://www.marketwatch.com/story/investors-poured-into-canadian-etfs-right-before-trade-talks-broke-down-c8bea8ee?mod=mw_rss_topstories",
+        "published": "Tue, 25 Aug 2026 07:57:00 GMT"
+      },
       {
         "title": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
         "link": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
@@ -681,16 +691,6 @@
         "title": "Here’s how overvalued the stock market really is",
         "link": "https://www.marketwatch.com/story/heres-how-overvalued-the-stock-market-really-is-f26540c5?mod=mw_rss_topstories",
         "published": "Mon, 24 Aug 2026 20:54:00 GMT"
-      },
-      {
-        "title": "Bitcoin has beaten stocks and gold over six months. Now it’s closing in on $80,000.",
-        "link": "https://www.marketwatch.com/story/bitcoin-has-beaten-stocks-and-gold-over-six-months-now-its-closing-in-on-80-000-b8aa48f9?mod=mw_rss_topstories",
-        "published": "Mon, 24 Aug 2026 20:53:00 GMT"
-      },
-      {
-        "title": "It’s time to bet big on Nvidia’s stock, says this analyst who thinks the market has it all wrong",
-        "link": "https://www.marketwatch.com/story/its-time-to-bet-big-on-nvidias-stock-says-this-analyst-who-thinks-the-market-has-it-all-wrong-4388d3a6?mod=mw_rss_topstories",
-        "published": "Mon, 24 Aug 2026 20:50:00 GMT"
       }
     ],
     "CNBC Top News": [
@@ -705,6 +705,11 @@
         "published": "Mon, 24 Aug 2026 18:32:36 GMT"
       },
       {
+        "title": "Treasury yields steady as traders await more economic data",
+        "link": "https://www.cnbc.com/2026/08/25/treasury-yields-steady-as-traders-await-more-economic-data-.html",
+        "published": "Tue, 25 Aug 2026 07:48:57 GMT"
+      },
+      {
         "title": "Gold hits over three-month high on dollar weakness, Treasury bond buyback plans",
         "link": "https://www.cnbc.com/2026/08/25/gold-hits-over-three-month-high-on-dollar-weakness-treasury-bond-buyback-plans.html",
         "published": "Tue, 25 Aug 2026 02:28:00 GMT"
@@ -715,24 +720,19 @@
         "published": "Tue, 25 Aug 2026 04:38:30 GMT"
       },
       {
-        "title": "Porsche inks $1.5 billion deal for AI deployment with India’s largest IT services firm Tata Consultancy",
-        "link": "https://www.cnbc.com/2026/08/25/porsche-inks-billion-ai-deal-india-it-tcs.html",
-        "published": "Tue, 25 Aug 2026 03:01:16 GMT"
-      },
-      {
-        "title": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates",
-        "link": "https://www.cnbc.com/2026/08/24/trump-canada-auto-tariffs-trade-war.html",
-        "published": "Mon, 24 Aug 2026 23:27:01 GMT"
-      },
-      {
-        "title": "Xpeng shares sink as weak delivery forecast overshadows $6.3 billion robot unit valuation",
-        "link": "https://www.cnbc.com/2026/08/25/xpeng-shares-robot-valuation-china.html",
-        "published": "Tue, 25 Aug 2026 04:49:18 GMT"
-      },
-      {
         "title": "Bessent could tap near $1 trillion Treasury General Account to fund bond buybacks, sources said",
         "link": "https://www.cnbc.com/2026/08/24/bessent-1-trillion-treasury-general-account-bond-buybacks.html",
         "published": "Mon, 24 Aug 2026 13:17:35 GMT"
+      },
+      {
+        "title": "New Delhi draws in $73 billion in 11 weeks, powered by special deposits for non-resident Indians",
+        "link": "https://www.cnbc.com/2026/08/25/india-billion-foreign-inflows-rupee-weakness.html",
+        "published": "Tue, 25 Aug 2026 07:13:36 GMT"
+      },
+      {
+        "title": "Porsche inks $1.5 billion deal for AI deployment with India’s largest IT services firm Tata Consultancy",
+        "link": "https://www.cnbc.com/2026/08/25/porsche-inks-billion-ai-deal-india-it-tcs.html",
+        "published": "Tue, 25 Aug 2026 03:01:16 GMT"
       }
     ]
   }
