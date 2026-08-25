@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T03:30:22",
+  "generated_at": "2026-08-25T04:22:58",
   "date": "2026-08-25",
   "market_sentiment": {
     "indices": {
@@ -15,7 +15,7 @@
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 53417.2,
+        "last": 53417.16,
         "pct_change": 0.26
       },
       "Russell 2000": {
@@ -35,18 +35,18 @@
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.04,
-        "pct_change": 0.24
+        "last": 99.07,
+        "pct_change": 0.07
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 85.25,
-        "pct_change": -2.08
+        "last": 85.38,
+        "pct_change": 0.44
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4691.2,
-        "pct_change": 1.45
+        "last": 4692.5,
+        "pct_change": 1.11
       }
     },
     "sectors": {
@@ -111,18 +111,18 @@
     "indices": {
       "Nikkei 225": {
         "symbol": "^N225",
-        "last": 65598.68,
-        "pct_change": 0.11
+        "last": 65774.36,
+        "pct_change": 0.38
       },
       "TOPIX (ETF代理)": {
         "symbol": "1306.T",
-        "last": 426.0,
-        "pct_change": 0.31
+        "last": 426.7,
+        "pct_change": 0.47
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 159.37,
-        "pct_change": 0.29
+        "last": 159.35,
+        "pct_change": 0.28
       }
     }
   },
@@ -193,8 +193,8 @@
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 5693.0,
-        "pct_change": -1.11
+        "last": 5698.0,
+        "pct_change": -1.02
       }
     }
   },
@@ -611,34 +611,9 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "Two Dropbox Executives Sold After Their Shares Vested Last Week. The Future Sole CEO Wasn't One of Them",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/two-dropbox-executives-sold-shares-160536951.html",
-        "published": "2026-08-23T16:05:36Z"
-      },
-      {
-        "title": "Why Investing in IPOs Has Become a High-Stakes Coin Flip",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/why-investing-ipos-become-high-160002837.html",
-        "published": "2026-08-23T16:00:02Z"
-      },
-      {
-        "title": "Walmart Fell 9%. I’m Not Sure This Is Just a Walmart Problem",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-fell-9-m-not-153057565.html",
-        "published": "2026-08-23T15:30:57Z"
-      },
-      {
-        "title": "SoundHound Is Making a Big AI Bet That Could Be a Margin Game Changer",
-        "link": "https://finance.yahoo.com/technology/ai/articles/soundhound-making-big-ai-bet-153002501.html",
-        "published": "2026-08-23T15:30:02Z"
-      },
-      {
-        "title": "40% of companies posted fake job listings in 2024 — now lawmakers in multiple states are moving to ban them",
-        "link": "https://finance.yahoo.com/small-business/articles/40-companies-posted-fake-job-153000925.html",
-        "published": "2026-08-23T15:30:00Z"
-      },
-      {
-        "title": "VIG, VYM, and VYMI: Which Vanguard Dividend ETF Is Right for You?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/vig-vym-vymi-vanguard-dividend-160500069.html",
-        "published": "2026-08-23T16:05:00Z"
+        "title": "Burry Says He Sold Alibaba, Calling It Pricey Before Share Sale",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/burry-says-sold-alibaba-calling-164915099.html",
+        "published": "2026-08-23T16:49:15Z"
       },
       {
         "title": "Rachel Cruze and George Kamel share the spending 'clues' that reveal if you're broke, average or wealthy",
@@ -649,6 +624,31 @@
         "title": "Nvidia Earnings, Jackson Hole and Other Key Things to Watch this Week",
         "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-earnings-jackson-hole-other-170002056.html",
         "published": "2026-08-23T17:00:02Z"
+      },
+      {
+        "title": "Soros Fund Management Opened a New Position in Nebius During Q2. What This Means for NBIS Stock.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/soros-fund-management-opened-position-173002452.html",
+        "published": "2026-08-23T17:30:02Z"
+      },
+      {
+        "title": "Private Equity Is Circling Utilities as AI Reshapes the Grid",
+        "link": "https://finance.yahoo.com/energy/articles/private-equity-circling-utilities-ai-180000273.html",
+        "published": "2026-08-23T18:00:00Z"
+      },
+      {
+        "title": "Your Last Chance to Buy Nvidia Stock for Cheap in 2026 May Be Near",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/last-chance-buy-nvidia-stock-165500851.html",
+        "published": "2026-08-23T16:55:00Z"
+      },
+      {
+        "title": "How to Play MRVL Stock Now as Marvell Technology Expands Its Relationship With Google",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/play-mrvl-stock-now-marvell-183002715.html",
+        "published": "2026-08-23T18:30:02Z"
+      },
+      {
+        "title": "Ahead of Nvidia Earnings, Here's What Barchart Data Says Comes Next for NVDA Stock",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/ahead-nvidia-earnings-heres-barchart-190002391.html",
+        "published": "2026-08-23T19:00:02Z"
       }
     ],
     "MarketWatch Top Stories": [
@@ -700,6 +700,11 @@
         "published": "Tue, 25 Aug 2026 02:28:00 GMT"
       },
       {
+        "title": "Xpeng shares sink as weak delivery forecast overshadows $6.3 billion robot unit valuation",
+        "link": "https://www.cnbc.com/2026/08/25/xpeng-shares-robot-valuation-china.html",
+        "published": "Tue, 25 Aug 2026 04:08:37 GMT"
+      },
+      {
         "title": "Bitcoin jumps 3%, closing in on $80,000 as rally gathers pace",
         "link": "https://www.cnbc.com/2026/08/25/bitcoin-price-near-80000-cryptocurrency-ether-us-treasuries.html",
         "published": "Tue, 25 Aug 2026 03:05:12 GMT"
@@ -728,11 +733,6 @@
         "title": "These 'overlooked gems' pay attractive income, a dividend specialist says",
         "link": "https://www.cnbc.com/2026/08/24/these-overlooked-gems-pay-attractive-income-a-dividend-specialist-says.html",
         "published": "Mon, 24 Aug 2026 19:04:53 GMT"
-      },
-      {
-        "title": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it",
-        "link": "https://www.cnbc.com/2026/08/24/paramount-ceo-david-ellison-wbd-acquisition-final-hurdle.html",
-        "published": "Tue, 25 Aug 2026 00:05:29 GMT"
       }
     ]
   }
