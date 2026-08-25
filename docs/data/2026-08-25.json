@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-08-25T15:21:22",
+  "generated_at": "2026-08-25T16:07:24",
   "date": "2026-08-25",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7669.64,
-        "pct_change": 0.22
+        "last": 7674.23,
+        "pct_change": 0.28
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26104.66,
-        "pct_change": 0.48
+        "last": 26134.75,
+        "pct_change": 0.59
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 53495.29,
-        "pct_change": 0.15
+        "last": 53518.7,
+        "pct_change": 0.19
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3006.58,
-        "pct_change": 0.38
+        "last": 3005.4,
+        "pct_change": 0.34
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.74,
-        "pct_change": -0.69
+        "last": 15.59,
+        "pct_change": -1.64
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.65,
-        "pct_change": -1.08
+        "last": 4.64,
+        "pct_change": -1.25
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 98.96,
-        "pct_change": -0.04
+        "last": 98.94,
+        "pct_change": -0.06
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 82.55,
-        "pct_change": -2.89
+        "last": 82.05,
+        "pct_change": -3.48
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4687.7,
-        "pct_change": 1.01
+        "last": 4709.3,
+        "pct_change": 1.48
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 181.55,
-        "pct_change": 0.84
+        "last": 181.76,
+        "pct_change": 0.95
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 58.15,
-        "pct_change": -0.13
+        "last": 58.17,
+        "pct_change": -0.09
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 62.69,
-        "pct_change": -0.67
+        "last": 62.5,
+        "pct_change": -0.97
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 175.65,
-        "pct_change": 0.54
+        "last": 175.43,
+        "pct_change": 0.42
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 118.0,
-        "pct_change": -0.26
+        "last": 118.21,
+        "pct_change": -0.08
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 86.47,
-        "pct_change": -1.12
+        "last": 86.33,
+        "pct_change": -1.28
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 178.88,
-        "pct_change": -0.07
+        "last": 178.9,
+        "pct_change": -0.06
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 43.22,
-        "pct_change": 0.01
+        "last": 43.21,
+        "pct_change": -0.02
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 53.38,
-        "pct_change": -0.38
+        "last": 53.42,
+        "pct_change": -0.31
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 45.38,
-        "pct_change": 0.11
+        "last": 45.4,
+        "pct_change": 0.14
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 112.64,
-        "pct_change": 0.29
+        "last": 112.94,
+        "pct_change": 0.55
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 159.25,
-        "pct_change": 0.22
+        "last": 159.24,
+        "pct_change": 0.21
       }
     }
   },
@@ -138,58 +138,58 @@
       "as_of": "2026-08-24",
       "prev_yield": 2.882
     },
-    "spread_10y": 1.76
+    "spread_10y": 1.75
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 148.17,
-        "pct_change": 1.8
+        "last": 147.49,
+        "pct_change": 1.33
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 309.26,
-        "pct_change": -0.35
+        "last": 309.5,
+        "pct_change": -0.27
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 490.17,
-        "pct_change": 0.59
+        "last": 489.27,
+        "pct_change": 0.4
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 260.73,
-        "pct_change": -0.51
+        "last": 261.05,
+        "pct_change": -0.39
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 346.41,
-        "pct_change": -0.47
+        "last": 346.79,
+        "pct_change": -0.37
       },
       "Meta": {
         "symbol": "META",
-        "last": 563.49,
-        "pct_change": 0.8
+        "last": 565.01,
+        "pct_change": 1.07
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 865.65,
-        "pct_change": 4.27
+        "last": 861.98,
+        "pct_change": 3.83
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 286.26,
-        "pct_change": 3.91
+        "last": 284.86,
+        "pct_change": 3.4
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 158.28,
-        "pct_change": 1.76
+        "last": 158.8,
+        "pct_change": 2.09
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -616,42 +616,62 @@
         "published": "2026-08-24T19:13:00Z"
       },
       {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq gain as oil, Treasury yields fall",
-        "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-25-dow-sp-500-nasdaq-080527092.html",
+        "title": "Trump discloses over 1,000 new stock trades as Democrats highlight his profitable oil sector holdings",
+        "link": "https://finance.yahoo.com/markets/article/trump-discloses-over-1000-new-stock-trades-as-democrats-highlight-his-profitable-oil-sector-holdings-155232209.html",
+        "published": "2026-08-25T15:52:32Z"
+      },
+      {
+        "title": "Vanguard strategist says retirees need 'a complete mind shift' — and shares 4 principles to ease financial anxiety",
+        "link": "https://finance.yahoo.com/markets/articles/vanguard-strategist-says-retirees-complete-155000131.html",
+        "published": "2026-08-25T15:50:00Z"
+      },
+      {
+        "title": "MrBeast claims he has 'negative money' despite $2.6B net worth —  Mark Cuban says that's more common than you'd expect",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/mrbeast-claims-negative-money-despite-154500480.html",
+        "published": "2026-08-25T15:45:00Z"
+      },
+      {
+        "title": "AI and Insurance: Is Brown & Brown (BRO) Facing Extinction or Evolution?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/ai-insurance-brown-brown-bro-154458048.html",
+        "published": "2026-08-25T15:44:58Z"
+      },
+      {
+        "title": "Lowe’s (LOW) Cut Its Outlook. Is Pro Demand Strong Enough to Offset the DIY Slump?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/lowe-low-cut-outlook-pro-154428146.html",
+        "published": "2026-08-25T15:44:28Z"
+      },
+      {
+        "title": "Bitdeer Adds 28 MW at Soluna’s Wind-Powered Texas Mining Site",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/bitdeer-adds-28-mw-soluna-153800582.html",
+        "published": "2026-08-25T15:38:00Z"
+      },
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq hold steady as US-Canada trade tensions heat up",
+        "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-25-dow-sp-500-nasdaq-tariffs-oil-080527092.html",
         "published": "2026-08-25T08:05:27Z"
-      },
-      {
-        "title": "Boeing Lands $131 Bil F-15 Fighter Jet Contract, Analyst Lifts Booz Allen Targets",
-        "link": "https://www.investors.com/news/boeing-air-force-f15-contract-131-billion-ba-stock-parsons-dod-booz-allen-analyst-targets/?src=A00220&yptr=yahoo",
-        "published": "2026-08-25T15:07:40Z"
-      },
-      {
-        "title": "Stock Market Today: Nasdaq Holds Support Amid Surprise Economic Data; Nvidia Reverses Higher (Live Coverage)",
-        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-treasury-yields-nvidia-micron-sandisk/?src=A00220&yptr=yahoo",
-        "published": "2026-08-25T15:06:59Z"
-      },
-      {
-        "title": "Bitcoin Tests $80K, Analyst Sees Further Upside. BTC ETFs Form Bases.",
-        "link": "https://www.investors.com/news/bitcoin-price-80k-treasury-department-trump-administration-crypto-short-squeeze-etf-base/?src=A00220&yptr=yahoo",
-        "published": "2026-08-25T14:50:47Z"
-      },
-      {
-        "title": "The Fine Print I Almost Missed on My $25,000 Savings Account",
-        "link": "https://finance.yahoo.com/markets/currencies/articles/fine-print-almost-missed-25-150413450.html",
-        "published": "2026-08-25T15:04:13Z"
-      },
-      {
-        "title": "Tesla Hikes Prices For Struggling Cybertruck; Stock Faces Key Test",
-        "link": "https://www.investors.com/news/tesla-hikes-cybertruck-prices-stock-key-test/?src=A00220&yptr=yahoo",
-        "published": "2026-08-25T14:50:41Z"
-      },
-      {
-        "title": "Google's AI Chip Business Is Booming. Why Gemini 4 Matters More For Google Stock.",
-        "link": "https://www.investors.com/news/technology/googles-ai-chip-business-is-booming-why-gemini-4-matters-more-for-google-stock/?src=A00220&yptr=yahoo",
-        "published": "2026-08-25T14:40:50Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "These growth stocks are still cheap, despite the S&P 500 being near a record high price-to-sales valuation",
+        "link": "https://www.marketwatch.com/story/these-growth-stocks-are-still-cheap-despite-the-s-p-500-being-near-a-record-high-price-to-sales-valuation-03602260?mod=mw_rss_topstories",
+        "published": "Tue, 25 Aug 2026 16:04:00 GMT"
+      },
+      {
+        "title": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
+        "link": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
+        "published": "Tue, 25 Aug 2026 16:00:00 GMT"
+      },
+      {
+        "title": "My father-in-law passed away, leaving a house with tenants. Do I evict them?",
+        "link": "https://www.marketwatch.com/story/my-father-in-law-passed-away-leaving-a-house-with-tenants-do-i-evict-them-f974428c?mod=mw_rss_topstories",
+        "published": "Tue, 25 Aug 2026 15:30:00 GMT"
+      },
+      {
+        "title": "Home prices in Chicago have risen the most in the U.S. over the past year",
+        "link": "https://www.marketwatch.com/story/home-prices-in-chicago-have-risen-the-most-in-the-u-s-over-the-past-year-3ee317a8?mod=mw_rss_topstories",
+        "published": "Tue, 25 Aug 2026 15:22:00 GMT"
+      },
       {
         "title": "Why Meta’s stock could see a 50% rally, thanks to an overlooked AI wild card",
         "link": "https://www.marketwatch.com/story/why-metas-stock-could-see-a-50-rally-thanks-to-an-overlooked-ai-wild-card-28cea54b?mod=mw_rss_topstories",
@@ -671,33 +691,13 @@
         "title": "Dick’s Sporting Goods’ stock is having its worst day ever, as sneakers aren’t selling without deeper discounts",
         "link": "https://www.marketwatch.com/story/dicks-sporting-goods-stock-is-having-its-worst-day-ever-as-sneakers-arent-selling-without-deeper-discounts-5a868358?mod=mw_rss_topstories",
         "published": "Tue, 25 Aug 2026 14:41:00 GMT"
-      },
-      {
-        "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
-        "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
-        "published": "Tue, 25 Aug 2026 14:30:00 GMT"
-      },
-      {
-        "title": "You don’t have to be rich to start investing. Here’s a simple way to begin.",
-        "link": "https://www.marketwatch.com/story/you-dont-have-to-be-rich-to-start-investing-heres-a-simple-way-to-begin-f1b0e194?mod=mw_rss_topstories",
-        "published": "Tue, 25 Aug 2026 14:23:00 GMT"
-      },
-      {
-        "title": "Think Medicare Advantage provides better care for chronic conditions? A new study suggests otherwise.",
-        "link": "https://www.marketwatch.com/story/think-medicare-advantage-provides-better-care-for-chronic-conditions-a-new-study-suggests-otherwise-276c7ffd?mod=mw_rss_topstories",
-        "published": "Tue, 25 Aug 2026 14:20:00 GMT"
-      },
-      {
-        "title": "This has been one of the most affordable U.S. cities to buy a home in for more than 134 years",
-        "link": "https://www.marketwatch.com/story/this-has-been-one-of-the-most-affordable-u-s-cities-to-buy-a-home-for-the-past-134-years-0c52895a?mod=mw_rss_topstories",
-        "published": "Tue, 25 Aug 2026 14:14:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
         "title": "Canada unveils retaliatory tariffs on about $20 billion of U.S. goods",
         "link": "https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html",
-        "published": "Tue, 25 Aug 2026 15:20:39 GMT"
+        "published": "Tue, 25 Aug 2026 15:56:31 GMT"
       },
       {
         "title": "The 'debasement trade' returns after Bessent bond maneuver. Crypto and gold are back in style",
@@ -707,12 +707,12 @@
       {
         "title": "China needs U.S. dollars but is building a hedge against Washington’s sanctions",
         "link": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html",
-        "published": "Tue, 25 Aug 2026 12:42:15 GMT"
+        "published": "Tue, 25 Aug 2026 16:00:40 GMT"
       },
       {
         "title": "S&P 500 rises slightly as yields fall, Nasdaq boosted by chip names: Live updates",
         "link": "https://www.cnbc.com/2026/08/24/stock-market-today-live-updates.html",
-        "published": "Tue, 25 Aug 2026 15:09:30 GMT"
+        "published": "Tue, 25 Aug 2026 16:00:20 GMT"
       },
       {
         "title": "Apple announces new Mac Mini and Mac Studio models with AI upgrades",
@@ -720,19 +720,19 @@
         "published": "Tue, 25 Aug 2026 13:00:01 GMT"
       },
       {
-        "title": "A lesser known area of the AI market is set for its biggest boom since 2022. Buy this stock to play the trend, Morgan Stanley says",
-        "link": "https://www.cnbc.com/2026/08/25/-buy-this-stock-to-play-boom-in-one-area-of-ai-morgan-stanley-says.html",
-        "published": "Tue, 25 Aug 2026 14:11:19 GMT"
+        "title": "The stocks that tend to move with Nvidia earnings, and the ones that don't",
+        "link": "https://www.cnbc.com/2026/08/25/the-stocks-that-tend-to-move-with-nvidia-earnings-and-the-ones-that-dont.html",
+        "published": "Tue, 25 Aug 2026 15:46:44 GMT"
+      },
+      {
+        "title": "Cash is no longer king in home sales",
+        "link": "https://www.cnbc.com/2026/08/25/cash-is-no-longer-king-in-home-sales.html",
+        "published": "Tue, 25 Aug 2026 15:51:49 GMT"
       },
       {
         "title": "World Liberty Financial CEO Zach Witkoff says success of stablecoin silences charge of Trump cronyism",
         "link": "https://www.cnbc.com/2026/08/25/world-liberty-financial-says-stablecoin-success-refutes-trump-cronyism-charge.html",
-        "published": "Tue, 25 Aug 2026 14:27:42 GMT"
-      },
-      {
-        "title": "Bitcoin price extends gains, briefly tops $81,000 as crypto rally gathers pace",
-        "link": "https://www.cnbc.com/2026/08/25/bitcoin-price-near-80000-cryptocurrency-ether-us-treasuries.html",
-        "published": "Tue, 25 Aug 2026 13:09:31 GMT"
+        "published": "Tue, 25 Aug 2026 16:06:54 GMT"
       }
     ]
   }
