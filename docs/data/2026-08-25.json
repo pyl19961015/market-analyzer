@@ -1,59 +1,59 @@
 {
-  "generated_at": "2026-08-25T18:40:54",
+  "generated_at": "2026-08-25T19:17:26",
   "date": "2026-08-25",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7671.37,
-        "pct_change": 0.24
+        "last": 7667.33,
+        "pct_change": 0.19
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26112.08,
-        "pct_change": 0.51
+        "last": 26092.12,
+        "pct_change": 0.43
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 53538.88,
-        "pct_change": 0.23
+        "last": 53530.72,
+        "pct_change": 0.21
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3004.68,
-        "pct_change": 0.32
+        "last": 3005.14,
+        "pct_change": 0.34
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.53,
-        "pct_change": -2.02
+        "last": 15.45,
+        "pct_change": -2.52
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
         "last": 4.64,
-        "pct_change": -1.34
+        "pct_change": -1.38
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 98.92,
-        "pct_change": -0.08
+        "last": 98.91,
+        "pct_change": -0.09
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 82.31,
-        "pct_change": -3.18
+        "last": 82.36,
+        "pct_change": -3.12
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4705.8,
-        "pct_change": 1.4
+        "last": 4714.2,
+        "pct_change": 1.58
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 181.46,
-        "pct_change": 0.78
+        "last": 181.22,
+        "pct_change": 0.65
       },
       "Financials": {
         "symbol": "XLF",
@@ -62,33 +62,33 @@
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 62.59,
-        "pct_change": -0.83
+        "last": 62.46,
+        "pct_change": -1.04
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 175.26,
-        "pct_change": 0.32
+        "last": 175.32,
+        "pct_change": 0.35
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 118.03,
-        "pct_change": -0.23
+        "last": 117.94,
+        "pct_change": -0.3
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 86.54,
-        "pct_change": -1.04
+        "last": 86.6,
+        "pct_change": -0.97
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 178.43,
-        "pct_change": -0.32
+        "last": 178.41,
+        "pct_change": -0.33
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 43.42,
-        "pct_change": 0.45
+        "last": 43.46,
+        "pct_change": 0.54
       },
       "Materials": {
         "symbol": "XLB",
@@ -97,13 +97,13 @@
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 45.42,
-        "pct_change": 0.19
+        "last": 45.47,
+        "pct_change": 0.3
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 112.83,
-        "pct_change": 0.45
+        "last": 113.0,
+        "pct_change": 0.6
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 159.25,
-        "pct_change": 0.22
+        "last": 159.18,
+        "pct_change": 0.17
       }
     }
   },
@@ -144,52 +144,52 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 146.8,
-        "pct_change": 0.86
+        "last": 146.68,
+        "pct_change": 0.78
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 309.17,
-        "pct_change": -0.38
+        "last": 308.89,
+        "pct_change": -0.47
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 490.15,
-        "pct_change": 0.58
+        "last": 490.2,
+        "pct_change": 0.59
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 260.46,
-        "pct_change": -0.61
+        "last": 260.17,
+        "pct_change": -0.72
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 345.93,
-        "pct_change": -0.61
+        "last": 346.18,
+        "pct_change": -0.54
       },
       "Meta": {
         "symbol": "META",
-        "last": 565.15,
-        "pct_change": 1.1
+        "last": 565.62,
+        "pct_change": 1.18
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 868.99,
-        "pct_change": 4.68
+        "last": 875.5,
+        "pct_change": 5.46
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 283.37,
-        "pct_change": 2.86
+        "last": 284.22,
+        "pct_change": 3.17
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 158.88,
-        "pct_change": 2.14
+        "last": 158.33,
+        "pct_change": 1.79
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -616,42 +616,52 @@
         "published": "2026-08-24T19:13:00Z"
       },
       {
-        "title": "Xpeng's robotics unit valued at over $6.3 billion after record funding round",
-        "link": "https://finance.yahoo.com/technology/articles/xpeng-says-robotics-business-raised-094034493.html",
-        "published": "2026-08-24T09:40:34Z"
+        "title": "Exclusive-India plans first tokenised bond issue in September, sources say",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/exclusive-india-plans-first-tokenised-102445401.html",
+        "published": "2026-08-24T10:24:45Z"
       },
       {
-        "title": "An 83-year-old has $31,000 in credit card debt — her daughter needs to know one thing before paying another bill",
-        "link": "https://finance.yahoo.com/markets/articles/83-old-31-000-credit-093000000.html",
-        "published": "2026-08-24T09:30:00Z"
+        "title": "Vulcan Materials Stock: Analyst Estimates & Ratings",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/vulcan-materials-stock-analyst-estimates-102558096.html",
+        "published": "2026-08-24T10:25:58Z"
       },
       {
-        "title": "My brother just died, and I don't want to work anymore, but I can’t afford to quit. Is a ‘soft retirement’ the solution?",
-        "link": "https://finance.yahoo.com/small-business/articles/brother-just-died-dont-want-094500417.html",
-        "published": "2026-08-24T09:45:00Z"
+        "title": "AI scammers are scouring obituaries to target widows — one lost $7,000 after being told her late husband evaded taxes",
+        "link": "https://finance.yahoo.com/technology/ai/articles/ai-scammers-scouring-obituaries-target-103000752.html",
+        "published": "2026-08-24T10:30:00Z"
       },
       {
-        "title": "Nvidia earnings and Jackson Hole: What to watch this week",
-        "link": "https://finance.yahoo.com/markets/article/nvidia-earnings-and-jackson-hole-what-to-watch-this-week-100000082.html",
-        "published": "2026-08-23T10:00:00Z"
+        "title": "Vivian Tu says investors carrying credit card debt need to stop and pay it off first. The math says she's right",
+        "link": "https://finance.yahoo.com/markets/articles/vivian-tu-says-investors-carrying-103000829.html",
+        "published": "2026-08-24T10:30:00Z"
       },
       {
-        "title": "Crypto Card Purchases Set New $1 Billion Monthly Record",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/crypto-card-purchases-set-1-093239091.html",
-        "published": "2026-08-24T09:32:39Z"
+        "title": "Michael Saylor Explains How to Invest Like a Billionaire, and Why Bitcoin Passes the Test",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/michael-saylor-explains-invest-billionaire-100849100.html",
+        "published": "2026-08-24T10:08:49Z"
       },
       {
-        "title": "I'm 62 With $900,000 in My 401(k). Should I Convert $90k Annually to Reduce Taxes and RMDs?",
-        "link": "https://finance.yahoo.com/news/im-62-900-000-401-142054024.html",
-        "published": "2026-08-24T09:00:00Z"
+        "title": "Why This Week Looks to Be Fun",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/why-week-looks-fun-103526664.html",
+        "published": "2026-08-24T10:35:26Z"
       },
       {
-        "title": "Downsizing after retirement often makes no sense — are you locking yourself in for a smaller life than you should?",
-        "link": "https://finance.yahoo.com/real-estate/articles/downsizing-retirement-often-makes-no-090000126.html",
-        "published": "2026-08-24T09:00:00Z"
+        "title": "Stocks Set to Open Lower as Chipmakers Get Hit, Nvidia Earnings and Warsh’s Jackson Hole Speech Awaited",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-set-open-lower-chipmakers-104034174.html",
+        "published": "2026-08-24T10:40:34Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "This chart shows exactly why investors should worry about rising yields — even if they don’t own any bonds",
+        "link": "https://www.marketwatch.com/story/this-chart-shows-exactly-why-investors-should-worry-about-rising-yields-even-if-they-dont-own-any-bonds-075b93c0?mod=mw_rss_topstories",
+        "published": "Tue, 25 Aug 2026 18:58:00 GMT"
+      },
+      {
+        "title": "SpaceX to build Musk’s vision for a spaceport that until now ‘only existed in science fiction’",
+        "link": "https://www.marketwatch.com/story/spacex-to-build-musks-vision-for-a-spaceport-that-until-now-only-existed-in-science-fiction-f8482712?mod=mw_rss_topstories",
+        "published": "Tue, 25 Aug 2026 18:55:00 GMT"
+      },
       {
         "title": "Why AMD can beat rivals Intel and Nvidia in the market for data-center CPUs",
         "link": "https://www.marketwatch.com/story/why-amd-can-beat-rivals-intel-and-nvidia-in-the-market-for-data-center-cpus-e49a53f1?mod=mw_rss_topstories",
@@ -681,23 +691,13 @@
         "title": "‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
         "link": "https://www.marketwatch.com/story/its-the-ultimate-regifting-my-mom-gave-me-a-house-should-i-transfer-it-back-to-her-to-reduce-capital-gains-e357f49c?mod=mw_rss_topstories",
         "published": "Tue, 25 Aug 2026 16:32:00 GMT"
-      },
-      {
-        "title": "Are older Americans spoiling the economy for everyone else?",
-        "link": "https://www.marketwatch.com/story/are-older-americans-spoiling-the-economy-for-everyone-else-064b5820?mod=mw_rss_topstories",
-        "published": "Tue, 25 Aug 2026 16:31:00 GMT"
-      },
-      {
-        "title": "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?",
-        "link": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
-        "published": "Tue, 25 Aug 2026 16:30:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
         "title": "Iran and Oman discuss joint shipping route in Strait of Hormuz and mine clearing mission",
         "link": "https://www.cnbc.com/2026/08/25/iran-oman-strait-hormuz-oil.html",
-        "published": "Tue, 25 Aug 2026 18:36:42 GMT"
+        "published": "Tue, 25 Aug 2026 18:54:27 GMT"
       },
       {
         "title": "Stanley Druckenmiller leads doubters who think Bessent's bond ploys will fail",
@@ -707,22 +707,22 @@
       {
         "title": "SpaceX plans to build a $100 billion spaceport in Louisiana",
         "link": "https://www.cnbc.com/2026/08/25/spacex-louisiana-spaceport.html",
-        "published": "Tue, 25 Aug 2026 17:35:48 GMT"
+        "published": "Tue, 25 Aug 2026 18:48:33 GMT"
       },
       {
         "title": "S&P 500 rises slightly as yields fall, Nasdaq boosted by chip names: Live updates",
         "link": "https://www.cnbc.com/2026/08/24/stock-market-today-live-updates.html",
-        "published": "Tue, 25 Aug 2026 18:12:54 GMT"
+        "published": "Tue, 25 Aug 2026 19:04:41 GMT"
       },
       {
         "title": "Dolly Parton, queen of country music, dies at 80",
         "link": "https://www.cnbc.com/2026/08/25/dolly-parton-country-music-dies-80.html",
-        "published": "Tue, 25 Aug 2026 18:25:41 GMT"
+        "published": "Tue, 25 Aug 2026 18:45:36 GMT"
       },
       {
-        "title": "HHS plans new FDA deputy commissioner roles for technology and drugs, sources say",
-        "link": "https://www.cnbc.com/2026/08/25/hhs-fda-leadership-roles-technology-drugs.html",
-        "published": "Tue, 25 Aug 2026 17:00:01 GMT"
+        "title": "Is the K-shaped economy ending? Finance pros weigh in",
+        "link": "https://www.cnbc.com/2026/08/25/k-shaped-economy-c-shaped-economy-may-be-changing.html",
+        "published": "Tue, 25 Aug 2026 18:39:14 GMT"
       },
       {
         "title": "Top chip analyst says the group could fall another 10%. Here's why",
@@ -730,9 +730,9 @@
         "published": "Tue, 25 Aug 2026 17:04:09 GMT"
       },
       {
-        "title": "Trump goes all in on Sen. Darline Graham in South Carolina, as primary losses pile up",
-        "link": "https://www.cnbc.com/2026/08/25/trump-darline-graham-south-carolina-primary.html",
-        "published": "Tue, 25 Aug 2026 18:31:31 GMT"
+        "title": "HHS plans new FDA deputy commissioner roles for technology and drugs, sources say",
+        "link": "https://www.cnbc.com/2026/08/25/hhs-fda-leadership-roles-technology-drugs.html",
+        "published": "Tue, 25 Aug 2026 17:00:01 GMT"
       }
     ]
   }
