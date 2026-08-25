@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-08-25T19:54:45",
+  "generated_at": "2026-08-25T20:24:08",
   "date": "2026-08-25",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7678.55,
-        "pct_change": 0.34
+        "last": 7677.28,
+        "pct_change": 0.32
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26150.22,
-        "pct_change": 0.65
+        "last": 26151.3,
+        "pct_change": 0.66
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 53595.77,
-        "pct_change": 0.33
+        "last": 53577.4,
+        "pct_change": 0.3
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3005.8,
-        "pct_change": 0.36
+        "last": 3010.02,
+        "pct_change": 0.5
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.44,
-        "pct_change": -2.59
+        "last": 15.48,
+        "pct_change": -2.33
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
@@ -35,75 +35,75 @@
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 98.93,
-        "pct_change": -0.07
+        "last": 98.87,
+        "pct_change": -0.13
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 81.98,
-        "pct_change": -3.56
+        "last": 80.48,
+        "pct_change": -5.33
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4719.2,
-        "pct_change": 1.69
+        "last": 4724.5,
+        "pct_change": 1.8
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 181.7,
-        "pct_change": 0.91
+        "last": 181.78,
+        "pct_change": 0.96
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 58.33,
-        "pct_change": 0.18
+        "last": 58.31,
+        "pct_change": 0.15
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 62.21,
-        "pct_change": -1.43
+        "last": 62.07,
+        "pct_change": -1.65
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 175.45,
-        "pct_change": 0.43
+        "last": 175.29,
+        "pct_change": 0.34
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 117.96,
-        "pct_change": -0.28
+        "last": 117.95,
+        "pct_change": -0.3
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 86.58,
-        "pct_change": -0.99
+        "last": 86.52,
+        "pct_change": -1.06
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 178.58,
-        "pct_change": -0.23
+        "last": 178.4,
+        "pct_change": -0.34
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 43.38,
-        "pct_change": 0.36
+        "last": 43.31,
+        "pct_change": 0.21
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 53.6,
-        "pct_change": 0.03
+        "last": 53.58,
+        "pct_change": 0.0
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 45.39,
-        "pct_change": 0.13
+        "last": 45.36,
+        "pct_change": 0.07
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 113.25,
-        "pct_change": 0.83
+        "last": 113.18,
+        "pct_change": 0.77
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 159.11,
-        "pct_change": 0.13
+        "last": 159.17,
+        "pct_change": 0.17
       }
     }
   },
@@ -144,52 +144,52 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 147.35,
-        "pct_change": 1.24
+        "last": 147.16,
+        "pct_change": 1.11
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 309.72,
-        "pct_change": -0.2
+        "last": 309.9,
+        "pct_change": -0.14
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 491.36,
-        "pct_change": 0.83
+        "last": 491.71,
+        "pct_change": 0.9
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 261.15,
-        "pct_change": -0.35
+        "last": 261.06,
+        "pct_change": -0.39
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 346.9,
-        "pct_change": -0.33
+        "last": 346.96,
+        "pct_change": -0.32
       },
       "Meta": {
         "symbol": "META",
-        "last": 568.88,
-        "pct_change": 1.76
+        "last": 570.05,
+        "pct_change": 1.97
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 885.39,
-        "pct_change": 6.65
+        "last": 885.57,
+        "pct_change": 6.67
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 286.93,
-        "pct_change": 4.15
+        "last": 288.14,
+        "pct_change": 4.59
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 159.02,
-        "pct_change": 2.23
+        "last": 158.78,
+        "pct_change": 2.08
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -616,42 +616,52 @@
         "published": "2026-08-24T19:13:00Z"
       },
       {
-        "title": "Option Volatility and Earnings Report For Aug 24-28",
-        "link": "https://finance.yahoo.com/markets/options/articles/option-volatility-earnings-report-aug-110002843.html",
-        "published": "2026-08-24T11:00:02Z"
+        "title": "Hackers Breach Apollo Global (APO) Right as Assets Hit $1 Trillion",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/hackers-breach-apollo-global-apo-113803588.html",
+        "published": "2026-08-24T11:38:03Z"
       },
       {
-        "title": "Wells Fargo Conceives a High Rating for the Fertility-Benefits Biz",
-        "link": "https://finance.yahoo.com/healthcare/articles/wells-fargo-conceives-high-rating-110000324.html",
-        "published": "2026-08-24T11:00:00Z"
+        "title": "Inside Cintas Corp. (CTAS) Operational AI Integration",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/inside-cintas-corp-ctas-operational-112324643.html",
+        "published": "2026-08-24T11:23:24Z"
       },
       {
-        "title": "Warsh Goes to Wyoming. Will He Bring an Inflation Plan?",
-        "link": "https://finance.yahoo.com/economy/policy/articles/warsh-goes-wyoming-bring-inflation-110000631.html",
-        "published": "2026-08-24T11:00:00Z"
+        "title": "InterContinental Hotels Group (IHG): AI Search Functions Improve Visibility and Customer Reach",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/intercontinental-hotels-group-ihg-ai-112621891.html",
+        "published": "2026-08-24T11:26:21Z"
       },
       {
-        "title": "Vistra Corp. Stock: Is Wall Street Bullish or Bearish?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/vistra-corp-stock-wall-street-110215038.html",
-        "published": "2026-08-24T11:02:15Z"
+        "title": "IonQ vs. Rigetti: The Better Quantum Computing Stock for Long-Term Investors",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/ionq-vs-rigetti-better-quantum-113002506.html",
+        "published": "2026-08-24T11:30:02Z"
       },
       {
-        "title": "Ross Stores raises forecast after surge in Q2 sales and store openings",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/ross-stores-raises-forecast-surge-104901428.html",
-        "published": "2026-08-24T10:49:01Z"
+        "title": "Companies that roll back DEI don’t perform better financially, study says",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/companies-roll-back-dei-don-112600368.html",
+        "published": "2026-08-24T11:26:00Z"
       },
       {
-        "title": "Honeywell Aerospace (HONA) Spin-Off Unlocks Standalone Value Amid Strong Market Outlook",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/honeywell-aerospace-hona-spin-off-111401744.html",
-        "published": "2026-08-24T11:14:01Z"
+        "title": "Evaluating RELX PLC’s (RELX) Enterprise Advantages in the AI Era",
+        "link": "https://finance.yahoo.com/technology/ai/articles/evaluating-relx-plc-relx-enterprise-112742618.html",
+        "published": "2026-08-24T11:27:42Z"
       },
       {
-        "title": "Secure Credentials Cement Visa’s (V) Role as Payment Gatekeeper in Agentic AI Era",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/secure-credentials-cement-visa-v-111621320.html",
-        "published": "2026-08-24T11:16:21Z"
+        "title": "Navigating W.W. Grainger’s (GWW) New Competitive Landscape",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/navigating-w-w-grainger-gww-112512831.html",
+        "published": "2026-08-24T11:25:12Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "Tax tips for TikTok stars, after judge says influencer can’t write off his Grammy tickets",
+        "link": "https://www.marketwatch.com/story/tax-tips-for-tiktok-stars-after-judge-says-influencer-cant-write-off-his-grammy-tickets-29c19139?mod=mw_rss_topstories",
+        "published": "Tue, 25 Aug 2026 20:11:00 GMT"
+      },
+      {
+        "title": "Options traders are betting on the quietest Nvidia earnings reaction in years. It could be an opportunity for AI bulls.",
+        "link": "https://www.marketwatch.com/story/options-traders-are-betting-on-the-quietest-nvidia-earnings-reaction-in-years-it-could-be-an-opportunity-for-ai-bulls-91955793?mod=mw_rss_topstories",
+        "published": "Tue, 25 Aug 2026 20:07:00 GMT"
+      },
       {
         "title": "Has AI gotten any better at stock picking?",
         "link": "https://www.marketwatch.com/story/has-ai-gotten-any-better-at-stock-picking-a7cfb998?mod=mw_rss_topstories",
@@ -681,16 +691,6 @@
         "title": "Why AMD can beat rivals Intel and Nvidia in the market for data-center CPUs",
         "link": "https://www.marketwatch.com/story/why-amd-can-beat-rivals-intel-and-nvidia-in-the-market-for-data-center-cpus-e49a53f1?mod=mw_rss_topstories",
         "published": "Tue, 25 Aug 2026 18:29:00 GMT"
-      },
-      {
-        "title": "Here’s where it takes new homeowners almost 40 to 50 years to break even on buying a house",
-        "link": "https://www.marketwatch.com/story/heres-where-it-takes-new-homeowners-almost-40-to-50-years-to-break-even-on-buying-a-house-c503cb50?mod=mw_rss_topstories",
-        "published": "Tue, 25 Aug 2026 17:50:00 GMT"
-      },
-      {
-        "title": "This driverless-truck company could be a ‘long-term winner’ in a market Tesla plans to enter soon",
-        "link": "https://www.marketwatch.com/story/this-driverless-truck-company-could-be-a-long-term-winner-in-a-market-tesla-plans-to-enter-soon-193bc8fe?mod=mw_rss_topstories",
-        "published": "Tue, 25 Aug 2026 17:32:00 GMT"
       }
     ],
     "CNBC Top News": [
@@ -710,9 +710,9 @@
         "published": "Tue, 25 Aug 2026 18:48:33 GMT"
       },
       {
-        "title": "S&P 500 rises slightly as yields fall, Nasdaq boosted by chip names: Live updates",
+        "title": "S&P 500 closes higher, Dow posts three-day win streak as Treasury yields retreat: Live updates",
         "link": "https://www.cnbc.com/2026/08/24/stock-market-today-live-updates.html",
-        "published": "Tue, 25 Aug 2026 19:42:30 GMT"
+        "published": "Tue, 25 Aug 2026 20:17:40 GMT"
       },
       {
         "title": "Dolly Parton, queen of country music, dies at 80",
@@ -720,19 +720,19 @@
         "published": "Tue, 25 Aug 2026 18:45:36 GMT"
       },
       {
+        "title": "Nvidia's 'expectations premium' dogs the stock after earnings. Here's what analysts are watching",
+        "link": "https://www.cnbc.com/2026/08/25/nvidias-expectations-premium-dogs-the-stock-after-earnings.html",
+        "published": "Tue, 25 Aug 2026 20:21:10 GMT"
+      },
+      {
         "title": "Is the K-shaped economy ending? Finance pros weigh in",
         "link": "https://www.cnbc.com/2026/08/25/k-shaped-economy-c-shaped-economy-may-be-changing.html",
         "published": "Tue, 25 Aug 2026 18:39:14 GMT"
       },
       {
-        "title": "Top chip analyst says the group could fall another 10%. Here's why",
-        "link": "https://www.cnbc.com/2026/08/25/top-chip-analyst-says-the-group-could-fall-another-10percent-heres-why.html",
-        "published": "Tue, 25 Aug 2026 17:04:09 GMT"
-      },
-      {
-        "title": "HHS plans new FDA deputy commissioner roles for technology and drugs, sources say",
-        "link": "https://www.cnbc.com/2026/08/25/hhs-fda-leadership-roles-technology-drugs.html",
-        "published": "Tue, 25 Aug 2026 17:00:01 GMT"
+        "title": "Here's why markets are starting to care about the 2026 election 10 weeks out",
+        "link": "https://www.cnbc.com/2026/08/25/trump-debt-ceiling-markets-midterm-election.html",
+        "published": "Tue, 25 Aug 2026 20:05:46 GMT"
       }
     ]
   }
