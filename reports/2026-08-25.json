@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T06:39:52",
+  "generated_at": "2026-08-25T07:29:44",
   "date": "2026-08-25",
   "market_sentiment": {
     "indices": {
@@ -35,18 +35,18 @@
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.06,
-        "pct_change": 0.06
+        "last": 99.02,
+        "pct_change": 0.02
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 84.22,
-        "pct_change": -0.93
+        "last": 84.27,
+        "pct_change": -0.87
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4706.3,
-        "pct_change": 1.41
+        "last": 4698.3,
+        "pct_change": 1.24
       }
     },
     "sectors": {
@@ -111,18 +111,18 @@
     "indices": {
       "Nikkei 225": {
         "symbol": "^N225",
-        "last": 65878.58,
-        "pct_change": 0.53
+        "last": 65856.43,
+        "pct_change": 0.5
       },
       "TOPIX (ETF代理)": {
         "symbol": "1306.T",
-        "last": 426.5,
-        "pct_change": 0.42
+        "last": 426.7,
+        "pct_change": 0.47
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 159.35,
-        "pct_change": 0.28
+        "last": 159.4,
+        "pct_change": 0.31
       }
     }
   },
@@ -193,8 +193,8 @@
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 5726.0,
-        "pct_change": -0.54
+        "last": 5715.0,
+        "pct_change": -0.73
       }
     }
   },
@@ -611,34 +611,19 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "2 Energy Stocks Riding the Data Center Power Crunch",
-        "link": "https://finance.yahoo.com/energy/articles/2-energy-stocks-riding-data-185500169.html",
-        "published": "2026-08-23T18:55:00Z"
+        "title": "UBS revamps S&P 500 target for rest of 2026",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-revamps-p-500-target-202300404.html",
+        "published": "2026-08-23T20:23:00Z"
       },
       {
-        "title": "Ahead of Nvidia Earnings, Here's What Barchart Data Says Comes Next for NVDA Stock",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/ahead-nvidia-earnings-heres-barchart-190002391.html",
-        "published": "2026-08-23T19:00:02Z"
+        "title": "Gilead’s Revenue Is Accelerating, But are its Acquisitions Worth the Cost?",
+        "link": "https://finance.yahoo.com/healthcare/articles/gilead-revenue-accelerating-acquisitions-worth-195747159.html",
+        "published": "2026-08-23T19:57:47Z"
       },
       {
-        "title": "As Cerebras Launches a New, Record-Setting AI Accelerator, Here’s How You Should Play CBRS Stock",
-        "link": "https://finance.yahoo.com/technology/ai/articles/cerebras-launches-record-setting-ai-193002886.html",
-        "published": "2026-08-23T19:30:02Z"
-      },
-      {
-        "title": "AstraZeneca Made a $1.5 Billion Lung Cancer Bet, but Can Zegfrovy Strengthen its Oncology Growth?",
-        "link": "https://finance.yahoo.com/healthcare/articles/astrazeneca-made-1-5-billion-193855181.html",
-        "published": "2026-08-23T19:38:55Z"
-      },
-      {
-        "title": "Medtronic vs. Tenet Healthcare: Which Healthcare Stock Offers Better Long-Term Growth?",
-        "link": "https://finance.yahoo.com/healthcare/articles/medtronic-vs-tenet-healthcare-healthcare-194303713.html",
-        "published": "2026-08-23T19:43:03Z"
-      },
-      {
-        "title": "Why Social Security Can't Be the Center of Your Retirement Income Plan",
-        "link": "https://finance.yahoo.com/markets/articles/why-social-security-cant-center-185600538.html",
-        "published": "2026-08-23T18:56:00Z"
+        "title": "Pfizer vs. Gilead: Which Drugmaker Has the Stronger Growth Story?",
+        "link": "https://finance.yahoo.com/healthcare/articles/pfizer-vs-gilead-drugmaker-stronger-195408536.html",
+        "published": "2026-08-23T19:54:08Z"
       },
       {
         "title": "Zoetis Earnings Reveal a Divided Business, But Can its Pipeline Restore Growth?",
@@ -646,9 +631,24 @@
         "published": "2026-08-23T19:49:24Z"
       },
       {
-        "title": "Pfizer vs. Gilead: Which Drugmaker Has the Stronger Growth Story?",
-        "link": "https://finance.yahoo.com/healthcare/articles/pfizer-vs-gilead-drugmaker-stronger-195408536.html",
-        "published": "2026-08-23T19:54:08Z"
+        "title": "Medtronic vs. Tenet Healthcare: Which Healthcare Stock Offers Better Long-Term Growth?",
+        "link": "https://finance.yahoo.com/healthcare/articles/medtronic-vs-tenet-healthcare-healthcare-194303713.html",
+        "published": "2026-08-23T19:43:03Z"
+      },
+      {
+        "title": "Oracle vs. Amazon: Which Is the Better AI Cloud Stock to Own for the Next 5 Years?",
+        "link": "https://finance.yahoo.com/technology/ai/articles/oracle-vs-amazon-better-ai-201300850.html",
+        "published": "2026-08-23T20:13:00Z"
+      },
+      {
+        "title": "AstraZeneca Made a $1.5 Billion Lung Cancer Bet, but Can Zegfrovy Strengthen its Oncology Growth?",
+        "link": "https://finance.yahoo.com/healthcare/articles/astrazeneca-made-1-5-billion-193855181.html",
+        "published": "2026-08-23T19:38:55Z"
+      },
+      {
+        "title": "Pemex and Petrobras Bet Big on High-Risk High-Reward Drilling Off Mexico",
+        "link": "https://finance.yahoo.com/energy/articles/pemex-petrobras-bet-big-high-210000211.html",
+        "published": "2026-08-23T21:00:00Z"
       }
     ],
     "MarketWatch Top Stories": [
