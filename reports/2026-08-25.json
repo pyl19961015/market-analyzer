@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-08-25T19:17:26",
+  "generated_at": "2026-08-25T19:54:45",
   "date": "2026-08-25",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7667.33,
-        "pct_change": 0.19
+        "last": 7678.55,
+        "pct_change": 0.34
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26092.12,
-        "pct_change": 0.43
+        "last": 26150.22,
+        "pct_change": 0.65
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 53530.72,
-        "pct_change": 0.21
+        "last": 53595.77,
+        "pct_change": 0.33
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 3005.14,
-        "pct_change": 0.34
+        "last": 3005.8,
+        "pct_change": 0.36
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.45,
-        "pct_change": -2.52
+        "last": 15.44,
+        "pct_change": -2.59
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
@@ -35,75 +35,75 @@
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 98.91,
-        "pct_change": -0.09
+        "last": 98.93,
+        "pct_change": -0.07
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 82.36,
-        "pct_change": -3.12
+        "last": 81.98,
+        "pct_change": -3.56
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4714.2,
-        "pct_change": 1.58
+        "last": 4719.2,
+        "pct_change": 1.69
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 181.22,
-        "pct_change": 0.65
+        "last": 181.7,
+        "pct_change": 0.91
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 58.28,
-        "pct_change": 0.1
+        "last": 58.33,
+        "pct_change": 0.18
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 62.46,
-        "pct_change": -1.04
+        "last": 62.21,
+        "pct_change": -1.43
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 175.32,
-        "pct_change": 0.35
+        "last": 175.45,
+        "pct_change": 0.43
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 117.94,
-        "pct_change": -0.3
+        "last": 117.96,
+        "pct_change": -0.28
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 86.6,
-        "pct_change": -0.97
+        "last": 86.58,
+        "pct_change": -0.99
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 178.41,
-        "pct_change": -0.33
+        "last": 178.58,
+        "pct_change": -0.23
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 43.46,
-        "pct_change": 0.54
+        "last": 43.38,
+        "pct_change": 0.36
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 53.58,
-        "pct_change": 0.01
+        "last": 53.6,
+        "pct_change": 0.03
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 45.47,
-        "pct_change": 0.3
+        "last": 45.39,
+        "pct_change": 0.13
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 113.0,
-        "pct_change": 0.6
+        "last": 113.25,
+        "pct_change": 0.83
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 159.18,
-        "pct_change": 0.17
+        "last": 159.11,
+        "pct_change": 0.13
       }
     }
   },
@@ -144,52 +144,52 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 146.68,
-        "pct_change": 0.78
+        "last": 147.35,
+        "pct_change": 1.24
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 308.89,
-        "pct_change": -0.47
+        "last": 309.72,
+        "pct_change": -0.2
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 490.2,
-        "pct_change": 0.59
+        "last": 491.36,
+        "pct_change": 0.83
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 260.17,
-        "pct_change": -0.72
+        "last": 261.15,
+        "pct_change": -0.35
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 346.18,
-        "pct_change": -0.54
+        "last": 346.9,
+        "pct_change": -0.33
       },
       "Meta": {
         "symbol": "META",
-        "last": 565.62,
-        "pct_change": 1.18
+        "last": 568.88,
+        "pct_change": 1.76
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 875.5,
-        "pct_change": 5.46
+        "last": 885.39,
+        "pct_change": 6.65
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 284.22,
-        "pct_change": 3.17
+        "last": 286.93,
+        "pct_change": 4.15
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 158.33,
-        "pct_change": 1.79
+        "last": 159.02,
+        "pct_change": 2.23
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -616,42 +616,57 @@
         "published": "2026-08-24T19:13:00Z"
       },
       {
-        "title": "Exclusive-India plans first tokenised bond issue in September, sources say",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/exclusive-india-plans-first-tokenised-102445401.html",
-        "published": "2026-08-24T10:24:45Z"
+        "title": "Option Volatility and Earnings Report For Aug 24-28",
+        "link": "https://finance.yahoo.com/markets/options/articles/option-volatility-earnings-report-aug-110002843.html",
+        "published": "2026-08-24T11:00:02Z"
       },
       {
-        "title": "Vulcan Materials Stock: Analyst Estimates & Ratings",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/vulcan-materials-stock-analyst-estimates-102558096.html",
-        "published": "2026-08-24T10:25:58Z"
+        "title": "Wells Fargo Conceives a High Rating for the Fertility-Benefits Biz",
+        "link": "https://finance.yahoo.com/healthcare/articles/wells-fargo-conceives-high-rating-110000324.html",
+        "published": "2026-08-24T11:00:00Z"
       },
       {
-        "title": "AI scammers are scouring obituaries to target widows — one lost $7,000 after being told her late husband evaded taxes",
-        "link": "https://finance.yahoo.com/technology/ai/articles/ai-scammers-scouring-obituaries-target-103000752.html",
-        "published": "2026-08-24T10:30:00Z"
+        "title": "Warsh Goes to Wyoming. Will He Bring an Inflation Plan?",
+        "link": "https://finance.yahoo.com/economy/policy/articles/warsh-goes-wyoming-bring-inflation-110000631.html",
+        "published": "2026-08-24T11:00:00Z"
       },
       {
-        "title": "Vivian Tu says investors carrying credit card debt need to stop and pay it off first. The math says she's right",
-        "link": "https://finance.yahoo.com/markets/articles/vivian-tu-says-investors-carrying-103000829.html",
-        "published": "2026-08-24T10:30:00Z"
+        "title": "Vistra Corp. Stock: Is Wall Street Bullish or Bearish?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/vistra-corp-stock-wall-street-110215038.html",
+        "published": "2026-08-24T11:02:15Z"
       },
       {
-        "title": "Michael Saylor Explains How to Invest Like a Billionaire, and Why Bitcoin Passes the Test",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/michael-saylor-explains-invest-billionaire-100849100.html",
-        "published": "2026-08-24T10:08:49Z"
+        "title": "Ross Stores raises forecast after surge in Q2 sales and store openings",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/ross-stores-raises-forecast-surge-104901428.html",
+        "published": "2026-08-24T10:49:01Z"
       },
       {
-        "title": "Why This Week Looks to Be Fun",
-        "link": "https://finance.yahoo.com/markets/commodities/articles/why-week-looks-fun-103526664.html",
-        "published": "2026-08-24T10:35:26Z"
+        "title": "Honeywell Aerospace (HONA) Spin-Off Unlocks Standalone Value Amid Strong Market Outlook",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/honeywell-aerospace-hona-spin-off-111401744.html",
+        "published": "2026-08-24T11:14:01Z"
       },
       {
-        "title": "Stocks Set to Open Lower as Chipmakers Get Hit, Nvidia Earnings and Warsh’s Jackson Hole Speech Awaited",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-set-open-lower-chipmakers-104034174.html",
-        "published": "2026-08-24T10:40:34Z"
+        "title": "Secure Credentials Cement Visa’s (V) Role as Payment Gatekeeper in Agentic AI Era",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/secure-credentials-cement-visa-v-111621320.html",
+        "published": "2026-08-24T11:16:21Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "Has AI gotten any better at stock picking?",
+        "link": "https://www.marketwatch.com/story/has-ai-gotten-any-better-at-stock-picking-a7cfb998?mod=mw_rss_topstories",
+        "published": "Tue, 25 Aug 2026 19:35:00 GMT"
+      },
+      {
+        "title": "‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
+        "link": "https://www.marketwatch.com/story/its-the-ultimate-regifting-my-mom-gave-me-a-house-should-i-transfer-it-back-to-her-to-reduce-capital-gains-e357f49c?mod=mw_rss_topstories",
+        "published": "Tue, 25 Aug 2026 19:30:00 GMT"
+      },
+      {
+        "title": "U.S.-Canada trade war threatens to worsen inflation for both economies. Neither can afford it.",
+        "link": "https://www.marketwatch.com/story/u-s-canada-trade-war-threatens-to-worsen-inflation-for-both-economies-neither-can-afford-it-bd797506?mod=mw_rss_topstories",
+        "published": "Tue, 25 Aug 2026 19:24:00 GMT"
+      },
       {
         "title": "This chart shows exactly why investors should worry about rising yields — even if they don’t own any bonds",
         "link": "https://www.marketwatch.com/story/this-chart-shows-exactly-why-investors-should-worry-about-rising-yields-even-if-they-dont-own-any-bonds-075b93c0?mod=mw_rss_topstories",
@@ -676,21 +691,6 @@
         "title": "This driverless-truck company could be a ‘long-term winner’ in a market Tesla plans to enter soon",
         "link": "https://www.marketwatch.com/story/this-driverless-truck-company-could-be-a-long-term-winner-in-a-market-tesla-plans-to-enter-soon-193bc8fe?mod=mw_rss_topstories",
         "published": "Tue, 25 Aug 2026 17:32:00 GMT"
-      },
-      {
-        "title": "‘There is considerable tension’: My grandmother, 99, wants to cut my mother out of her will. Should I intervene?",
-        "link": "https://www.marketwatch.com/story/there-is-considerable-tension-my-grandmother-99-wants-to-cut-my-mother-out-of-her-will-should-i-intervene-5e8f408e?mod=mw_rss_topstories",
-        "published": "Tue, 25 Aug 2026 17:30:00 GMT"
-      },
-      {
-        "title": "Dick’s Sporting Goods’ epic drop hits other footwear giants, as shoppers sour on retro sneakers",
-        "link": "https://www.marketwatch.com/story/dicks-sporting-goods-stock-is-having-its-worst-day-ever-as-sneakers-arent-selling-without-deeper-discounts-5a868358?mod=mw_rss_topstories",
-        "published": "Tue, 25 Aug 2026 16:59:00 GMT"
-      },
-      {
-        "title": "‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
-        "link": "https://www.marketwatch.com/story/its-the-ultimate-regifting-my-mom-gave-me-a-house-should-i-transfer-it-back-to-her-to-reduce-capital-gains-e357f49c?mod=mw_rss_topstories",
-        "published": "Tue, 25 Aug 2026 16:32:00 GMT"
       }
     ],
     "CNBC Top News": [
@@ -712,7 +712,7 @@
       {
         "title": "S&P 500 rises slightly as yields fall, Nasdaq boosted by chip names: Live updates",
         "link": "https://www.cnbc.com/2026/08/24/stock-market-today-live-updates.html",
-        "published": "Tue, 25 Aug 2026 19:04:41 GMT"
+        "published": "Tue, 25 Aug 2026 19:42:30 GMT"
       },
       {
         "title": "Dolly Parton, queen of country music, dies at 80",
