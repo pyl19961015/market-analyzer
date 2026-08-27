@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T01:04:06",
+  "generated_at": "2026-08-27T11:11:16",
   "date": "2026-08-27",
   "market_sentiment": {
     "indices": {
@@ -25,8 +25,8 @@
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.21,
-        "pct_change": -1.55
+        "last": 14.93,
+        "pct_change": -1.84
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
@@ -35,18 +35,18 @@
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.13,
-        "pct_change": 0.21
+        "last": 99.25,
+        "pct_change": 0.08
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 81.66,
-        "pct_change": -0.85
+        "last": null,
+        "pct_change": null
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4655.7,
-        "pct_change": 0.38
+        "last": 4642.0,
+        "pct_change": 0.95
       }
     },
     "sectors": {
@@ -111,8 +111,8 @@
     "indices": {
       "Nikkei 225": {
         "symbol": "^N225",
-        "last": 66058.08,
-        "pct_change": -0.31
+        "last": 66131.98,
+        "pct_change": -0.2
       },
       "TOPIX (ETF代理)": {
         "symbol": "1306.T",
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 159.19,
-        "pct_change": -0.02
+        "last": 159.48,
+        "pct_change": 0.16
       }
     }
   },
@@ -193,8 +193,8 @@
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 5763.0,
-        "pct_change": 0.42
+        "last": 5756.0,
+        "pct_change": 0.3
       }
     }
   },
@@ -611,113 +611,118 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "Louis Navellier has blunt message on Nvidia’s reign before earnings",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/louis-navellier-blunt-message-nvidia-214700439.html",
-        "published": "2026-08-25T21:47:00Z"
-      },
-      {
-        "title": "Gold prices today, Tuesday, August 25, 2026: Gold hits 3-month high this morning",
-        "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-august-25-2026-gold-hits-3-month-high-this-morning-120736963.html",
-        "published": "2026-08-25T12:07:36Z"
-      },
-      {
-        "title": "Silver prices today, Tuesday, August 25, 2026: Silver prices pull back slightly, but remain over $68",
-        "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-tuesday-august-25-2026-silver-prices-pull-back-slightly-but-remain-over-68-121558361.html",
-        "published": "2026-08-25T12:15:58Z"
-      },
-      {
-        "title": "Bitcoin and ethereum prices today, Tuesday, August 25, 2026: Highest opening for bitcoin in over three months",
-        "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-august-25-2026-highest-opening-for-bitcoin-in-over-three-months-123338376.html",
-        "published": "2026-08-25T12:33:38Z"
-      },
-      {
-        "title": "Option Traders Bet On Bitcoin’s Price Topping $82,000",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/option-traders-bet-bitcoin-price-132500757.html",
-        "published": "2026-08-25T13:25:00Z"
-      },
-      {
         "title": "Meta, states discuss mid-trial settlement in teen addiction case",
         "link": "https://finance.yahoo.com/media-advertising/articles/meta-states-discuss-mid-trial-111938416.html",
         "published": "2026-08-26T11:19:38Z"
       },
       {
-        "title": "Home prices rose 2.1% in June, even as high mortgage rates keep the market 'under pressure'",
-        "link": "https://finance.yahoo.com/real-estate/article/home-prices-rose-21-in-june-even-as-high-mortgage-rates-keep-the-market-under-pressure-132414534.html",
-        "published": "2026-08-25T13:24:14Z"
+        "title": "Dividend Aristocrat or Dividend Cuts: How to Evaluate the NKE Stock Payout as the Nike Turnaround Drags On",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/dividend-aristocrat-dividend-cuts-evaluate-233002322.html",
+        "published": "2026-08-25T23:30:02Z"
       },
       {
-        "title": "USD/JPY and USD/CHF Eye Upside as GBP/USD Rally Fades",
-        "link": "https://finance.yahoo.com/markets/currencies/articles/usd-jpy-usd-chf-eye-132852213.html",
-        "published": "2026-08-25T13:28:52Z"
+        "title": "Ventural Global (VG) is Riding the LNG Boom. But Can its Rally Last?",
+        "link": "https://finance.yahoo.com/energy/articles/ventural-global-vg-riding-lng-003051372.html",
+        "published": "2026-08-26T00:30:51Z"
+      },
+      {
+        "title": "Why Baker Hughes (BKR) Could be a Key Winner From the AI Boom",
+        "link": "https://finance.yahoo.com/energy/articles/why-baker-hughes-bkr-could-002112710.html",
+        "published": "2026-08-26T00:21:12Z"
+      },
+      {
+        "title": "SelectQuote, Inc. Q4 2026 Earnings Call Summary",
+        "link": "https://finance.yahoo.com/healthcare/articles/selectquote-inc-q4-2026-earnings-002540293.html",
+        "published": "2026-08-26T00:25:40Z"
+      },
+      {
+        "title": "Starbucks Union Calls for Boycott in Latest Test of Company Turnaround",
+        "link": "https://www.barrons.com/articles/starbucks-stock-union-boycott-fd830bd1?siteid=yhoof2&yptr=yahoo",
+        "published": "2026-08-25T23:14:00Z"
+      },
+      {
+        "title": "Expand Energy (EXE) is Building a Natural Gas Powerhouse. But is the Growth Story at Risk?",
+        "link": "https://finance.yahoo.com/energy/articles/expand-energy-exe-building-natural-004051280.html",
+        "published": "2026-08-26T00:40:51Z"
+      },
+      {
+        "title": "Centrus Energy (LEU) May Have Found its Next Major Growth Opportunity",
+        "link": "https://finance.yahoo.com/energy/articles/centrus-energy-leu-may-found-234755356.html",
+        "published": "2026-08-25T23:47:55Z"
       }
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "CrowdStrike’s stock soars after AI fuels the cybersecurity company’s ‘best quarter in history’",
-        "link": "https://www.marketwatch.com/story/crowdstrikes-stock-soars-after-ai-fuels-the-cybersecurity-companys-best-quarter-ever-6aeae1d5?mod=mw_rss_topstories",
-        "published": "Thu, 27 Aug 2026 00:43:00 GMT"
+        "title": "Salesforce stock is jumping. What Wall Street is saying about its earnings and its Anthropic relationship.",
+        "link": "https://www.marketwatch.com/story/salesforce-stock-is-jumping-what-wall-street-is-saying-about-its-earnings-and-its-anthropic-relationship-853ada85?mod=mw_rss_topstories",
+        "published": "Thu, 27 Aug 2026 11:01:00 GMT"
       },
       {
-        "title": "Fed’s Lisa Cook denies committing mortgage fraud, says Trump has no grounds to remove her from office",
-        "link": "https://www.marketwatch.com/story/feds-lisa-cook-denies-committing-mortgage-fraud-says-trump-has-no-grounds-to-remove-her-from-office-4ea60c9d?mod=mw_rss_topstories",
-        "published": "Thu, 27 Aug 2026 00:14:00 GMT"
+        "title": "Jackson Hole is Warsh’s chance to win over his Fed colleagues — and investors",
+        "link": "https://www.marketwatch.com/story/jackson-hole-is-warshs-chance-to-win-over-his-fed-colleagues-and-investors-8e21c8fc?mod=mw_rss_topstories",
+        "published": "Thu, 27 Aug 2026 11:00:00 GMT"
       },
       {
-        "title": "Salesforce’s stock gets an Anthropic boost — and more highlights from earnings",
-        "link": "https://www.marketwatch.com/story/salesforces-stock-surges-as-ai-momentums-fuel-revenue-growth-8c96eef3?mod=mw_rss_topstories",
-        "published": "Wed, 26 Aug 2026 22:50:00 GMT"
+        "title": "2 charts show why beaten-down Treasury bonds may be due for an epic rebound rally",
+        "link": "https://www.marketwatch.com/story/2-charts-show-why-beaten-down-treasury-bonds-may-be-due-for-an-epic-rebound-rally-50eaf9dd?mod=mw_rss_topstories",
+        "published": "Thu, 27 Aug 2026 11:00:00 GMT"
       },
       {
-        "title": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.",
-        "link": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
-        "published": "Wed, 26 Aug 2026 22:30:00 GMT"
+        "title": "Why these analysts say bitcoin will double by next year — and could reach $500,000 at the end of the decade",
+        "link": "https://www.marketwatch.com/story/why-these-analysts-say-bitcoin-will-double-by-next-year-and-could-reach-500-000-at-the-end-of-the-decade-23ec78f3?mod=mw_rss_topstories",
+        "published": "Thu, 27 Aug 2026 10:54:00 GMT"
       },
       {
-        "title": "I just had my first baby and don’t want to go back to work. Is quitting for a year a bad idea?",
-        "link": "https://www.marketwatch.com/story/i-just-had-my-first-baby-and-dont-want-to-go-back-to-work-is-quitting-for-a-year-a-bad-idea-780122e6?mod=mw_rss_topstories",
-        "published": "Wed, 26 Aug 2026 22:30:00 GMT"
+        "title": "Nvidia stock is climbing after another set of blockbuster results. Here’s what Wall Street is saying.",
+        "link": "https://www.marketwatch.com/story/nvidia-stock-is-climbing-after-another-set-of-blockbuster-results-heres-what-wall-street-is-saying-a2260a62?mod=mw_rss_topstories",
+        "published": "Thu, 27 Aug 2026 10:02:00 GMT"
       },
       {
-        "title": "‘There is considerable tension’: My grandmother, 99, wants to cut my mother out of her will. Should I intervene?",
-        "link": "https://www.marketwatch.com/story/there-is-considerable-tension-my-grandmother-99-wants-to-cut-my-mother-out-of-her-will-should-i-intervene-5e8f408e?mod=mw_rss_topstories",
-        "published": "Wed, 26 Aug 2026 22:15:00 GMT"
+        "title": "Second straight rate hike for Asia’s number-three economy as Nvidia-led AI expansion continues",
+        "link": "https://www.marketwatch.com/story/second-straight-rate-hike-for-asias-number-three-economy-as-nvidia-led-ai-expansion-continues-2dc36145?mod=mw_rss_topstories",
+        "published": "Thu, 27 Aug 2026 09:34:00 GMT"
       },
       {
-        "title": "Meta dodges ‘Big Tobacco’ nightmare with $18 billion settlement in child-safety lawsuit",
-        "link": "https://www.marketwatch.com/story/metas-stock-rises-as-the-company-settles-in-social-media-addiction-trial-78abdfbf?mod=mw_rss_topstories",
-        "published": "Wed, 26 Aug 2026 21:58:00 GMT"
+        "title": "My mother, 91, has dementia. Every bank says I need her signature to unlock her $100,000 stock certificate. What can I do?",
+        "link": "https://www.marketwatch.com/story/my-mother-91-has-dementia-every-bank-says-i-need-her-signature-to-unlock-her-100-000-stock-certificate-what-can-i-do-4a2b702f?mod=mw_rss_topstories",
+        "published": "Thu, 27 Aug 2026 09:15:00 GMT"
       },
       {
-        "title": "I’m turning 70. Here’s how I’m making this decade the richest of my retirement.",
-        "link": "https://www.marketwatch.com/story/im-turning-70-heres-how-im-making-this-decade-the-richest-of-my-retirement-ae351f90?mod=mw_rss_topstories",
-        "published": "Wed, 26 Aug 2026 21:09:00 GMT"
+        "title": "Ozempic maker Novo Nordisk downgraded to sell after 70% stock-price dive from peak",
+        "link": "https://www.marketwatch.com/story/ozempic-maker-novo-nordisk-downgraded-to-sell-after-70-stock-price-dive-from-peak-90193914?mod=mw_rss_topstories",
+        "published": "Thu, 27 Aug 2026 08:37:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "Nvidia earnings takeaways: Huang forecasts 70% fiscal 2028 revenue growth, far above estimates",
-        "link": "https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html",
-        "published": "Wed, 26 Aug 2026 23:42:30 GMT"
+        "title": "Nvidia jumps 7% after blockbuster earnings boost AI confidence",
+        "link": "https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html",
+        "published": "Thu, 27 Aug 2026 08:43:20 GMT"
       },
       {
-        "title": "Salesforce stock jumps 12% on AI growth and Anthropic investment gain",
-        "link": "https://www.cnbc.com/2026/08/26/salesforce-crm-q2-earnings-report-2027.html",
-        "published": "Thu, 27 Aug 2026 01:01:00 GMT"
+        "title": "Best Buy tops quarterly estimates, raises outlook as computing shows strength",
+        "link": "https://www.cnbc.com/2026/08/27/best-buy-bby-q2-2027-earnings.html",
+        "published": "Thu, 27 Aug 2026 11:01:05 GMT"
       },
       {
-        "title": "Meta settles social media addiction case with California, other states for $16.7 billion",
-        "link": "https://www.cnbc.com/2026/08/26/meta-social-media-trial-settlement.html",
-        "published": "Wed, 26 Aug 2026 21:17:46 GMT"
+        "title": "CIA chief John Ratcliffe reportedly made secretive Moscow trip to warn Russia against attacking NATO",
+        "link": "https://www.cnbc.com/2026/08/27/ratcliffe-moscow-russia-nato-ukraine-iran.html",
+        "published": "Thu, 27 Aug 2026 09:36:30 GMT"
       },
       {
-        "title": "Stock futures rise as Nvidia shares jump 4% after earnings: Live updates",
-        "link": "https://www.cnbc.com/2026/08/26/stock-market-today-live-updates.html",
-        "published": "Thu, 27 Aug 2026 00:11:15 GMT"
+        "title": "Qatari PM heads to Iran to 'de-escalate tensions' as tanker attack tests Trump’s Hormuz claim",
+        "link": "https://www.cnbc.com/2026/08/27/us-iran-war-trump-hormuz-attack-mine-.html",
+        "published": "Thu, 27 Aug 2026 08:22:29 GMT"
       },
       {
-        "title": "Okta pops 20% after topping estimates as AI threat spikes demand for identity security",
-        "link": "https://www.cnbc.com/2026/08/26/okta-okta-earnings-q2-2027.html",
-        "published": "Wed, 26 Aug 2026 21:27:53 GMT"
+        "title": "Why Citi thinks one of the year's best-performing sectors is finishing its bull run",
+        "link": "https://www.cnbc.com/2026/08/27/stocks-investment-bull-run-citi.html",
+        "published": "Thu, 27 Aug 2026 10:26:19 GMT"
+      },
+      {
+        "title": "CrowdStrike jumps 11% on record second quarter as 'Mythos moment' drives AI cyber wave",
+        "link": "https://www.cnbc.com/2026/08/26/crowdstrike-crwd-earnings-q2-2027.html",
+        "published": "Wed, 26 Aug 2026 22:20:20 GMT"
       },
       {
         "title": "Fed Gov Lisa Cook’s lawyer fires back at Trump's renewed threat to oust her",
@@ -725,14 +730,9 @@
         "published": "Thu, 27 Aug 2026 00:15:35 GMT"
       },
       {
-        "title": "Treasury yields are running hot. Here are opportunities for income-seeking investors",
-        "link": "https://www.cnbc.com/2026/08/26/treasury-yields-are-running-hot-where-to-find-solid-income-now.html",
-        "published": "Wed, 26 Aug 2026 19:39:00 GMT"
-      },
-      {
-        "title": "Salesforce, Anthropic expand partnership as Benioff responds to ‘SaaSpocalypse’ concerns",
-        "link": "https://www.cnbc.com/2026/08/26/salesforce-anthropic-partnership-claudeforce.html",
-        "published": "Wed, 26 Aug 2026 20:50:45 GMT"
+        "title": "Salesforce CEO Marc Benioff says the ‘SaaSpocalypse’ is nonsense. Here's why",
+        "link": "https://www.cnbc.com/2026/08/26/salesforce-ceo-marc-benioff-saaspocalypse-nonsense.html",
+        "published": "Wed, 26 Aug 2026 22:47:37 GMT"
       }
     ]
   }
