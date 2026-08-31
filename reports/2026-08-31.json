@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-08-31T17:31:11",
+  "generated_at": "2026-08-31T22:02:03",
   "date": "2026-08-31",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7670.08,
-        "pct_change": -0.54
+        "last": 7686.14,
+        "pct_change": -0.33
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26275.78,
-        "pct_change": -0.48
+        "last": 26370.89,
+        "pct_change": -0.12
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 53186.92,
+        "last": 53185.9,
         "pct_change": -0.7
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2946.86,
-        "pct_change": -0.86
+        "last": 2956.45,
+        "pct_change": -0.54
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.1,
-        "pct_change": 4.64
+        "last": 14.92,
+        "pct_change": 3.4
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
         "last": 4.76,
-        "pct_change": 0.76
+        "pct_change": 0.81
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
@@ -40,55 +40,55 @@
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 85.67,
-        "pct_change": 2.72
+        "last": 86.31,
+        "pct_change": 3.49
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4484.5,
-        "pct_change": 0.14
+        "last": 4497.3,
+        "pct_change": 0.43
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 185.6,
-        "pct_change": -0.05
+        "last": 186.5,
+        "pct_change": 0.44
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 57.74,
-        "pct_change": -0.62
+        "last": 57.71,
+        "pct_change": -0.67
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 63.45,
-        "pct_change": 1.23
+        "last": 63.96,
+        "pct_change": 2.04
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 170.46,
-        "pct_change": -0.41
+        "last": 170.54,
+        "pct_change": -0.36
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 116.67,
-        "pct_change": -0.46
+        "last": 116.59,
+        "pct_change": -0.53
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 85.01,
-        "pct_change": -0.51
+        "last": 84.98,
+        "pct_change": -0.55
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 174.95,
-        "pct_change": -1.24
+        "last": 175.13,
+        "pct_change": -1.13
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 42.17,
-        "pct_change": -1.3
+        "last": 42.23,
+        "pct_change": -1.17
       },
       "Materials": {
         "symbol": "XLB",
@@ -97,8 +97,8 @@
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.01,
-        "pct_change": -1.07
+        "last": 44.11,
+        "pct_change": -0.83
       },
       "Communication Services": {
         "symbol": "XLC",
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 159.69,
-        "pct_change": 0.23
+        "last": 159.78,
+        "pct_change": 0.29
       }
     }
   },
@@ -144,52 +144,52 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 148.04,
-        "pct_change": -0.63
+        "last": 148.73,
+        "pct_change": -0.17
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 313.7,
-        "pct_change": -1.88
+        "last": 316.85,
+        "pct_change": -0.89
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 510.43,
-        "pct_change": -0.6
+        "last": 507.29,
+        "pct_change": -1.22
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 260.86,
-        "pct_change": -2.09
+        "last": 259.77,
+        "pct_change": -2.5
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 338.25,
-        "pct_change": -2.41
+        "last": 339.35,
+        "pct_change": -2.09
       },
       "Meta": {
         "symbol": "META",
-        "last": 571.14,
-        "pct_change": -1.19
+        "last": 572.34,
+        "pct_change": -0.98
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 906.73,
-        "pct_change": 1.31
+        "last": 914.76,
+        "pct_change": 2.21
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 275.51,
-        "pct_change": -1.32
+        "last": 277.83,
+        "pct_change": -0.49
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 157.88,
-        "pct_change": 0.09
+        "last": 158.55,
+        "pct_change": 0.51
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -284,7 +284,7 @@
       "country": "USD",
       "date": "2026-09-01T10:00:00-04:00",
       "impact": "Medium",
-      "forecast": "71.2",
+      "forecast": "70.5",
       "previous": "71.1"
     },
     {
@@ -340,7 +340,7 @@
       "country": "USD",
       "date": "2026-09-02T08:15:00-04:00",
       "impact": "Medium",
-      "forecast": "47K",
+      "forecast": "48K",
       "previous": "44K"
     },
     {
@@ -348,7 +348,7 @@
       "country": "USD",
       "date": "2026-09-02T10:00:00-04:00",
       "impact": "Low",
-      "forecast": "0.6%",
+      "forecast": "0.7%",
       "previous": "-0.3%"
     },
     {
@@ -420,7 +420,7 @@
       "country": "USD",
       "date": "2026-09-03T08:30:00-04:00",
       "impact": "Low",
-      "forecast": "-86.4B",
+      "forecast": "-89.4B",
       "previous": "-73.3B"
     },
     {
@@ -436,7 +436,7 @@
       "country": "USD",
       "date": "2026-09-03T10:00:00-04:00",
       "impact": "Medium",
-      "forecast": "54.1",
+      "forecast": "54.2",
       "previous": "54.1"
     },
     {
@@ -656,123 +656,123 @@
         "published": "2026-08-31T00:37:00Z"
       },
       {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq fall as US strikes Iran, rate-hike bets jump",
-        "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-31-dow-sp-500-nasdaq-113851714.html",
-        "published": "2026-08-31T11:38:51Z"
+        "title": "Victoria's Secret stock soars nearly 300% as GLP-1 weight-loss drugs help reshape lingerie buying habits",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/victorias-secret-stock-soars-nearly-130000704.html",
+        "published": "2026-08-30T13:00:00Z"
       },
       {
-        "title": "Here comes the AI capex shocker, Goldman Sachs says",
-        "link": "https://finance.yahoo.com/markets/article/here-comes-the-ai-capex-shocker-goldman-sachs-says-171026577.html",
-        "published": "2026-08-31T17:10:26Z"
+        "title": "Everything I Learned from My Hot Chart Summer, and How My 21 Stocks Picks Have Performed.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/everything-learned-hot-chart-summer-133002092.html",
+        "published": "2026-08-30T13:30:02Z"
       },
       {
-        "title": "Warsh's 'quieter Fed' now includes a smidgen of guidance",
-        "link": "https://finance.yahoo.com/economy/policy/articles/analysis-warshs-quieter-fed-now-193420692.html",
-        "published": "2026-08-31T16:55:36Z"
+        "title": "Come on, Target. Do better.",
+        "link": "https://finance.yahoo.com/markets/stocks/article/come-on-target-do-better-123000000.html",
+        "published": "2026-08-30T12:30:00Z"
       },
       {
-        "title": "Gold on pace for best month since February despite investor concerns over rate hikes",
-        "link": "https://finance.yahoo.com/markets/article/gold-on-pace-for-best-month-since-february-despite-investor-concerns-over-rate-hikes-165315959.html",
-        "published": "2026-08-31T16:53:15Z"
+        "title": "Michigan woman to dip into her $50,000 in stocks to cover her brother-in-law's unpaid HOA fees or face foreclosure",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/michigan-woman-dip-her-50-123000768.html",
+        "published": "2026-08-30T12:30:00Z"
       },
       {
-        "title": "Former SEC, CFTC Officials Urge Lighter Touch to Bring Crypto Perps Trading Onshore",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/former-sec-cftc-officials-urge-170604121.html",
-        "published": "2026-08-31T17:06:04Z"
+        "title": "This 2 ETF Portfolio Historically Outperforms the S&P 500 With Less Volatility",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/2-etf-portfolio-historically-outperforms-131500494.html",
+        "published": "2026-08-30T13:15:00Z"
       },
       {
-        "title": "Here's how much it could cost SpaceX to take on Verizon, T-Mobile, and AT&T",
-        "link": "https://finance.yahoo.com/markets/stocks/article/heres-how-much-it-could-cost-spacex-to-take-on-verizon-t-mobile-and-att-165305592.html",
-        "published": "2026-08-31T16:53:05Z"
+        "title": "Is Advanced Micro Devices Stock Outperforming the Dow?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-stock-outperforming-122944212.html",
+        "published": "2026-08-30T12:29:44Z"
       },
       {
-        "title": "Stock Market Today: Dow Slides, Oil Stock Tests Entry As Trump Says This; PG&E Plunges (Live Coverage)",
-        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-attacks-oil-prices-jump/?src=A00220&yptr=yahoo",
-        "published": "2026-08-31T16:47:06Z"
+        "title": "‘There’s a shroud over this market’: Jim Cramer warns stocks face a tougher road — here’s how to prepare",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/shroud-over-market-jim-cramer-121500547.html",
+        "published": "2026-08-30T12:15:00Z"
       }
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "PG&E, other utility stocks sink as California leaves investors exposed to wildfire liability",
-        "link": "https://www.marketwatch.com/story/pg-e-other-utility-stocks-sink-as-california-leaves-investors-exposed-to-wildfire-liability-ac373b54?mod=mw_rss_topstories",
-        "published": "Mon, 31 Aug 2026 17:10:00 GMT"
+        "title": "‘I’m leaving money on the table’: I’m 64 and my husband is 70. Should I take spousal benefits or wait for my own?",
+        "link": "https://www.marketwatch.com/story/im-leaving-money-on-the-table-im-64-and-my-husband-is-70-should-i-take-spousal-benefits-or-wait-for-my-own-2490f5cd?mod=mw_rss_topstories",
+        "published": "Mon, 31 Aug 2026 22:00:00 GMT"
       },
       {
-        "title": "Why would someone lock up money by rolling it into a 401(k)?",
-        "link": "https://www.marketwatch.com/story/why-would-someone-lock-up-money-by-rolling-it-into-a-401-k-2c742e90?mod=mw_rss_topstories",
-        "published": "Mon, 31 Aug 2026 17:05:00 GMT"
+        "title": "The S&P 500 usually falls in September. Why this year should be different.",
+        "link": "https://www.marketwatch.com/story/the-s-p-500-usually-falls-in-september-why-this-year-should-be-different-77ebb626?mod=mw_rss_topstories",
+        "published": "Mon, 31 Aug 2026 21:36:00 GMT"
       },
       {
-        "title": "Bessent now says debt-reduction plan could be months away. It will face hurdles when it arrives.",
-        "link": "https://www.marketwatch.com/story/bessent-now-says-debt-reduction-plan-could-be-months-away-it-will-face-hurdles-when-it-arrives-d87b6f7a?mod=mw_rss_topstories",
-        "published": "Mon, 31 Aug 2026 17:02:00 GMT"
-      },
-      {
-        "title": "This near-7% rule looks better for retirees than the 4% rule",
-        "link": "https://www.marketwatch.com/story/this-near-7-rule-looks-better-for-retirees-than-the-4-rule-43b03d2d?mod=mw_rss_topstories",
-        "published": "Mon, 31 Aug 2026 16:53:00 GMT"
-      },
-      {
-        "title": "Should bond investors worry with Warsh running the Fed?",
-        "link": "https://www.marketwatch.com/story/should-bond-investors-worry-with-warsh-running-the-fed-0a99c5ac?mod=mw_rss_topstories",
-        "published": "Mon, 31 Aug 2026 16:46:00 GMT"
-      },
-      {
-        "title": "‘Her life was very challenging before we got custody’: At 62, how can we afford to put our granddaughter through college?",
+        "title": "‘Neither of us attended college’: At 62, how can we afford to put our granddaughter through college?",
         "link": "https://www.marketwatch.com/story/her-life-was-very-challenging-before-we-got-custody-at-62-how-can-we-afford-to-put-our-granddaughter-through-college-b9d550bb?mod=mw_rss_topstories",
-        "published": "Mon, 31 Aug 2026 16:45:00 GMT"
+        "published": "Mon, 31 Aug 2026 21:34:00 GMT"
       },
       {
-        "title": "Trump to meet with oil execs about cutting gas prices, as his Venezuelan SPR plan faces skepticism",
-        "link": "https://www.marketwatch.com/story/trump-to-meet-with-oil-execs-about-cutting-gas-prices-as-his-venezuelan-spr-plan-faces-skepticism-d8113b17?mod=mw_rss_topstories",
-        "published": "Mon, 31 Aug 2026 16:44:00 GMT"
+        "title": "Vanguard’s S&P 500 index fund changed how we invest — but there may be a smarter way to get into the market",
+        "link": "https://www.marketwatch.com/story/vanguards-s-p-500-index-fund-changed-how-we-invest-but-there-may-be-a-smarter-way-to-get-into-the-market-a54a612c?mod=mw_rss_topstories",
+        "published": "Mon, 31 Aug 2026 21:33:00 GMT"
       },
       {
-        "title": "The collapse of U.S.-Canada trade talks helped the American aluminum industry. Here’s what Trump should do next.",
-        "link": "https://www.marketwatch.com/story/the-collapse-of-u-s-canada-trade-talks-helped-the-american-aluminum-industry-heres-what-trump-should-do-next-d027419d?mod=mw_rss_topstories",
-        "published": "Mon, 31 Aug 2026 16:38:00 GMT"
+        "title": "Maybe the snowbirds are right? One state dominates this list of best places to retire.",
+        "link": "https://www.marketwatch.com/story/maybe-the-snowbirds-are-right-one-state-dominates-this-list-of-best-places-to-retire-ab506160?mod=mw_rss_topstories",
+        "published": "Mon, 31 Aug 2026 21:23:00 GMT"
+      },
+      {
+        "title": "23 best-performing stocks of August, as the software industry continues its recovery",
+        "link": "https://www.marketwatch.com/story/22-best-performing-stocks-of-august-as-the-software-industry-continues-its-recovery-88e432bf?mod=mw_rss_topstories",
+        "published": "Mon, 31 Aug 2026 21:16:00 GMT"
+      },
+      {
+        "title": "Tesla’s stock among S&P 500’s top gainers as investors prepare for a Cybercab launch",
+        "link": "https://www.marketwatch.com/story/teslas-stock-is-leading-s-p-500-gainers-as-investors-prepare-for-a-cybercab-launch-f23a0d52?mod=mw_rss_topstories",
+        "published": "Mon, 31 Aug 2026 21:01:00 GMT"
+      },
+      {
+        "title": "This maneuver is boosting oil shipments through the Strait of Hormuz",
+        "link": "https://www.marketwatch.com/story/this-maneuver-is-boosting-oil-shipments-through-the-strait-of-hormuz-070d8fa3?mod=mw_rss_topstories",
+        "published": "Mon, 31 Aug 2026 20:56:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "G20 meeting live updates: Bessent, Warsh kick off summit with growth-focused remarks",
-        "link": "https://www.cnbc.com/2026/08/31/g20-finance-meeting-live-updates.html",
-        "published": "Mon, 31 Aug 2026 17:30:54 GMT"
+        "title": "Trump announced a massive oil deal with Venezuela. Why it won't lower gas prices anytime soon",
+        "link": "https://www.cnbc.com/2026/08/31/trump-venezuela-oil-gas-price.html",
+        "published": "Mon, 31 Aug 2026 21:22:08 GMT"
       },
       {
-        "title": "Trump to meet with U.S. refiners as White House pushes to lower gas prices",
-        "link": "https://www.cnbc.com/2026/08/31/trump-refiners-gas-prices-refining-capacity.html",
-        "published": "Mon, 31 Aug 2026 17:03:03 GMT"
+        "title": "Supreme Court lets Trump build White House ballroom as lawsuit continues",
+        "link": "https://www.cnbc.com/2026/08/31/supreme-court-white-house-ballroom.html",
+        "published": "Mon, 31 Aug 2026 21:23:41 GMT"
       },
       {
-        "title": "Trump warns 'we're going to hit them hard' after Iran targets U.S. forces in Jordan: Report",
-        "link": "https://www.cnbc.com/2026/08/30/us-iran-strikes-strait-hormuz.html",
-        "published": "Mon, 31 Aug 2026 15:33:30 GMT"
+        "title": "House Intelligence Committee warns of 'Black Swan' AI risks",
+        "link": "https://www.cnbc.com/2026/08/31/ai-warning-house-intelligence-committee.html",
+        "published": "Mon, 31 Aug 2026 21:18:37 GMT"
       },
       {
-        "title": "Trump reportedly plans to announce new drug pricing deals with nearly a dozen drugmakers",
-        "link": "https://www.cnbc.com/2026/08/31/trump-drug-pricing-deals.html",
-        "published": "Mon, 31 Aug 2026 17:20:45 GMT"
-      },
-      {
-        "title": "Stocks fall after U.S. strikes Iran, but Wall Street heads for winning month: Live updates",
+        "title": "Dow tumbles 370 points after U.S. strikes Iran, but index posts fifth straight winning month",
         "link": "https://www.cnbc.com/2026/08/30/stock-market-today-live-updates.html",
-        "published": "Mon, 31 Aug 2026 17:12:55 GMT"
+        "published": "Mon, 31 Aug 2026 21:00:40 GMT"
       },
       {
-        "title": "This software outperformer reports earnings this week. Jay Woods says to watch these key levels",
-        "link": "https://www.cnbc.com/2026/08/31/snowflake-reports-earnings-soon-watch-these-levels-jay-woods-says.html",
-        "published": "Mon, 31 Aug 2026 17:02:16 GMT"
+        "title": "Trump says U.S. growth could hit 20%. It’s happened only once since WWII",
+        "link": "https://www.cnbc.com/2026/08/31/trump-us-gdp-growth-20-percent-economy.html",
+        "published": "Mon, 31 Aug 2026 20:50:01 GMT"
       },
       {
-        "title": "Stocks making the biggest moves midday: PG&E, Edison International, Apple, Howmet Aerospace, Eli Lilly & more",
-        "link": "https://www.cnbc.com/2026/08/31/stocks-making-the-biggest-moves-midday-pcg-eix-agco-hwm-more-.html",
-        "published": "Mon, 31 Aug 2026 17:10:12 GMT"
+        "title": "Trump Account holders may receive $250 Dell grant starting Monday, Dell Foundation says",
+        "link": "https://www.cnbc.com/2026/08/31/trump-account-holders-to-start-receiving-250-dell-grant-spokesperson.html",
+        "published": "Mon, 31 Aug 2026 21:10:05 GMT"
       },
       {
-        "title": "American Airlines announces Trump Accounts matching program",
-        "link": "https://www.cnbc.com/2026/08/31/trump-accounts-american-airlines-matching-program.html",
-        "published": "Mon, 31 Aug 2026 17:19:46 GMT"
+        "title": "Avoid these potential earnings 'blow-ups', says Wolfe Research",
+        "link": "https://www.cnbc.com/2026/08/31/avoid-these-potential-earnings-blow-ups-says-wolfe-research.html",
+        "published": "Mon, 31 Aug 2026 20:49:03 GMT"
+      },
+      {
+        "title": "KKR-backed OPI nail polish owner Wella Co. files for U.S. IPO",
+        "link": "https://www.cnbc.com/2026/08/31/kkr-opi-nail-polish-wella-us-ipo.html",
+        "published": "Mon, 31 Aug 2026 21:04:06 GMT"
       }
     ]
   }
