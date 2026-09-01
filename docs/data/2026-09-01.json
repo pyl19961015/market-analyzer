@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-09-01T08:49:48",
+  "generated_at": "2026-09-01T13:53:54",
   "date": "2026-09-01",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7686.14,
-        "pct_change": -0.58
+        "last": 7633.35,
+        "pct_change": -0.69
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26370.89,
-        "pct_change": -0.64
+        "last": 26076.04,
+        "pct_change": -1.12
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 53185.9,
-        "pct_change": -0.72
+        "last": 52898.25,
+        "pct_change": -0.54
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2956.45,
-        "pct_change": -1.92
+        "last": 2933.3,
+        "pct_change": -0.78
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.49,
-        "pct_change": 3.82
+        "last": 15.9,
+        "pct_change": 6.57
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.76,
-        "pct_change": 1.84
+        "last": 4.77,
+        "pct_change": 0.29
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.6,
-        "pct_change": 0.17
+        "last": 99.56,
+        "pct_change": 0.13
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 87.72,
-        "pct_change": 2.29
+        "last": 88.35,
+        "pct_change": 3.02
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4424.0,
-        "pct_change": -0.16
+        "last": 4407.7,
+        "pct_change": -0.53
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 186.5,
-        "pct_change": -1.12
+        "last": 183.2,
+        "pct_change": -1.77
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 57.71,
-        "pct_change": -0.67
+        "last": 57.53,
+        "pct_change": -0.31
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 63.96,
-        "pct_change": 2.04
+        "last": 64.46,
+        "pct_change": 0.78
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 170.54,
-        "pct_change": -0.36
+        "last": 171.46,
+        "pct_change": 0.54
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 116.59,
-        "pct_change": 0.61
+        "last": 115.27,
+        "pct_change": -1.13
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 84.98,
-        "pct_change": -0.12
+        "last": 85.78,
+        "pct_change": 0.94
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 175.13,
-        "pct_change": -2.05
+        "last": 173.94,
+        "pct_change": -0.68
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 42.23,
-        "pct_change": -2.2
+        "last": 42.21,
+        "pct_change": -0.06
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 52.69,
-        "pct_change": -1.01
+        "last": 52.15,
+        "pct_change": -1.02
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.11,
-        "pct_change": -0.83
+        "last": 44.1,
+        "pct_change": -0.02
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 111.46,
-        "pct_change": 0.04
+        "last": 111.22,
+        "pct_change": -0.21
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 159.92,
-        "pct_change": -0.13
+        "last": 160.08,
+        "pct_change": -0.03
       }
     }
   },
@@ -131,65 +131,65 @@
       "effr": 3.63,
       "target_low": 3.5,
       "target_high": 3.75,
-      "as_of": "2026-08-28"
+      "as_of": "2026-08-31"
     },
     "japan": {
       "yield": 2.943,
       "as_of": "2026-08-31",
       "prev_yield": 2.93
     },
-    "spread_10y": 1.82
+    "spread_10y": 1.83
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 148.73,
-        "pct_change": -2.66
+        "last": 144.95,
+        "pct_change": -2.54
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 316.85,
-        "pct_change": -0.89
+        "last": 320.26,
+        "pct_change": 1.08
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 507.29,
-        "pct_change": -1.22
+        "last": 501.77,
+        "pct_change": -1.09
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 259.77,
-        "pct_change": -2.5
+        "last": 255.19,
+        "pct_change": -1.76
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 339.35,
-        "pct_change": -2.09
+        "last": 336.89,
+        "pct_change": -0.73
       },
       "Meta": {
         "symbol": "META",
-        "last": 572.34,
-        "pct_change": -0.98
+        "last": 567.12,
+        "pct_change": -0.91
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 914.76,
-        "pct_change": -4.33
+        "last": 862.59,
+        "pct_change": -5.7
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 277.83,
-        "pct_change": -0.49
+        "last": 265.81,
+        "pct_change": -4.33
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 158.55,
-        "pct_change": -1.75
+        "last": 157.42,
+        "pct_change": -0.71
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -306,7 +306,7 @@
     {
       "title": "RCM/TIPP Economic Optimism",
       "country": "USD",
-      "date": "2026-09-01T10:10:00-04:00",
+      "date": "2026-09-01T10:14:00-04:00",
       "impact": "Low",
       "forecast": "46.2",
       "previous": "45.1"
@@ -549,6 +549,12 @@
     ],
     "Speeches": [
       {
+        "title": "Barr, Unlocking Opportunities for Workers and Entrepreneurs with a Criminal Record",
+        "link": "https://www.federalreserve.gov/newsevents/speech/barr20260901a.htm",
+        "published": "Tue, 1 Sep 2026 13:05:00 GMT",
+        "summary": "Speech At the Second-Chance Lending Forum, Developing Evidence-Based Policy on Creditworthiness and Criminal History, Washington, D.C."
+      },
+      {
         "title": "Warsh, In Our Time",
         "link": "https://www.federalreserve.gov/newsevents/speech/warsh20260828a.htm",
         "published": "Fri, 28 Aug 2026 14:00:00 GMT",
@@ -589,12 +595,6 @@
         "link": "https://www.federalreserve.gov/newsevents/speech/waller20260713a.htm",
         "published": "Mon, 13 Jul 2026 16:30:00 GMT",
         "summary": "Speech At the New York Association for Business Economics, New York, New York"
-      },
-      {
-        "title": "Bowman, Modernizing Financial Regulation",
-        "link": "https://www.federalreserve.gov/newsevents/speech/bowman20260713a.htm",
-        "published": "Mon, 13 Jul 2026 09:25:00 GMT",
-        "summary": "Speech At a Bank Policy Institute London Conference, London, United Kingdom"
       }
     ],
     "FOMC Press Releases": [
@@ -651,128 +651,128 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "Goldman Sachs sends blunt message on oil price, economy",
-        "link": "https://finance.yahoo.com/energy/articles/goldman-sachs-sends-blunt-message-003700417.html",
-        "published": "2026-08-31T00:37:00Z"
-      },
-      {
-        "title": "Tesla Just Killed Its Solar Roof After Years of Struggling to Scale. What It Means for TSLA Stock.",
-        "link": "https://finance.yahoo.com/energy/articles/tesla-just-killed-solar-roof-220544385.html",
-        "published": "2026-08-30T22:05:44Z"
-      },
-      {
-        "title": "Ethereum Price Prediction: Key On-Chain Metric Flashes “Buy” at $2,500",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-key-chain-204758899.html",
-        "published": "2026-08-30T20:47:58Z"
-      },
-      {
-        "title": "PetroChina First-Half Profit Jumps 22% to Record High",
-        "link": "https://finance.yahoo.com/energy/articles/petrochina-profit-jumps-22-oil-011638944.html",
-        "published": "2026-08-31T01:16:00Z"
-      },
-      {
-        "title": "ONEOK to Acquire Brazos Midland Gas Assets for $4.425 Billion",
-        "link": "https://finance.yahoo.com/energy/articles/oneok-acquire-brazos-midland-gas-023537851.html",
-        "published": "2026-08-31T02:35:37Z"
-      },
-      {
         "title": "Firearms retailer files Chapter 11 bankruptcy as gun sales drop",
         "link": "https://finance.yahoo.com/small-business/articles/firearms-retailer-files-chapter-11-153300921.html",
         "published": "2026-08-31T15:33:00Z"
       },
       {
-        "title": "Dow Jones Futures Fall, Oil Prices Pop As U.S. Strikes Iran",
-        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-microsoft-titans-mask-market-weakness/?src=A00220&yptr=yahoo",
-        "published": "2026-08-31T03:10:53Z"
+        "title": "Stock market today: Dow, S&P 500, Nasdaq drop as rising bond yields, oil prices weigh on stocks",
+        "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-1-dow-sp-500-nasdaq-080617884.html",
+        "published": "2026-09-01T08:06:17Z"
       },
       {
-        "title": "Is Concentration Causing Investors to Fear the Market-Weighted Index?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/concentration-causing-investors-fear-market-040100464.html",
-        "published": "2026-08-31T04:01:00Z"
+        "title": "Multiple Compression Pulls Back Shopify (SHOP) in Q2",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/multiple-compression-pulls-back-shopify-132525484.html",
+        "published": "2026-09-01T13:25:25Z"
+      },
+      {
+        "title": "Coupang (CPNG) Shares Drop 7.7% on Softer Q2 Guidance",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/coupang-cpng-shares-drop-7-132307692.html",
+        "published": "2026-09-01T13:23:07Z"
+      },
+      {
+        "title": "Taiwan Semiconductor Manufacturing Company (TSM) Limited Continues to Deliver Stellar Financial Results",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-tsm-131831930.html",
+        "published": "2026-09-01T13:18:31Z"
+      },
+      {
+        "title": "161-year-old kids clothing giant closes 29 more stores",
+        "link": "https://finance.yahoo.com/small-business/articles/161-old-kids-clothing-giant-171700918.html",
+        "published": "2026-08-31T17:17:00Z"
+      },
+      {
+        "title": "StoneX (SNEX) Doubled From Its Lows as Trading Activity Surged — Can the Growth Continue?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/stonex-snex-doubled-lows-trading-131108685.html",
+        "published": "2026-09-01T13:11:08Z"
+      },
+      {
+        "title": "Fed's Barr open to rate hike if inflation does not moderate",
+        "link": "https://finance.yahoo.com/economy/policy/articles/feds-barr-open-rate-hike-130644777.html",
+        "published": "2026-09-01T13:09:38Z"
       }
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "Shein shares fall up to 10% after long-awaited trading debut",
-        "link": "https://www.marketwatch.com/story/shein-shares-fall-up-to-10-after-long-awaited-trading-debut-edecb6ee?mod=mw_rss_topstories",
-        "published": "Tue, 01 Sep 2026 08:41:00 GMT"
-      },
-      {
-        "title": "Amazon’s stock slips as the FTC alleges billions of dollars in hidden ad fees",
-        "link": "https://www.marketwatch.com/story/amazons-stock-slips-as-the-ftc-alleges-billions-of-dollars-in-hidden-ad-fees-4ae44ee4?mod=mw_rss_topstories",
-        "published": "Mon, 31 Aug 2026 22:24:00 GMT"
-      },
-      {
-        "title": "‘I’m leaving money on the table’: I’m 64 and my husband is 70. Should I take spousal benefits or wait for my own?",
-        "link": "https://www.marketwatch.com/story/im-leaving-money-on-the-table-im-64-and-my-husband-is-70-should-i-take-spousal-benefits-or-wait-for-my-own-2490f5cd?mod=mw_rss_topstories",
-        "published": "Mon, 31 Aug 2026 22:00:00 GMT"
-      },
-      {
-        "title": "The S&P 500 usually falls in September. Why this year should be different.",
-        "link": "https://www.marketwatch.com/story/the-s-p-500-usually-falls-in-september-why-this-year-should-be-different-77ebb626?mod=mw_rss_topstories",
-        "published": "Mon, 31 Aug 2026 21:36:00 GMT"
-      },
-      {
-        "title": "‘Neither of us attended college’: At 62, how can we afford to put our granddaughter through college?",
-        "link": "https://www.marketwatch.com/story/her-life-was-very-challenging-before-we-got-custody-at-62-how-can-we-afford-to-put-our-granddaughter-through-college-b9d550bb?mod=mw_rss_topstories",
-        "published": "Mon, 31 Aug 2026 21:34:00 GMT"
-      },
-      {
-        "title": "Vanguard’s S&P 500 index fund changed how we invest — but there may be a smarter way to get into the market",
+        "title": "Vanguard’s S&P 500 index fund changed how we invest — but there may be a smarter way to get a piece of the market",
         "link": "https://www.marketwatch.com/story/vanguards-s-p-500-index-fund-changed-how-we-invest-but-there-may-be-a-smarter-way-to-get-into-the-market-a54a612c?mod=mw_rss_topstories",
-        "published": "Mon, 31 Aug 2026 21:33:00 GMT"
+        "published": "Tue, 01 Sep 2026 13:30:00 GMT"
+      },
+      {
+        "title": "‘It’s not fair’: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
+        "link": "https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780?mod=mw_rss_topstories",
+        "published": "Tue, 01 Sep 2026 13:15:00 GMT"
       },
       {
         "title": "Maybe the snowbirds are right? One state dominates this list of best places to retire.",
         "link": "https://www.marketwatch.com/story/maybe-the-snowbirds-are-right-one-state-dominates-this-list-of-best-places-to-retire-ab506160?mod=mw_rss_topstories",
-        "published": "Mon, 31 Aug 2026 21:23:00 GMT"
+        "published": "Tue, 01 Sep 2026 13:07:00 GMT"
       },
       {
-        "title": "23 best-performing stocks of August, as the software industry continues its recovery",
-        "link": "https://www.marketwatch.com/story/22-best-performing-stocks-of-august-as-the-software-industry-continues-its-recovery-88e432bf?mod=mw_rss_topstories",
-        "published": "Mon, 31 Aug 2026 21:16:00 GMT"
+        "title": "As U.S. bond prices tumble, yields are jumping globally — from Japan to the U.K. and beyond",
+        "link": "https://www.marketwatch.com/story/from-the-u-k-to-japan-bond-yields-are-jumping-as-u-s-bonds-tumble-d8b71075?mod=mw_rss_topstories",
+        "published": "Tue, 01 Sep 2026 13:05:00 GMT"
+      },
+      {
+        "title": "‘I feel tricked’: My contractor handed my $42,000 pool upgrade to a subcontractor I had already rejected. What can I do?",
+        "link": "https://www.marketwatch.com/story/my-contractor-handed-my-42-000-pool-upgrade-to-a-subcontractor-i-had-already-rejected-what-can-i-do-dce41b2b?mod=mw_rss_topstories",
+        "published": "Tue, 01 Sep 2026 13:01:00 GMT"
+      },
+      {
+        "title": "Suddenly Wall Street is getting a bit nervous. Here are two ways to prepare for turbulence.",
+        "link": "https://www.marketwatch.com/story/suddenly-wall-street-is-getting-a-bit-nervous-here-are-two-ways-to-prepare-for-potential-turbulence-a5c0e430?mod=mw_rss_topstories",
+        "published": "Tue, 01 Sep 2026 12:53:00 GMT"
+      },
+      {
+        "title": "‘I feel shoehorned’: My father funded my $800,000 Roth IRA. Does that give him the right to say how I invest it?",
+        "link": "https://www.marketwatch.com/story/i-feel-shoehorned-my-father-funded-my-800-000-roth-ira-does-that-give-him-the-right-to-say-how-i-invest-it-7b1e3ab3?mod=mw_rss_topstories",
+        "published": "Tue, 01 Sep 2026 12:15:00 GMT"
+      },
+      {
+        "title": "Lake America? Trump’s Lake Ontario name change creates map mayhem for Apple and Google.",
+        "link": "https://www.marketwatch.com/story/lake-america-trumps-lake-ontario-name-change-creates-map-mayhem-for-apple-and-google-eb4c0122?mod=mw_rss_topstories",
+        "published": "Tue, 01 Sep 2026 12:13:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
+        "title": "10-year yield hits highest since January 2025 as higher oil prices stoke inflation worries",
+        "link": "https://www.cnbc.com/2026/09/01/bonds-treasury-yields-middle-east-tensions.html",
+        "published": "Tue, 01 Sep 2026 13:45:07 GMT"
+      },
+      {
+        "title": "Fed Governor Barr says he'll support rate hike if inflation doesn't ease",
+        "link": "https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html",
+        "published": "Tue, 01 Sep 2026 13:05:11 GMT"
+      },
+      {
+        "title": "Apple enters John Ternus era as AI challenges and memory crunch intensify",
+        "link": "https://www.cnbc.com/2026/09/01/apple-enters-ternus-era-as-ai-challenges-and-memory-crunch-intensify.html",
+        "published": "Tue, 01 Sep 2026 11:00:01 GMT"
+      },
+      {
         "title": "Tehran urges return to June deal, oil prices rise as Trump vows to hit Iran 'hard'",
         "link": "https://www.cnbc.com/2026/09/01/us-iran-war-trump-hormuz-tanker-attack-shipping-sanctions-.html",
-        "published": "Tue, 01 Sep 2026 08:25:45 GMT"
+        "published": "Tue, 01 Sep 2026 12:22:42 GMT"
       },
       {
-        "title": "Venezuela grants U.S.-backed oil firm NABEP 100-year concessions for 17 oil fields, White House says",
-        "link": "https://www.cnbc.com/2026/08/31/venezuela-grants-north-american-blue-energy-partners-100-year-concessions-for-17-oil-fields-white-house-says.html",
-        "published": "Tue, 01 Sep 2026 01:56:53 GMT"
+        "title": "Here are Tuesday's biggest analyst calls: Nvidia, SpaceX, Microsoft, Robinhood, Apple, Cisco, Airbnb & more",
+        "link": "https://www.cnbc.com/2026/09/01/tuesdays-biggest-analyst-calls-include-spacex-nvidia.html",
+        "published": "Tue, 01 Sep 2026 12:28:52 GMT"
       },
       {
-        "title": "Qualcomm rival MediaTek jumps 10% after $3.5 billion Nvidia AI chip deal",
-        "link": "https://www.cnbc.com/2026/09/01/nvidia-deal-mediatek-shares.html",
-        "published": "Tue, 01 Sep 2026 08:00:23 GMT"
+        "title": "Toyota's hybrid RAV4 is in demand as dealers wait for more supply",
+        "link": "https://www.cnbc.com/2026/09/01/toyota-rav4-dealer-inventory.html",
+        "published": "Tue, 01 Sep 2026 12:00:01 GMT"
       },
       {
-        "title": "Japanese borrowing costs hit 30-year high as Bessent says Tokyo may intervene to boost yen",
-        "link": "https://www.cnbc.com/2026/09/01/japan-bonds-yen-intervention-bessent.html",
-        "published": "Tue, 01 Sep 2026 08:41:57 GMT"
+        "title": "Trump to meet with U.S. oil refiners as White House pushes to lower gas prices",
+        "link": "https://www.cnbc.com/2026/08/31/trump-refiners-gas-prices-refining-capacity.html",
+        "published": "Mon, 31 Aug 2026 17:44:31 GMT"
       },
       {
-        "title": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
-        "link": "https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html",
-        "published": "Tue, 01 Sep 2026 07:30:49 GMT"
-      },
-      {
-        "title": "These emerging markets are favored to get 'a wall of money' from carry trades",
-        "link": "https://www.cnbc.com/2026/09/01/emerging-markets-dollar-carry-trade.html",
-        "published": "Tue, 01 Sep 2026 05:12:38 GMT"
-      },
-      {
-        "title": "Bessent reportedly tells Russia no economic relief until Ukraine war ends as Europe snubs Moscow at G20",
-        "link": "https://www.cnbc.com/2026/09/01/bessent-russia-ukraine-war-sanctions-war-g20-.html",
-        "published": "Tue, 01 Sep 2026 03:22:56 GMT"
-      },
-      {
-        "title": "Indian Prime Minister Modi asks Putin to end Ukraine war amid U.S. tariff threat on Russian oil",
-        "link": "https://www.cnbc.com/2026/09/01/russia-india-ukraine-war-oil-modi-putin.html",
-        "published": "Tue, 01 Sep 2026 06:23:21 GMT"
+        "title": "How one of the largest investors in student housing is playing this school year",
+        "link": "https://www.cnbc.com/2026/09/01/university-student-housing-investor.html",
+        "published": "Tue, 01 Sep 2026 13:00:40 GMT"
       }
     ]
   }
