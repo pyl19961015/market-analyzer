@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T02:48:43",
+  "generated_at": "2026-09-03T07:44:26",
   "date": "2026-09-03",
   "market_sentiment": {
     "indices": {
@@ -25,8 +25,8 @@
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.2,
-        "pct_change": -6.98
+        "last": 15.26,
+        "pct_change": 0.39
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
@@ -35,18 +35,18 @@
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.45,
-        "pct_change": -0.22
+        "last": 99.26,
+        "pct_change": -0.3
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 91.23,
-        "pct_change": 1.12
+        "last": 90.5,
+        "pct_change": -0.56
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4462.6,
-        "pct_change": 2.64
+        "last": 4473.1,
+        "pct_change": 2.45
       }
     },
     "sectors": {
@@ -111,18 +111,18 @@
     "indices": {
       "Nikkei 225": {
         "symbol": "^N225",
-        "last": 64455.83,
-        "pct_change": 0.2
+        "last": 64214.48,
+        "pct_change": -0.17
       },
       "TOPIX (ETF代理)": {
         "symbol": "1306.T",
-        "last": 429.9,
-        "pct_change": 1.27
+        "last": 427.2,
+        "pct_change": 0.64
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 158.11,
-        "pct_change": -1.3
+        "last": 157.14,
+        "pct_change": -1.91
       }
     }
   },
@@ -193,8 +193,8 @@
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 5685.0,
-        "pct_change": 0.57
+        "last": 5688.0,
+        "pct_change": 0.62
       }
     }
   },
@@ -651,47 +651,52 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "Denny’s rival dining chain files for Chapter 11 bankruptcy",
-        "link": "https://finance.yahoo.com/small-business/articles/denny-rival-dining-chain-files-153300154.html",
-        "published": "2026-09-01T15:33:00Z"
-      },
-      {
-        "title": "Is ConocoPhillips Stock Outperforming the Dow?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/conocophillips-stock-outperforming-dow-145345975.html",
-        "published": "2026-09-01T14:53:45Z"
-      },
-      {
-        "title": "Alphabet (GOOG) Reports Strong Growth Fueled by AI Demand and Cloud Revenue",
-        "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-goog-reports-strong-growth-145316272.html",
-        "published": "2026-09-01T14:53:16Z"
-      },
-      {
-        "title": "Why Analysts Think Sellas Life Sciences Stock Can Gain 150% From Here",
-        "link": "https://finance.yahoo.com/healthcare/articles/why-analysts-think-sellas-life-145203557.html",
-        "published": "2026-09-01T14:52:03Z"
-      },
-      {
-        "title": "Why you should care about rising bond yields",
-        "link": "https://finance.yahoo.com/markets/article/why-you-should-care-about-rising-bond-yields-145851736.html",
-        "published": "2026-09-01T14:58:51Z"
-      },
-      {
         "title": "Costco shuts down key service without notice",
         "link": "https://finance.yahoo.com/markets/stocks/articles/costco-shuts-down-key-no-011218190.html",
         "published": "2026-09-02T01:12:18Z"
       },
       {
-        "title": "Agentforce: Scaling the Next Generation of Salesforce (CRM)",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/agentforce-scaling-next-generation-salesforce-143929637.html",
-        "published": "2026-09-01T14:39:29Z"
+        "title": "Best credit cards with no annual fee (2026)",
+        "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-with-no-annual-fee-204747522.html",
+        "published": "2024-11-25T20:47:47Z"
       },
       {
-        "title": "Lean Hog Prices Are Rebounding. How to Trade Them Here.",
-        "link": "https://finance.yahoo.com/markets/commodities/articles/lean-hog-prices-rebounding-trade-143846918.html",
-        "published": "2026-09-01T14:38:46Z"
+        "title": "The best credit cards (2026): See our picks for the top cash-back, rewards, travel cards, and more",
+        "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-card-202825345.html",
+        "published": "2024-09-12T20:09:33Z"
+      },
+      {
+        "title": "Can you pay rent with a credit card?",
+        "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/can-you-pay-rent-with-a-credit-card-000451795.html",
+        "published": "2024-01-26T22:27:16Z"
+      },
+      {
+        "title": "Best credit cards for shopping on Amazon (2026)",
+        "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-shopping-on-amazon-212142241.html",
+        "published": "2025-11-19T21:21:42Z"
+      },
+      {
+        "title": "How to calculate credit card interest",
+        "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/how-to-calculate-credit-card-interest-222228806.html",
+        "published": "2024-08-08T22:22:28Z"
+      },
+      {
+        "title": "How credit card points can save you hundreds on holiday gifts",
+        "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/redeem-credit-card-points-for-gifts-222743811.html",
+        "published": "2025-11-12T17:29:19Z"
+      },
+      {
+        "title": "Credit card fees explained: 8 types you should know",
+        "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/types-credit-card-fees-144450351.html",
+        "published": "2024-02-27T21:16:06Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "There’s a new record number of 401(k) millionaires as retirement savings hold at all-time highs",
+        "link": "https://www.marketwatch.com/story/theres-a-new-record-number-of-401-k-millionaires-as-retirement-savings-hold-at-all-time-highs-94f2c520?mod=mw_rss_topstories",
+        "published": "Thu, 03 Sep 2026 04:01:00 GMT"
+      },
       {
         "title": "Broadcom’s stock falls despite upbeat earnings, extending a frustrating stretch for investors",
         "link": "https://www.marketwatch.com/story/broadcoms-stock-falls-despite-upbeat-earnings-extending-a-frustrating-stretch-for-investors-81de3f53?mod=mw_rss_topstories",
@@ -726,43 +731,38 @@
         "title": "Palantir’s stock is slumping. Why bond yields and Google may be to blame.",
         "link": "https://www.marketwatch.com/story/why-palantirs-stock-is-suffering-its-worst-slump-since-february-7fb3b289?mod=mw_rss_topstories",
         "published": "Wed, 02 Sep 2026 21:12:00 GMT"
-      },
-      {
-        "title": "How Oracle’s ‘extremely controversial’ stock could more than double from here",
-        "link": "https://www.marketwatch.com/story/how-oracles-extremely-controversial-stock-could-more-than-double-from-here-7bb20331?mod=mw_rss_topstories",
-        "published": "Wed, 02 Sep 2026 21:11:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "Kuwait fends off Iranian attack as Trump says renewed Mideast hostilities will not last 'too long'",
+        "title": "Iran strikes Kuwait as Trump says renewed Mideast hostilities will not last 'too long'",
         "link": "https://www.cnbc.com/2026/09/03/us-iran-war-trump-hormuz-israel-middle-east-europe-kuwait.html",
-        "published": "Thu, 03 Sep 2026 02:32:30 GMT"
+        "published": "Thu, 03 Sep 2026 06:33:19 GMT"
       },
       {
-        "title": "Broadcom delivers strong earnings view as CEO touts growth with AI labs",
-        "link": "https://www.cnbc.com/2026/09/02/broadcom-avgo-q3-earnings-report-2026.html",
-        "published": "Thu, 03 Sep 2026 02:39:48 GMT"
+        "title": "The world appears to be entering a higher-rate era. Here’s who will pay the price",
+        "link": "https://www.cnbc.com/2026/09/03/global-bond-yields-rising-treasuries-jgb-bunds.html",
+        "published": "Thu, 03 Sep 2026 04:20:20 GMT"
       },
       {
-        "title": "Microsoft to start disclosing Azure quarterly revenue as company consolidates business units",
-        "link": "https://www.cnbc.com/2026/09/02/microsoft-to-disclose-azure-revenue-as-part-of-segment-changes.html",
-        "published": "Wed, 02 Sep 2026 22:37:13 GMT"
+        "title": "Dutch central bank moves gold bars out of U.S. and Canada, citing ‘crisis preparedness’",
+        "link": "https://www.cnbc.com/2026/09/03/netherlands-gold-transfer-us-canada-uk.html",
+        "published": "Thu, 03 Sep 2026 07:12:34 GMT"
       },
       {
-        "title": "Stock futures are little changed after major averages snap three-day losing streaks: Live updates",
-        "link": "https://www.cnbc.com/2026/09/02/stock-market-today-live-updates.html",
-        "published": "Thu, 03 Sep 2026 02:17:59 GMT"
+        "title": "Google starts September with AI momentum after longest monthly losing streak in over a decade",
+        "link": "https://www.cnbc.com/2026/09/02/google-starts-september-with-ai-momentum-after-long-losing-streak.html",
+        "published": "Thu, 03 Sep 2026 03:28:07 GMT"
       },
       {
-        "title": "NBA suspends Clippers owner Ballmer for one year in Kawhi Leonard salary cap probe",
-        "link": "https://www.cnbc.com/2026/09/02/nba-suspends-clippers-ballmer-kawhi-leonard-salary-cap.html",
-        "published": "Wed, 02 Sep 2026 22:17:19 GMT"
+        "title": "Trump and Xi are set to meet in DC. Why some China watchers have low expectations",
+        "link": "https://www.cnbc.com/2026/09/02/trump-xi-summit-iran-china-trade-elections.html",
+        "published": "Wed, 02 Sep 2026 22:10:15 GMT"
       },
       {
-        "title": "South Korea's semiconductor exports just tripled year-over-year. Is it too much of a good thing?",
-        "link": "https://www.cnbc.com/2026/09/03/south-korea-semiconductor-exports-surging-concerns.html",
-        "published": "Thu, 03 Sep 2026 01:11:41 GMT"
+        "title": "Shipping stocks at a crossroads amid their best rally in decades",
+        "link": "https://www.cnbc.com/2026/09/03/shipping-hormuz-tankers-earnings-freight-rates-iran-trump-crude-china-stocks.html",
+        "published": "Thu, 03 Sep 2026 04:31:06 GMT"
       },
       {
         "title": "Stocks stumbled out of the gate in September. Use these hedges to guard against volatility, Evercore ISI says",
@@ -770,9 +770,9 @@
         "published": "Wed, 02 Sep 2026 20:20:42 GMT"
       },
       {
-        "title": "G20 tech takeaways: Lutnick pitches adoption of U.S. AI, pushes data center buildout",
-        "link": "https://www.cnbc.com/2026/09/02/g20-innovation-ministerial-live-updates.html",
-        "published": "Wed, 02 Sep 2026 21:46:34 GMT"
+        "title": "South Korea's semiconductor exports just tripled year-over-year. Is it too much of a good thing?",
+        "link": "https://www.cnbc.com/2026/09/03/south-korea-semiconductor-exports-surging-concerns.html",
+        "published": "Thu, 03 Sep 2026 01:11:41 GMT"
       }
     ]
   }
