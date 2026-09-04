@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-09-04T12:15:52",
+  "generated_at": "2026-09-04T16:31:09",
   "date": "2026-09-04",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7747.71,
-        "pct_change": 1.06
+        "last": 7721.99,
+        "pct_change": -0.33
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26584.06,
-        "pct_change": 1.4
+        "last": 26503.22,
+        "pct_change": -0.3
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 53686.11,
-        "pct_change": 1.18
+        "last": null,
+        "pct_change": null
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2968.27,
-        "pct_change": 0.51
+        "last": 2974.31,
+        "pct_change": 0.2
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 14.11,
-        "pct_change": -1.47
+        "last": 14.02,
+        "pct_change": -2.09
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.76,
-        "pct_change": -0.71
+        "last": 4.77,
+        "pct_change": 0.08
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.05,
-        "pct_change": 0.05
+        "last": 99.07,
+        "pct_change": 0.07
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 90.5,
-        "pct_change": -0.88
+        "last": 90.58,
+        "pct_change": -0.79
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4515.7,
-        "pct_change": 0.53
+        "last": 4488.6,
+        "pct_change": -0.07
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 185.97,
-        "pct_change": 1.29
+        "last": 187.2,
+        "pct_change": 0.66
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 58.56,
-        "pct_change": 1.56
+        "last": 58.17,
+        "pct_change": -0.67
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 64.62,
-        "pct_change": -0.74
+        "last": 64.07,
+        "pct_change": -0.84
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 173.26,
-        "pct_change": 0.18
+        "last": 171.85,
+        "pct_change": -0.81
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 116.46,
-        "pct_change": 1.39
+        "last": 114.79,
+        "pct_change": -1.43
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 85.26,
-        "pct_change": -0.32
+        "last": 84.93,
+        "pct_change": -0.39
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 174.56,
-        "pct_change": 1.03
+        "last": 175.17,
+        "pct_change": 0.35
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 43.03,
-        "pct_change": 0.84
+        "last": 43.12,
+        "pct_change": 0.22
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 52.62,
-        "pct_change": -0.62
+        "last": 52.58,
+        "pct_change": -0.08
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.25,
-        "pct_change": 1.19
+        "last": 44.22,
+        "pct_change": -0.06
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 113.38,
-        "pct_change": 0.85
+        "last": 112.22,
+        "pct_change": -1.02
       }
     }
   },
@@ -111,18 +111,18 @@
     "indices": {
       "Nikkei 225": {
         "symbol": "^N225",
-        "last": 65020.94,
-        "pct_change": 1.26
+        "last": 64214.48,
+        "pct_change": -0.17
       },
       "TOPIX (ETF代理)": {
         "symbol": "1306.T",
-        "last": 427.5,
-        "pct_change": 0.07
+        "last": 427.2,
+        "pct_change": 0.64
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 156.2,
-        "pct_change": -1.71
+        "last": 156.08,
+        "pct_change": -1.79
       }
     }
   },
@@ -131,70 +131,70 @@
       "effr": 3.63,
       "target_low": 3.5,
       "target_high": 3.75,
-      "as_of": "2026-09-02"
+      "as_of": "2026-09-03"
     },
     "japan": {
       "yield": 2.966,
       "as_of": "2026-09-03",
       "prev_yield": 3.006
     },
-    "spread_10y": 1.79
+    "spread_10y": 1.8
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 146.0,
-        "pct_change": 1.3
+        "last": 152.08,
+        "pct_change": 4.16
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 328.21,
-        "pct_change": 1.0
+        "last": 320.67,
+        "pct_change": -2.3
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 510.12,
-        "pct_change": 2.68
+        "last": 501.23,
+        "pct_change": -1.74
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 258.9,
-        "pct_change": 1.54
+        "last": 257.22,
+        "pct_change": -0.65
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 342.48,
-        "pct_change": 1.59
+        "last": 338.54,
+        "pct_change": -1.15
       },
       "Meta": {
         "symbol": "META",
-        "last": 610.68,
-        "pct_change": 3.01
+        "last": 613.03,
+        "pct_change": 0.39
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 847.37,
-        "pct_change": -2.67
+        "last": 881.45,
+        "pct_change": 4.02
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 264.41,
-        "pct_change": -1.57
+        "last": 282.7,
+        "pct_change": 6.92
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 158.55,
-        "pct_change": 0.51
+        "last": 82.69,
+        "pct_change": -47.84
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 5591.0,
-        "pct_change": -1.71
+        "last": 5688.0,
+        "pct_change": 0.62
       }
     }
   },
@@ -494,10 +494,24 @@
       "impact": "High",
       "forecast": "4.1%",
       "previous": "4.1%"
+    },
+    {
+      "title": "FOMC Member Goolsbee Speaks",
+      "country": "USD",
+      "date": "2026-09-04T18:00:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
     }
   ],
   "fed_policy": {
     "Press Releases": [
+      {
+        "title": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
+        "published": "Fri, 4 Sep 2026 15:00:00 GMT",
+        "summary": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp."
+      },
       {
         "title": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
         "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm",
@@ -517,16 +531,16 @@
         "summary": "Federal Reserve Board announces approval of application by National Westminster Bank Plc"
       },
       {
-        "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
-        "published": "Thu, 20 Aug 2026 15:00:00 GMT",
-        "summary": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank"
-      },
-      {
         "title": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
         "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
         "published": "Thu, 20 Aug 2026 15:00:00 GMT",
         "summary": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch"
+      },
+      {
+        "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
+        "published": "Thu, 20 Aug 2026 15:00:00 GMT",
+        "summary": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank"
       },
       {
         "title": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
@@ -539,12 +553,6 @@
         "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260813a.htm",
         "published": "Thu, 13 Aug 2026 15:00:00 GMT",
         "summary": "Federal Reserve Board issues enforcement action with former employee of Regions Bank"
-      },
-      {
-        "title": "Federal Reserve Board announces approval of the application by Coastal Bend Bancshares, Inc.",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804c.htm",
-        "published": "Tue, 4 Aug 2026 20:30:00 GMT",
-        "summary": "Federal Reserve Board announces approval of the application by Coastal Bend Bancshares, Inc."
       }
     ],
     "Speeches": [
@@ -651,128 +659,128 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "How to open a high-yield savings account: Step-by-step instructions",
-        "link": "https://finance.yahoo.com/personal-finance/banking/article/how-to-open-high-yield-savings-account-163119432.html",
-        "published": "2023-12-15T22:18:55Z"
+        "title": "IREN Climbs 4% on $2.4B Blue Owl-Led GPU Financing; Cipher Digital Gains 2%",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/iren-climbs-4-2-4b-161248889.html",
+        "published": "2026-09-04T16:12:48Z"
       },
       {
-        "title": "The 5 best debit cards for kids and teens",
-        "link": "https://finance.yahoo.com/personal-finance/banking/article/best-debit-cards-for-kids-and-teens-224825436.html",
-        "published": "2026-09-02T22:48:25Z"
+        "title": "Stocks Fall, Rebound Bullishly; Snowflake, Dell, Tesla, Jobs Report In Focus: Weekly Review",
+        "link": "https://www.investors.com/news/stock-market-falls-rebounds-snowflake-dell-tesla-jobs-report/?src=A00220&yptr=yahoo",
+        "published": "2026-09-04T16:09:17Z"
       },
       {
-        "title": "Wells Fargo Autograph Journey® Card  review: A high-earning card designed for frequent travelers",
-        "link": "https://finance.yahoo.com/personal-finance/credit-cards/review/wells-fargo-autograph-journey-card-review-215134623.html",
-        "published": "2024-09-05T18:26:17Z"
+        "title": "Diesel prices hit an all-time high, pressuring economy ahead of midterms",
+        "link": "https://finance.yahoo.com/markets/article/diesel-prices-hit-an-all-time-high-pressuring-economy-ahead-of-midterms-160135911.html",
+        "published": "2026-09-04T16:01:35Z"
       },
       {
-        "title": "Discover Q3 2026 rewards calendar — Earn 5% cash back at gas stations, on transportation, and at drug stores",
-        "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/discover-rewards-calendar-163005023.html",
-        "published": "2024-09-17T16:30:05Z"
+        "title": "Teva (TEVA) Backed a Bid of Up to $125M in Cash Plus Assumed Liabilities for BioXcel’s Assets. Is Bankruptcy-Sale Risk Worth the At-Home Opportunity?",
+        "link": "https://finance.yahoo.com/healthcare/articles/teva-teva-backed-bid-125m-160126538.html",
+        "published": "2026-09-04T16:01:26Z"
       },
       {
-        "title": "Mortgage rate predictions through the next five years: What buyers can expect",
-        "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rate-predictions-through-the-next-five-years-what-buyers-can-expect-195826935.html",
-        "published": "2025-08-18T19:58:26Z"
+        "title": "Stock Market Today: Dow Sheds 300 Points On Surprise Jobs Report; Nvidia Rises As Tesla Falls (Live Coverage)",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-august-jobs-report-lululemon-lulu/?src=A00220&yptr=yahoo",
+        "published": "2026-09-04T15:50:16Z"
       },
       {
-        "title": "Mushroom penny stock surges 350% for a bizarre reason",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/mushroom-penny-stock-surges-350-000812688.html",
-        "published": "2026-09-03T00:08:12Z"
+        "title": "Zscaler Falls 4% as FY2027 Growth Guidance Overshadows Earnings Beat; CrowdStrike Slips, Palo Alto Holds Steady",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/zscaler-falls-4-fy2027-growth-160650814.html",
+        "published": "2026-09-04T16:06:50Z"
       },
       {
-        "title": "Will the housing market crash in 2026? Numbers look steady",
-        "link": "https://finance.yahoo.com/personal-finance/mortgages/article/will-the-housing-market-crash-in-2026-numbers-look-steady-170038540.html",
-        "published": "2024-07-05T17:00:38Z"
+        "title": "Oracle Stock Climbs Ahead Of Earnings After OpenAI Astra Release",
+        "link": "https://www.investors.com/news/technology/oracle-stock-openai-gpt6-astra/?src=A00220&yptr=yahoo",
+        "published": "2026-09-04T15:42:47Z"
       },
       {
-        "title": "Goldman Sachs and BofA Are Making a Major Stablecoin Bet. Is It Worth Watching?",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/goldman-sachs-bofa-making-major-012845561.html",
-        "published": "2026-09-03T01:28:45Z"
+        "title": "Yen's changing fortunes might finally be spooking the bears",
+        "link": "https://finance.yahoo.com/markets/currencies/articles/analysis-yens-changing-fortunes-might-073818401.html",
+        "published": "2026-09-04T15:38:08Z"
       }
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "Volkswagen’s stock gets boost from plan to double job cuts to 100,000",
-        "link": "https://www.marketwatch.com/story/volkswagens-stock-gets-boost-from-plan-to-double-job-cuts-to-100-000-9b01e664?mod=mw_rss_topstories",
-        "published": "Fri, 04 Sep 2026 11:53:00 GMT"
+        "title": "Think of Nvidia’s $13 billion deal for Hugging Face as a form of ‘health insurance’",
+        "link": "https://www.marketwatch.com/story/think-of-nvidias-13-billion-deal-for-hugging-face-as-a-form-of-health-insurance-04c37535?mod=mw_rss_topstories",
+        "published": "Fri, 04 Sep 2026 16:19:00 GMT"
       },
       {
-        "title": "These stocks in the red-hot healthcare sector have gotten too crowded to own",
-        "link": "https://www.marketwatch.com/story/these-stocks-in-the-red-hot-healthcare-sector-have-gotten-too-crowded-to-own-b4b2e0bc?mod=mw_rss_topstories",
-        "published": "Fri, 04 Sep 2026 11:52:00 GMT"
+        "title": "Here’s how people are building their nest eggs using ‘rent and invest’ strategies",
+        "link": "https://www.marketwatch.com/story/heres-how-people-are-building-their-nest-eggs-using-rent-and-invest-strategies-253b069e?mod=mw_rss_topstories",
+        "published": "Fri, 04 Sep 2026 15:57:00 GMT"
+      },
+      {
+        "title": "Jobs and Iran add to Trump’s midterm headaches. Why that’s good for bonds and bad for energy stocks.",
+        "link": "https://www.marketwatch.com/story/jobs-and-iran-add-to-trumps-midterm-headaches-why-thats-good-for-bonds-and-bad-for-energy-stocks-551cb765?mod=mw_rss_topstories",
+        "published": "Fri, 04 Sep 2026 15:48:00 GMT"
+      },
+      {
+        "title": "S&P 500 changes are coming soon. These stocks could be named to the index today.",
+        "link": "https://www.marketwatch.com/story/s-p-500-changes-are-coming-soon-these-stocks-could-be-named-to-the-index-today-2d0d7c14?mod=mw_rss_topstories",
+        "published": "Fri, 04 Sep 2026 15:39:00 GMT"
+      },
+      {
+        "title": "Rising interest rates pose a major threat to stock prices and other assets",
+        "link": "https://www.marketwatch.com/story/rising-interest-rates-pose-a-major-threat-to-stock-prices-and-other-assets-0f9f3208?mod=mw_rss_topstories",
+        "published": "Fri, 04 Sep 2026 15:05:00 GMT"
+      },
+      {
+        "title": "A Democratic midterm sweep could make bonds the fourth-quarter contrarian play, says B. of A.’s Hartnett",
+        "link": "https://www.marketwatch.com/story/a-democratic-midterm-sweep-could-make-bonds-the-fourth-quarter-contrarian-play-says-b-of-a-s-hartnett-badfa59c?mod=mw_rss_topstories",
+        "published": "Fri, 04 Sep 2026 14:53:00 GMT"
+      },
+      {
+        "title": "Adobe just announced its next CEO. Here’s why its stock is dropping.",
+        "link": "https://www.marketwatch.com/story/adobe-just-announced-its-next-ceo-heres-why-its-stock-is-dropping-bad9ed8a?mod=mw_rss_topstories",
+        "published": "Fri, 04 Sep 2026 13:42:00 GMT"
       },
       {
         "title": "Six reasons that the risk of a stock-market selloff is rising. Here’s what investors should be doing.",
         "link": "https://www.marketwatch.com/story/six-reasons-that-the-risk-of-a-stock-market-selloff-is-rising-heres-what-investors-should-be-doing-4c3d84ec?mod=mw_rss_topstories",
-        "published": "Fri, 04 Sep 2026 11:32:00 GMT"
-      },
-      {
-        "title": "Governments keep trying to calm global markets. Why that should worry investors.",
-        "link": "https://www.marketwatch.com/story/governments-keep-trying-to-calm-global-markets-why-that-should-worry-investors-e7f93d62?mod=mw_rss_topstories",
-        "published": "Fri, 04 Sep 2026 11:27:00 GMT"
-      },
-      {
-        "title": "Potential midterm-election chaos can roil markets. Here’s one trader’s play.",
-        "link": "https://www.marketwatch.com/story/potential-midterm-election-chaos-can-roil-markets-heres-one-traders-play-73a02966?mod=mw_rss_topstories",
-        "published": "Fri, 04 Sep 2026 11:21:00 GMT"
-      },
-      {
-        "title": "Will a data center hurt your home’s value? Research says no. Sellers disagree.",
-        "link": "https://www.marketwatch.com/story/will-a-data-center-hurt-your-homes-value-research-says-no-sellers-disagree-7017ace4?mod=mw_rss_topstories",
-        "published": "Fri, 04 Sep 2026 11:00:00 GMT"
-      },
-      {
-        "title": "Apple possessed the ultimate stock-market superpower under Tim Cook. Can its new CEO step up?",
-        "link": "https://www.marketwatch.com/story/apple-possessed-the-ultimate-stock-market-superpower-under-tim-cook-can-its-new-ceo-step-up-4e2a4d5a?mod=mw_rss_topstories",
-        "published": "Fri, 04 Sep 2026 11:00:00 GMT"
-      },
-      {
-        "title": "My wife and I are in our 70s. Should we move to California and take on a bigger mortgage to be near our kids?",
-        "link": "https://www.marketwatch.com/story/my-wife-and-i-are-in-our-70s-should-we-move-to-california-and-take-on-a-bigger-mortgage-to-be-near-our-kids-1d619084?mod=mw_rss_topstories",
-        "published": "Fri, 04 Sep 2026 10:15:00 GMT"
+        "published": "Fri, 04 Sep 2026 13:30:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "The big August jobs report is due out Friday. Here's what to expect for what has been a jobless summer",
-        "link": "https://www.cnbc.com/2026/09/03/august-2026-jobs-report-payrolls.html",
-        "published": "Thu, 03 Sep 2026 19:38:09 GMT"
+        "title": "U.S. payrolls rose 162,000 in August, much more than expected; unemployment rate at 4.1%",
+        "link": "https://www.cnbc.com/2026/09/04/jobs-report-august-2026.html",
+        "published": "Fri, 04 Sep 2026 14:19:02 GMT"
+      },
+      {
+        "title": "Trump tells Fed to slash rates or he'll end trade with countries with U.S. surpluses",
+        "link": "https://www.cnbc.com/2026/09/04/trump-fed-rates-jobs-trade.html",
+        "published": "Fri, 04 Sep 2026 16:08:11 GMT"
       },
       {
         "title": "World's biggest sovereign wealth fund plans to cut U.S. Treasury holdings",
         "link": "https://www.cnbc.com/2026/09/04/worlds-biggest-sovereign-wealth-fund-plans-to-cut-treasury-holdings.html",
-        "published": "Fri, 04 Sep 2026 11:38:19 GMT"
+        "published": "Fri, 04 Sep 2026 12:22:09 GMT"
       },
       {
-        "title": "U.S. 'Economic Outcast’ operation gains momentum as EU joins sanctions; South Korea weighs military backing",
-        "link": "https://www.cnbc.com/2026/09/04/us-iran-war-trump-hormuz-operation-economic-outcast-sanctions-campaign.html",
-        "published": "Fri, 04 Sep 2026 11:40:23 GMT"
+        "title": "Dow falls 300 points after much stronger-than-expected jobs report: Live updates",
+        "link": "https://www.cnbc.com/2026/09/03/stock-market-today-live-updates.html",
+        "published": "Fri, 04 Sep 2026 15:57:47 GMT"
       },
       {
-        "title": "Stocks making the biggest moves premarket: AMC, USA Rare Earth, Lululemon, Adobe & more",
-        "link": "https://www.cnbc.com/2026/09/04/stocks-making-the-biggest-moves-premarket-.html",
-        "published": "Fri, 04 Sep 2026 12:04:29 GMT"
+        "title": "Stocks making the biggest moves midday: Sandisk, Tesla, Lululemon, Quanex, AMC & more",
+        "link": "https://www.cnbc.com/2026/09/04/stocks-making-the-biggest-moves-midday-sndk-tsla-nx-amc.html",
+        "published": "Fri, 04 Sep 2026 16:00:44 GMT"
       },
       {
-        "title": "Here are Friday's biggest analyst calls: Nvidia, Tesla, Apple, Robinhood, Oracle, PulteGroup & more",
-        "link": "https://www.cnbc.com/2026/09/04/friday-biggest-calls-on-wall-street-like-nvidia.html",
-        "published": "Fri, 04 Sep 2026 12:03:03 GMT"
+        "title": "Use this SpaceX options strategy to play the next Starship flight, set for Sept. 15, Jeff Kilburg says",
+        "link": "https://www.cnbc.com/2026/09/04/use-this-spacex-options-strategy-to-play-the-next-starship-flight.html",
+        "published": "Fri, 04 Sep 2026 15:45:15 GMT"
       },
       {
-        "title": "Global bond sell-off likely not over yet, Mohamed El-Erian tells CNBC",
-        "link": "https://www.cnbc.com/2026/09/04/el-erian-government-bond-selloff.html",
-        "published": "Fri, 04 Sep 2026 07:41:48 GMT"
+        "title": "WBNA Commissioner Cathy Engelbert to retire at the end of 2026",
+        "link": "https://www.cnbc.com/2026/09/04/wbna-commissioner-cathy-engelbert-to-retire-at-the-end-of-2026-.html",
+        "published": "Fri, 04 Sep 2026 15:56:07 GMT"
       },
       {
-        "title": "Argentina's Milei escalates Falklands dispute as Trump questions U.S. support for Britain",
-        "link": "https://www.cnbc.com/2026/09/04/argentina-milei-falklands-oil-uk-trump.html",
-        "published": "Fri, 04 Sep 2026 07:50:49 GMT"
-      },
-      {
-        "title": "Why Nvidia's 'defensive move' to acquire Hugging Face is about much more than chips",
-        "link": "https://www.cnbc.com/2026/09/04/nvidia-hugging-face-deal-chips.html",
-        "published": "Fri, 04 Sep 2026 11:31:30 GMT"
+        "title": "Analysis: Lower Treasury yields could require a weaker economy. Trump won't fix them",
+        "link": "https://www.cnbc.com/2026/09/04/treasury-bonds-yield-trump-ai-mortgage-rates-analysis.html",
+        "published": "Fri, 04 Sep 2026 14:07:24 GMT"
       }
     ]
   }
