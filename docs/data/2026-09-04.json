@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-09-04T19:08:28",
+  "generated_at": "2026-09-04T21:27:52",
   "date": "2026-09-04",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7712.3,
-        "pct_change": -0.46
+        "last": 7718.6,
+        "pct_change": -0.38
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26481.92,
-        "pct_change": -0.38
+        "last": 26506.99,
+        "pct_change": -0.29
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 53377.72,
-        "pct_change": -0.57
+        "last": 53414.25,
+        "pct_change": -0.51
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2971.75,
-        "pct_change": 0.12
+        "last": 2975.65,
+        "pct_change": 0.25
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 14.0,
-        "pct_change": -2.23
+        "last": 14.53,
+        "pct_change": 1.47
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
@@ -35,75 +35,75 @@
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.18,
-        "pct_change": 0.18
+        "last": 99.16,
+        "pct_change": 0.16
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 91.59,
-        "pct_change": 0.32
+        "last": 91.22,
+        "pct_change": -0.09
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4471.5,
-        "pct_change": -0.45
+        "last": 4477.2,
+        "pct_change": -0.32
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 186.71,
-        "pct_change": 0.4
+        "last": 187.28,
+        "pct_change": 0.7
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 58.13,
-        "pct_change": -0.73
+        "last": 58.1,
+        "pct_change": -0.79
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 63.99,
-        "pct_change": -0.98
+        "last": 64.06,
+        "pct_change": -0.87
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 171.4,
-        "pct_change": -1.07
+        "last": 171.45,
+        "pct_change": -1.04
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 114.95,
-        "pct_change": -1.3
+        "last": 114.91,
+        "pct_change": -1.33
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 84.65,
-        "pct_change": -0.72
+        "last": 84.58,
+        "pct_change": -0.8
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 175.0,
-        "pct_change": 0.25
+        "last": 175.27,
+        "pct_change": 0.41
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 42.98,
-        "pct_change": -0.12
+        "last": 43.08,
+        "pct_change": 0.12
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 52.42,
-        "pct_change": -0.39
+        "last": 52.44,
+        "pct_change": -0.34
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 43.99,
-        "pct_change": -0.6
+        "last": 43.93,
+        "pct_change": -0.72
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 112.29,
-        "pct_change": -0.97
+        "last": 112.03,
+        "pct_change": -1.19
       }
     }
   },
@@ -121,7 +121,7 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 156.23,
+        "last": 156.22,
         "pct_change": -1.7
       }
     }
@@ -144,57 +144,57 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 152.16,
-        "pct_change": 4.22
+        "last": 154.3,
+        "pct_change": 5.68
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 321.73,
-        "pct_change": -1.97
+        "last": 319.97,
+        "pct_change": -2.51
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 499.97,
-        "pct_change": -1.99
+        "last": 499.7,
+        "pct_change": -2.04
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 258.05,
-        "pct_change": -0.33
+        "last": 258.51,
+        "pct_change": -0.15
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 339.02,
-        "pct_change": -1.01
+        "last": 338.46,
+        "pct_change": -1.17
       },
       "Meta": {
         "symbol": "META",
-        "last": 615.0,
-        "pct_change": 0.71
+        "last": 616.77,
+        "pct_change": 1.0
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 874.09,
-        "pct_change": 3.15
+        "last": 881.26,
+        "pct_change": 4.0
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 278.36,
-        "pct_change": 5.28
+        "last": 281.86,
+        "pct_change": 6.6
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 82.84,
-        "pct_change": -47.75
+        "last": 82.78,
+        "pct_change": -47.79
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 5688.0,
-        "pct_change": 0.62
+        "last": 5591.0,
+        "pct_change": -1.71
       }
     }
   },
@@ -651,103 +651,108 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "Poundland owner seeks sale of retailer “within weeks” – report",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/poundland-owner-seeks-sale-retailer-090926553.html",
-        "published": "2026-09-03T09:09:26Z"
+        "title": "Robinhood Rallies 11% on Price Target Hikes, Webull Climbs 7%, Interactive Brokers Gains 4%",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/robinhood-rallies-11-price-target-140310283.html",
+        "published": "2026-09-03T14:03:10Z"
       },
       {
-        "title": "nCino (NCNO): Banking Software Stock Quietly Rewriting Its Growth Story",
-        "link": "https://finance.yahoo.com/technology/ai/articles/ncino-ncno-banking-software-stock-090420917.html",
-        "published": "2026-09-03T09:04:20Z"
+        "title": "Bitcoin-Gold Correlation Hits Six-Year High",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-gold-correlation-hits-six-135500399.html",
+        "published": "2026-09-03T13:55:00Z"
       },
       {
-        "title": "HEICO Corp. (HEI): Record Profits And Bold Bets Power Aerospace Supplier’s Surge",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/heico-corp-hei-record-profits-091725883.html",
-        "published": "2026-09-03T09:17:25Z"
+        "title": "Snowflake Earnings Beat. Why Snowflake's AI Product Strategy Is Jelling.",
+        "link": "https://www.investors.com/news/technology/snowflake-stock-snow-snowflake-earnings-news-july26/?src=A00220&yptr=yahoo",
+        "published": "2026-09-03T13:59:20Z"
       },
       {
-        "title": "Fidelity: 769,000 savers have $1 million or more in their 401(k)",
-        "link": "https://finance.yahoo.com/economy/article/fidelity-769000-savers-have-1-million-or-more-in-their-401k-090000462.html",
-        "published": "2026-09-03T09:00:00Z"
+        "title": "Kraken Parent Company Payward Delays IPO",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/kraken-parent-company-payward-delays-135300700.html",
+        "published": "2026-09-03T13:53:00Z"
       },
       {
-        "title": "Can I Retire at 62 With $500k in a Roth IRA and $2,000 in Monthly Income?",
-        "link": "https://finance.yahoo.com/markets/options/articles/500k-roth-ira-receive-combined-113000490.html",
-        "published": "2026-09-03T09:00:00Z"
+        "title": "EUR/USD, USD/CAD, USD/CHF Forecast: Dollar Faces NFP Risk",
+        "link": "https://finance.yahoo.com/markets/currencies/articles/eur-usd-usd-cad-usd-135518084.html",
+        "published": "2026-09-03T13:55:18Z"
       },
       {
-        "title": "B HODL Stock Surges 67% in a Month on MicroStrategy Bitcoin Playbook",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/b-hodl-stock-surges-67-091148044.html",
-        "published": "2026-09-03T09:11:48Z"
+        "title": "Palantir Expands PwC Strategic Alliance to Scale Enterprise AI Across Core Business Operations",
+        "link": "https://finance.yahoo.com/technology/ai/articles/palantir-expands-pwc-strategic-alliance-140039965.html",
+        "published": "2026-09-03T14:00:39Z"
       },
       {
-        "title": "Box (BOX) Turns Enterprise Files Into AI Fuel",
-        "link": "https://finance.yahoo.com/technology/ai/articles/box-box-turns-enterprise-files-091016434.html",
-        "published": "2026-09-03T09:10:16Z"
+        "title": "Down 15% in the Past 2 Months, Texas Instruments (TXN) Stock Could be Due for a Comeback",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/down-15-past-2-months-135039938.html",
+        "published": "2026-09-03T13:50:39Z"
       },
       {
-        "title": "A Profit Collapse Masks Qfin’s (QFIN) Bigger AI Ambitions",
-        "link": "https://finance.yahoo.com/technology/ai/articles/profit-collapse-masks-qfin-qfin-092531452.html",
-        "published": "2026-09-03T09:25:31Z"
+        "title": "Is Synopsys Stock Underperforming the Nasdaq?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/synopsys-stock-underperforming-nasdaq-134710497.html",
+        "published": "2026-09-03T13:47:10Z"
       }
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "‘I feel tricked’: My contractor handed my $42,000 pool upgrade to a subcontractor I had already rejected. What can I do?",
-        "link": "https://www.marketwatch.com/story/my-contractor-handed-my-42-000-pool-upgrade-to-a-subcontractor-i-had-already-rejected-what-can-i-do-dce41b2b?mod=mw_rss_topstories",
-        "published": "Fri, 04 Sep 2026 19:00:00 GMT"
+        "title": "Tesla’s stock falls as Cybercab launch lands with a thud",
+        "link": "https://www.marketwatch.com/story/teslas-stock-falls-as-cybercab-launch-lands-with-a-thud-1108376b?mod=mw_rss_topstories",
+        "published": "Fri, 04 Sep 2026 20:18:00 GMT"
       },
       {
-        "title": "Trump’s latest threat — to stop trading with some countries unless there’s a rate cut — risks shock to U.S. economy",
-        "link": "https://www.marketwatch.com/story/trumps-threat-to-stop-trade-unless-theres-a-rate-cut-risks-shock-to-u-s-economy-2e6b9798?mod=mw_rss_topstories",
-        "published": "Fri, 04 Sep 2026 18:59:00 GMT"
+        "title": "Micron is doubling down on AI memory chips. That could pay off big time for investors.",
+        "link": "https://www.marketwatch.com/story/micron-is-doubling-down-on-ai-memory-chips-that-could-pay-off-big-time-for-investors-da9e7f5e?mod=mw_rss_topstories",
+        "published": "Fri, 04 Sep 2026 20:12:00 GMT"
       },
       {
-        "title": "‘I currently give him $1,000 a month’: My grandson has severe mental illness. How do I protect him after I’m gone?",
-        "link": "https://www.marketwatch.com/story/im-desperately-trying-to-plan-ahead-im-leaving-everything-to-my-grandson-who-has-severe-mental-illness-how-can-i-protect-him-d8df2646?mod=mw_rss_topstories",
-        "published": "Fri, 04 Sep 2026 18:45:00 GMT"
+        "title": "Will a data center hurt your home’s value? Research says no. Sellers disagree.",
+        "link": "https://www.marketwatch.com/story/will-a-data-center-hurt-your-homes-value-research-says-no-sellers-disagree-7017ace4?mod=mw_rss_topstories",
+        "published": "Fri, 04 Sep 2026 20:03:00 GMT"
       },
       {
-        "title": "Why the jobs report will actually be good for bonds",
-        "link": "https://www.marketwatch.com/story/why-the-jobs-report-will-actually-be-good-for-bonds-eb062fda?mod=mw_rss_topstories",
-        "published": "Fri, 04 Sep 2026 18:36:00 GMT"
+        "title": "Here’s what’s worth streaming in September 2026 on Netflix, Hulu, HBO Max and more",
+        "link": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-september-2026-on-netflix-hulu-hbo-max-and-more-a702e7dd?mod=mw_rss_topstories",
+        "published": "Fri, 04 Sep 2026 20:00:00 GMT"
       },
       {
-        "title": "‘Please don’t let this happen to you’: My best friend died without a will — her neglectful family gets everything",
-        "link": "https://www.marketwatch.com/story/please-dont-let-this-happen-to-you-my-best-friend-died-without-a-will-her-neglectful-family-gets-everything-a4e6753e?mod=mw_rss_topstories",
-        "published": "Fri, 04 Sep 2026 18:01:00 GMT"
+        "title": "Why Oracle’s stock looks like a compelling buy ahead of earnings",
+        "link": "https://www.marketwatch.com/story/why-oracles-stock-looks-like-a-compelling-buy-ahead-of-earnings-12a04d7b?mod=mw_rss_topstories",
+        "published": "Fri, 04 Sep 2026 19:59:00 GMT"
       },
       {
-        "title": "‘It’s not fair’: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
-        "link": "https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780?mod=mw_rss_topstories",
-        "published": "Fri, 04 Sep 2026 18:00:00 GMT"
+        "title": "There’s a new record number of 401(k) millionaires as retirement savings hold at all-time highs",
+        "link": "https://www.marketwatch.com/story/theres-a-new-record-number-of-401-k-millionaires-as-retirement-savings-hold-at-all-time-highs-94f2c520?mod=mw_rss_topstories",
+        "published": "Fri, 04 Sep 2026 19:52:00 GMT"
       },
       {
-        "title": "My wife and I are in our 70s. Should we move to California and take on a bigger mortgage to be near our kids?",
-        "link": "https://www.marketwatch.com/story/my-wife-and-i-are-in-our-70s-should-we-move-to-california-and-take-on-a-bigger-mortgage-to-be-near-our-kids-1d619084?mod=mw_rss_topstories",
-        "published": "Fri, 04 Sep 2026 17:30:00 GMT"
+        "title": "I’m 68. Should I spend half my 401(k) to buy a home with a mortgage?",
+        "link": "https://www.marketwatch.com/story/im-68-should-i-spend-half-my-401-k-to-buy-a-home-with-a-mortgage-285e5ada?mod=mw_rss_topstories",
+        "published": "Fri, 04 Sep 2026 19:52:00 GMT"
       },
       {
-        "title": "‘I didn’t know what I didn’t know’: I thought I’d have to depend on Social Security. Then I taught myself how to invest.",
-        "link": "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
-        "published": "Fri, 04 Sep 2026 17:15:00 GMT"
+        "title": "Maybe the snowbirds are right? One state dominates this list of best places to retire.",
+        "link": "https://www.marketwatch.com/story/maybe-the-snowbirds-are-right-one-state-dominates-this-list-of-best-places-to-retire-ab506160?mod=mw_rss_topstories",
+        "published": "Fri, 04 Sep 2026 19:51:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
         "title": "Trump doubles down on threat to halt trade with top partners unless Fed cuts rates",
         "link": "https://www.cnbc.com/2026/09/04/trump-fed-rates-jobs-trade.html",
-        "published": "Fri, 04 Sep 2026 19:05:49 GMT"
+        "published": "Fri, 04 Sep 2026 19:48:08 GMT"
       },
       {
-        "title": "Tesla's stock drops as Cybercab update 'underwhelms' Wall Street",
+        "title": "Tesla's stock drops 6% as Cybercab update 'underwhelms' Wall Street",
         "link": "https://www.cnbc.com/2026/09/04/teslas-stock-drops-as-cybercab-update-underwhelms-nhtsa-probe.html",
-        "published": "Fri, 04 Sep 2026 17:33:08 GMT"
+        "published": "Fri, 04 Sep 2026 20:06:13 GMT"
       },
       {
         "title": "Longtime Fox News host Maria Bartiromo disputes reports of termination",
         "link": "https://www.cnbc.com/2026/09/04/maria-bartiromo-fox-news-termination.html",
-        "published": "Fri, 04 Sep 2026 18:37:56 GMT"
+        "published": "Fri, 04 Sep 2026 20:17:13 GMT"
+      },
+      {
+        "title": "Dow tumbles more than 260 points after strong jobs report reignites rate hike fears: Live updates",
+        "link": "https://www.cnbc.com/2026/09/03/stock-market-today-live-updates.html",
+        "published": "Fri, 04 Sep 2026 20:16:09 GMT"
       },
       {
         "title": "World's biggest sovereign wealth fund plans to cut U.S. Treasury holdings",
@@ -755,24 +760,19 @@
         "published": "Fri, 04 Sep 2026 12:22:09 GMT"
       },
       {
-        "title": "Women accounted for almost all of job gains in August. Here's why",
-        "link": "https://www.cnbc.com/2026/09/04/jobs-report-women-payrolls.html",
-        "published": "Fri, 04 Sep 2026 18:27:39 GMT"
+        "title": "Investors zero in on August inflation data in the week ahead after yields spike to levels not seen in years",
+        "link": "https://www.cnbc.com/2026/09/04/august-inflation-data-takes-center-stage-in-the-week-ahead.html",
+        "published": "Fri, 04 Sep 2026 20:10:39 GMT"
       },
       {
-        "title": "Tesla shares are falling after Cybercab event. What analysts are saying",
-        "link": "https://www.cnbc.com/2026/09/04/tesla-shares-are-falling-after-cybercab-event-what-analysts-are-saying.html",
-        "published": "Fri, 04 Sep 2026 17:30:01 GMT"
+        "title": "Trump says he will spend up to $500 million of 'my money' to help Republicans in midterms",
+        "link": "https://www.cnbc.com/2026/09/04/trump-maga-inc-500-million-republicans-midterm-elections.html",
+        "published": "Fri, 04 Sep 2026 19:57:35 GMT"
       },
       {
-        "title": "U.S. sanctions Turkish bank accused of enabling Iran as Bessent says he 'hopes for' no further bank penalties",
-        "link": "https://www.cnbc.com/2026/09/04/iran-turkey-sanctions-economy-bessent.html",
-        "published": "Fri, 04 Sep 2026 17:34:08 GMT"
-      },
-      {
-        "title": "Diesel hits record high as Ukraine and Iran wars knock out refineries, fueling inflation worries",
-        "link": "https://www.cnbc.com/2026/09/04/diesel-price-record-high-ukraine-iran-inflation.html",
-        "published": "Fri, 04 Sep 2026 15:10:20 GMT"
+        "title": "Judge weighs how to dismiss Reflecting Pool vandalism charge against Olympian",
+        "link": "https://www.cnbc.com/2026/09/04/reflecting-pool-hearn-doj-trump-pirro.html",
+        "published": "Fri, 04 Sep 2026 20:22:09 GMT"
       }
     ]
   }
