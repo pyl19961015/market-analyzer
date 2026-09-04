@@ -1,0 +1,779 @@
+{
+  "generated_at": "2026-09-04T02:46:41",
+  "date": "2026-09-04",
+  "market_sentiment": {
+    "indices": {
+      "S&P 500": {
+        "symbol": "^GSPC",
+        "last": 7747.71,
+        "pct_change": 1.06
+      },
+      "Nasdaq": {
+        "symbol": "^IXIC",
+        "last": 26584.06,
+        "pct_change": 1.4
+      },
+      "Dow Jones": {
+        "symbol": "^DJI",
+        "last": 53686.11,
+        "pct_change": 1.18
+      },
+      "Russell 2000": {
+        "symbol": "^RUT",
+        "last": 2968.27,
+        "pct_change": 0.51
+      },
+      "VIX": {
+        "symbol": "^VIX",
+        "last": 14.32,
+        "pct_change": -5.79
+      },
+      "10Y Treasury Yield": {
+        "symbol": "^TNX",
+        "last": 4.76,
+        "pct_change": -0.71
+      },
+      "US Dollar Index": {
+        "symbol": "DX-Y.NYB",
+        "last": 99.0,
+        "pct_change": -0.57
+      },
+      "Crude Oil WTI": {
+        "symbol": "CL=F",
+        "last": 91.96,
+        "pct_change": 1.04
+      },
+      "Gold": {
+        "symbol": "GC=F",
+        "last": 4518.8,
+        "pct_change": 3.49
+      }
+    },
+    "sectors": {
+      "Technology": {
+        "symbol": "XLK",
+        "last": 185.97,
+        "pct_change": 1.29
+      },
+      "Financials": {
+        "symbol": "XLF",
+        "last": 58.56,
+        "pct_change": 1.56
+      },
+      "Energy": {
+        "symbol": "XLE",
+        "last": 64.62,
+        "pct_change": -0.74
+      },
+      "Health Care": {
+        "symbol": "XLV",
+        "last": 173.26,
+        "pct_change": 0.18
+      },
+      "Consumer Discretionary": {
+        "symbol": "XLY",
+        "last": 116.46,
+        "pct_change": 1.39
+      },
+      "Consumer Staples": {
+        "symbol": "XLP",
+        "last": 85.26,
+        "pct_change": -0.32
+      },
+      "Industrials": {
+        "symbol": "XLI",
+        "last": 174.56,
+        "pct_change": 1.03
+      },
+      "Utilities": {
+        "symbol": "XLU",
+        "last": 43.03,
+        "pct_change": 0.84
+      },
+      "Materials": {
+        "symbol": "XLB",
+        "last": 52.62,
+        "pct_change": -0.62
+      },
+      "Real Estate": {
+        "symbol": "XLRE",
+        "last": 44.25,
+        "pct_change": 1.19
+      },
+      "Communication Services": {
+        "symbol": "XLC",
+        "last": 113.38,
+        "pct_change": 0.85
+      }
+    }
+  },
+  "japan_market": {
+    "indices": {
+      "Nikkei 225": {
+        "symbol": "^N225",
+        "last": 64769.74,
+        "pct_change": 0.86
+      },
+      "TOPIX (ETF代理)": {
+        "symbol": "1306.T",
+        "last": 426.6,
+        "pct_change": -0.14
+      },
+      "USD/JPY": {
+        "symbol": "JPY=X",
+        "last": 155.96,
+        "pct_change": -1.87
+      }
+    }
+  },
+  "rates": {
+    "us": {
+      "effr": 3.63,
+      "target_low": 3.5,
+      "target_high": 3.75,
+      "as_of": "2026-09-02"
+    },
+    "japan": {
+      "yield": 2.966,
+      "as_of": "2026-09-03",
+      "prev_yield": 3.006
+    },
+    "spread_10y": 1.79
+  },
+  "watchlist": {
+    "holdings": {
+      "Corning (持仓)": {
+        "symbol": "GLW",
+        "last": 146.0,
+        "pct_change": 1.3
+      }
+    },
+    "demand_drivers": {
+      "Apple": {
+        "symbol": "AAPL",
+        "last": 328.21,
+        "pct_change": 1.0
+      },
+      "Microsoft": {
+        "symbol": "MSFT",
+        "last": 510.12,
+        "pct_change": 2.68
+      },
+      "Amazon": {
+        "symbol": "AMZN",
+        "last": 258.9,
+        "pct_change": 1.54
+      },
+      "Alphabet": {
+        "symbol": "GOOGL",
+        "last": 342.48,
+        "pct_change": 1.59
+      },
+      "Meta": {
+        "symbol": "META",
+        "last": 610.68,
+        "pct_change": 3.01
+      }
+    },
+    "peers": {
+      "Lumentum": {
+        "symbol": "LITE",
+        "last": 847.37,
+        "pct_change": -2.67
+      },
+      "Coherent": {
+        "symbol": "COHR",
+        "last": 264.41,
+        "pct_change": -1.57
+      },
+      "Amphenol": {
+        "symbol": "APH",
+        "last": 82.07,
+        "pct_change": 2.54
+      },
+      "AGC旭硝子(东京上市)": {
+        "symbol": "5201.T",
+        "last": 5566.0,
+        "pct_change": -2.14
+      }
+    }
+  },
+  "economic_calendar": [
+    {
+      "title": "Prelim Industrial Production m/m",
+      "country": "JPY",
+      "date": "2026-08-30T19:50:00-04:00",
+      "impact": "Low",
+      "forecast": "-0.7%",
+      "previous": "1.3%"
+    },
+    {
+      "title": "Retail Sales y/y",
+      "country": "JPY",
+      "date": "2026-08-30T19:50:00-04:00",
+      "impact": "Low",
+      "forecast": "3.2%",
+      "previous": "0.5%"
+    },
+    {
+      "title": "Housing Starts y/y",
+      "country": "JPY",
+      "date": "2026-08-31T01:00:00-04:00",
+      "impact": "Low",
+      "forecast": "7.5%",
+      "previous": "18.6%"
+    },
+    {
+      "title": "Capital Spending q/y",
+      "country": "JPY",
+      "date": "2026-08-31T19:50:00-04:00",
+      "impact": "Low",
+      "forecast": "-0.2%",
+      "previous": "0.0%"
+    },
+    {
+      "title": "Final Manufacturing PMI",
+      "country": "JPY",
+      "date": "2026-08-31T20:30:00-04:00",
+      "impact": "Low",
+      "forecast": "55.1",
+      "previous": "55.1"
+    },
+    {
+      "title": "10-y Bond Auction",
+      "country": "JPY",
+      "date": "2026-08-31T23:35:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "2.84|2.6"
+    },
+    {
+      "title": "Consumer Confidence",
+      "country": "JPY",
+      "date": "2026-09-01T01:00:00-04:00",
+      "impact": "Low",
+      "forecast": "35.3",
+      "previous": "34.9"
+    },
+    {
+      "title": "FOMC Member Barr Speaks",
+      "country": "USD",
+      "date": "2026-09-01T09:05:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "Final Manufacturing PMI",
+      "country": "USD",
+      "date": "2026-09-01T09:45:00-04:00",
+      "impact": "Low",
+      "forecast": "53.3",
+      "previous": "53.2"
+    },
+    {
+      "title": "ISM Manufacturing PMI",
+      "country": "USD",
+      "date": "2026-09-01T10:00:00-04:00",
+      "impact": "High",
+      "forecast": "55.2",
+      "previous": "55.6"
+    },
+    {
+      "title": "ISM Manufacturing Prices",
+      "country": "USD",
+      "date": "2026-09-01T10:00:00-04:00",
+      "impact": "Medium",
+      "forecast": "70.5",
+      "previous": "71.1"
+    },
+    {
+      "title": "JOLTS Job Openings",
+      "country": "USD",
+      "date": "2026-09-01T10:00:00-04:00",
+      "impact": "Medium",
+      "forecast": "7.33M",
+      "previous": "7.36M"
+    },
+    {
+      "title": "Construction Spending m/m",
+      "country": "USD",
+      "date": "2026-09-01T10:00:00-04:00",
+      "impact": "Low",
+      "forecast": "0.0%",
+      "previous": "-0.1%"
+    },
+    {
+      "title": "RCM/TIPP Economic Optimism",
+      "country": "USD",
+      "date": "2026-09-01T10:04:00-04:00",
+      "impact": "Low",
+      "forecast": "46.2",
+      "previous": "45.1"
+    },
+    {
+      "title": "Omdia Total Vehicle Sales",
+      "country": "USD",
+      "date": "2026-09-01T10:15:00-04:00",
+      "impact": "Low",
+      "forecast": "16.3M",
+      "previous": "16.3M"
+    },
+    {
+      "title": "API Weekly Statistical Bulletin",
+      "country": "USD",
+      "date": "2026-09-01T16:30:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "Monetary Base y/y",
+      "country": "JPY",
+      "date": "2026-09-01T19:50:00-04:00",
+      "impact": "Low",
+      "forecast": "-13.5%",
+      "previous": "-13.8%"
+    },
+    {
+      "title": "ADP Non-Farm Employment Change",
+      "country": "USD",
+      "date": "2026-09-02T08:15:00-04:00",
+      "impact": "Medium",
+      "forecast": "47K",
+      "previous": "44K"
+    },
+    {
+      "title": "Factory Orders m/m",
+      "country": "USD",
+      "date": "2026-09-02T10:00:00-04:00",
+      "impact": "Low",
+      "forecast": "0.7%",
+      "previous": "-0.3%"
+    },
+    {
+      "title": "Crude Oil Inventories",
+      "country": "USD",
+      "date": "2026-09-02T10:30:00-04:00",
+      "impact": "Low",
+      "forecast": "-0.4M",
+      "previous": "0.1M"
+    },
+    {
+      "title": "Beige Book",
+      "country": "USD",
+      "date": "2026-09-02T14:00:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "30-y Bond Auction",
+      "country": "JPY",
+      "date": "2026-09-02T23:35:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "3.94|3.9"
+    },
+    {
+      "title": "Challenger Job Cuts y/y",
+      "country": "USD",
+      "date": "2026-09-03T05:30:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "-46.1%"
+    },
+    {
+      "title": "Unemployment Claims",
+      "country": "USD",
+      "date": "2026-09-03T08:30:00-04:00",
+      "impact": "Medium",
+      "forecast": "205K",
+      "previous": "203K"
+    },
+    {
+      "title": "FOMC Member Waller Speaks",
+      "country": "USD",
+      "date": "2026-09-03T08:30:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "Revised Nonfarm Productivity q/q",
+      "country": "USD",
+      "date": "2026-09-03T08:30:00-04:00",
+      "impact": "Low",
+      "forecast": "1.4%",
+      "previous": "1.4%"
+    },
+    {
+      "title": "Revised Unit Labor Costs q/q",
+      "country": "USD",
+      "date": "2026-09-03T08:30:00-04:00",
+      "impact": "Low",
+      "forecast": "1.3%",
+      "previous": "1.3%"
+    },
+    {
+      "title": "Trade Balance",
+      "country": "USD",
+      "date": "2026-09-03T08:30:00-04:00",
+      "impact": "Low",
+      "forecast": "-89.4B",
+      "previous": "-73.3B"
+    },
+    {
+      "title": "Final Services PMI",
+      "country": "USD",
+      "date": "2026-09-03T09:45:00-04:00",
+      "impact": "Low",
+      "forecast": "56.8",
+      "previous": "56.8"
+    },
+    {
+      "title": "ISM Services PMI",
+      "country": "USD",
+      "date": "2026-09-03T10:00:00-04:00",
+      "impact": "Medium",
+      "forecast": "54.2",
+      "previous": "54.1"
+    },
+    {
+      "title": "Natural Gas Storage",
+      "country": "USD",
+      "date": "2026-09-03T10:30:00-04:00",
+      "impact": "Low",
+      "forecast": "30B",
+      "previous": "15B"
+    },
+    {
+      "title": "FOMC Member Hammack Speaks",
+      "country": "USD",
+      "date": "2026-09-03T15:00:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "FOMC Member Goolsbee Speaks",
+      "country": "USD",
+      "date": "2026-09-03T15:55:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "Household Spending y/y",
+      "country": "JPY",
+      "date": "2026-09-03T19:30:00-04:00",
+      "impact": "Low",
+      "forecast": "-1.6%",
+      "previous": "-3.3%"
+    },
+    {
+      "title": "Average Hourly Earnings m/m",
+      "country": "USD",
+      "date": "2026-09-04T08:30:00-04:00",
+      "impact": "High",
+      "forecast": "0.3%",
+      "previous": "0.1%"
+    },
+    {
+      "title": "Non-Farm Employment Change",
+      "country": "USD",
+      "date": "2026-09-04T08:30:00-04:00",
+      "impact": "High",
+      "forecast": "55K",
+      "previous": "-23K"
+    },
+    {
+      "title": "Unemployment Rate",
+      "country": "USD",
+      "date": "2026-09-04T08:30:00-04:00",
+      "impact": "High",
+      "forecast": "4.1%",
+      "previous": "4.1%"
+    }
+  ],
+  "fed_policy": {
+    "Press Releases": [
+      {
+        "title": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm",
+        "published": "Thu, 27 Aug 2026 15:00:00 GMT",
+        "summary": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico"
+      },
+      {
+        "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
+        "published": "Tue, 25 Aug 2026 18:00:00 GMT",
+        "summary": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026"
+      },
+      {
+        "title": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm",
+        "published": "Thu, 20 Aug 2026 20:00:00 GMT",
+        "summary": "Federal Reserve Board announces approval of application by National Westminster Bank Plc"
+      },
+      {
+        "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
+        "published": "Thu, 20 Aug 2026 15:00:00 GMT",
+        "summary": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank"
+      },
+      {
+        "title": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
+        "published": "Thu, 20 Aug 2026 15:00:00 GMT",
+        "summary": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch"
+      },
+      {
+        "title": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
+        "published": "Wed, 19 Aug 2026 18:00:00 GMT",
+        "summary": "Minutes of the Federal Open Market Committee, July 28–29, 2026"
+      },
+      {
+        "title": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260813a.htm",
+        "published": "Thu, 13 Aug 2026 15:00:00 GMT",
+        "summary": "Federal Reserve Board issues enforcement action with former employee of Regions Bank"
+      },
+      {
+        "title": "Federal Reserve Board announces approval of the application by Coastal Bend Bancshares, Inc.",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804c.htm",
+        "published": "Tue, 4 Aug 2026 20:30:00 GMT",
+        "summary": "Federal Reserve Board announces approval of the application by Coastal Bend Bancshares, Inc."
+      }
+    ],
+    "Speeches": [
+      {
+        "title": "Waller, The Economic Outlook and Some Comments on My Policy Communication",
+        "link": "https://www.federalreserve.gov/newsevents/speech/waller20260903a.htm",
+        "published": "Thu, 3 Sep 2026 12:30:00 GMT",
+        "summary": "Speech At Reuters NEXT Newsmaker Interview, Washington, D.C."
+      },
+      {
+        "title": "Barr, Unlocking Opportunities for Workers and Entrepreneurs with a Criminal Record",
+        "link": "https://www.federalreserve.gov/newsevents/speech/barr20260901a.htm",
+        "published": "Tue, 1 Sep 2026 13:05:00 GMT",
+        "summary": "Speech At the Second-Chance Lending Forum, Developing Evidence-Based Policy on Creditworthiness and Criminal History, Washington, D.C."
+      },
+      {
+        "title": "Warsh, In Our Time",
+        "link": "https://www.federalreserve.gov/newsevents/speech/warsh20260828a.htm",
+        "published": "Fri, 28 Aug 2026 14:00:00 GMT",
+        "summary": "Speech At “Financial Innovation: Implications for Payments and Policy,” an economic policy symposium sponsored by the Federal Reserve Bank of Kansas City, Jackson Hole, Wyoming"
+      },
+      {
+        "title": "Cook, Outlook for the U.S. and Alaskan Economies",
+        "link": "https://www.federalreserve.gov/newsevents/speech/cook20260805a.htm",
+        "published": "Wed, 5 Aug 2026 20:05:00 GMT",
+        "summary": "Speech At the 2026 Economic Luncheon of the Anchorage Economic Development Corporation, Anchorage, Alaska"
+      },
+      {
+        "title": "Jefferson, Navigating Economic Shocks: A Monetary Policymaker’s Perspective",
+        "link": "https://www.federalreserve.gov/newsevents/speech/jefferson20260716a.htm",
+        "published": "Thu, 16 Jul 2026 23:00:00 GMT",
+        "summary": "Speech At the Stanford Institute for Economic Policy Research, Stanford University, Stanford, California"
+      },
+      {
+        "title": "Cook, Economic Outlook",
+        "link": "https://www.federalreserve.gov/newsevents/speech/cook20260715a.htm",
+        "published": "Wed, 15 Jul 2026 17:00:00 GMT",
+        "summary": "Speech At The Exchequer Club of Washington D.C., Washington, D.C."
+      },
+      {
+        "title": "Bowman, Responsible Innovation and Financial Inclusion",
+        "link": "https://www.federalreserve.gov/newsevents/speech/bowman20260714a.htm",
+        "published": "Tue, 14 Jul 2026 18:55:00 GMT",
+        "summary": "Speech At “Next-Gen Financial Inclusion,” the third annual Financial Inclusion Conference hosted by the Federal Reserve Board, Washington, D.C. (via pre-recorded video)"
+      },
+      {
+        "title": "Barr, Will Artificial Intelligence Broadly Raise Living Standards or Drive Income and Wealth Inequality?",
+        "link": "https://www.federalreserve.gov/newsevents/speech/barr20260714a.htm",
+        "published": "Tue, 14 Jul 2026 16:40:00 GMT",
+        "summary": "Speech At “Next-Gen Financial Inclusion,” the third annual Financial Inclusion Conference hosted by the Federal Reserve Board"
+      }
+    ],
+    "FOMC Press Releases": [
+      {
+        "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
+        "published": "Tue, 25 Aug 2026 18:00:00 GMT",
+        "summary": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026"
+      },
+      {
+        "title": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
+        "published": "Wed, 19 Aug 2026 18:00:00 GMT",
+        "summary": "Minutes of the Federal Open Market Committee, July 28–29, 2026"
+      },
+      {
+        "title": "Federal Reserve issues FOMC statement",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
+        "published": "Wed, 29 Jul 2026 18:00:00 GMT",
+        "summary": "Federal Reserve issues FOMC statement"
+      },
+      {
+        "title": "Minutes of the Board's discount rate meetings on June 8 and June 17, 2026",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260714a.htm",
+        "published": "Tue, 14 Jul 2026 18:00:00 GMT",
+        "summary": "Minutes of the Board's discount rate meetings on June 8 and June 17, 2026"
+      },
+      {
+        "title": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
+        "published": "Thu, 9 Jul 2026 19:00:00 GMT",
+        "summary": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy"
+      },
+      {
+        "title": "Minutes of the Federal Open Market Committee, June 16-17, 2026",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm",
+        "published": "Wed, 8 Jul 2026 18:00:00 GMT",
+        "summary": "Minutes of the Federal Open Market Committee, June 16-17, 2026"
+      },
+      {
+        "title": "Federal Reserve issues FOMC statement",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm",
+        "published": "Wed, 17 Jun 2026 18:00:00 GMT",
+        "summary": "Federal Reserve issues FOMC statement"
+      },
+      {
+        "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617b.htm",
+        "published": "Wed, 17 Jun 2026 18:00:00 GMT",
+        "summary": "Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting"
+      }
+    ]
+  },
+  "news": {
+    "Yahoo Finance": [
+      {
+        "title": "Why you can't find McDonald's $3 value menu",
+        "link": "https://finance.yahoo.com/small-business/articles/mcdonalds-3-menu-problem-hits-231000768.html",
+        "published": "2026-09-02T23:10:00Z"
+      },
+      {
+        "title": "Is the stock market open on Labor Day? Here's the holiday trading schedule for 2026.",
+        "link": "https://finance.yahoo.com/personal-finance/investing/article/is-the-stock-market-open-on-labor-day-heres-the-holiday-trading-schedule-for-2026-210239142.html",
+        "published": "2024-03-25T21:02:39Z"
+      },
+      {
+        "title": "Where credit card balances are highest, and what it says about a K-shaped economy",
+        "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/where-credit-card-balances-are-highest-and-what-it-says-about-a-k-shaped-economy-143144084.html",
+        "published": "2026-09-02T14:31:44Z"
+      },
+      {
+        "title": "What Makes DPC Holdings Limited (DPC) an Attractive Bet?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/makes-dpc-holdings-limited-dpc-143744448.html",
+        "published": "2026-09-02T14:37:44Z"
+      },
+      {
+        "title": "Dollar Erases Early Gains as Crude Oil and T-note Yields Move Lower",
+        "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-erases-early-gains-crude-144301355.html",
+        "published": "2026-09-02T14:43:01Z"
+      },
+      {
+        "title": "What’s Moving  Markets Today?",
+        "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-02-2026/card/what-s-moving-markets-today--0iXNj3ds0dYW1IEpqlpy?siteid=yhoof2&yptr=yahoo",
+        "published": "2026-09-02T14:36:39Z"
+      },
+      {
+        "title": "Nokia Gets Back Into Europe’s VIP Room",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/nokia-gets-back-europe-vip-144541489.html",
+        "published": "2026-09-02T14:45:41Z"
+      },
+      {
+        "title": "Lottomatica Goes All-In on Spanish Rival Cirsa",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/lottomatica-goes-spanish-rival-cirsa-144728742.html",
+        "published": "2026-09-02T14:47:28Z"
+      }
+    ],
+    "MarketWatch Top Stories": [
+      {
+        "title": "Snowflake has a secret weapon that’s powering its stock toward a huge gain",
+        "link": "https://www.marketwatch.com/story/shares-in-snowflake-are-surging-heres-what-wall-street-analysts-are-saying-0b6343c0?mod=mw_rss_topstories",
+        "published": "Fri, 04 Sep 2026 00:35:00 GMT"
+      },
+      {
+        "title": "‘I currently give him $1,000 a month’: My grandson has severe mental illness. How do I protect him after I’m gone?",
+        "link": "https://www.marketwatch.com/story/im-desperately-trying-to-plan-ahead-im-leaving-everything-to-my-grandson-who-has-severe-mental-illness-how-can-i-protect-him-d8df2646?mod=mw_rss_topstories",
+        "published": "Fri, 04 Sep 2026 00:31:00 GMT"
+      },
+      {
+        "title": "Adobe just announced its next CEO. Here’s why its stock is dropping.",
+        "link": "https://www.marketwatch.com/story/adobe-just-announced-its-next-ceo-heres-why-its-stock-is-dropping-bad9ed8a?mod=mw_rss_topstories",
+        "published": "Fri, 04 Sep 2026 00:25:00 GMT"
+      },
+      {
+        "title": "Lululemon bets on ‘away from body’ pants as customers sour on form-fitting leggings",
+        "link": "https://www.marketwatch.com/story/lululemons-sales-drop-raises-deeper-concerns-about-the-companys-turnaround-ddf9256a?mod=mw_rss_topstories",
+        "published": "Fri, 04 Sep 2026 00:24:00 GMT"
+      },
+      {
+        "title": "‘Please don’t let this happen to you’: My best friend died without a will — her neglectful family gets everything",
+        "link": "https://www.marketwatch.com/story/please-dont-let-this-happen-to-you-my-best-friend-died-without-a-will-her-neglectful-family-gets-everything-a4e6753e?mod=mw_rss_topstories",
+        "published": "Fri, 04 Sep 2026 00:00:00 GMT"
+      },
+      {
+        "title": "Tesla investors await updates on Cybercab robotaxi touted as the ‘future of transport’",
+        "link": "https://www.marketwatch.com/story/teslas-stock-is-rallying-as-investors-prepare-for-a-storm-of-cybercabs-c738ac98?mod=mw_rss_topstories",
+        "published": "Thu, 03 Sep 2026 23:45:00 GMT"
+      },
+      {
+        "title": "My wife and I are in our 70s. Should we move to California and take on a bigger mortgage to be near our kids?",
+        "link": "https://www.marketwatch.com/story/my-wife-and-i-are-in-our-70s-should-we-move-to-california-and-take-on-a-bigger-mortgage-to-be-near-our-kids-1d619084?mod=mw_rss_topstories",
+        "published": "Thu, 03 Sep 2026 23:36:00 GMT"
+      },
+      {
+        "title": "Goldfish crackers are getting a makeover as new health trends reshape the snack aisle",
+        "link": "https://www.marketwatch.com/story/goldfish-crackers-are-getting-a-makeover-as-new-health-trends-reshape-the-snack-aisle-32e89644?mod=mw_rss_topstories",
+        "published": "Thu, 03 Sep 2026 21:54:00 GMT"
+      }
+    ],
+    "CNBC Top News": [
+      {
+        "title": "Vance says Fed should lower interest rates: 'Would be nice to have some help'",
+        "link": "https://www.cnbc.com/2026/09/03/vance-fed-interest-rates-trump-bond-yields.html",
+        "published": "Thu, 03 Sep 2026 19:18:59 GMT"
+      },
+      {
+        "title": "The big August jobs report is due out Friday. Here's what to expect for what has been a jobless summer",
+        "link": "https://www.cnbc.com/2026/09/03/august-2026-jobs-report-payrolls.html",
+        "published": "Thu, 03 Sep 2026 19:38:09 GMT"
+      },
+      {
+        "title": "Adobe names Anil Chakravarthy as CEO, replacing Shantanu Narayen",
+        "link": "https://www.cnbc.com/2026/09/03/adobe-anil-chakravarthy-ceo.html",
+        "published": "Thu, 03 Sep 2026 21:59:29 GMT"
+      },
+      {
+        "title": "Lululemon stock plunges 15% on disappointing earnings and outlook",
+        "link": "https://www.cnbc.com/2026/09/03/lululemon-lulu-q2-2026-earnings.html",
+        "published": "Thu, 03 Sep 2026 20:52:03 GMT"
+      },
+      {
+        "title": "Hugging Face approached Nvidia’s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC",
+        "link": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+        "published": "Thu, 03 Sep 2026 16:43:22 GMT"
+      },
+      {
+        "title": "Trading the August jobs report: What could affect the number, and how investors may respond",
+        "link": "https://www.cnbc.com/2026/09/03/trading-jobs-report-what-could-turn-the-number-how-investors-may-respond.html",
+        "published": "Thu, 03 Sep 2026 20:01:11 GMT"
+      },
+      {
+        "title": "A 'shakeout' in early-stage AI may be coming as VC money gets pickier on valuations",
+        "link": "https://www.cnbc.com/2026/09/04/ai-bubble-valuations-venture-capital.html",
+        "published": "Fri, 04 Sep 2026 00:44:33 GMT"
+      },
+      {
+        "title": "South Korea's AI rally is reshaping romance, reality shows and academic preferences",
+        "link": "https://www.cnbc.com/2026/09/04/south-korea-ai-rally-society-impact.html",
+        "published": "Fri, 04 Sep 2026 00:55:30 GMT"
+      }
+    ]
+  }
+}
