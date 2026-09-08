@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-08T02:55:50",
+  "generated_at": "2026-09-08T07:49:34",
   "date": "2026-09-08",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": null,
-        "pct_change": null
+        "last": 7718.6,
+        "pct_change": -0.38
       },
       "Nasdaq": {
         "symbol": "^IXIC",
@@ -25,8 +25,8 @@
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.3,
-        "pct_change": 5.3
+        "last": 15.65,
+        "pct_change": 2.29
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
@@ -35,18 +35,18 @@
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.18,
-        "pct_change": 0.02
+        "last": 98.93,
+        "pct_change": -0.23
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 92.4,
-        "pct_change": 1.01
+        "last": 94.24,
+        "pct_change": 3.02
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4471.3,
-        "pct_change": 0.94
+        "last": 4438.4,
+        "pct_change": 0.19
       }
     },
     "sectors": {
@@ -111,18 +111,18 @@
     "indices": {
       "Nikkei 225": {
         "symbol": "^N225",
-        "last": 66445.13,
-        "pct_change": 0.07
+        "last": 65269.33,
+        "pct_change": -1.7
       },
       "TOPIX (ETF代理)": {
         "symbol": "1306.T",
-        "last": 427.6,
-        "pct_change": -0.58
+        "last": 422.2,
+        "pct_change": -1.84
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 153.27,
-        "pct_change": -1.87
+        "last": 153.91,
+        "pct_change": -1.47
       }
     }
   },
@@ -193,8 +193,8 @@
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 5580.0,
-        "pct_change": -1.59
+        "last": 5452.0,
+        "pct_change": -3.84
       }
     }
   },
@@ -619,51 +619,51 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "Scott Galloway issues grim SpaceX stock price forecast",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/scott-galloway-issues-grim-spacex-173300856.html",
-        "published": "2026-09-06T17:33:00Z"
-      },
-      {
-        "title": "South Korea Just Bet $20 Billion on SK hynix Stock",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/south-korea-just-bet-20-153002546.html",
-        "published": "2026-09-06T15:30:02Z"
-      },
-      {
-        "title": "Mohamed El-Erian says an influx of hyperscaler bonds is competing with U.S. Treasuries — and pushing rates higher",
-        "link": "https://finance.yahoo.com/markets/currencies/articles/mohamed-el-erian-says-influx-153000281.html",
-        "published": "2026-09-06T15:30:00Z"
-      },
-      {
-        "title": "Stock Market Week Ahead: Week Of The Big Bond Scheme",
-        "link": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-week-of-the-big-bond-scheme/?src=A00220&yptr=yahoo",
-        "published": "2026-09-06T15:39:40Z"
-      },
-      {
-        "title": "Bruker (BRKR) Wagers On Fusion Energy While Wall Street Waits",
-        "link": "https://finance.yahoo.com/energy/articles/bruker-brkr-wagers-fusion-energy-144830622.html",
-        "published": "2026-09-06T14:48:30Z"
-      },
-      {
         "title": "Gap closed 350 stores and now has an Old Navy problem",
         "link": "https://finance.yahoo.com/markets/stocks/articles/gap-closed-350-stores-now-233354471.html",
         "published": "2026-09-06T23:33:54Z"
       },
       {
-        "title": "Robinhood’s CEO Says States Are Fighting Prediction Markets to Protect Their Own Gambling Tax Money, ‘There’s a Huge Financial Incentive’",
-        "link": "https://finance.yahoo.com/economy/policy/articles/robinhood-ceo-says-states-fighting-170003929.html",
-        "published": "2026-09-06T17:00:03Z"
+        "title": "How BlackRock (BLK) is Quietly Turning Bitcoin Whales Into Wall Street Clients",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/blackrock-blk-quietly-turning-bitcoin-203223849.html",
+        "published": "2026-09-06T20:32:23Z"
       },
       {
-        "title": "Short Trading Week, CPI and Other Key Things to Watch this Week",
-        "link": "https://finance.yahoo.com/markets/articles/short-trading-week-cpi-other-170003351.html",
-        "published": "2026-09-06T17:00:03Z"
+        "title": "Can Nvidia (NVDA) Prove it Doesn’t Live or Die by a Handful of Hyperscalers?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-prove-doesn-t-202105317.html",
+        "published": "2026-09-06T20:21:05Z"
+      },
+      {
+        "title": "McKesson Bets $2.25 Billion More on Oncology With Precision Medicine Buy",
+        "link": "https://finance.yahoo.com/healthcare/articles/mckesson-bets-2-25-billion-204339450.html",
+        "published": "2026-09-06T20:43:39Z"
+      },
+      {
+        "title": "Musk Moves Up SpaceX (SPCX)’s Orbital Data Center Timeline, Again",
+        "link": "https://finance.yahoo.com/technology/ai/articles/musk-moves-spacex-spcx-orbital-204103387.html",
+        "published": "2026-09-06T20:41:03Z"
+      },
+      {
+        "title": "Loss of Costco deal helps push beverage brand into Chapter 11",
+        "link": "https://finance.yahoo.com/healthcare/articles/loss-costco-deal-helps-push-150700837.html",
+        "published": "2026-09-07T15:07:00Z"
+      },
+      {
+        "title": "Apple (AAPL)’s New Mac Mini and Studio Bet Big on On-Device AI",
+        "link": "https://finance.yahoo.com/technology/ai/articles/apple-aapl-mac-mini-studio-201609665.html",
+        "published": "2026-09-06T20:16:09Z"
+      },
+      {
+        "title": "H.B. Fuller (FUL) Tells Ancora its $1.2 Billion Offer isn’t Enough",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/h-b-fuller-ful-tells-204640998.html",
+        "published": "2026-09-06T20:46:40Z"
       }
     ],
     "MarketWatch Top Stories": [
       {
         "title": "Oil prices climb after reports of Saudi Aramco refinery being hit by Houthi rebels",
         "link": "https://www.marketwatch.com/story/oil-prices-hit-near-seven-week-highs-before-edging-lower-as-iran-plans-to-increase-control-of-hormuz-5070167c?mod=mw_rss_topstories",
-        "published": "Tue, 08 Sep 2026 02:35:00 GMT"
+        "published": "Tue, 08 Sep 2026 03:09:00 GMT"
       },
       {
         "title": "Why does almost nobody want to befriend older people like me — except scammers?",
@@ -703,29 +703,34 @@
     ],
     "CNBC Top News": [
       {
-        "title": "China's imports in August miss estimates as exports pick up pace amid calls for rebalancing trade",
-        "link": "https://www.cnbc.com/2026/09/08/china-exports-imports-august-trade-rebalance-demand-surplus-.html",
-        "published": "Tue, 08 Sep 2026 02:49:24 GMT"
-      },
-      {
         "title": "Iran foreign ministry takes aim at Canada for support of U.S. actions in Strait of Hormuz",
         "link": "https://www.cnbc.com/2026/09/08/us-iran-war-trump-hormuz-canada-trade-talks-greenland.html",
-        "published": "Tue, 08 Sep 2026 01:50:07 GMT"
+        "published": "Tue, 08 Sep 2026 05:29:00 GMT"
+      },
+      {
+        "title": "Cholesterol drug setback casts doubt over multibillion-dollar race",
+        "link": "https://www.cnbc.com/2026/09/08/novartis-cholesterol-setback-drug-race-eli-lilly-amgen.html",
+        "published": "Tue, 08 Sep 2026 05:00:01 GMT"
+      },
+      {
+        "title": "Canada's retaliatory tariffs worth $27.6 billion take effect as trade rift with U.S. deepens",
+        "link": "https://www.cnbc.com/2026/09/08/canada-retaliatory-tariffs.html",
+        "published": "Tue, 08 Sep 2026 07:00:25 GMT"
       },
       {
         "title": "Nvidia supplier Wistron's shares drop after it announces $1.5 billion global stock sale",
         "link": "https://www.cnbc.com/2026/09/08/nvidia-supplier-wistron-share-sale.html",
-        "published": "Tue, 08 Sep 2026 02:44:16 GMT"
+        "published": "Tue, 08 Sep 2026 03:54:54 GMT"
       },
       {
-        "title": "Dow futures fall 300 points to start shortened week as oil prices climb: Live updates",
-        "link": "https://www.cnbc.com/2026/09/07/stock-market-tuesday-live-updates.html",
-        "published": "Tue, 08 Sep 2026 02:27:27 GMT"
+        "title": "Mistral bags $24 billion valuation as Samsung leads funding for Europe's AI champion",
+        "link": "https://www.cnbc.com/2026/09/08/mistral-ai-funding-valuation-samsung.html",
+        "published": "Tue, 08 Sep 2026 07:27:06 GMT"
       },
       {
-        "title": "Oil extends gains as renewed Mideast hostilities raise worries of prolonged conflict",
-        "link": "https://www.cnbc.com/2026/09/08/oil-prices-today-brent-wti-hormuz-iran-war.html",
-        "published": "Tue, 08 Sep 2026 01:42:34 GMT"
+        "title": "Global markets keep shrugging off shocks. Here's what could break that streak, according to HSBC",
+        "link": "https://www.cnbc.com/2026/09/08/global-markets-shrug-off-shocks-hsbc-sees-what-could-break-the-streak.html",
+        "published": "Tue, 08 Sep 2026 04:02:43 GMT"
       },
       {
         "title": "Bombardier points out U.S. footprint after Trump says aerospace giant must build in America",
@@ -733,14 +738,9 @@
         "published": "Tue, 08 Sep 2026 02:05:30 GMT"
       },
       {
-        "title": "Crashed Amazon cargo jet struck two vehicles, ended up 1,300 feet past runway, NTSB says",
-        "link": "https://www.cnbc.com/2026/09/07/crashed-amazon-cargo-jet-struck-two-vehicles-ended-up-1300-feet-past-runway-ntsb-says.html",
-        "published": "Mon, 07 Sep 2026 21:36:12 GMT"
-      },
-      {
-        "title": "SpaceX rival launches rocket in historic first, says industry is 'desperate' for more",
-        "link": "https://www.cnbc.com/2026/09/07/isar-aerospace-spacex-rival-rocket-launch.html",
-        "published": "Mon, 07 Sep 2026 12:26:40 GMT"
+        "title": "China's imports in August miss estimates as calls for rebalancing trade grow",
+        "link": "https://www.cnbc.com/2026/09/08/china-exports-imports-august-trade-rebalance-demand-surplus-.html",
+        "published": "Tue, 08 Sep 2026 04:45:07 GMT"
       }
     ]
   }
