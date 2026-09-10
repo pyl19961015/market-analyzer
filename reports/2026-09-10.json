@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-09-10T12:40:38",
+  "generated_at": "2026-09-10T16:40:51",
   "date": "2026-09-10",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7636.36,
-        "pct_change": -0.48
+        "last": 7595.3,
+        "pct_change": -0.54
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26253.34,
-        "pct_change": -0.64
+        "last": 26108.9,
+        "pct_change": -0.55
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 52380.66,
-        "pct_change": -0.77
+        "last": 52068.82,
+        "pct_change": -0.6
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2921.24,
-        "pct_change": -1.32
+        "last": 2897.13,
+        "pct_change": -0.83
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 17.07,
-        "pct_change": 3.71
+        "last": 17.74,
+        "pct_change": 7.78
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.88,
-        "pct_change": 0.95
+        "last": 4.92,
+        "pct_change": 1.8
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 98.98,
-        "pct_change": 0.21
+        "last": 98.94,
+        "pct_change": 0.18
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 99.85,
-        "pct_change": 3.96
+        "last": 101.73,
+        "pct_change": 5.91
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4403.8,
-        "pct_change": -0.28
+        "last": 4404.3,
+        "pct_change": -0.26
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 187.87,
-        "pct_change": 0.0
+        "last": 185.48,
+        "pct_change": -1.27
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 57.06,
-        "pct_change": -0.42
+        "last": 56.87,
+        "pct_change": -0.33
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 65.31,
-        "pct_change": 0.83
+        "last": 65.12,
+        "pct_change": -0.28
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 166.58,
-        "pct_change": -0.33
+        "last": 165.91,
+        "pct_change": -0.4
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 112.46,
-        "pct_change": -1.34
+        "last": 112.35,
+        "pct_change": -0.1
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 83.05,
-        "pct_change": -1.15
+        "last": 83.36,
+        "pct_change": 0.37
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 171.79,
-        "pct_change": -1.51
+        "last": 170.41,
+        "pct_change": -0.8
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 42.94,
-        "pct_change": -1.17
+        "last": 42.67,
+        "pct_change": -0.64
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 51.39,
-        "pct_change": -1.06
+        "last": 50.74,
+        "pct_change": -1.27
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 43.41,
-        "pct_change": -1.12
+        "last": 43.16,
+        "pct_change": -0.58
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 110.83,
-        "pct_change": -0.62
+        "last": 111.4,
+        "pct_change": 0.51
       }
     }
   },
@@ -111,18 +111,18 @@
     "indices": {
       "Nikkei 225": {
         "symbol": "^N225",
-        "last": 65270.95,
-        "pct_change": 0.2
+        "last": 65142.78,
+        "pct_change": -0.19
       },
       "TOPIX (ETF代理)": {
         "symbol": "1306.T",
-        "last": 422.7,
-        "pct_change": 0.31
+        "last": 421.4,
+        "pct_change": -0.19
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 154.49,
-        "pct_change": 0.66
+        "last": 154.34,
+        "pct_change": 0.56
       }
     }
   },
@@ -131,70 +131,70 @@
       "effr": 3.63,
       "target_low": 3.5,
       "target_high": 3.75,
-      "as_of": "2026-09-08"
+      "as_of": "2026-09-09"
     },
     "japan": {
       "yield": 2.891,
       "as_of": "2026-09-09",
       "prev_yield": 2.896
     },
-    "spread_10y": 1.99
+    "spread_10y": 2.03
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 168.46,
-        "pct_change": 1.51
+        "last": 163.74,
+        "pct_change": -2.8
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 315.34,
-        "pct_change": -0.28
+        "last": 323.62,
+        "pct_change": 2.63
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 491.65,
-        "pct_change": -0.47
+        "last": 492.39,
+        "pct_change": 0.15
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 252.4,
-        "pct_change": -1.78
+        "last": 252.39,
+        "pct_change": -0.0
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 330.65,
-        "pct_change": -2.28
+        "last": 330.64,
+        "pct_change": -0.0
       },
       "Meta": {
         "symbol": "META",
-        "last": 653.69,
-        "pct_change": 6.55
+        "last": 649.23,
+        "pct_change": -0.68
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 988.98,
-        "pct_change": 1.07
+        "last": 937.68,
+        "pct_change": -5.19
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 303.48,
-        "pct_change": 0.53
+        "last": 294.74,
+        "pct_change": -2.88
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 81.34,
-        "pct_change": -0.51
+        "last": 79.5,
+        "pct_change": -2.27
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 5532.0,
-        "pct_change": -0.88
+        "last": 5581.0,
+        "pct_change": 2.37
       }
     }
   },
@@ -627,128 +627,128 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "Stock market today: Nasdaq futures sink, Dow and S&P 500 look to snap 3-day losing streak ahead of inflation data",
+        "title": "Stock market today: Dow, S&P 500, Nasdaq extend losses as bond yields jump, oil holds above $100",
         "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-10-dow-sp-500-nasdaq-083717303.html",
         "published": "2026-09-10T08:37:17Z"
       },
       {
-        "title": "Heavy Investment Sustains NVIDIA’s (NVDA) AI Leadership",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/heavy-investment-sustains-nvidia-nvda-122851572.html",
-        "published": "2026-09-10T12:28:51Z"
+        "title": "SpaceX stock rises with data center overhaul, budding UK defense deal in focus",
+        "link": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-rises-with-data-center-overhaul-budding-uk-defense-deal-in-focus-160039841.html",
+        "published": "2026-09-10T16:00:39Z"
       },
       {
-        "title": "Kevin Warsh's Fed strategy risks 'unproductive volatility' in markets: Jan Hatzius",
-        "link": "https://finance.yahoo.com/markets/article/kevin-warshs-fed-strategy-risks-unproductive-volatility-in-markets-jan-hatzius-122727697.html",
-        "published": "2026-09-10T12:27:27Z"
+        "title": "Big Bond Buyback, Decline in Home Sales and More of Today’s Top Money News",
+        "link": "https://finance.yahoo.com/economy/articles/big-bond-buyback-decline-home-162505971.html",
+        "published": "2026-09-10T16:25:05Z"
       },
       {
-        "title": "The AI investment boom won't last forever, Goldman Sachs chief economist Jan Hatzius warns",
-        "link": "https://finance.yahoo.com/markets/article/the-ai-investment-boom-wont-last-forever-goldman-sachs-chief-economist-jan-hatzius-warns-122546159.html",
-        "published": "2026-09-10T12:25:46Z"
+        "title": "Robinhood CEO Vlad Tenev open to burying the hatchet with AMC CEO Adam Aron after public feud",
+        "link": "https://finance.yahoo.com/markets/article/robinhood-ceo-vlad-tenev-open-to-burying-the-hatchet-with-amc-ceo-adam-aron-after-public-feud-162253512.html",
+        "published": "2026-09-10T16:22:53Z"
       },
       {
-        "title": "Nvidia partners with 8 Australian firms for 2GW AI buildout",
-        "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-partners-8-australian-firms-122438874.html",
-        "published": "2026-09-10T12:24:38Z"
+        "title": "Credo (CRDO) Reports 115% Revenue Growth but Lower GAAP Gross Margin. Can AI Connectivity Scale Without Further Margin Compression?",
+        "link": "https://finance.yahoo.com/technology/ai/articles/credo-crdo-reports-115-revenue-162122654.html",
+        "published": "2026-09-10T16:21:22Z"
       },
       {
-        "title": "Gas Turbine And Grid Backlog Powers GE Vernova (GEV)",
-        "link": "https://finance.yahoo.com/energy/articles/gas-turbine-grid-backlog-powers-121945090.html",
-        "published": "2026-09-10T12:19:45Z"
+        "title": "Stock Market Today: Dow Slides As Oil Hits $100; Nvidia Drops Amid News Of Palantir Partnership (Live Coverage)",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-nvidia-chipmaker-tsmc/?src=A00220&yptr=yahoo",
+        "published": "2026-09-10T16:18:15Z"
       },
       {
-        "title": "Lam Research (LRCX) Benefits From Memory Expansion",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/lam-research-lrcx-benefits-memory-121558667.html",
-        "published": "2026-09-10T12:15:58Z"
+        "title": "Mortgage rates just crossed 7%: Mortgage and refinance interest rates today, Thursday, September 10, 2026",
+        "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-just-crossed-7-mortgage-and-refinance-interest-rates-today-thursday-september-10-2026-100000969.html",
+        "published": "2026-09-10T10:00:00Z"
       },
       {
-        "title": "Nasdaq (NDAQ) Completed the Dasseti Acquisition to Deepen eVestment’s Private-Market Capabilities",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-ndaq-completed-dasseti-acquisition-020922677.html",
-        "published": "2026-09-09T02:09:22Z"
+        "title": "Amgen vs. Moderna: Which Healthcare Stock Is a Better Buy in 2026?",
+        "link": "https://finance.yahoo.com/healthcare/articles/amgen-vs-moderna-healthcare-stock-162124362.html",
+        "published": "2026-09-10T16:21:24Z"
       }
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "These are the 10 biggest retirement fears — and what you can do about them",
-        "link": "https://www.marketwatch.com/story/these-are-the-10-biggest-retirement-fears-and-what-you-can-do-about-them-4dde8b9c?mod=mw_rss_topstories",
-        "published": "Thu, 10 Sep 2026 12:35:00 GMT"
+        "title": "Treasury yields surge toward the danger zone for stocks, as inflation pressures heat up",
+        "link": "https://www.marketwatch.com/story/treasury-yields-surge-toward-the-danger-zone-for-stocks-as-inflation-pressures-heat-up-fe0f9aa6?mod=mw_rss_topstories",
+        "published": "Thu, 10 Sep 2026 16:20:00 GMT"
       },
       {
-        "title": "Wholesale inflation stirred up again by Iran war and high oil prices. What does it mean for the Fed?",
-        "link": "https://www.marketwatch.com/story/wholesale-inflation-stirred-up-again-by-iran-conflict-and-higher-oil-prices-3f497534?mod=mw_rss_topstories",
-        "published": "Thu, 10 Sep 2026 12:34:00 GMT"
+        "title": "Renewable-energy mandates are actually bad for consumers. They’re not great for solar stocks, either.",
+        "link": "https://www.marketwatch.com/story/renewable-energy-mandates-are-actually-bad-for-consumers-theyre-not-great-for-solar-stocks-either-bdfa13bb?mod=mw_rss_topstories",
+        "published": "Thu, 10 Sep 2026 15:34:00 GMT"
       },
       {
-        "title": "Investors are missing the good news right in front of them, this Wall Street strategist argues",
-        "link": "https://www.marketwatch.com/story/investors-are-missing-the-good-news-right-in-front-of-them-this-wall-street-strategist-argues-aaf27342?mod=mw_rss_topstories",
-        "published": "Thu, 10 Sep 2026 12:32:00 GMT"
+        "title": "Now’s your chance to make money during the best bond market for yields in decades — if you get over Treasury jitters",
+        "link": "https://www.marketwatch.com/story/nows-your-chance-to-make-money-during-the-best-bond-market-for-yields-in-decades-if-you-get-over-treasury-jitters-4209f805?mod=mw_rss_topstories",
+        "published": "Thu, 10 Sep 2026 15:25:00 GMT"
+      },
+      {
+        "title": "Meta is winning over Wall Street with its new Muse AI agent",
+        "link": "https://www.marketwatch.com/story/meta-is-winning-over-wall-street-with-its-new-muse-ai-agent-0700ca87?mod=mw_rss_topstories",
+        "published": "Thu, 10 Sep 2026 15:23:00 GMT"
+      },
+      {
+        "title": "Derailing the AI train will be surprisingly difficult, according to Bank of America",
+        "link": "https://www.marketwatch.com/story/history-shows-the-bar-to-disrupt-ai-is-surprisingly-high-says-bank-of-america-ddf543d4?mod=mw_rss_topstories",
+        "published": "Thu, 10 Sep 2026 15:13:00 GMT"
       },
       {
         "title": "I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
         "link": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
-        "published": "Thu, 10 Sep 2026 12:15:00 GMT"
+        "published": "Thu, 10 Sep 2026 14:30:00 GMT"
       },
       {
-        "title": "Apple’s stock rises after iPhone reveal. The company is walking a ‘tightrope’ on pricing, say analysts.",
-        "link": "https://www.marketwatch.com/story/apples-stock-rises-after-iphone-reveal-the-company-is-walking-a-tightrope-on-pricing-say-analysts-813898ac?mod=mw_rss_topstories",
-        "published": "Thu, 10 Sep 2026 12:01:00 GMT"
+        "title": "I’m always covering for a lazy employee. How can I deal with him without going crazy?",
+        "link": "https://www.marketwatch.com/story/im-always-covering-for-a-lazy-employee-how-can-i-deal-with-him-without-going-crazy-5070a6f9?mod=mw_rss_topstories",
+        "published": "Thu, 10 Sep 2026 14:27:00 GMT"
       },
       {
-        "title": "With the copper price surfing all-time highs, here’s what one CEO thinks about the sector long term",
-        "link": "https://www.marketwatch.com/story/with-the-copper-price-surfing-all-time-highs-heres-what-one-ceo-thinks-about-the-sector-long-term-0213d051?mod=mw_rss_topstories",
-        "published": "Thu, 10 Sep 2026 11:42:00 GMT"
-      },
-      {
-        "title": "I have two sons. Should I allow one son to build a $400,000 house on my land?",
-        "link": "https://www.marketwatch.com/story/i-have-two-sons-should-i-allow-one-son-to-build-a-400-000-house-on-my-property-im-not-permitted-to-subdivide-the-land-5ec23b62?mod=mw_rss_topstories",
-        "published": "Thu, 10 Sep 2026 11:15:00 GMT"
-      },
-      {
-        "title": "History shows the bar to disrupt AI is surprisingly high, says Bank of America",
-        "link": "https://www.marketwatch.com/story/history-shows-the-bar-to-disrupt-ai-is-surprisingly-high-says-bank-of-america-ddf543d4?mod=mw_rss_topstories",
-        "published": "Thu, 10 Sep 2026 11:01:00 GMT"
+        "title": "‘We fear financial exploitation’: Who will manage our finances if my wife and I become incapacitated?",
+        "link": "https://www.marketwatch.com/story/we-fear-financial-exploitation-who-will-manage-our-finances-if-my-wife-and-i-become-incapacitated-32efc180?mod=mw_rss_topstories",
+        "published": "Thu, 10 Sep 2026 14:15:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "U.S. crude oil tops $100 per barrel as market braces for prolonged Iran war",
-        "link": "https://www.cnbc.com/2026/09/10/iran-us-oil-hormuz-supply-trump-military-brent-wti.html",
-        "published": "Thu, 10 Sep 2026 12:37:32 GMT"
-      },
-      {
-        "title": "Wholesale prices rose 0.4% in August, as expected",
-        "link": "https://www.cnbc.com/2026/09/10/ppi-inflation-report-august-2026.html",
-        "published": "Thu, 10 Sep 2026 12:33:58 GMT"
-      },
-      {
-        "title": "Treasury yields rise to multi-year highs as surging oil outweighs tame inflation report",
-        "link": "https://www.cnbc.com/2026/09/10/us-treasurys-bonds-yield.html",
-        "published": "Thu, 10 Sep 2026 12:39:14 GMT"
-      },
-      {
-        "title": "Macy's posts strong results, raises guidance as turnaround begins to take hold",
-        "link": "https://www.cnbc.com/2026/09/10/macys-m-q2-2026-earnings.html",
-        "published": "Thu, 10 Sep 2026 12:26:57 GMT"
-      },
-      {
-        "title": "Here are Thursday's biggest analyst calls: Nvidia, SpaceX, Tesla, Ferrari, Meta, Apple, AMD, Yum & more",
-        "link": "https://www.cnbc.com/2026/09/10/biggest-analyst-calls-thursday-like-nvidia.html",
-        "published": "Thu, 10 Sep 2026 12:08:21 GMT"
-      },
-      {
-        "title": "Trump promises $5,000 'dividend' to U.S. citizens if Republicans win midterms",
+        "title": "Trump's $1 trillion-plus 'dividend' plan meets immediate bipartisan pushback",
         "link": "https://www.cnbc.com/2026/09/10/trump-dividend-midterms-gop.html",
-        "published": "Thu, 10 Sep 2026 12:15:06 GMT"
+        "published": "Thu, 10 Sep 2026 15:53:41 GMT"
       },
       {
-        "title": "Oracle options are doing something curious heading into earnings",
-        "link": "https://www.cnbc.com/2026/09/10/oracle-options-are-doing-something-curious-heading-into-earnings.html",
-        "published": "Thu, 10 Sep 2026 12:20:51 GMT"
+        "title": "The likelihood of a Fed interest rate hike next week just got a lot higher",
+        "link": "https://www.cnbc.com/2026/09/10/the-likelihood-of-a-fed-interest-rate-hike-next-week-just-got-a-lot-higher.html",
+        "published": "Thu, 10 Sep 2026 14:51:36 GMT"
       },
       {
-        "title": "Coinbase partners with Moov to boost community bank stablecoin capabilities before Clarity vote",
-        "link": "https://www.cnbc.com/2026/09/10/coinbase-clarity-moov-banks-stablecoin.html",
-        "published": "Thu, 10 Sep 2026 12:00:01 GMT"
+        "title": "Kimmel says interview with Senate candidate Talarico won't air on ABC amid FCC threats",
+        "link": "https://www.cnbc.com/2026/09/10/abc-kimmel-talarico-fcc.html",
+        "published": "Thu, 10 Sep 2026 15:45:09 GMT"
+      },
+      {
+        "title": "Stocks retreat as U.S. oil prices top $100, threatening economy: Live updates",
+        "link": "https://www.cnbc.com/2026/09/09/stock-market-today-live-updates.html",
+        "published": "Thu, 10 Sep 2026 16:38:41 GMT"
+      },
+      {
+        "title": "30-year fixed mortgage rate tops 7% for the first time in over a year",
+        "link": "https://www.cnbc.com/2026/09/10/30-year-fixed-mortgage-rate-crosses.html",
+        "published": "Thu, 10 Sep 2026 16:29:28 GMT"
+      },
+      {
+        "title": "Apple makes biggest change to iPhone release cadence in 7 years in Ternus' first showcase as CEO",
+        "link": "https://www.cnbc.com/2026/09/10/apple-makes-biggest-change-to-iphone-release-cadence-in-7-years.html",
+        "published": "Thu, 10 Sep 2026 14:45:52 GMT"
+      },
+      {
+        "title": "Josh Brown says Apple's stock chart just gave you a classic 'tell.' What it means",
+        "link": "https://www.cnbc.com/2026/09/10/josh-brown-says-apples-stock-chart-just-gave-you-a-classic-tell-what-it-means.html",
+        "published": "Thu, 10 Sep 2026 15:23:11 GMT"
+      },
+      {
+        "title": "Pilot pressed on with landing despite warnings in Miami cargo crash, NTSB says",
+        "link": "https://www.cnbc.com/2026/09/10/pilot-pressed-on-despite-warnings-in-miami-cargo-crash-ntsb-says.html",
+        "published": "Thu, 10 Sep 2026 16:14:24 GMT"
       }
     ]
   }
