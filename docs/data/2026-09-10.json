@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T02:56:37",
+  "generated_at": "2026-09-10T07:54:18",
   "date": "2026-09-10",
   "market_sentiment": {
     "indices": {
@@ -10,8 +10,8 @@
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": null,
-        "pct_change": null
+        "last": 26253.34,
+        "pct_change": -0.64
       },
       "Dow Jones": {
         "symbol": "^DJI",
@@ -20,13 +20,13 @@
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2921.23,
+        "last": 2921.24,
         "pct_change": -1.32
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 16.46,
-        "pct_change": 4.71
+        "last": 16.36,
+        "pct_change": -0.61
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
@@ -35,18 +35,18 @@
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 98.76,
-        "pct_change": -0.08
+        "last": 98.73,
+        "pct_change": -0.04
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 96.25,
-        "pct_change": 3.46
+        "last": 96.28,
+        "pct_change": 0.24
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4460.7,
-        "pct_change": 1.52
+        "last": 4452.4,
+        "pct_change": 0.82
       }
     },
     "sectors": {
@@ -111,18 +111,18 @@
     "indices": {
       "Nikkei 225": {
         "symbol": "^N225",
-        "last": 64597.46,
-        "pct_change": -0.84
+        "last": 65270.95,
+        "pct_change": 0.2
       },
       "TOPIX (ETF代理)": {
         "symbol": "1306.T",
-        "last": 420.3,
-        "pct_change": -0.26
+        "last": 422.7,
+        "pct_change": 0.31
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 153.43,
-        "pct_change": -0.03
+        "last": 153.37,
+        "pct_change": -0.07
       }
     }
   },
@@ -193,8 +193,8 @@
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 5488.0,
-        "pct_change": -1.67
+        "last": 5532.0,
+        "pct_change": -0.88
       }
     }
   },
@@ -627,47 +627,57 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "Warren Buffett’s Portfolio Has Half Its Stock Money in Just 3 Names. Here Is What They Are.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-portfolio-half-stock-150917683.html",
-        "published": "2026-09-08T15:09:17Z"
+        "title": "Ink Business Premier Credit Card review: Generous welcome bonus and free employee cards",
+        "link": "https://finance.yahoo.com/personal-finance/credit-cards/review/ink-business-premier-credit-card-review-223741901.html",
+        "published": "2024-10-22T22:37:41Z"
       },
       {
-        "title": "Rubis Turns Expensive Oil Into a Guidance Upgrade",
-        "link": "https://finance.yahoo.com/energy/articles/rubis-turns-expensive-oil-guidance-150910219.html",
-        "published": "2026-09-08T15:09:10Z"
+        "title": "Capital One launches new Venture Business card with limited-time 150,000-mile welcome bonus (expired)",
+        "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/capital-one-venture-business-card-193020902.html",
+        "published": "2026-04-15T19:30:20Z"
       },
       {
-        "title": "Inflation Concerns Weigh on Stocks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/inflation-concerns-weigh-stocks-151229208.html",
-        "published": "2026-09-08T15:12:29Z"
+        "title": "SpaceX Shares to Get a Boost If Nasdaq 100 Increases Weighting",
+        "link": "https://finance.yahoo.com/video/spacex-shares-boost-nasdaq-100-194802021.html",
+        "published": "2026-09-08T19:48:02Z"
       },
       {
-        "title": "‘Are you going to get money back to the American people?’ asks Senator Warren on tariff refund checks. Here’s the answer",
-        "link": "https://finance.yahoo.com/economy/policy/articles/going-money-back-american-people-150500819.html",
-        "published": "2026-09-08T15:05:00Z"
+        "title": "Labor Day Gasoline Just Hit a Record. Here’s What Comes Next",
+        "link": "https://finance.yahoo.com/energy/articles/labor-day-gasoline-just-hit-200000363.html",
+        "published": "2026-09-08T20:00:00Z"
       },
       {
-        "title": "Oil Prices Are Once Again on the Brink of $100",
-        "link": "https://finance.yahoo.com/energy/articles/oil-prices-once-again-brink-151318211.html",
-        "published": "2026-09-08T15:13:18Z"
+        "title": "Stock market today: Dow drops 600 points, S&P 500 and Nasdaq retreat as oil nears $100",
+        "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-8-dow-sp-500-nasdaq-080440338.html",
+        "published": "2026-09-08T08:04:40Z"
       },
       {
-        "title": "Cramer Says It’s Time To Buy The Dip on JNJ",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/cramer-says-time-buy-dip-151012185.html",
-        "published": "2026-09-08T15:10:12Z"
+        "title": "Here's what to do if your bank account application was denied",
+        "link": "https://finance.yahoo.com/personal-finance/banking/article/denied-bank-account-204942472.html",
+        "published": "2024-09-19T20:49:42Z"
       },
       {
-        "title": "Hewlett Packard Enterprise Company (HPE) Jumps on Surging AI Infrastructure Demand",
-        "link": "https://finance.yahoo.com/technology/ai/articles/hewlett-packard-enterprise-company-hpe-150418396.html",
-        "published": "2026-09-08T15:04:18Z"
+        "title": "Robinhood Lands Crypto.com Deal, Underwriting Job For Oura. Goldman Hikes Target.",
+        "link": "https://www.investors.com/news/robinhood-crypto-com-minority-stake-prediction-markets-oura-underwriter-reports-hood-stock-price-target/?src=A00220&yptr=yahoo",
+        "published": "2026-09-08T20:11:45Z"
       },
       {
-        "title": "Is Newmont Stock Outperforming the Nasdaq?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/newmont-stock-outperforming-nasdaq-151356607.html",
-        "published": "2026-09-08T15:13:56Z"
+        "title": "Liberty Latin America Director De Angoitia Buys $10 Million Shares. What Does This Large Purchase Mean for Investors?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/liberty-latin-america-director-angoitia-194801824.html",
+        "published": "2026-09-08T19:48:01Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "With the copper price surfing all-time highs, here’s what one CEO thinks about the sector long term",
+        "link": "https://www.marketwatch.com/story/with-the-copper-price-surfing-all-time-highs-heres-what-one-ceo-thinks-about-the-sector-long-term-0213d051?mod=mw_rss_topstories",
+        "published": "Thu, 10 Sep 2026 07:29:00 GMT"
+      },
+      {
+        "title": "Trump promises $5,000 checks if Republicans win the midterms. He also teased tariff and ‘DOGE’ dividends last year that never came.",
+        "link": "https://www.marketwatch.com/story/trump-promises-5-000-checks-if-republicans-win-the-midterms-but-he-also-promised-tariff-dividends-last-year-that-never-came-d062c602?mod=mw_rss_topstories",
+        "published": "Thu, 10 Sep 2026 03:00:00 GMT"
+      },
       {
         "title": "Hunter Biden memecoin $LAPTOP loses 95% of market value just hours after launch",
         "link": "https://www.marketwatch.com/story/hunter-bidens-memecoin-flops-falling-95-just-hours-after-launch-3e9307d0?mod=mw_rss_topstories",
@@ -697,23 +707,13 @@
         "title": "The bull market’s biggest enemy right now could be Bessent’s interventions",
         "link": "https://www.marketwatch.com/story/the-bull-markets-biggest-enemy-right-now-could-be-bessents-interventions-134bbe78?mod=mw_rss_topstories",
         "published": "Wed, 09 Sep 2026 21:17:00 GMT"
-      },
-      {
-        "title": "‘I’m the executor’: My two siblings and I inherited an IRA. Can we just cash it out?",
-        "link": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
-        "published": "Wed, 09 Sep 2026 21:16:00 GMT"
-      },
-      {
-        "title": "Oil’s surge back above $100 fuels fresh inflation fears at a crucial time for interest rates",
-        "link": "https://www.marketwatch.com/story/brent-crude-reaches-100-as-war-in-iran-intensifies-b73832e2?mod=mw_rss_topstories",
-        "published": "Wed, 09 Sep 2026 20:36:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "Trump says oil and gas prices won't fall until 'right after' midterm election",
-        "link": "https://www.cnbc.com/2026/09/09/trump-oil-gas-prices-midterm-elections.html",
-        "published": "Wed, 09 Sep 2026 19:52:11 GMT"
+        "title": "World’s largest contract chipmaker TSMC sees August revenue surge over 53% to record high",
+        "link": "https://www.cnbc.com/2026/09/10/tsmc-august-revenue-chip-ai.html",
+        "published": "Thu, 10 Sep 2026 06:45:55 GMT"
       },
       {
         "title": "Apple event 2026: Folding iPhone Duo, iPhone 18 Pro, added AI features and more",
@@ -721,14 +721,24 @@
         "published": "Thu, 10 Sep 2026 00:01:17 GMT"
       },
       {
-        "title": "UBS CEO flags investor complacency as geopolitical and economic risks mount",
-        "link": "https://www.cnbc.com/2026/09/10/ubs-ceo-sergio-ermotti-investor-complacency-piling-risks-.html",
-        "published": "Thu, 10 Sep 2026 02:52:55 GMT"
+        "title": "'Saved the day': How China helped keep the lid on oil price surge as Iran war disrupted supplies",
+        "link": "https://www.cnbc.com/2026/09/10/china-crude-oil-iran-hormuz-war-trump-brent-prices-.html",
+        "published": "Thu, 10 Sep 2026 06:23:14 GMT"
       },
       {
-        "title": "Stock futures are little changed as traders brace for wholesale inflation report: Live updates",
-        "link": "https://www.cnbc.com/2026/09/09/stock-market-today-live-updates.html",
-        "published": "Thu, 10 Sep 2026 01:43:32 GMT"
+        "title": "Trump says oil and gas prices won't fall until 'right after' midterm election",
+        "link": "https://www.cnbc.com/2026/09/09/trump-oil-gas-prices-midterm-elections.html",
+        "published": "Wed, 09 Sep 2026 19:52:11 GMT"
+      },
+      {
+        "title": "Coinbase CEO sees U.S. crypto regulation advancing regardless of Clarity Act vote",
+        "link": "https://www.cnbc.com/2026/09/10/coinbase-ceo-brian-armstrongto-us-regulatory-clarity-regardless-of-clarity-act-vote-crypto.html",
+        "published": "Thu, 10 Sep 2026 05:24:52 GMT"
+      },
+      {
+        "title": "UBS CEO flags investor complacency as geopolitical and economic risks mount",
+        "link": "https://www.cnbc.com/2026/09/10/ubs-ceo-sergio-ermotti-investor-complacency-piling-risks-.html",
+        "published": "Thu, 10 Sep 2026 06:02:51 GMT"
       },
       {
         "title": "Experts weigh in as researcher says AI has more than 10% chance of 'killing all humans'",
@@ -736,19 +746,9 @@
         "published": "Wed, 09 Sep 2026 17:43:45 GMT"
       },
       {
-        "title": "Samsung works to draw iPhone users to its foldables even as Apple enters the market",
-        "link": "https://www.cnbc.com/2026/09/10/samsung-tries-to-draw-iphone-users-to-its-foldables-amid-apple-entry.html",
-        "published": "Thu, 10 Sep 2026 02:05:32 GMT"
-      },
-      {
-        "title": "Democratic Sen. John Fetterman makes surprise video appearance at GOP midterm convention",
-        "link": "https://www.cnbc.com/2026/09/09/fetterman-trump-midterm-republican-convention.html",
-        "published": "Wed, 09 Sep 2026 23:56:51 GMT"
-      },
-      {
-        "title": "Barclays raises S&P 500 year-end target, citing 'standout' earnings driven by AI",
-        "link": "https://www.cnbc.com/2026/09/09/barclays-raises-sp-500-year-end-target-citing-standout-earnings-driven-by-ai.html",
-        "published": "Wed, 09 Sep 2026 20:07:51 GMT"
+        "title": "An ECB rate hike is ‘all but certain’ — but investors divided on what comes next",
+        "link": "https://www.cnbc.com/2026/09/10/ecb-interest-rate-hike-lagarde-iran.html",
+        "published": "Thu, 10 Sep 2026 05:00:02 GMT"
       }
     ]
   }
