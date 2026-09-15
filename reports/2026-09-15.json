@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-09-15T18:11:21",
+  "generated_at": "2026-09-15T21:20:43",
   "date": "2026-09-15",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7587.67,
-        "pct_change": -0.42
+        "last": 7585.73,
+        "pct_change": -0.45
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 25996.39,
-        "pct_change": -0.73
+        "last": 25981.57,
+        "pct_change": -0.78
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 52024.93,
-        "pct_change": -0.76
+        "last": 52093.11,
+        "pct_change": -0.63
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2871.93,
-        "pct_change": -0.7
+        "last": 2870.29,
+        "pct_change": -0.76
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 17.56,
-        "pct_change": 2.69
+        "last": 17.2,
+        "pct_change": 0.58
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 5.01,
-        "pct_change": 0.99
+        "last": 5.0,
+        "pct_change": 0.71
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 99.66,
-        "pct_change": 0.2
+        "last": 99.65,
+        "pct_change": 0.19
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 106.46,
-        "pct_change": 5.0
+        "last": 105.48,
+        "pct_change": 4.03
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4335.0,
-        "pct_change": -0.39
+        "last": 4333.4,
+        "pct_change": -0.43
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 183.97,
-        "pct_change": -0.17
+        "last": 183.74,
+        "pct_change": -0.29
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 56.65,
-        "pct_change": -0.66
+        "last": 56.85,
+        "pct_change": -0.32
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 65.96,
-        "pct_change": 2.21
+        "last": 65.93,
+        "pct_change": 2.17
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 167.7,
-        "pct_change": -0.03
+        "last": 167.66,
+        "pct_change": -0.05
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 111.2,
-        "pct_change": -1.46
+        "last": 110.88,
+        "pct_change": -1.75
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 84.01,
-        "pct_change": -0.49
+        "last": 83.73,
+        "pct_change": -0.82
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 169.38,
-        "pct_change": -0.32
+        "last": 168.85,
+        "pct_change": -0.64
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 41.53,
-        "pct_change": -0.7
+        "last": 41.32,
+        "pct_change": -1.2
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 50.72,
-        "pct_change": 0.47
+        "last": 50.73,
+        "pct_change": 0.48
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 43.06,
-        "pct_change": -0.15
+        "last": 43.07,
+        "pct_change": -0.12
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 114.25,
-        "pct_change": -0.71
+        "last": 114.03,
+        "pct_change": -0.9
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 155.15,
-        "pct_change": 1.12
+        "last": 155.1,
+        "pct_change": 1.09
       }
     }
   },
@@ -138,63 +138,63 @@
       "as_of": "2026-09-14",
       "prev_yield": 2.987
     },
-    "spread_10y": 2.02
+    "spread_10y": 2.01
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 143.46,
-        "pct_change": -0.1
+        "last": 143.57,
+        "pct_change": -0.02
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 330.77,
-        "pct_change": -0.7
+        "last": 331.34,
+        "pct_change": -0.52
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 498.04,
-        "pct_change": -1.46
+        "last": 497.12,
+        "pct_change": -1.64
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 248.79,
-        "pct_change": -1.87
+        "last": 248.42,
+        "pct_change": -2.02
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 343.68,
-        "pct_change": -1.63
+        "last": 344.98,
+        "pct_change": -1.26
       },
       "Meta": {
         "symbol": "META",
-        "last": 668.81,
-        "pct_change": 0.48
+        "last": 670.24,
+        "pct_change": 0.7
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 838.2,
-        "pct_change": 0.38
+        "last": 838.96,
+        "pct_change": 0.47
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 270.19,
-        "pct_change": 1.38
+        "last": 271.17,
+        "pct_change": 1.75
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 77.71,
-        "pct_change": -1.08
+        "last": 77.65,
+        "pct_change": -1.15
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 5565.0,
-        "pct_change": 0.51
+        "last": 5528.0,
+        "pct_change": -0.66
       }
     }
   },
@@ -637,24 +637,24 @@
         "published": "2026-09-14T14:07:00Z"
       },
       {
-        "title": "Here’s the minimum net worth you need to be considered ‘upper class’ in your 60s — and the magic step to get you there",
-        "link": "https://finance.yahoo.com/markets/articles/minimum-net-worth-considered-upper-120500252.html",
-        "published": "2026-09-14T09:05:00Z"
+        "title": "LX Pantos Sets Its Sights on Global Logistics Leadership",
+        "link": "https://finance.yahoo.com/small-business/articles/lx-pantos-sets-sights-global-130000075.html",
+        "published": "2026-09-14T13:00:00Z"
       },
       {
-        "title": "7 ‘bad assets’ that could cause you to retire poor in America — how many do you own?",
-        "link": "https://finance.yahoo.com/markets/articles/7-bad-assets-could-cause-090000457.html",
-        "published": "2026-09-14T09:00:00Z"
+        "title": "Amazon's Operating Cash Flow Could Push AMZN Over $314 - What's the Best AMZN Play?",
+        "link": "https://finance.yahoo.com/markets/options/articles/amazons-operating-cash-flow-could-130002375.html",
+        "published": "2026-09-14T13:00:02Z"
       },
       {
-        "title": "This Popular Withdrawal Strategy Could Increase Your Retirement Tax Bill",
-        "link": "https://finance.yahoo.com/news/want-minimize-retirement-taxes-dont-201032317.html",
-        "published": "2026-09-14T09:00:00Z"
+        "title": "Chase Home Lendings' mortgage rate sale returns for a 3-week run",
+        "link": "https://finance.yahoo.com/personal-finance/mortgages/article/chase-home-lendings-mortgage-rate-sale-returns-for-a-3-week-run-130100448.html",
+        "published": "2026-09-14T13:01:00Z"
       },
       {
-        "title": "Middle East Oil Routes Under Pressure as Hormuz Traffic Tumbles",
-        "link": "https://finance.yahoo.com/energy/articles/middle-east-oil-routes-under-091500205.html",
-        "published": "2026-09-14T09:15:00Z"
+        "title": "Garmin Stock: Is GRMN Underperforming the Technology Sector?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/garmin-stock-grmn-underperforming-technology-124945758.html",
+        "published": "2026-09-14T12:49:45Z"
       },
       {
         "title": "How a Costco partner's bankruptcy could benefit its biggest rival",
@@ -662,93 +662,93 @@
         "published": "2026-09-15T13:33:00Z"
       },
       {
-        "title": "The math behind Databricks' $190B price doesn't add up—yet",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/math-behind-databricks-190b-price-084100123.html",
-        "published": "2026-09-14T08:41:00Z"
+        "title": "Corn Slipping Back Early on Monday",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/corn-slipping-back-early-monday-123634575.html",
+        "published": "2026-09-14T12:36:34Z"
       }
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "Stocks have so far survived rising Treasury yields. But that may be about to change.",
-        "link": "https://www.marketwatch.com/story/stocks-have-so-far-survived-rising-treasury-yields-but-that-may-be-about-to-change-b087dbe1?mod=mw_rss_topstories",
-        "published": "Tue, 15 Sep 2026 17:59:00 GMT"
-      },
-      {
         "title": "AI stocks are rebounding. One analyst says there’s no spending slowdown in sight.",
         "link": "https://www.marketwatch.com/story/ai-stocks-are-rebounding-one-analyst-says-theres-no-spending-slowdown-in-sight-8fd99c4b?mod=mw_rss_topstories",
-        "published": "Tue, 15 Sep 2026 17:18:00 GMT"
+        "published": "Tue, 15 Sep 2026 21:15:00 GMT"
       },
       {
-        "title": "Why investors need to learn the difference between uncertainty and risk in today’s market",
-        "link": "https://www.marketwatch.com/story/what-investors-need-to-do-and-mistakes-not-to-make-in-todays-uncertain-world-8eb74333?mod=mw_rss_topstories",
-        "published": "Tue, 15 Sep 2026 17:09:00 GMT"
+        "title": "2 charts showing how oil is becoming the market’s biggest wild card",
+        "link": "https://www.marketwatch.com/story/2-charts-showing-how-oil-is-becoming-the-global-markets-biggest-wild-card-ec273da8?mod=mw_rss_topstories",
+        "published": "Tue, 15 Sep 2026 21:07:00 GMT"
       },
       {
-        "title": "Is the two-decade era of low interest rates over? The Fed has to decide.",
-        "link": "https://www.marketwatch.com/story/is-the-two-decade-era-of-low-interest-rates-over-the-fed-has-to-decide-0520f458?mod=mw_rss_topstories",
-        "published": "Tue, 15 Sep 2026 17:08:00 GMT"
+        "title": "Inflation killed the penny. Now it’s coming for your dollar.",
+        "link": "https://www.marketwatch.com/story/inflation-killed-the-penny-now-its-coming-for-your-dollar-78336cd8?mod=mw_rss_topstories",
+        "published": "Tue, 15 Sep 2026 21:00:00 GMT"
       },
       {
-        "title": "My son has a potentially fatal genetic disease. What should I do with my $1.3 million estate?",
-        "link": "https://www.marketwatch.com/story/he-does-not-have-a-spouse-or-children-my-son-has-a-serious-genetic-disease-what-should-i-do-with-my-1-3-million-estate-98cdccf9?mod=mw_rss_topstories",
-        "published": "Tue, 15 Sep 2026 17:00:00 GMT"
+        "title": "Why a Federal Reserve rate hike could be a ‘rare win’ for your retirement money",
+        "link": "https://www.marketwatch.com/story/why-a-federal-reserve-rate-hike-could-be-a-rare-win-for-your-retirement-money-3ae337df?mod=mw_rss_topstories",
+        "published": "Tue, 15 Sep 2026 20:47:00 GMT"
       },
       {
-        "title": "Institutional investors are dangerously overinvested in stocks",
-        "link": "https://www.marketwatch.com/story/institutional-investors-are-dangerously-overinvested-in-stocks-ea889386?mod=mw_rss_topstories",
-        "published": "Tue, 15 Sep 2026 16:45:00 GMT"
+        "title": "Top Senate Republican floats a diesel export ban as prices soar. It might not work.",
+        "link": "https://www.marketwatch.com/story/top-senate-republican-floats-a-diesel-export-ban-as-prices-soar-it-might-not-work-45966943?mod=mw_rss_topstories",
+        "published": "Tue, 15 Sep 2026 20:36:00 GMT"
       },
       {
-        "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
-        "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
-        "published": "Tue, 15 Sep 2026 16:30:00 GMT"
+        "title": "Oracle’s stock falls for the fifth day in a row — missing out on the AI bounce",
+        "link": "https://www.marketwatch.com/story/oracles-stock-falls-for-the-fifth-day-in-a-row-missing-out-on-the-ai-bounce-9150c9ed?mod=mw_rss_topstories",
+        "published": "Tue, 15 Sep 2026 20:31:00 GMT"
       },
       {
-        "title": "Tech stocks haven’t been this cheap since the launch of ChatGPT. Should you buy in?",
-        "link": "https://www.marketwatch.com/story/tech-stocks-havent-been-this-cheap-since-the-launch-of-chatgpt-should-you-buy-in-ec1044dc?mod=mw_rss_topstories",
-        "published": "Tue, 15 Sep 2026 16:26:00 GMT"
+        "title": "Dow clinches its worst September start since 2008 as history repeats itself",
+        "link": "https://www.marketwatch.com/story/dow-clinches-its-worst-september-start-since-2008-as-history-repeats-itself-57d11f3f?mod=mw_rss_topstories",
+        "published": "Tue, 15 Sep 2026 20:20:00 GMT"
+      },
+      {
+        "title": "Is the shingles vaccine the secret to living longer and delaying dementia? Here’s what the science says.",
+        "link": "https://www.marketwatch.com/story/is-the-shingles-vaccine-the-secret-to-living-longer-and-delaying-dementia-heres-what-the-science-says-1c108c26?mod=mw_rss_topstories",
+        "published": "Tue, 15 Sep 2026 19:54:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "10-year Treasury yield hits highest level since 2007 as traders bet a Fed rate hike is coming",
-        "link": "https://www.cnbc.com/2026/09/15/10-year-treasury-yield-rises-to-highest-since-2007.html",
-        "published": "Tue, 15 Sep 2026 17:33:27 GMT"
+        "title": "Iran war has cost on average $246 million per day in its first five months, CBO finds",
+        "link": "https://www.cnbc.com/2026/09/15/cbo-iran-war-cost-pentagon-weapons.html",
+        "published": "Tue, 15 Sep 2026 20:08:00 GMT"
       },
       {
-        "title": "Judge blocks Kennedy Center board from returning Trump's name to building",
+        "title": "Trump says Kennedy Center will stay closed without renovation unless his name is added back",
         "link": "https://www.cnbc.com/2026/09/15/trump-kennedy-center-name-ruling.html",
-        "published": "Tue, 15 Sep 2026 17:55:15 GMT"
+        "published": "Tue, 15 Sep 2026 21:13:23 GMT"
       },
       {
-        "title": "Saudi pipeline closure is a brief interruption that will last days, U.S. Energy Secretary tells CNBC",
-        "link": "https://www.cnbc.com/2026/09/15/saud-arabia-east-west-pipeline-iran-war-chris-wright.html",
-        "published": "Tue, 15 Sep 2026 17:34:15 GMT"
+        "title": "Senate cloture vote on Clarity Act fails, dealing regulatory blow to crypto industry",
+        "link": "https://www.cnbc.com/2026/09/15/senate-cloture-vote-on-clarity-act-fails-dealing-regulatory-setback-to-crypto-industry.html",
+        "published": "Tue, 15 Sep 2026 20:16:31 GMT"
       },
       {
-        "title": "Stocks drop as 10-year Treasury yield hits 19-year high, crude oil tops $106 a barrel: Live updates",
+        "title": "Stocks post back-to-back losses as oil surges, 10-year yield hits 19-year high: Live updates",
         "link": "https://www.cnbc.com/2026/09/14/stock-market-today-live-updates.html",
-        "published": "Tue, 15 Sep 2026 18:09:42 GMT"
+        "published": "Tue, 15 Sep 2026 20:17:24 GMT"
       },
       {
-        "title": "Trump admin. says private sector can solve AI threats as critics balk",
-        "link": "https://www.cnbc.com/2026/09/15/hassett-ai-trump-government-regulation.html",
-        "published": "Tue, 15 Sep 2026 17:31:17 GMT"
+        "title": "OpenAI CFO Sarah Friar emphasizes 'need to take safety seriously' on AI risks",
+        "link": "https://www.cnbc.com/2026/09/15/open-ai-sarah-friar-safety.html",
+        "published": "Tue, 15 Sep 2026 19:26:35 GMT"
       },
       {
-        "title": "U.S. oil tops $106 as Saudi Arabia reportedly cancels some crude cargoes after pipeline closure",
-        "link": "https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html",
-        "published": "Tue, 15 Sep 2026 18:01:02 GMT"
+        "title": "Americans' incomes rose and poverty fell in 2025, Census Bureau says",
+        "link": "https://www.cnbc.com/2026/09/15/income-poverty-census-fed-interest-rates.html",
+        "published": "Tue, 15 Sep 2026 19:55:21 GMT"
       },
       {
-        "title": "The Fed has to walk a fine line Wednesday. How the stock market may react, according to JPMorgan",
-        "link": "https://www.cnbc.com/2026/09/15/the-fed-has-to-walk-a-fine-line-how-the-stock-market-may-react-per-jpmorgan.html",
-        "published": "Tue, 15 Sep 2026 16:27:36 GMT"
+        "title": "Adjusting capital gains for inflation could prove a mess for individual investors",
+        "link": "https://www.cnbc.com/2026/09/15/adjusting-capital-gains-for-inflation-could-prove-a-mess-for-individual-investors.html",
+        "published": "Tue, 15 Sep 2026 19:48:14 GMT"
       },
       {
-        "title": "AI skeptics convene in Washington to urge action, as Congress, Trump idle",
-        "link": "https://www.cnbc.com/2026/09/15/ai-skeptics-concerns-congress-trump.html",
-        "published": "Tue, 15 Sep 2026 16:58:50 GMT"
+        "title": "Two camps have emerged in the debate over AI safety and regulation",
+        "link": "https://www.cnbc.com/2026/09/15/ai-regulation-trump-nvidia-openai-anthropic.html",
+        "published": "Tue, 15 Sep 2026 20:12:00 GMT"
       }
     ]
   }
