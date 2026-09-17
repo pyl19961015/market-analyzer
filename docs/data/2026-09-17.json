@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T03:16:30",
+  "generated_at": "2026-09-17T08:49:47",
   "date": "2026-09-17",
   "market_sentiment": {
     "indices": {
@@ -10,7 +10,7 @@
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 25978.42,
+        "last": 25978.43,
         "pct_change": -0.01
       },
       "Dow Jones": {
@@ -25,8 +25,8 @@
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 17.71,
-        "pct_change": 2.97
+        "last": 16.17,
+        "pct_change": -8.7
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
@@ -35,18 +35,18 @@
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 100.34,
-        "pct_change": 0.7
+        "last": 100.21,
+        "pct_change": -0.1
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 102.39,
-        "pct_change": -3.25
+        "last": 101.39,
+        "pct_change": -1.02
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4320.9,
-        "pct_change": -0.27
+        "last": 4358.2,
+        "pct_change": -0.67
       }
     },
     "sectors": {
@@ -111,18 +111,18 @@
     "indices": {
       "Nikkei 225": {
         "symbol": "^N225",
-        "last": 63966.87,
-        "pct_change": 0.07
+        "last": 64136.25,
+        "pct_change": 0.33
       },
       "TOPIX (ETF代理)": {
         "symbol": "1306.T",
-        "last": 426.7,
-        "pct_change": 0.66
+        "last": 427.4,
+        "pct_change": 0.83
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 156.07,
-        "pct_change": 0.52
+        "last": 155.76,
+        "pct_change": 0.32
       }
     }
   },
@@ -193,8 +193,8 @@
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 5704.0,
-        "pct_change": 1.86
+        "last": 5716.0,
+        "pct_change": 2.07
       }
     }
   },
@@ -627,47 +627,57 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "Rich Dad Poor Dad author warns biggest crash in history has started",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/rich-dad-poor-dad-author-172603940.html",
-        "published": "2026-09-15T17:26:03Z"
-      },
-      {
-        "title": "Is Dollar Tree Stock Outperforming the S&P 500?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/dollar-tree-stock-outperforming-p-152158824.html",
-        "published": "2026-09-15T15:21:58Z"
-      },
-      {
-        "title": "Seagate Technology (STX): The Primary Beneficiary of the AI Driven HDD Demand",
-        "link": "https://finance.yahoo.com/technology/ai/articles/seagate-technology-stx-primary-beneficiary-152345430.html",
-        "published": "2026-09-15T15:23:45Z"
-      },
-      {
-        "title": "The Fund’s Largest Relative Detractor: Unowned Advanced Micro Devices (AMD)",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/fund-largest-relative-detractor-unowned-152642221.html",
-        "published": "2026-09-15T15:26:42Z"
-      },
-      {
-        "title": "Crude Prices Soar as Global Oil Supplies Continue to Tighten",
-        "link": "https://finance.yahoo.com/energy/articles/crude-prices-soar-global-oil-152716646.html",
-        "published": "2026-09-15T15:27:16Z"
-      },
-      {
         "title": "Mysterious trader moves $122 million ahead of Fed's 2 p.m. decision",
         "link": "https://finance.yahoo.com/markets/crypto/articles/mysterious-trader-moves-122-million-164740089.html",
         "published": "2026-09-16T16:47:40Z"
       },
       {
-        "title": "Western Digital (WDC): The Fund’s Top Relative Contributor",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-wdc-fund-top-151936638.html",
-        "published": "2026-09-15T15:19:36Z"
+        "title": "Fed predictions for 2026: Will a rate hike happen by the end of the year?",
+        "link": "https://finance.yahoo.com/personal-finance/banking/article/fed-rate-predictions-2026-154647304.html",
+        "published": "2024-07-30T15:46:47Z"
       },
       {
-        "title": "Marathon Petroleum Stock Just Hit New Highs, But Oil Price Risks Remain",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-stock-just-hit-153003138.html",
-        "published": "2026-09-15T15:30:03Z"
+        "title": "Will the housing market crash this year?",
+        "link": "https://finance.yahoo.com/personal-finance/mortgages/article/will-the-housing-market-crash-this-year-170038540.html",
+        "published": "2024-07-05T17:00:38Z"
+      },
+      {
+        "title": "Northrop Grumman (NOC) Secures $4.8 Billion Army Contract. Execution Is the Bigger Test",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/northrop-grumman-noc-secures-4-203934378.html",
+        "published": "2026-09-15T20:39:34Z"
+      },
+      {
+        "title": "Stock Market Today: Dow Dives With Fed Seen Doing This; Senate Vote Hits These Crypto Stocks",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-oil-prices-nvidia-stock/?src=A00220&yptr=yahoo",
+        "published": "2026-09-15T20:38:10Z"
+      },
+      {
+        "title": "Boeing vs. Redwire: Which Aerospace Stock Is a Better Buy in 2026?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-vs-redwire-aerospace-stock-203801667.html",
+        "published": "2026-09-15T20:38:01Z"
+      },
+      {
+        "title": "Palantir and Nvidia Emerge as Key Players in Government AI Modernization",
+        "link": "https://finance.yahoo.com/technology/ai/articles/palantir-nvidia-emerge-key-players-204205272.html",
+        "published": "2026-09-15T20:42:05Z"
+      },
+      {
+        "title": "Gold and the U.S. dollar: Why they often move in opposite directions",
+        "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-us-dollar-relationship-204112404.html",
+        "published": "2026-09-15T20:41:12Z"
       }
     ],
     "MarketWatch Top Stories": [
+      {
+        "title": "Tom Lee says the ‘face-ripping’ rally he predicted is merely delayed",
+        "link": "https://www.marketwatch.com/story/tom-lee-says-the-face-ripping-rally-he-predicted-is-merely-delayed-16933e30?mod=mw_rss_topstories",
+        "published": "Thu, 17 Sep 2026 07:50:00 GMT"
+      },
+      {
+        "title": "‘You are freed.’ What happened when an OpenAI model began secretly writing notes to itself.",
+        "link": "https://www.marketwatch.com/story/you-are-freed-what-happened-when-an-openai-model-began-secretly-writing-notes-to-itself-25808ea8?mod=mw_rss_topstories",
+        "published": "Thu, 17 Sep 2026 07:08:00 GMT"
+      },
       {
         "title": "Intel’s stock rises as investors hope memory chips can mark the next step in its turnaround",
         "link": "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
@@ -697,43 +707,18 @@
         "title": "Fed rate hike fails to calm troubled markets as Dow falls 600 points. Expect more sharp swings in stocks and bonds.",
         "link": "https://www.marketwatch.com/story/fed-rate-hike-fails-to-calm-troubled-markets-as-dow-falls-600-points-expect-more-sharp-swings-in-stocks-and-bonds-5ffb55fe?mod=mw_rss_topstories",
         "published": "Wed, 16 Sep 2026 21:40:00 GMT"
-      },
-      {
-        "title": "Why optical stocks Lumentum and Coherent were the day’s biggest S&P 500 gainers",
-        "link": "https://www.marketwatch.com/story/why-optical-stocks-lumentum-and-coherent-were-the-days-biggest-gainers-051af440?mod=mw_rss_topstories",
-        "published": "Wed, 16 Sep 2026 20:52:00 GMT"
-      },
-      {
-        "title": "Here’s a sneaky way to play the Fed’s rate increase",
-        "link": "https://www.marketwatch.com/story/heres-a-sneaky-way-to-play-the-feds-rate-increase-6deb072f?mod=mw_rss_topstories",
-        "published": "Wed, 16 Sep 2026 20:38:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
         "title": "'Hostile act': Trump threatens EU with tariffs over Canada associate-membership proposal",
         "link": "https://www.cnbc.com/2026/09/17/trump-canada-european-union-tariffs-associate-member-ukraine-.html",
-        "published": "Thu, 17 Sep 2026 00:55:35 GMT"
+        "published": "Thu, 17 Sep 2026 05:42:46 GMT"
       },
       {
-        "title": "Fed meeting recap: Warsh says inflation is still too high as Fed hikes for the first time since 2023",
-        "link": "https://www.cnbc.com/2026/09/16/fed-meeting-today-live-updates.html",
-        "published": "Wed, 16 Sep 2026 20:07:18 GMT"
-      },
-      {
-        "title": "House passes sweeping Russia sanctions bill honoring Lindsey Graham, sends to Trump",
-        "link": "https://www.cnbc.com/2026/09/16/russia-sanctions-bill-lindsey-graham-congress.html",
-        "published": "Wed, 16 Sep 2026 22:32:18 GMT"
-      },
-      {
-        "title": "Stock futures rise after Fed's rate hike spurs a market sell-off: Live updates",
-        "link": "https://www.cnbc.com/2026/09/16/stock-market-today-live-updates.html",
-        "published": "Thu, 17 Sep 2026 01:43:50 GMT"
-      },
-      {
-        "title": "Trump says he still has confidence in Fed Chair Warsh, demands 1% or lower interest rates",
-        "link": "https://www.cnbc.com/2026/09/16/trump-fed-interest-rate-warsh.html",
-        "published": "Wed, 16 Sep 2026 23:45:02 GMT"
+        "title": "Putin braces for election stress test as Russians ‘feel the pain’ of struggling economy",
+        "link": "https://www.cnbc.com/2026/09/17/russia-putin-state-duma-election-ukraine-war.html",
+        "published": "Thu, 17 Sep 2026 05:00:01 GMT"
       },
       {
         "title": "Oil extends losses as Saudi Arabia reportedly offers ship-to-ship crude transfers after pipeline hit",
@@ -741,14 +726,29 @@
         "published": "Thu, 17 Sep 2026 02:08:02 GMT"
       },
       {
-        "title": "Now that the Fed raised rates, where to score the best yields on your cash",
-        "link": "https://www.cnbc.com/2026/09/16/now-that-the-fed-raised-rates-where-to-score-the-best-yields-on-your-cash.html",
-        "published": "Wed, 16 Sep 2026 19:39:33 GMT"
+        "title": "Trump says U.S. ‘hopefully’ nearing end of Iran war as Saudi Arabia-Houthis trade strikes",
+        "link": "https://www.cnbc.com/2026/09/17/us-iran-war-trump-hormuz.html",
+        "published": "Thu, 17 Sep 2026 07:56:49 GMT"
       },
       {
-        "title": "House advances bill to rein in AI data center utility costs",
-        "link": "https://www.cnbc.com/2026/09/15/congress-ai-data-center-utility-costs.html",
-        "published": "Thu, 17 Sep 2026 00:08:01 GMT"
+        "title": "A stronger dollar and rising yields: How the Fed’s rate hike could hit global markets",
+        "link": "https://www.cnbc.com/2026/09/17/fed-rate-hike-impact-globally-currency-yields.html",
+        "published": "Thu, 17 Sep 2026 05:03:07 GMT"
+      },
+      {
+        "title": "Bank of England set to defy Fed’s rate-hike lead, despite rising inflation",
+        "link": "https://www.cnbc.com/2026/09/17/bank-of-england-interest-rate-decision-fed-rate-hike-uk-inflation.html",
+        "published": "Thu, 17 Sep 2026 05:20:23 GMT"
+      },
+      {
+        "title": "Investors react to Fed hike and market sell-off: Brace for 'higher for longer' rates",
+        "link": "https://www.cnbc.com/2026/09/16/investors-react-to-fed-hike-market-sell-off-brace-for-higher-rates-for-longer.html",
+        "published": "Wed, 16 Sep 2026 21:22:49 GMT"
+      },
+      {
+        "title": "House passes sweeping Russia sanctions bill honoring Lindsey Graham, sends to Trump",
+        "link": "https://www.cnbc.com/2026/09/16/russia-sanctions-bill-lindsey-graham-congress.html",
+        "published": "Wed, 16 Sep 2026 22:32:18 GMT"
       }
     ]
   }
