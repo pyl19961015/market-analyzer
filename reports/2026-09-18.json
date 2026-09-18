@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-09-18T12:59:08",
+  "generated_at": "2026-09-18T17:01:20",
   "date": "2026-09-18",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7637.76,
-        "pct_change": 1.14
+        "last": 7623.2,
+        "pct_change": -0.19
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26418.3,
-        "pct_change": 1.69
+        "last": 26389.27,
+        "pct_change": -0.11
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 51778.04,
-        "pct_change": 0.61
+        "last": 51586.54,
+        "pct_change": -0.37
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2874.63,
-        "pct_change": 0.55
+        "last": 2849.79,
+        "pct_change": -0.86
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.5,
-        "pct_change": 0.39
+        "last": 15.43,
+        "pct_change": -0.06
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.98,
-        "pct_change": 0.67
+        "last": 5.0,
+        "pct_change": 1.03
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 100.49,
-        "pct_change": 0.27
+        "last": 100.3,
+        "pct_change": 0.08
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 96.77,
-        "pct_change": -5.04
+        "last": 96.09,
+        "pct_change": -5.71
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4407.0,
-        "pct_change": 0.17
+        "last": 4417.1,
+        "pct_change": 0.4
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 188.06,
-        "pct_change": 2.25
+        "last": 187.93,
+        "pct_change": -0.07
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 55.88,
-        "pct_change": -0.09
+        "last": 55.86,
+        "pct_change": -0.04
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 64.48,
-        "pct_change": 0.7
+        "last": 64.35,
+        "pct_change": -0.2
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 168.81,
-        "pct_change": 0.62
+        "last": 168.11,
+        "pct_change": -0.41
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 111.39,
-        "pct_change": 1.1
+        "last": 111.04,
+        "pct_change": -0.31
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 83.49,
-        "pct_change": 0.19
+        "last": 83.17,
+        "pct_change": -0.39
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 169.01,
-        "pct_change": 0.18
+        "last": 168.89,
+        "pct_change": -0.07
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 41.69,
-        "pct_change": 0.9
+        "last": 41.13,
+        "pct_change": -1.33
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 50.71,
-        "pct_change": 0.69
+        "last": 50.08,
+        "pct_change": -1.24
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 42.94,
-        "pct_change": 0.3
+        "last": 42.74,
+        "pct_change": -0.48
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 112.35,
-        "pct_change": -0.58
+        "last": 111.28,
+        "pct_change": -0.95
       }
     }
   },
@@ -111,90 +111,90 @@
     "indices": {
       "Nikkei 225": {
         "symbol": "^N225",
-        "last": 65018.95,
-        "pct_change": 1.38
+        "last": 64136.25,
+        "pct_change": 0.33
       },
       "TOPIX (ETF代理)": {
         "symbol": "1306.T",
-        "last": 426.3,
-        "pct_change": -0.26
+        "last": 427.4,
+        "pct_change": 0.83
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 157.72,
-        "pct_change": 1.1
+        "last": 156.77,
+        "pct_change": 0.49
       }
     }
   },
   "rates": {
     "us": {
-      "effr": 3.63,
-      "target_low": 3.5,
-      "target_high": 3.75,
-      "as_of": "2026-09-16"
+      "effr": 3.88,
+      "target_low": 3.75,
+      "target_high": 4.0,
+      "as_of": "2026-09-17"
     },
     "japan": {
       "yield": 2.993,
       "as_of": "2026-09-17",
       "prev_yield": 2.998
     },
-    "spread_10y": 1.99
+    "spread_10y": 2.01
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 147.8,
-        "pct_change": 2.52
+        "last": 150.71,
+        "pct_change": 1.97
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 337.0,
-        "pct_change": 1.38
+        "last": 334.62,
+        "pct_change": -0.7
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 497.75,
-        "pct_change": 1.52
+        "last": 493.24,
+        "pct_change": -0.91
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 251.19,
-        "pct_change": 2.13
+        "last": 253.48,
+        "pct_change": 0.91
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 347.33,
-        "pct_change": 1.3
+        "last": 349.88,
+        "pct_change": 0.73
       },
       "Meta": {
         "symbol": "META",
-        "last": 682.31,
-        "pct_change": 1.34
+        "last": 669.76,
+        "pct_change": -1.84
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 893.61,
-        "pct_change": -2.81
+        "last": 907.84,
+        "pct_change": 1.59
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 295.98,
-        "pct_change": 2.09
+        "last": 308.62,
+        "pct_change": 4.27
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 78.37,
-        "pct_change": 1.44
+        "last": 78.42,
+        "pct_change": 0.06
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 5646.0,
-        "pct_change": -1.22
+        "last": 5716.0,
+        "pct_change": 2.07
       }
     }
   },
@@ -475,6 +475,18 @@
   "fed_policy": {
     "Press Releases": [
       {
+        "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
+        "published": "Fri, 18 Sep 2026 15:00:00 GMT",
+        "summary": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula"
+      },
+      {
+        "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
+        "published": "Fri, 18 Sep 2026 15:00:00 GMT",
+        "summary": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank"
+      },
+      {
         "title": "Federal Reserve issues FOMC statement",
         "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
         "published": "Wed, 16 Sep 2026 18:00:00 GMT",
@@ -509,21 +521,21 @@
         "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm",
         "published": "Thu, 27 Aug 2026 15:00:00 GMT",
         "summary": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico"
-      },
-      {
-        "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
-        "published": "Tue, 25 Aug 2026 18:00:00 GMT",
-        "summary": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026"
-      },
-      {
-        "title": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm",
-        "published": "Thu, 20 Aug 2026 20:00:00 GMT",
-        "summary": "Federal Reserve Board announces approval of application by National Westminster Bank Plc"
       }
     ],
     "Speeches": [
+      {
+        "title": "Bowman, Initial Findings from Independent Review of Silicon Valley Bank",
+        "link": "https://www.federalreserve.gov/newsevents/speech/bowman20260918b.htm",
+        "published": "Fri, 18 Sep 2026 13:30:00 GMT",
+        "summary": "Speech At the Luncheon of the Lord Mayor City of London at Mansion House, London, United Kingdom"
+      },
+      {
+        "title": "Bowman, The Final Chapter on Modernizing Bank Regulatory Stress Testing",
+        "link": "https://www.federalreserve.gov/newsevents/speech/bowman20260918a.htm",
+        "published": "Fri, 18 Sep 2026 13:30:00 GMT",
+        "summary": "Speech At the Luncheon of the Lord Mayor City of London at Mansion House, London, United Kingdom"
+      },
       {
         "title": "Waller, The Economic Outlook and Some Comments on My Policy Communication",
         "link": "https://www.federalreserve.gov/newsevents/speech/waller20260903a.htm",
@@ -559,18 +571,6 @@
         "link": "https://www.federalreserve.gov/newsevents/speech/cook20260715a.htm",
         "published": "Wed, 15 Jul 2026 17:00:00 GMT",
         "summary": "Speech At The Exchequer Club of Washington D.C., Washington, D.C."
-      },
-      {
-        "title": "Bowman, Responsible Innovation and Financial Inclusion",
-        "link": "https://www.federalreserve.gov/newsevents/speech/bowman20260714a.htm",
-        "published": "Tue, 14 Jul 2026 18:55:00 GMT",
-        "summary": "Speech At “Next-Gen Financial Inclusion,” the third annual Financial Inclusion Conference hosted by the Federal Reserve Board, Washington, D.C. (via pre-recorded video)"
-      },
-      {
-        "title": "Barr, Will Artificial Intelligence Broadly Raise Living Standards or Drive Income and Wealth Inequality?",
-        "link": "https://www.federalreserve.gov/newsevents/speech/barr20260714a.htm",
-        "published": "Tue, 14 Jul 2026 16:40:00 GMT",
-        "summary": "Speech At “Next-Gen Financial Inclusion,” the third annual Financial Inclusion Conference hosted by the Federal Reserve Board"
       }
     ],
     "FOMC Press Releases": [
@@ -627,128 +627,128 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "Fed’s Hawkish Hike to Pressure Asian Currencies, Strategists Say",
-        "link": "https://finance.yahoo.com/markets/currencies/articles/fed-hawkish-hike-pressure-asian-005751615.html",
-        "published": "2026-09-17T00:57:51Z"
+        "title": "Oil Retreat Slows on Saudi Supply Concerns",
+        "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-for-third-day-as-wti-slips-below-100-e533d2fe?siteid=yhoof2&yptr=yahoo",
+        "published": "2026-09-18T16:52:00Z"
       },
       {
-        "title": "AXT Inc. (AXTI) Draws Bullish Analyst Attention — Here’s Why",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/axt-inc-axti-draws-bullish-010252885.html",
-        "published": "2026-09-17T01:02:52Z"
+        "title": "Gilead Strengthens HIV Growth Platform with Expanded Latin America Access",
+        "link": "https://finance.yahoo.com/healthcare/articles/gilead-strengthens-hiv-growth-platform-165122348.html",
+        "published": "2026-09-18T16:51:22Z"
       },
       {
-        "title": "GE Vernova and Vineyard Wind Settle $300M-Plus Offshore Wind Dispute",
-        "link": "https://finance.yahoo.com/energy/articles/ge-vernova-vineyard-wind-settle-024435837.html",
-        "published": "2026-09-17T02:44:35Z"
+        "title": "Truist Reshapes Lending Strategy with $5.5B Auto-Loan Sale",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/truist-reshapes-lending-strategy-5-164856583.html",
+        "published": "2026-09-18T16:48:56Z"
       },
       {
-        "title": "What is the Federal Reserve?",
-        "link": "https://finance.yahoo.com/personal-finance/mortgages/article/what-is-the-federal-reserve-205012702.html",
-        "published": "2024-04-22T20:50:12Z"
+        "title": "JPMorgan Sees Investment Banking and Trading Powering Q3 Growth",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-sees-investment-banking-trading-164740809.html",
+        "published": "2026-09-18T16:47:40Z"
       },
       {
-        "title": "Liberty Global (LBTYA): Can £600M of Proposed Virgin Media O2 Cuts Reduce Debt?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/liberty-global-lbtya-600m-proposed-035730613.html",
-        "published": "2026-09-17T03:57:30Z"
+        "title": "AbbVie’s Dividend Growth Remains Solid Despite a Moderate Yield",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/abbvie-dividend-growth-remains-solid-164620099.html",
+        "published": "2026-09-18T16:46:20Z"
       },
       {
-        "title": "This Ethereum Treasury Company Is Close to Owning 5% of All ETH in Circulation. Does That Make It a Buy?",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/ethereum-treasury-company-close-owning-010100563.html",
-        "published": "2026-09-17T01:01:00Z"
+        "title": "Target rolls out another generous deal to win back customers",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/target-rolls-another-generous-deal-164700546.html",
+        "published": "2026-09-18T16:47:00Z"
       },
       {
-        "title": "Fed Raises Interest Rates for First Time in Three Years as Diesel, Gas Prices Surge",
-        "link": "https://finance.yahoo.com/economy/policy/articles/fed-raises-interest-rates-first-040100694.html",
-        "published": "2026-09-17T04:01:00Z"
+        "title": "Verizon’s Dividend Story: Reliable Income with Gradual Growth",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/verizon-dividend-story-reliable-income-164507682.html",
+        "published": "2026-09-18T16:45:07Z"
       },
       {
-        "title": "AI Won’t Replace Advisors. It May Actually Add More",
-        "link": "https://finance.yahoo.com/technology/ai/articles/ai-won-t-replace-advisors-040200789.html",
-        "published": "2026-09-17T04:02:00Z"
+        "title": "U.S. Bancorp Delivers Another Dividend Increase: Assessing the Payout",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/u-bancorp-delivers-another-dividend-164337595.html",
+        "published": "2026-09-18T16:43:37Z"
       }
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "Why mortgage bonds are set to deteriorate, and possibly hit the whole market, according to this Wall Street expert",
-        "link": "https://www.marketwatch.com/story/why-mortgage-bonds-are-set-to-deteriorate-and-possibly-hit-the-whole-market-according-to-this-wall-street-expert-0dd7f05d?mod=mw_rss_topstories",
-        "published": "Fri, 18 Sep 2026 12:40:00 GMT"
+        "title": "What’s really driving inflation and rising interest rates",
+        "link": "https://www.marketwatch.com/story/whats-really-driving-inflation-and-rising-interest-rates-59a9cd51?mod=mw_rss_topstories",
+        "published": "Fri, 18 Sep 2026 16:50:00 GMT"
       },
       {
-        "title": "Tesla’s upcoming product frenzy could leave investors disappointed",
-        "link": "https://www.marketwatch.com/story/teslas-upcoming-product-frenzy-could-leave-investors-disappointed-18619fb3?mod=mw_rss_topstories",
-        "published": "Fri, 18 Sep 2026 12:34:00 GMT"
+        "title": "Why investors’ best move in reaction to Fed’s rate hike is doing nothing at all",
+        "link": "https://www.marketwatch.com/story/why-investors-best-move-in-reaction-to-feds-rate-hike-is-doing-nothing-at-all-6ff56b4c?mod=mw_rss_topstories",
+        "published": "Fri, 18 Sep 2026 16:39:00 GMT"
       },
       {
-        "title": "Warren Buffett moves further out of the spotlight at Berkshire, as his son is named chairman",
-        "link": "https://www.marketwatch.com/story/warren-buffett-exits-as-berkshire-hathaway-as-his-son-howard-becomes-chairman-095cc4f9?mod=mw_rss_topstories",
-        "published": "Fri, 18 Sep 2026 12:22:00 GMT"
+        "title": "Two signs investors don’t have to fear an AI slowdown",
+        "link": "https://www.marketwatch.com/story/two-signs-investors-dont-have-to-fear-an-ai-slowdown-5ec40948?mod=mw_rss_topstories",
+        "published": "Fri, 18 Sep 2026 16:33:00 GMT"
       },
       {
-        "title": "Wall Street is betting Trump backs down on Iran — but what if the ‘TACO’ trade fails this time?",
-        "link": "https://www.marketwatch.com/story/wall-street-is-betting-trump-backs-down-on-iran-but-what-if-the-taco-trade-fails-this-time-53845c77?mod=mw_rss_topstories",
-        "published": "Fri, 18 Sep 2026 11:51:00 GMT"
+        "title": "Netflix is too focused on podcasts and not enough on good shows, analysts say",
+        "link": "https://www.marketwatch.com/story/netflix-is-too-focused-on-podcasts-and-not-enough-on-good-shows-analysts-say-be758c93?mod=mw_rss_topstories",
+        "published": "Fri, 18 Sep 2026 16:23:00 GMT"
       },
       {
-        "title": "The 10-year Treasury is having its worst run in over 100 years. Why investors are buying bonds anyway.",
-        "link": "https://www.marketwatch.com/story/the-bond-market-is-seeing-trouble-why-investors-are-buying-now-anyway-065a2f9f?mod=mw_rss_topstories",
-        "published": "Fri, 18 Sep 2026 11:50:00 GMT"
+        "title": "These fast-growing ETFs aim for yields as high as 17.5%. But here’s the catch.",
+        "link": "https://www.marketwatch.com/story/these-fast-growing-etfs-aim-for-yields-as-high-as-17-5-but-heres-the-catch-6f0a3d43?mod=mw_rss_topstories",
+        "published": "Fri, 18 Sep 2026 16:11:00 GMT"
       },
       {
-        "title": "A sideways market and rising earnings are presenting a buying opportunity for this crucial sector",
-        "link": "https://www.marketwatch.com/story/a-sideways-market-and-rising-earnings-are-presenting-opportunities-not-seen-since-chatgpt-first-launched-0c37f89d?mod=mw_rss_topstories",
-        "published": "Fri, 18 Sep 2026 11:34:00 GMT"
+        "title": "A happier retirement contains these 3 elements",
+        "link": "https://www.marketwatch.com/story/a-happier-retirement-contains-these-3-elements-9aa99c9a?mod=mw_rss_topstories",
+        "published": "Fri, 18 Sep 2026 15:35:00 GMT"
       },
       {
-        "title": "More Americans are about to get scammed by the coming peptide rush",
-        "link": "https://www.marketwatch.com/story/more-americans-are-about-to-get-scammed-by-the-coming-peptide-rush-c835bc3d?mod=mw_rss_topstories",
-        "published": "Fri, 18 Sep 2026 11:23:00 GMT"
+        "title": "Many young investors can’t afford to invest without their parents’ help",
+        "link": "https://www.marketwatch.com/story/many-young-investors-cant-afford-to-invest-without-their-parents-help-dbb05687?mod=mw_rss_topstories",
+        "published": "Fri, 18 Sep 2026 15:14:00 GMT"
       },
       {
-        "title": "The Fed’s never been so confident on economic growth. What investors should do now, according to KKR.",
-        "link": "https://www.marketwatch.com/story/the-feds-never-been-so-confident-on-economic-growth-what-investors-should-do-now-according-to-kkr-b2eef2ee?mod=mw_rss_topstories",
-        "published": "Fri, 18 Sep 2026 10:08:00 GMT"
+        "title": "Travis Kelce and others lost millions in a Ponzi scheme. Here’s what a basic index fund would have earned them instead.",
+        "link": "https://www.marketwatch.com/story/travis-kelce-and-others-lost-millions-in-a-ponzi-scheme-heres-what-a-basic-index-fund-would-have-earned-them-instead-c1ee3bd6?mod=mw_rss_topstories",
+        "published": "Fri, 18 Sep 2026 14:09:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "Warren Buffett steps down as chairman of Berkshire Hathaway: 'Father Time always wins'",
-        "link": "https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html",
-        "published": "Fri, 18 Sep 2026 12:04:02 GMT"
+        "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
+        "link": "https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html",
+        "published": "Fri, 18 Sep 2026 14:36:55 GMT"
       },
       {
-        "title": "AI safety debate meets reality at Dreamforce as business leaders say last year's models are enough",
-        "link": "https://www.cnbc.com/2026/09/18/at-dreamforce-business-leaders-say-older-ai-models-are-enough.html",
-        "published": "Fri, 18 Sep 2026 11:00:01 GMT"
+        "title": "JPMorgan CEO Jamie Dimon attending Trump's state dinner for China's Xi: Source",
+        "link": "https://www.cnbc.com/2026/09/18/trump-xi-state-dinner-jpmorgan-jamie-dimon.html",
+        "published": "Fri, 18 Sep 2026 16:21:20 GMT"
       },
       {
-        "title": "Putin targets Nestle's Russian business as Kremlin tightens grip on Western assets",
-        "link": "https://www.cnbc.com/2026/09/18/nestle-russia-assets-putin-ukraine-war.html",
-        "published": "Fri, 18 Sep 2026 12:18:55 GMT"
+        "title": "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes",
+        "link": "https://www.cnbc.com/2026/09/18/three-words-from-kevin-warsh-have-wall-street-wondering-how-far-the-fed-will-go-with-rate-hikes.html",
+        "published": "Fri, 18 Sep 2026 16:33:43 GMT"
       },
       {
-        "title": "Stocks making the biggest moves premarket: Netflix, Nucor, Xenon Pharmaceuticals & more",
-        "link": "https://www.cnbc.com/2026/09/18/stocks-making-the-biggest-moves-premarket-nflx-nue-xene.html",
-        "published": "Fri, 18 Sep 2026 11:48:19 GMT"
+        "title": "S&P 500 falls as Treasury yields rise; index heads for losing week: Live updates",
+        "link": "https://www.cnbc.com/2026/09/17/stock-market-today-live-updates.html",
+        "published": "Fri, 18 Sep 2026 16:26:42 GMT"
       },
       {
-        "title": "Here are Friday's biggest analyst calls: Nvidia, Apple, Netflix, Alphabet, Tyson Foods, Yeti, Meta, Amazon & more",
-        "link": "https://www.cnbc.com/2026/09/18/fridays-biggest-analyst-calls-include-nvidia-apple.html",
-        "published": "Fri, 18 Sep 2026 12:20:45 GMT"
+        "title": "Stocks making the biggest moves midday: Netflix, Xenon Pharmaceuticals, Coinbase, Sandisk, SpaceX & more",
+        "link": "https://www.cnbc.com/2026/09/18/stocks-making-the-biggest-moves-midday-nflx-xene-coin-sndk-spcx.html",
+        "published": "Fri, 18 Sep 2026 16:34:18 GMT"
       },
       {
-        "title": "Trump administration advances $24.3 billion fighter jet deal to Saudi Arabia as Houthis escalate attacks",
-        "link": "https://www.cnbc.com/2026/09/18/trump-saudi-arabia-f-35-houthis-iran-war.html",
-        "published": "Fri, 18 Sep 2026 08:02:20 GMT"
+        "title": "Tokenization is set to change stock trading. These stocks could get a boost",
+        "link": "https://www.cnbc.com/2026/09/18/tokenization-is-set-to-change-stock-trading-these-stocks-could-get-a-boost.html",
+        "published": "Fri, 18 Sep 2026 16:53:51 GMT"
       },
       {
-        "title": "JPMorgan oil team gives up on forecasting Iran war endgame as Trump blows past economic redlines",
-        "link": "https://www.cnbc.com/2026/09/17/jpmorgan-gives-up-forecasting-iran-wars-end-as-trump-blows-past-economic-redlines-.html",
-        "published": "Thu, 17 Sep 2026 22:31:48 GMT"
+        "title": "Nike parts ways with Kylian Mbappé, soccer superstar signs with On",
+        "link": "https://www.cnbc.com/2026/09/18/kylian-mbappe-signs-with-on-after-nike-parts-ways.html",
+        "published": "Fri, 18 Sep 2026 16:42:14 GMT"
       },
       {
-        "title": "IRS tax debt agreements have plummeted: 'I've never seen a number that low,' taxpayer advocate says",
-        "link": "https://www.cnbc.com/2026/09/18/irs-offers-in-compromise.html",
-        "published": "Fri, 18 Sep 2026 12:15:01 GMT"
+        "title": "Auto industry urges Trump to bar Chinese automakers in U.S. ahead of Xi visit",
+        "link": "https://www.cnbc.com/2026/09/18/xi-visit-automakers-urge-trump-to-bar-chinese-automakers-in-us.html",
+        "published": "Fri, 18 Sep 2026 16:26:27 GMT"
       }
     ]
   }
