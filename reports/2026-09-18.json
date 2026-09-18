@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-09-18T17:01:20",
+  "generated_at": "2026-09-18T19:35:28",
   "date": "2026-09-18",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7623.2,
-        "pct_change": -0.19
+        "last": 7637.25,
+        "pct_change": -0.01
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26389.27,
-        "pct_change": -0.11
+        "last": 26463.0,
+        "pct_change": 0.17
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 51586.54,
-        "pct_change": -0.37
+        "last": 51673.53,
+        "pct_change": -0.2
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2849.79,
-        "pct_change": -0.86
+        "last": 2856.5,
+        "pct_change": -0.63
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.43,
-        "pct_change": -0.06
+        "last": 15.0,
+        "pct_change": -2.85
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
@@ -35,75 +35,75 @@
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 100.3,
-        "pct_change": 0.08
+        "last": 100.18,
+        "pct_change": -0.04
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 96.09,
-        "pct_change": -5.71
+        "last": 95.58,
+        "pct_change": -6.21
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4417.1,
-        "pct_change": 0.4
+        "last": 4420.8,
+        "pct_change": 0.48
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 187.93,
-        "pct_change": -0.07
+        "last": 188.49,
+        "pct_change": 0.23
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 55.86,
-        "pct_change": -0.04
+        "last": 55.88,
+        "pct_change": 0.01
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 64.35,
-        "pct_change": -0.2
+        "last": 64.29,
+        "pct_change": -0.29
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 168.11,
-        "pct_change": -0.41
+        "last": 168.49,
+        "pct_change": -0.19
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 111.04,
-        "pct_change": -0.31
+        "last": 111.11,
+        "pct_change": -0.25
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 83.17,
-        "pct_change": -0.39
+        "last": 83.0,
+        "pct_change": -0.59
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 168.89,
-        "pct_change": -0.07
+        "last": 169.51,
+        "pct_change": 0.3
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 41.13,
-        "pct_change": -1.33
+        "last": 41.21,
+        "pct_change": -1.16
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 50.08,
-        "pct_change": -1.24
+        "last": 50.01,
+        "pct_change": -1.38
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 42.74,
-        "pct_change": -0.48
+        "last": 42.62,
+        "pct_change": -0.76
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 111.28,
-        "pct_change": -0.95
+        "last": 111.26,
+        "pct_change": -0.97
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 156.77,
-        "pct_change": 0.49
+        "last": 156.68,
+        "pct_change": 0.43
       }
     }
   },
@@ -144,52 +144,52 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 150.71,
-        "pct_change": 1.97
+        "last": 149.93,
+        "pct_change": 1.44
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 334.62,
-        "pct_change": -0.7
+        "last": 336.02,
+        "pct_change": -0.29
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 493.24,
-        "pct_change": -0.91
+        "last": 494.51,
+        "pct_change": -0.65
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 253.48,
-        "pct_change": 0.91
+        "last": 254.24,
+        "pct_change": 1.21
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 349.88,
-        "pct_change": 0.73
+        "last": 351.71,
+        "pct_change": 1.26
       },
       "Meta": {
         "symbol": "META",
-        "last": 669.76,
-        "pct_change": -1.84
+        "last": 669.32,
+        "pct_change": -1.9
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 907.84,
-        "pct_change": 1.59
+        "last": 924.88,
+        "pct_change": 3.5
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 308.62,
-        "pct_change": 4.27
+        "last": 314.76,
+        "pct_change": 6.35
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 78.42,
-        "pct_change": 0.06
+        "last": 77.58,
+        "pct_change": -1.01
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -627,128 +627,128 @@
   "news": {
     "Yahoo Finance": [
       {
-        "title": "Oil Retreat Slows on Saudi Supply Concerns",
-        "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-for-third-day-as-wti-slips-below-100-e533d2fe?siteid=yhoof2&yptr=yahoo",
-        "published": "2026-09-18T16:52:00Z"
+        "title": "46% of American workers are skipping retirement savings to cover bills — here's the long-term cost",
+        "link": "https://finance.yahoo.com/markets/articles/46-american-workers-skipping-retirement-093000061.html",
+        "published": "2026-09-17T09:30:00Z"
       },
       {
-        "title": "Gilead Strengthens HIV Growth Platform with Expanded Latin America Access",
-        "link": "https://finance.yahoo.com/healthcare/articles/gilead-strengthens-hiv-growth-platform-165122348.html",
-        "published": "2026-09-18T16:51:22Z"
+        "title": "Goldman Sachs Sees More Upside in Gasoline as Diesel Crunch Deepens",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/goldman-sachs-sees-more-upside-093000655.html",
+        "published": "2026-09-17T09:30:00Z"
       },
       {
-        "title": "Truist Reshapes Lending Strategy with $5.5B Auto-Loan Sale",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/truist-reshapes-lending-strategy-5-164856583.html",
-        "published": "2026-09-18T16:48:56Z"
+        "title": "Saudi Arabia Has Another Option to Get Its Oil Out",
+        "link": "https://www.wsj.com/world/middle-east/saudi-arabia-has-another-option-to-get-its-oil-out-7ef2a9da?siteid=yhoof2&yptr=yahoo",
+        "published": "2026-09-17T09:30:00Z"
       },
       {
-        "title": "JPMorgan Sees Investment Banking and Trading Powering Q3 Growth",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-sees-investment-banking-trading-164740809.html",
-        "published": "2026-09-18T16:47:40Z"
+        "title": "AXIS Capital (AXS) Adds A High-Performing Excess Liability Book",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/axis-capital-axs-adds-high-093627741.html",
+        "published": "2026-09-17T09:36:27Z"
       },
       {
-        "title": "AbbVie’s Dividend Growth Remains Solid Despite a Moderate Yield",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/abbvie-dividend-growth-remains-solid-164620099.html",
-        "published": "2026-09-18T16:46:20Z"
+        "title": "Builders FirstSource Stock: Is BLDR Underperforming the Industrials Sector?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/builders-firstsource-stock-bldr-underperforming-093740455.html",
+        "published": "2026-09-17T09:37:40Z"
       },
       {
-        "title": "Target rolls out another generous deal to win back customers",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/target-rolls-another-generous-deal-164700546.html",
-        "published": "2026-09-18T16:47:00Z"
+        "title": "Is Leidos Stock Underperforming the Dow?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/leidos-stock-underperforming-dow-094411865.html",
+        "published": "2026-09-17T09:44:11Z"
       },
       {
-        "title": "Verizon’s Dividend Story: Reliable Income with Gradual Growth",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/verizon-dividend-story-reliable-income-164507682.html",
-        "published": "2026-09-18T16:45:07Z"
+        "title": "Figure (FIGR) Bets AI Agents Can Rescue Trillions in Stalled Home Loans",
+        "link": "https://finance.yahoo.com/technology/ai/articles/figure-figr-bets-ai-agents-092850874.html",
+        "published": "2026-09-17T09:28:50Z"
       },
       {
-        "title": "U.S. Bancorp Delivers Another Dividend Increase: Assessing the Payout",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/u-bancorp-delivers-another-dividend-164337595.html",
-        "published": "2026-09-18T16:43:37Z"
+        "title": "Staples’ CMO on introducing a Hard Button amid bigger B2B push",
+        "link": "https://finance.yahoo.com/media-advertising/articles/staples-cmo-introducing-hard-button-093000782.html",
+        "published": "2026-09-17T09:30:00Z"
       }
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "What’s really driving inflation and rising interest rates",
-        "link": "https://www.marketwatch.com/story/whats-really-driving-inflation-and-rising-interest-rates-59a9cd51?mod=mw_rss_topstories",
-        "published": "Fri, 18 Sep 2026 16:50:00 GMT"
+        "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
+        "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
+        "published": "Fri, 18 Sep 2026 19:30:00 GMT"
       },
       {
-        "title": "Why investors’ best move in reaction to Fed’s rate hike is doing nothing at all",
-        "link": "https://www.marketwatch.com/story/why-investors-best-move-in-reaction-to-feds-rate-hike-is-doing-nothing-at-all-6ff56b4c?mod=mw_rss_topstories",
-        "published": "Fri, 18 Sep 2026 16:39:00 GMT"
+        "title": "It’s almost impossible to sell a condo these days: ‘I feel trapped’",
+        "link": "https://www.marketwatch.com/story/its-almost-impossible-to-sell-a-condo-these-days-i-feel-trapped-1f96ce37?mod=mw_rss_topstories",
+        "published": "Fri, 18 Sep 2026 19:11:00 GMT"
+      },
+      {
+        "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
+        "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
+        "published": "Fri, 18 Sep 2026 19:00:00 GMT"
+      },
+      {
+        "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+        "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+        "published": "Fri, 18 Sep 2026 18:46:00 GMT"
+      },
+      {
+        "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
+        "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+        "published": "Fri, 18 Sep 2026 18:30:00 GMT"
+      },
+      {
+        "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
+        "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
+        "published": "Fri, 18 Sep 2026 18:26:00 GMT"
+      },
+      {
+        "title": "As Warren Buffett’s reign ends, fans should sell Berkshire — and buy these stocks instead",
+        "link": "https://www.marketwatch.com/story/as-warren-buffetts-reign-ends-fans-should-sell-berkshire-and-buy-these-stocks-instead-bff5ba32?mod=mw_rss_topstories",
+        "published": "Fri, 18 Sep 2026 17:41:00 GMT"
       },
       {
         "title": "Two signs investors don’t have to fear an AI slowdown",
         "link": "https://www.marketwatch.com/story/two-signs-investors-dont-have-to-fear-an-ai-slowdown-5ec40948?mod=mw_rss_topstories",
-        "published": "Fri, 18 Sep 2026 16:33:00 GMT"
-      },
-      {
-        "title": "Netflix is too focused on podcasts and not enough on good shows, analysts say",
-        "link": "https://www.marketwatch.com/story/netflix-is-too-focused-on-podcasts-and-not-enough-on-good-shows-analysts-say-be758c93?mod=mw_rss_topstories",
-        "published": "Fri, 18 Sep 2026 16:23:00 GMT"
-      },
-      {
-        "title": "These fast-growing ETFs aim for yields as high as 17.5%. But here’s the catch.",
-        "link": "https://www.marketwatch.com/story/these-fast-growing-etfs-aim-for-yields-as-high-as-17-5-but-heres-the-catch-6f0a3d43?mod=mw_rss_topstories",
-        "published": "Fri, 18 Sep 2026 16:11:00 GMT"
-      },
-      {
-        "title": "A happier retirement contains these 3 elements",
-        "link": "https://www.marketwatch.com/story/a-happier-retirement-contains-these-3-elements-9aa99c9a?mod=mw_rss_topstories",
-        "published": "Fri, 18 Sep 2026 15:35:00 GMT"
-      },
-      {
-        "title": "Many young investors can’t afford to invest without their parents’ help",
-        "link": "https://www.marketwatch.com/story/many-young-investors-cant-afford-to-invest-without-their-parents-help-dbb05687?mod=mw_rss_topstories",
-        "published": "Fri, 18 Sep 2026 15:14:00 GMT"
-      },
-      {
-        "title": "Travis Kelce and others lost millions in a Ponzi scheme. Here’s what a basic index fund would have earned them instead.",
-        "link": "https://www.marketwatch.com/story/travis-kelce-and-others-lost-millions-in-a-ponzi-scheme-heres-what-a-basic-index-fund-would-have-earned-them-instead-c1ee3bd6?mod=mw_rss_topstories",
-        "published": "Fri, 18 Sep 2026 14:09:00 GMT"
+        "published": "Fri, 18 Sep 2026 17:02:00 GMT"
       }
     ],
     "CNBC Top News": [
+      {
+        "title": "Trump says he's banning MS NOW, CNN and Politico from White House",
+        "link": "https://www.cnbc.com/2026/09/18/trump-white-house-ban-msnow-cnn-politico.html",
+        "published": "Fri, 18 Sep 2026 19:28:32 GMT"
+      },
+      {
+        "title": "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes",
+        "link": "https://www.cnbc.com/2026/09/18/three-words-from-kevin-warsh-have-wall-street-wondering-how-far-the-fed-will-go-with-rate-hikes.html",
+        "published": "Fri, 18 Sep 2026 18:28:31 GMT"
+      },
       {
         "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
         "link": "https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html",
         "published": "Fri, 18 Sep 2026 14:36:55 GMT"
       },
       {
-        "title": "JPMorgan CEO Jamie Dimon attending Trump's state dinner for China's Xi: Source",
+        "title": "Elon Musk talks up AI safety while fighting regulation in wild week of strange alliances",
+        "link": "https://www.cnbc.com/2026/09/18/after-decade-of-clashes-in-ai-elon-musk-forging-strange-alliances.html",
+        "published": "Fri, 18 Sep 2026 19:15:24 GMT"
+      },
+      {
+        "title": "JPMorgan, Citigroup CEOs attending Trump's state dinner for China's Xi: Sources",
         "link": "https://www.cnbc.com/2026/09/18/trump-xi-state-dinner-jpmorgan-jamie-dimon.html",
-        "published": "Fri, 18 Sep 2026 16:21:20 GMT"
+        "published": "Fri, 18 Sep 2026 17:34:49 GMT"
       },
       {
-        "title": "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes",
-        "link": "https://www.cnbc.com/2026/09/18/three-words-from-kevin-warsh-have-wall-street-wondering-how-far-the-fed-will-go-with-rate-hikes.html",
-        "published": "Fri, 18 Sep 2026 16:33:43 GMT"
-      },
-      {
-        "title": "S&P 500 falls as Treasury yields rise; index heads for losing week: Live updates",
-        "link": "https://www.cnbc.com/2026/09/17/stock-market-today-live-updates.html",
-        "published": "Fri, 18 Sep 2026 16:26:42 GMT"
+        "title": "Stocks face a key hurdle in next week’s U.S.-China summit. Here’s what’s at stake",
+        "link": "https://www.cnbc.com/2026/09/18/stock-market-next-week-outlook-for-sept-21-25-2026.html",
+        "published": "Fri, 18 Sep 2026 19:18:54 GMT"
       },
       {
         "title": "Stocks making the biggest moves midday: Netflix, Xenon Pharmaceuticals, Coinbase, Sandisk, SpaceX & more",
         "link": "https://www.cnbc.com/2026/09/18/stocks-making-the-biggest-moves-midday-nflx-xene-coin-sndk-spcx.html",
-        "published": "Fri, 18 Sep 2026 16:34:18 GMT"
+        "published": "Fri, 18 Sep 2026 17:58:56 GMT"
       },
       {
-        "title": "Tokenization is set to change stock trading. These stocks could get a boost",
-        "link": "https://www.cnbc.com/2026/09/18/tokenization-is-set-to-change-stock-trading-these-stocks-could-get-a-boost.html",
-        "published": "Fri, 18 Sep 2026 16:53:51 GMT"
-      },
-      {
-        "title": "Nike parts ways with Kylian Mbappé, soccer superstar signs with On",
-        "link": "https://www.cnbc.com/2026/09/18/kylian-mbappe-signs-with-on-after-nike-parts-ways.html",
-        "published": "Fri, 18 Sep 2026 16:42:14 GMT"
-      },
-      {
-        "title": "Auto industry urges Trump to bar Chinese automakers in U.S. ahead of Xi visit",
-        "link": "https://www.cnbc.com/2026/09/18/xi-visit-automakers-urge-trump-to-bar-chinese-automakers-in-us.html",
-        "published": "Fri, 18 Sep 2026 16:26:27 GMT"
+        "title": "SpaceX scores another $950 million from NASA for 3 more crewed flights to ISS",
+        "link": "https://www.cnbc.com/2026/09/18/spacex-scores-950-million-from-nasa-for-3-more-crewed-flights-to-iss-.html",
+        "published": "Fri, 18 Sep 2026 17:41:45 GMT"
       }
     ]
   }
