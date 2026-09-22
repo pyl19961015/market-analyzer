@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-09-22T17:45:31",
+  "generated_at": "2026-09-22T20:50:44",
   "date": "2026-09-22",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7765.53,
-        "pct_change": 0.01
+        "last": 7764.64,
+        "pct_change": -0.0
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 27210.09,
-        "pct_change": 0.32
+        "last": 27244.28,
+        "pct_change": 0.45
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 51834.54,
-        "pct_change": -0.41
+        "last": 51863.69,
+        "pct_change": -0.36
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2887.55,
-        "pct_change": 0.42
+        "last": 2889.92,
+        "pct_change": 0.51
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 14.28,
-        "pct_change": -3.97
+        "last": 14.21,
+        "pct_change": -4.44
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.98,
-        "pct_change": 0.3
+        "last": 4.97,
+        "pct_change": 0.1
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 100.66,
-        "pct_change": 0.23
+        "last": 100.54,
+        "pct_change": 0.1
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 90.95,
-        "pct_change": -5.04
+        "last": 89.84,
+        "pct_change": -6.2
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4374.5,
-        "pct_change": -0.21
+        "last": 4396.6,
+        "pct_change": 0.29
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 195.66,
-        "pct_change": 0.42
+        "last": 196.27,
+        "pct_change": 0.73
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 54.94,
-        "pct_change": -1.73
+        "last": 54.8,
+        "pct_change": -1.97
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 62.54,
-        "pct_change": 0.13
+        "last": 61.78,
+        "pct_change": -1.09
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 170.12,
-        "pct_change": 0.66
+        "last": 169.89,
+        "pct_change": 0.52
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 112.37,
-        "pct_change": 0.13
+        "last": 112.33,
+        "pct_change": 0.09
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 82.81,
-        "pct_change": 1.08
+        "last": 82.73,
+        "pct_change": 0.99
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 169.79,
-        "pct_change": -0.11
+        "last": 170.27,
+        "pct_change": 0.17
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 40.65,
-        "pct_change": -0.03
+        "last": 40.53,
+        "pct_change": -0.32
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 50.37,
-        "pct_change": 1.33
+        "last": 50.53,
+        "pct_change": 1.65
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 42.54,
-        "pct_change": -0.12
+        "last": 42.5,
+        "pct_change": -0.21
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 113.78,
-        "pct_change": -0.85
+        "last": 113.53,
+        "pct_change": -1.06
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 157.48,
-        "pct_change": 0.28
+        "last": 157.37,
+        "pct_change": 0.21
       }
     }
   },
@@ -138,58 +138,58 @@
       "as_of": "2026-09-17",
       "prev_yield": 2.998
     },
-    "spread_10y": 1.99
+    "spread_10y": 1.98
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 159.38,
-        "pct_change": 0.25
+        "last": 159.69,
+        "pct_change": 0.45
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 341.37,
-        "pct_change": 0.71
+        "last": 339.75,
+        "pct_change": 0.23
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 497.41,
-        "pct_change": -0.84
+        "last": 498.0,
+        "pct_change": -0.72
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 254.47,
-        "pct_change": -1.54
+        "last": 254.98,
+        "pct_change": -1.34
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 351.77,
-        "pct_change": -0.9
+        "last": 351.16,
+        "pct_change": -1.07
       },
       "Meta": {
         "symbol": "META",
-        "last": 741.85,
-        "pct_change": 0.08
+        "last": 736.59,
+        "pct_change": -0.63
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 952.86,
-        "pct_change": -0.17
+        "last": 945.67,
+        "pct_change": -0.92
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 310.6,
-        "pct_change": -3.4
+        "last": 310.39,
+        "pct_change": -3.46
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 82.1,
-        "pct_change": 1.71
+        "last": 82.84,
+        "pct_change": 2.63
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -451,16 +451,22 @@
   "fed_policy": {
     "Press Releases": [
       {
-        "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
-        "published": "Fri, 18 Sep 2026 15:00:00 GMT",
-        "summary": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula"
+        "title": "Federal Reserve Board announces approval of application by BancFirst Corporation",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
+        "published": "Tue, 22 Sep 2026 20:30:00 GMT",
+        "summary": "Federal Reserve Board announces approval of application by BancFirst Corporation"
       },
       {
         "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
         "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
         "published": "Fri, 18 Sep 2026 15:00:00 GMT",
         "summary": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank"
+      },
+      {
+        "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
+        "published": "Fri, 18 Sep 2026 15:00:00 GMT",
+        "summary": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula"
       },
       {
         "title": "Federal Reserve issues FOMC statement",
@@ -491,12 +497,6 @@
         "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
         "published": "Fri, 4 Sep 2026 15:00:00 GMT",
         "summary": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp."
-      },
-      {
-        "title": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm",
-        "published": "Thu, 27 Aug 2026 15:00:00 GMT",
-        "summary": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico"
       }
     ],
     "Speeches": [
@@ -608,123 +608,123 @@
         "published": "2026-09-21T14:37:00Z"
       },
       {
-        "title": "Dow Jones Tech Titan Amazon Eyes Buy Point Amid Battle With Key Support Level",
-        "link": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-amazon-stock-amzn-key-level/?src=A00220&yptr=yahoo",
-        "published": "2026-09-22T17:26:43Z"
-      },
-      {
-        "title": "Stock market today: Dow slips, Nasdaq and S&P 500 drift higher as oil pares losses after Trump's UN address",
-        "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
-        "published": "2026-09-22T08:06:25Z"
-      },
-      {
-        "title": "Private markets dealmaking is starting to mirror Greater China 's K-shaped economy",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/private-markets-dealmaking-starting-mirror-172112209.html",
-        "published": "2026-09-22T17:21:12Z"
-      },
-      {
-        "title": "Micron, IBD Stock Of The Day, Surges Past Early Buy Point With Earnings Ahead",
-        "link": "https://www.investors.com/research/ibd-stock-of-the-day/micron-stock-mu-buy-point-earnings/?src=A00220&yptr=yahoo",
-        "published": "2026-09-22T17:20:49Z"
-      },
-      {
         "title": "Global diesel shortage from Iran, Ukraine wars to last into 2027",
         "link": "https://finance.yahoo.com/energy/articles/global-diesel-shortage-iran-ukraine-181721706.html",
         "published": "2026-09-21T18:17:21Z"
       },
       {
-        "title": "What is a good savings account interest rate in 2026?",
-        "link": "https://finance.yahoo.com/personal-finance/banking/article/what-is-a-good-savings-account-interest-rate-173915779.html",
-        "published": "2024-03-21T17:39:15Z"
+        "title": "How Is Coinbase Global Stock Performance Compared to Other Financial Data And Stock Exchanges' Stocks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/coinbase-global-stock-performance-compared-120117135.html",
+        "published": "2026-09-21T12:01:17Z"
       },
       {
-        "title": "Rocket Lab Stock Breaks Above Key Trendline",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-stock-breaks-above-165728910.html",
-        "published": "2026-09-22T16:57:28Z"
+        "title": "Erie Indemnity Stock: Is ERIE Underperforming the Financial Services Sector?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/erie-indemnity-stock-erie-underperforming-121202945.html",
+        "published": "2026-09-21T12:12:02Z"
+      },
+      {
+        "title": "Four Launches From 100: Rocket Lab Gets a Bullish New Call, With Iridium and Mynaric Along for the Ride",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/four-launches-100-rocket-lab-115117949.html",
+        "published": "2026-09-21T11:51:17Z"
+      },
+      {
+        "title": "Anthropic Reportedly Delays IPO; OpenAI Expects Massive Cash Burn",
+        "link": "https://www.investors.com/news/technology/anthropic-ipo-delayed-openai-expects-massive-cash-burn/?src=A00220&yptr=yahoo",
+        "published": "2026-09-21T12:00:35Z"
+      },
+      {
+        "title": "Kalshi asks CFTC to allow margin trading on prediction markets",
+        "link": "https://finance.yahoo.com/markets/options/articles/kalshi-asks-cftc-allow-margin-123918880.html",
+        "published": "2026-09-22T12:39:18Z"
+      },
+      {
+        "title": "Kevin O'Leary sold his software company for $4.2 billion, so why did he only walk away with about $11 million?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/kevin-oleary-sold-software-company-115500725.html",
+        "published": "2026-09-21T11:55:00Z"
       }
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "Quantum stocks are getting hot again after a brutal summer. Can the rally last?",
-        "link": "https://www.marketwatch.com/story/quantum-stocks-are-getting-hot-again-after-a-brutal-summer-can-the-rally-last-a8244a66?mod=mw_rss_topstories",
-        "published": "Tue, 22 Sep 2026 17:42:00 GMT"
-      },
-      {
-        "title": "How to avoid the ‘widow tax’ and other financial headaches if your spouse dies",
-        "link": "https://www.marketwatch.com/story/how-to-avoid-the-widow-tax-and-other-financial-headaches-if-your-spouse-dies-e51f2af6?mod=mw_rss_topstories",
-        "published": "Tue, 22 Sep 2026 17:09:00 GMT"
-      },
-      {
-        "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
-        "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
-        "published": "Tue, 22 Sep 2026 17:00:00 GMT"
-      },
-      {
-        "title": "Want to retire with more money? Leave the country for work early in your career.",
+        "title": "Want to retire with more money? Leave the U.S. early in your career — and then come back.",
         "link": "https://www.marketwatch.com/story/want-to-retire-with-more-money-leave-the-country-for-work-early-in-your-career-7e568d03?mod=mw_rss_topstories",
-        "published": "Tue, 22 Sep 2026 16:40:00 GMT"
+        "published": "Tue, 22 Sep 2026 20:46:00 GMT"
       },
       {
-        "title": "Could Meta’s viral Muse app be the company’s ChatGPT moment?",
-        "link": "https://www.marketwatch.com/story/could-metas-viral-muse-app-be-the-companys-chatgpt-moment-8e7075aa?mod=mw_rss_topstories",
-        "published": "Tue, 22 Sep 2026 16:24:00 GMT"
+        "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
+        "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
+        "published": "Tue, 22 Sep 2026 20:31:00 GMT"
       },
       {
-        "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
-        "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
-        "published": "Tue, 22 Sep 2026 16:15:00 GMT"
-      },
-      {
-        "title": "Sandisk’s stock is rising: Why one analyst says AI could help it reach new heights",
-        "link": "https://www.marketwatch.com/story/sandisks-stock-is-rising-why-one-analyst-says-ai-could-help-it-reach-new-heights-5541ded8?mod=mw_rss_topstories",
-        "published": "Tue, 22 Sep 2026 15:48:00 GMT"
+        "title": "Want to bet on risky, high-beta stocks? Why you should wait for this week in October.",
+        "link": "https://www.marketwatch.com/story/want-to-bet-on-risky-high-beta-stocks-why-you-should-wait-for-this-week-in-october-d9094820?mod=mw_rss_topstories",
+        "published": "Tue, 22 Sep 2026 20:31:00 GMT"
       },
       {
         "title": "This GLP-1 drug helped people maintain their weight loss in a clinical trial — even for those taking it once a month",
         "link": "https://www.marketwatch.com/story/this-glp-1-drug-helped-people-maintain-their-weight-loss-in-a-clinical-trial-even-for-those-taking-it-once-a-month-f70929b5?mod=mw_rss_topstories",
-        "published": "Tue, 22 Sep 2026 15:46:00 GMT"
+        "published": "Tue, 22 Sep 2026 20:27:00 GMT"
+      },
+      {
+        "title": "Jet fuel is following diesel’s price jump as the Hormuz supply shock hits the skies",
+        "link": "https://www.marketwatch.com/story/jet-fuel-is-following-diesels-price-jump-as-the-hormuz-supply-shock-hits-the-skies-6fc21238?mod=mw_rss_topstories",
+        "published": "Tue, 22 Sep 2026 19:59:00 GMT"
+      },
+      {
+        "title": "Nearly half of adults under 30 live with their parents. The financial fallout could last for decades.",
+        "link": "https://www.marketwatch.com/story/nearly-half-of-adults-under-30-live-with-their-parents-the-financial-fallout-could-last-for-decades-5d9f059d?mod=mw_rss_topstories",
+        "published": "Tue, 22 Sep 2026 19:48:00 GMT"
+      },
+      {
+        "title": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
+        "link": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
+        "published": "Tue, 22 Sep 2026 19:45:00 GMT"
+      },
+      {
+        "title": "Trump endorses diesel export ban. A decision is coming ‘fast, one way or the other.’",
+        "link": "https://www.marketwatch.com/story/trump-endorses-diesel-export-ban-a-decision-is-coming-fast-one-way-or-the-other-a49055bc?mod=mw_rss_topstories",
+        "published": "Tue, 22 Sep 2026 19:30:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "Nasdaq climbs to fresh all-time high; S&P 500 is little changed as traders monitor Middle East tensions: Live updates",
-        "link": "https://www.cnbc.com/2026/09/21/stock-market-today-live-updates.html",
-        "published": "Tue, 22 Sep 2026 16:43:36 GMT"
+        "title": "Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says",
+        "link": "https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html",
+        "published": "Tue, 22 Sep 2026 19:59:05 GMT"
       },
       {
         "title": "Trump discloses more than 1,100 July trades, including up to $25 million each in sales of Microsoft, Amazon",
         "link": "https://www.cnbc.com/2026/09/22/trump-trades-microsoft-amazon-july-financial-disclosure.html",
-        "published": "Tue, 22 Sep 2026 17:45:12 GMT"
+        "published": "Tue, 22 Sep 2026 19:30:03 GMT"
       },
       {
-        "title": "Sullivan: Wall Street admits it doesn't know where oil is headed. There's one stock they do agree on",
-        "link": "https://www.cnbc.com/2026/09/22/sullivan-wall-street-admits-it-doesnt-know-where-oil-is-headed-theres-one-stock-they-do-agree-on.html",
-        "published": "Tue, 22 Sep 2026 16:05:57 GMT"
+        "title": "Trump administration removes around 760,000 Obamacare enrollments, alleging fraud",
+        "link": "https://www.cnbc.com/2026/09/22/trump-administration-removes-around-760000-obamacare-enrollments.html",
+        "published": "Tue, 22 Sep 2026 19:17:22 GMT"
       },
       {
-        "title": "No new stock highs, no problem: Options traders bet they're coming in these names",
-        "link": "https://www.cnbc.com/2026/09/22/no-new-stock-highs-no-problem-options-traders-bet-theyre-coming-in-these-names.html",
-        "published": "Tue, 22 Sep 2026 17:22:27 GMT"
+        "title": "Nasdaq rises to new record; S&P 500 closes flat as oil slides for a fifth day",
+        "link": "https://www.cnbc.com/2026/09/21/stock-market-today-live-updates.html",
+        "published": "Tue, 22 Sep 2026 20:21:40 GMT"
       },
       {
-        "title": "Trump slams Iran and Cuba, defends AI growth and recounts record in UN speech",
-        "link": "https://www.cnbc.com/2026/09/22/trump-un-speech-today.html",
-        "published": "Tue, 22 Sep 2026 16:14:00 GMT"
+        "title": "U.S. regulators rush to write crypto rulebook after Clarity Act stalls in Senate",
+        "link": "https://www.cnbc.com/2026/09/22/clarity-act-crypto-rules-regulators.html",
+        "published": "Tue, 22 Sep 2026 20:46:52 GMT"
       },
       {
-        "title": "Meta's quick success with Muse puts consumers back in the driver's seat of the AI trade",
-        "link": "https://www.cnbc.com/2026/09/22/metas-success-with-muse-puts-consumers-back-in-the-drivers-seat-of-the-ai-trade.html",
-        "published": "Tue, 22 Sep 2026 16:00:52 GMT"
+        "title": "Royal Caribbean nears $3 billion deal to take 50% equity stake in Sandals",
+        "link": "https://www.cnbc.com/2026/09/22/royal-caribbean-sandals.html",
+        "published": "Tue, 22 Sep 2026 19:51:13 GMT"
       },
       {
-        "title": "Nvidia options are doing something unusual ahead of two catalysts. Here's how one trader is playing it",
-        "link": "https://www.cnbc.com/2026/09/22/nvidia-options-are-doing-something-unusual-ahead-of-two-catalysts-heres-how-one-trader-is-playing-it.html",
-        "published": "Tue, 22 Sep 2026 17:36:28 GMT"
+        "title": "Meta is breaking out after introducing Muse AI agent. Where the stock is going, according to the charts",
+        "link": "https://www.cnbc.com/2026/09/22/meta-is-breaking-out-after-introducing-muse-ai-agent-where-the-stock-is-going.html",
+        "published": "Tue, 22 Sep 2026 19:46:16 GMT"
       },
       {
-        "title": "Trump, Xi seek trade stability and deals, but AI, tariffs and Iran loom large. What to watch",
-        "link": "https://www.cnbc.com/2026/09/21/trump-xi-china-summit-trade-tariffs.html",
-        "published": "Mon, 21 Sep 2026 22:25:33 GMT"
+        "title": "Cisco stock sinks 5% after Piper Sandler cuts price target on growth concerns",
+        "link": "https://www.cnbc.com/2026/09/22/cisco-stock-piper-sandler-price-target.html",
+        "published": "Tue, 22 Sep 2026 20:49:25 GMT"
       }
     ]
   }
