@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-09-24T14:12:02",
+  "generated_at": "2026-09-24T18:25:44",
   "date": "2026-09-24",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7688.91,
-        "pct_change": -0.22
+        "last": 7706.09,
+        "pct_change": 0.0
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26771.14,
-        "pct_change": -0.61
+        "last": 26920.5,
+        "pct_change": -0.06
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 51388.51,
-        "pct_change": -0.24
+        "last": 51404.31,
+        "pct_change": -0.21
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2824.47,
-        "pct_change": -0.5
+        "last": 2829.97,
+        "pct_change": -0.31
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.76,
-        "pct_change": 3.82
+        "last": 15.73,
+        "pct_change": 3.62
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 5.1,
-        "pct_change": -0.27
+        "last": 5.16,
+        "pct_change": 0.98
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 101.27,
-        "pct_change": 0.17
+        "last": 101.31,
+        "pct_change": 0.21
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 94.03,
-        "pct_change": 2.03
+        "last": 94.47,
+        "pct_change": 2.51
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4301.5,
-        "pct_change": -0.39
+        "last": 4303.4,
+        "pct_change": -0.35
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 193.13,
-        "pct_change": -1.13
+        "last": 194.45,
+        "pct_change": -0.46
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 54.65,
-        "pct_change": 0.19
+        "last": 54.49,
+        "pct_change": -0.09
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 63.07,
-        "pct_change": 1.12
+        "last": 62.72,
+        "pct_change": 0.55
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 171.29,
-        "pct_change": 1.48
+        "last": 170.25,
+        "pct_change": 0.86
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 110.3,
-        "pct_change": -0.32
+        "last": 110.58,
+        "pct_change": -0.06
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 82.84,
-        "pct_change": 0.5
+        "last": 82.25,
+        "pct_change": -0.22
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 169.48,
-        "pct_change": -0.36
+        "last": 169.21,
+        "pct_change": -0.53
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 39.74,
-        "pct_change": -0.01
+        "last": 39.49,
+        "pct_change": -0.64
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 50.04,
-        "pct_change": -0.47
+        "last": 49.78,
+        "pct_change": -0.98
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 41.85,
-        "pct_change": 0.02
+        "last": 41.78,
+        "pct_change": -0.14
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 113.26,
-        "pct_change": 0.62
+        "last": 113.86,
+        "pct_change": 1.16
       }
     }
   },
@@ -111,8 +111,8 @@
     "indices": {
       "Nikkei 225": {
         "symbol": "^N225",
-        "last": 65513.99,
-        "pct_change": 0.76
+        "last": 65018.95,
+        "pct_change": 1.38
       },
       "TOPIX (ETF代理)": {
         "symbol": "1306.T",
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 158.73,
-        "pct_change": 0.8
+        "last": 158.83,
+        "pct_change": 0.87
       }
     }
   },
@@ -138,58 +138,58 @@
       "as_of": "2026-09-18",
       "prev_yield": 2.993
     },
-    "spread_10y": 2.12
+    "spread_10y": 2.18
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 153.73,
-        "pct_change": -0.49
+        "last": 154.73,
+        "pct_change": 0.16
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 337.41,
-        "pct_change": 0.12
+        "last": 337.55,
+        "pct_change": 0.16
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 492.83,
-        "pct_change": -1.55
+        "last": 496.43,
+        "pct_change": -0.83
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 246.17,
-        "pct_change": -1.24
+        "last": 249.68,
+        "pct_change": 0.16
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 338.57,
-        "pct_change": 0.22
+        "last": 341.98,
+        "pct_change": 1.23
       },
       "Meta": {
         "symbol": "META",
-        "last": 764.2,
-        "pct_change": 2.7
+        "last": 774.46,
+        "pct_change": 4.08
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 914.97,
-        "pct_change": -2.35
+        "last": 927.47,
+        "pct_change": -1.02
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 292.57,
-        "pct_change": -2.67
+        "last": 294.84,
+        "pct_change": -1.92
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 81.65,
-        "pct_change": -0.66
+        "last": 83.03,
+        "pct_change": 1.02
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -475,6 +475,12 @@
   "fed_policy": {
     "Press Releases": [
       {
+        "title": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm",
+        "published": "Thu, 24 Sep 2026 15:00:00 GMT",
+        "summary": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank"
+      },
+      {
         "title": "Federal Reserve Board announces approval of application by BancFirst Corporation",
         "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
         "published": "Tue, 22 Sep 2026 20:30:00 GMT",
@@ -515,12 +521,6 @@
         "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260910a.htm",
         "published": "Thu, 10 Sep 2026 20:00:00 GMT",
         "summary": "Agencies reduce regulatory burden for community banks, increase eligibility for 18-month exam cycle"
-      },
-      {
-        "title": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
-        "published": "Fri, 4 Sep 2026 15:00:00 GMT",
-        "summary": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp."
       }
     ],
     "Speeches": [
@@ -669,86 +669,86 @@
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "How is Gen Z investing their money? Over a dozen share their strategies for today’s market.",
-        "link": "https://www.marketwatch.com/story/how-is-gen-z-investing-their-money-over-a-dozen-share-their-strategies-for-todays-market-c8a418da?mod=mw_rss_topstories",
-        "published": "Thu, 24 Sep 2026 14:00:00 GMT"
+        "title": "It’s no secret that Social Security and Medicare are on the ropes. Here’s what to do instead of panicking.",
+        "link": "https://www.marketwatch.com/story/everyone-knows-social-security-and-medicare-are-on-the-ropes-heres-what-to-do-instead-of-panicking-717ff133?mod=mw_rss_topstories",
+        "published": "Thu, 24 Sep 2026 18:24:00 GMT"
       },
       {
-        "title": "Do this one thing to help prevent your parents from being scammed",
-        "link": "https://www.marketwatch.com/story/do-this-one-thing-to-help-prevent-your-parents-from-being-scammed-27a0ca4b?mod=mw_rss_topstories",
-        "published": "Thu, 24 Sep 2026 14:00:00 GMT"
+        "title": "Social Security stopped our checks due to a hacked bank account. We’re relying on our church for help. What can we do?",
+        "link": "https://www.marketwatch.com/story/social-security-stopped-our-checks-due-to-a-hacked-bank-account-were-relying-on-our-church-for-help-what-can-we-do-a9464325?mod=mw_rss_topstories",
+        "published": "Thu, 24 Sep 2026 18:17:00 GMT"
       },
       {
-        "title": "Social Security checks are projected to be cut by $540 a month in just six years",
-        "link": "https://www.marketwatch.com/story/social-security-checks-are-projected-to-be-cut-by-540-a-month-in-just-six-years-a8842912?mod=mw_rss_topstories",
-        "published": "Thu, 24 Sep 2026 13:56:00 GMT"
+        "title": "Here are 3 alternatives for investors looking to dodge the bond-market beatdown",
+        "link": "https://www.marketwatch.com/story/here-are-3-alternatives-for-investors-looking-to-dodge-the-bond-market-beatdown-ec8fda43?mod=mw_rss_topstories",
+        "published": "Thu, 24 Sep 2026 18:07:00 GMT"
       },
       {
-        "title": "With the stock market ‘priced for perfection,’ the S&P 500 is in danger of a 20% slump next year",
-        "link": "https://www.marketwatch.com/story/the-stock-market-is-priced-for-perfection-heres-what-could-drive-a-nearly-20-slump-for-the-s-p-500-next-year-41e78c27?mod=mw_rss_topstories",
-        "published": "Thu, 24 Sep 2026 13:40:00 GMT"
-      },
-      {
-        "title": "Oracle’s stock is falling as investors fear a data-center setback",
-        "link": "https://www.marketwatch.com/story/oracles-stock-is-falling-as-investors-fear-a-data-center-setback-d8105ef9?mod=mw_rss_topstories",
-        "published": "Thu, 24 Sep 2026 13:39:00 GMT"
-      },
-      {
-        "title": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
-        "link": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
-        "published": "Thu, 24 Sep 2026 13:15:00 GMT"
+        "title": "A new bill in Congress would lower the retirement age to 60. See who would qualify.",
+        "link": "https://www.marketwatch.com/story/a-new-bill-in-congress-would-lower-the-retirement-age-to-60-see-who-would-qualify-10563052?mod=mw_rss_topstories",
+        "published": "Thu, 24 Sep 2026 17:47:00 GMT"
       },
       {
         "title": "‘We made a bad, bad decision’: I learned the hard way how to manage my aging father’s money",
         "link": "https://www.marketwatch.com/story/we-made-a-bad-bad-decision-i-learned-the-hard-way-how-to-manage-my-aging-fathers-money-c87cabed?mod=mw_rss_topstories",
-        "published": "Thu, 24 Sep 2026 13:15:00 GMT"
+        "published": "Thu, 24 Sep 2026 17:15:00 GMT"
       },
       {
-        "title": "My wife wants to buy her late mother’s home, but her siblings won’t let her. Should I get involved?",
-        "link": "https://www.marketwatch.com/story/my-wife-wants-to-buy-her-late-mothers-home-but-her-siblings-wont-let-her-should-i-get-involved-1146fbb2?mod=mw_rss_topstories",
-        "published": "Thu, 24 Sep 2026 13:01:00 GMT"
+        "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
+        "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
+        "published": "Thu, 24 Sep 2026 16:45:00 GMT"
+      },
+      {
+        "title": "Oracle’s stock is falling as investors fear a data-center setback",
+        "link": "https://www.marketwatch.com/story/oracles-stock-is-falling-as-investors-fear-a-data-center-setback-d8105ef9?mod=mw_rss_topstories",
+        "published": "Thu, 24 Sep 2026 16:42:00 GMT"
+      },
+      {
+        "title": "Do this one thing to help prevent your parents from being scammed",
+        "link": "https://www.marketwatch.com/story/do-this-one-thing-to-help-prevent-your-parents-from-being-scammed-27a0ca4b?mod=mw_rss_topstories",
+        "published": "Thu, 24 Sep 2026 16:36:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
+        "title": "Big business warns Trump against diesel export ban in joint letter",
+        "link": "https://www.cnbc.com/2026/09/24/chamber-commerce-business-roundtable-trump-diesel-export-ban-iran-war.html",
+        "published": "Thu, 24 Sep 2026 14:23:33 GMT"
+      },
+      {
+        "title": "Oracle sends 'force majeure' notice about data center project — stock sinks 4%",
+        "link": "https://www.cnbc.com/2026/09/24/oracle-data-center-force-majeure.html",
+        "published": "Thu, 24 Sep 2026 16:48:38 GMT"
+      },
+      {
+        "title": "Pete Hegseth reports at least $3.1 million in cash, investments and Bitcoin",
+        "link": "https://www.cnbc.com/2026/09/24/pete-hegseth-financial-disclosure-cash-investments-bitcoin.html",
+        "published": "Thu, 24 Sep 2026 18:05:37 GMT"
+      },
+      {
+        "title": "S&P 500 falls slightly as rising yields curb optimism over Strait of Hormuz reopening: Live updates",
+        "link": "https://www.cnbc.com/2026/09/23/stock-market-today-live-updates.html",
+        "published": "Thu, 24 Sep 2026 18:14:06 GMT"
+      },
+      {
+        "title": "New York sues Polymarket U.S., two months after filing lawsuit against Kalshi",
+        "link": "https://www.cnbc.com/2026/09/24/new-york-sues-polymarket-us-two-months-after-filing-suit-against-kalshi-.html",
+        "published": "Thu, 24 Sep 2026 17:44:32 GMT"
+      },
+      {
+        "title": "The 'Magnificent Seven' is bucking the market trend. Why the jump in Treasury yields may be helping",
+        "link": "https://www.cnbc.com/2026/09/24/magnificent-seven-rallies-as-treasury-yields-rise.html",
+        "published": "Thu, 24 Sep 2026 16:05:26 GMT"
+      },
+      {
+        "title": "FAFSA opens early: Why families should apply for college aid now",
+        "link": "https://www.cnbc.com/2026/09/24/fafsa-opens-early-college-aid.html",
+        "published": "Thu, 24 Sep 2026 18:19:40 GMT"
+      },
+      {
         "title": "30-year Treasury yield hits highest level since 2004 as bond market rout continues",
         "link": "https://www.cnbc.com/2026/09/24/us-treasury-yields-bonds-fed-inflation.html",
-        "published": "Thu, 24 Sep 2026 13:44:23 GMT"
-      },
-      {
-        "title": "White House still blocks some reporters despite judge's order lifting Trump ban",
-        "link": "https://www.cnbc.com/2026/09/24/judge-lifts-trumps-white-house-ban-on-cnn-ms-now-and-politico.html",
-        "published": "Thu, 24 Sep 2026 14:08:32 GMT"
-      },
-      {
-        "title": "Oracle sends 'force majeure' notice about data center project — stock sinks 7%",
-        "link": "https://www.cnbc.com/2026/09/24/oracle-data-center-force-majeure.html",
-        "published": "Thu, 24 Sep 2026 14:05:39 GMT"
-      },
-      {
-        "title": "Stocks slide again as Treasury yields push higher, Oracle leads Nasdaq names lower: Live updates",
-        "link": "https://www.cnbc.com/2026/09/23/stock-market-today-live-updates.html",
-        "published": "Thu, 24 Sep 2026 13:40:19 GMT"
-      },
-      {
-        "title": "Trump, Xi expected to talk Taiwan, AI, trade and Iran as DC summit kicks off",
-        "link": "https://www.cnbc.com/2026/09/24/trump-xi-meeting-china-washington.html",
-        "published": "Thu, 24 Sep 2026 12:10:07 GMT"
-      },
-      {
-        "title": "Goldman predicts this global digital bank that just launched in the U.S. could jump nearly 70%",
-        "link": "https://www.cnbc.com/2026/09/24/brazilian-stock-to-get-boost-from-us-expansion-goldman-sachs-says.html",
-        "published": "Thu, 24 Sep 2026 14:00:49 GMT"
-      },
-      {
-        "title": "Starbucks to shutter about 250 stores in latest round of cafe closures",
-        "link": "https://www.cnbc.com/2026/09/24/starbucks-to-close-250-stores.html",
-        "published": "Thu, 24 Sep 2026 12:40:27 GMT"
-      },
-      {
-        "title": "Lowe's is launching a drone delivery service in partnership with DoorDash, Alphabet",
-        "link": "https://www.cnbc.com/2026/09/24/lowes-drones-delivery-doordash-alphabet.html",
-        "published": "Thu, 24 Sep 2026 12:00:01 GMT"
+        "published": "Thu, 24 Sep 2026 15:41:37 GMT"
       }
     ]
   }
