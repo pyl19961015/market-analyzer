@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-09-29T16:38:18",
+  "generated_at": "2026-09-29T21:02:52",
   "date": "2026-09-29",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7662.89,
-        "pct_change": -0.27
+        "last": 7670.84,
+        "pct_change": -0.17
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26784.32,
-        "pct_change": -0.13
+        "last": 26797.54,
+        "pct_change": -0.09
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 51190.6,
-        "pct_change": -0.57
+        "last": 51349.92,
+        "pct_change": -0.26
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2797.89,
-        "pct_change": -0.71
+        "last": 2807.92,
+        "pct_change": -0.35
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 16.29,
-        "pct_change": 1.37
+        "last": 16.04,
+        "pct_change": -0.19
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 5.28,
-        "pct_change": 0.78
+        "last": 5.26,
+        "pct_change": 0.29
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 101.5,
-        "pct_change": 0.29
+        "last": 101.38,
+        "pct_change": 0.18
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 90.33,
-        "pct_change": -2.45
+        "last": 88.95,
+        "pct_change": -3.94
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4185.7,
-        "pct_change": -3.14
+        "last": 4212.7,
+        "pct_change": 1.06
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 194.74,
-        "pct_change": 0.11
+        "last": 194.5,
+        "pct_change": -0.02
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 53.77,
-        "pct_change": -0.78
+        "last": 54.01,
+        "pct_change": -0.33
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 61.71,
-        "pct_change": -0.63
+        "last": 61.54,
+        "pct_change": -0.9
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 169.6,
-        "pct_change": -0.97
+        "last": 170.73,
+        "pct_change": -0.31
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 108.94,
-        "pct_change": -0.05
+        "last": 109.15,
+        "pct_change": 0.14
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 81.6,
-        "pct_change": -0.83
+        "last": 81.85,
+        "pct_change": -0.52
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 168.76,
-        "pct_change": -0.01
+        "last": 169.13,
+        "pct_change": 0.21
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 39.53,
-        "pct_change": 0.7
+        "last": 39.71,
+        "pct_change": 1.17
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 49.04,
-        "pct_change": -0.86
+        "last": 49.1,
+        "pct_change": -0.75
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 41.22,
-        "pct_change": -0.3
+        "last": 41.34,
+        "pct_change": -0.02
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 110.81,
-        "pct_change": -0.34
+        "last": 111.47,
+        "pct_change": 0.26
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 157.39,
-        "pct_change": -0.05
+        "last": 157.3,
+        "pct_change": -0.1
       }
     }
   },
@@ -138,63 +138,63 @@
       "as_of": "2026-09-28",
       "prev_yield": 3.071
     },
-    "spread_10y": 2.2
+    "spread_10y": 2.18
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 157.56,
-        "pct_change": 3.94
+        "last": 158.71,
+        "pct_change": 4.7
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 331.25,
-        "pct_change": -2.11
+        "last": 329.4,
+        "pct_change": -2.66
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 508.49,
-        "pct_change": -0.14
+        "last": 508.96,
+        "pct_change": -0.05
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 247.11,
-        "pct_change": 0.39
+        "last": 246.67,
+        "pct_change": 0.21
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 339.29,
-        "pct_change": -1.01
+        "last": 340.92,
+        "pct_change": -0.53
       },
       "Meta": {
         "symbol": "META",
-        "last": 718.47,
-        "pct_change": 0.4
+        "last": 738.79,
+        "pct_change": 3.24
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 979.43,
-        "pct_change": 6.31
+        "last": 973.49,
+        "pct_change": 5.66
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 294.9,
-        "pct_change": 4.41
+        "last": 292.21,
+        "pct_change": 3.46
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 84.26,
-        "pct_change": -0.42
+        "last": 84.34,
+        "pct_change": -0.33
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 5660.0,
-        "pct_change": -0.88
+        "last": 5618.0,
+        "pct_change": -0.74
       }
     }
   },
@@ -691,6 +691,12 @@
   "fed_policy": {
     "Press Releases": [
       {
+        "title": "Agencies publish resolution plan feedback letters for 15 banking organizations",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm",
+        "published": "Tue, 29 Sep 2026 20:00:00 GMT",
+        "summary": "Agencies publish resolution plan feedback letters for 15 banking organizations"
+      },
+      {
         "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
         "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
         "published": "Fri, 25 Sep 2026 20:30:00 GMT",
@@ -731,15 +737,21 @@
         "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
         "published": "Wed, 16 Sep 2026 18:00:00 GMT",
         "summary": "Federal Reserve issues FOMC statement"
-      },
-      {
-        "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
-        "published": "Wed, 16 Sep 2026 18:00:00 GMT",
-        "summary": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting"
       }
     ],
     "Speeches": [
+      {
+        "title": "Waller, Payments in the Age of AI Agents",
+        "link": "https://www.federalreserve.gov/newsevents/speech/waller20260928a.htm",
+        "published": "Tue, 29 Sep 2026 19:00:00 GMT",
+        "summary": "Speech At Sibos 2026, Miami, Florida"
+      },
+      {
+        "title": "Barr, Economic Conditions and Monetary Policy",
+        "link": "https://www.federalreserve.gov/newsevents/speech/barr20260929a.htm",
+        "published": "Tue, 29 Sep 2026 16:40:00 GMT",
+        "summary": "Speech At the Detroit Economic Club, Detroit, Michigan"
+      },
       {
         "title": "Bowman, Opening Remarks",
         "link": "https://www.federalreserve.gov/newsevents/speech/bowman20260929a.htm",
@@ -775,18 +787,6 @@
         "link": "https://www.federalreserve.gov/newsevents/speech/bowman20260918a.htm",
         "published": "Fri, 18 Sep 2026 13:30:00 GMT",
         "summary": "Speech At the Luncheon of the Lord Mayor City of London at Mansion House, London, United Kingdom"
-      },
-      {
-        "title": "Waller, The Economic Outlook and Some Comments on My Policy Communication",
-        "link": "https://www.federalreserve.gov/newsevents/speech/waller20260903a.htm",
-        "published": "Thu, 3 Sep 2026 12:30:00 GMT",
-        "summary": "Speech At Reuters NEXT Newsmaker Interview, Washington, D.C."
-      },
-      {
-        "title": "Barr, Unlocking Opportunities for Workers and Entrepreneurs with a Criminal Record",
-        "link": "https://www.federalreserve.gov/newsevents/speech/barr20260901a.htm",
-        "published": "Tue, 1 Sep 2026 13:05:00 GMT",
-        "summary": "Speech At the Second-Chance Lending Forum, Developing Evidence-Based Policy on Creditworthiness and Criminal History, Washington, D.C."
       }
     ],
     "FOMC Press Releases": [
@@ -885,86 +885,86 @@
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
-        "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
-        "published": "Tue, 29 Sep 2026 16:30:00 GMT"
-      },
-      {
-        "title": "You might be shocked by how many stocks are in a bear market right now",
-        "link": "https://www.marketwatch.com/story/you-might-be-shocked-by-how-many-stocks-are-in-a-bear-market-right-now-017c9cd8?mod=mw_rss_topstories",
-        "published": "Tue, 29 Sep 2026 16:24:00 GMT"
-      },
-      {
-        "title": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
-        "link": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
-        "published": "Tue, 29 Sep 2026 16:15:00 GMT"
-      },
-      {
-        "title": "‘I have $400,000 in equity’: I’m 80 years old. Should I move out of my house because of dangerous stairs?",
-        "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
-        "published": "Tue, 29 Sep 2026 15:45:00 GMT"
-      },
-      {
-        "title": "I don’t want to spend $800 on flights to see my family for Thanksgiving. Can I break this holiday tradition?",
-        "link": "https://www.marketwatch.com/story/spending-800-to-see-my-family-this-thanksgiving-is-a-financial-burden-how-can-i-push-for-a-cheaper-flight-c6dd1fdf?mod=mw_rss_topstories",
-        "published": "Tue, 29 Sep 2026 15:29:00 GMT"
-      },
-      {
-        "title": "Job openings are low and hiring is weak. Why the U.S. labor market won’t get better soon.",
-        "link": "https://www.marketwatch.com/story/job-openings-are-low-and-hiring-is-weak-why-the-u-s-labor-market-wont-get-better-soon-18292734?mod=mw_rss_topstories",
-        "published": "Tue, 29 Sep 2026 15:21:00 GMT"
-      },
-      {
         "title": "Medicare Advantage plans will be cheaper next year. Here’s the new cost.",
         "link": "https://www.marketwatch.com/story/medicare-advantage-plans-will-be-cheaper-next-year-heres-the-new-cost-2f7ab55b?mod=mw_rss_topstories",
-        "published": "Tue, 29 Sep 2026 15:16:00 GMT"
+        "published": "Tue, 29 Sep 2026 20:57:00 GMT"
       },
       {
-        "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
-        "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
-        "published": "Tue, 29 Sep 2026 15:15:00 GMT"
+        "title": "Nvidia’s historic buyback announcement underscores a sharp divide in Big Tech",
+        "link": "https://www.marketwatch.com/story/nvidias-historic-buyback-announcement-underscores-a-sharp-divide-in-big-tech-ac04a001?mod=mw_rss_topstories",
+        "published": "Tue, 29 Sep 2026 20:52:00 GMT"
+      },
+      {
+        "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
+        "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+        "published": "Tue, 29 Sep 2026 20:30:00 GMT"
+      },
+      {
+        "title": "Traders expecting a back-to-back rate hike from the Fed in October may have gotten ahead of themselves",
+        "link": "https://www.marketwatch.com/story/traders-expecting-a-back-to-back-rate-hike-from-the-fed-in-october-may-have-gotten-ahead-of-themselves-e2cc5193?mod=mw_rss_topstories",
+        "published": "Tue, 29 Sep 2026 20:13:00 GMT"
+      },
+      {
+        "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
+        "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
+        "published": "Tue, 29 Sep 2026 20:00:00 GMT"
+      },
+      {
+        "title": "The real prize in AMD’s $8 billion World Labs acquisition isn’t what you’d think",
+        "link": "https://www.marketwatch.com/story/the-real-prize-in-amds-8-billion-world-labs-acquisition-isnt-what-youd-think-6f609d0f?mod=mw_rss_topstories",
+        "published": "Tue, 29 Sep 2026 19:34:00 GMT"
+      },
+      {
+        "title": "My kids don’t want my decades’ worth of stuff. Here’s how I’m learning to let go of it.",
+        "link": "https://www.marketwatch.com/story/my-kids-dont-want-my-decades-worth-of-stuff-heres-how-im-learning-to-let-go-of-it-74f91da6?mod=mw_rss_topstories",
+        "published": "Tue, 29 Sep 2026 19:02:00 GMT"
+      },
+      {
+        "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
+        "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+        "published": "Tue, 29 Sep 2026 18:55:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "Consumer optimism slides to lowest since 2014 as fears escalate over rising prices and jobs",
-        "link": "https://www.cnbc.com/2026/09/29/consumer-optimism-slides-sharply-as-fears-escalate-over-rising-prices-and-jobs.html",
-        "published": "Tue, 29 Sep 2026 15:48:24 GMT"
+        "title": "Trump says he and tech leaders signed AI agreement that is 'morally binding'",
+        "link": "https://www.cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html",
+        "published": "Tue, 29 Sep 2026 21:02:16 GMT"
       },
       {
-        "title": "Sam Altman tells CNBC why OpenAI scrapped latest Astra model: Live updates",
-        "link": "https://www.cnbc.com/2026/09/29/openai-devday-2026-live-updates.html",
-        "published": "Tue, 29 Sep 2026 16:33:09 GMT"
+        "title": "The Fed's main inflation measure will be released Wednesday. Here's what to expect",
+        "link": "https://www.cnbc.com/2026/09/29/the-feds-main-inflation-measure-will-be-released-wednesday-heres-what-to-expect.html",
+        "published": "Tue, 29 Sep 2026 20:51:43 GMT"
       },
       {
-        "title": "Property Play: Homeowners are sitting on record equity – and not using it",
+        "title": "30-year Treasury bond yield scales to highest level since 2002",
+        "link": "https://www.cnbc.com/2026/09/29/treasury-yields-bonds.html",
+        "published": "Tue, 29 Sep 2026 20:03:39 GMT"
+      },
+      {
+        "title": "Dow posts back-to-back losses as Treasury yields continue their ascent",
+        "link": "https://www.cnbc.com/2026/09/28/stock-market-today-live-updates.html",
+        "published": "Tue, 29 Sep 2026 20:43:07 GMT"
+      },
+      {
+        "title": "Goldman Sachs CEO succession planning faces one big problem",
+        "link": "https://www.cnbc.com/2026/09/29/goldman-sachs-ceo-succession-planning.html",
+        "published": "Tue, 29 Sep 2026 20:50:10 GMT"
+      },
+      {
+        "title": "Get paid even more on your cash holdings with this strategy",
+        "link": "https://www.cnbc.com/2026/09/29/get-paid-even-more-on-your-cash-holdings-with-this-strategy.html",
+        "published": "Tue, 29 Sep 2026 19:26:23 GMT"
+      },
+      {
+        "title": "IPO postponements are accelerating in third quarter, even beyond Oura",
+        "link": "https://www.cnbc.com/2026/09/29/ipo-postponements-are-accelerating-in-third-quarter-even-beyond-oura.html",
+        "published": "Tue, 29 Sep 2026 20:33:01 GMT"
+      },
+      {
+        "title": "Homeowners are sitting on record equity – and not using it",
         "link": "https://www.cnbc.com/2026/09/29/homeowners-are-sitting-on-record-equity-and-not-using-it.html",
-        "published": "Tue, 29 Sep 2026 15:54:12 GMT"
-      },
-      {
-        "title": "Education Department extends deadline for student loan interest rate discount",
-        "link": "https://www.cnbc.com/2026/09/29/trump-officials-extend-student-loan-interest-rate-discount-deadline.html",
-        "published": "Tue, 29 Sep 2026 16:23:28 GMT"
-      },
-      {
-        "title": "New AI-powered government website uses Gemini, Grok, Trump official Gebbia says",
-        "link": "https://www.cnbc.com/2026/09/29/trump-ai-gemini-grok.html",
-        "published": "Tue, 29 Sep 2026 15:37:12 GMT"
-      },
-      {
-        "title": "Micron earnings this week could test whether the memory boom has more room to run",
-        "link": "https://www.cnbc.com/2026/09/29/micron-earnings-this-week-could-test-whether-the-memory-boom-has-more-room-to-run.html",
-        "published": "Tue, 29 Sep 2026 15:04:44 GMT"
-      },
-      {
-        "title": "El Pollo Loco to open first New York restaurant as it aims to become national chicken chain",
-        "link": "https://www.cnbc.com/2026/09/29/el-pollo-loco-opens-first-new-york-restaurant.html",
-        "published": "Tue, 29 Sep 2026 16:00:01 GMT"
-      },
-      {
-        "title": "Alaska Airlines CEO 'not overly concerned' about new Boeing Max 10 delay",
-        "link": "https://www.cnbc.com/2026/09/29/boeing-max-delay-alaska-airlines-ceo.html",
-        "published": "Tue, 29 Sep 2026 15:13:08 GMT"
+        "published": "Tue, 29 Sep 2026 19:23:06 GMT"
       }
     ]
   }
