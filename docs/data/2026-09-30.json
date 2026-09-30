@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T00:25:57",
+  "generated_at": "2026-09-30T05:48:58",
   "date": "2026-09-30",
   "market_sentiment": {
     "indices": {
@@ -15,8 +15,8 @@
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 51349.92,
-        "pct_change": -0.26
+        "last": null,
+        "pct_change": null
       },
       "Russell 2000": {
         "symbol": "^RUT",
@@ -35,75 +35,75 @@
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 101.43,
-        "pct_change": 0.22
+        "last": 101.39,
+        "pct_change": 0.02
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 89.31,
-        "pct_change": -3.55
+        "last": 89.44,
+        "pct_change": 0.07
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4215.3,
-        "pct_change": -2.45
+        "last": 4207.5,
+        "pct_change": 0.67
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 194.53,
-        "pct_change": -0.89
+        "last": 194.5,
+        "pct_change": -0.02
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 54.19,
-        "pct_change": -1.19
+        "last": 54.01,
+        "pct_change": -0.33
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 62.1,
-        "pct_change": 0.1
+        "last": 61.54,
+        "pct_change": -0.9
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 171.26,
-        "pct_change": 0.33
+        "last": 170.73,
+        "pct_change": -0.31
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 109.0,
-        "pct_change": -1.41
+        "last": 109.15,
+        "pct_change": 0.14
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 82.28,
-        "pct_change": 0.27
+        "last": 81.85,
+        "pct_change": -0.52
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 168.78,
-        "pct_change": -0.97
+        "last": 169.13,
+        "pct_change": 0.21
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 39.25,
-        "pct_change": -0.66
+        "last": 39.71,
+        "pct_change": 1.17
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 49.47,
-        "pct_change": -0.66
+        "last": 49.1,
+        "pct_change": -0.75
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 41.35,
-        "pct_change": -0.51
+        "last": 41.34,
+        "pct_change": -0.02
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 111.18,
-        "pct_change": -1.58
+        "last": 111.47,
+        "pct_change": 0.26
       }
     }
   },
@@ -111,18 +111,18 @@
     "indices": {
       "Nikkei 225": {
         "symbol": "^N225",
-        "last": 66438.36,
-        "pct_change": 0.85
+        "last": 66843.94,
+        "pct_change": 2.08
       },
       "TOPIX (ETF代理)": {
         "symbol": "1306.T",
-        "last": 428.4,
-        "pct_change": 0.71
+        "last": 432.9,
+        "pct_change": 1.76
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 157.31,
-        "pct_change": -0.03
+        "last": 156.96,
+        "pct_change": -0.26
       }
     }
   },
@@ -135,8 +135,8 @@
     },
     "japan": {
       "yield": 3.082,
-      "as_of": "2026-09-28",
-      "prev_yield": 3.071
+      "as_of": "2026-09-29",
+      "prev_yield": 3.082
     },
     "spread_10y": 2.18
   },
@@ -144,57 +144,57 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 151.59,
-        "pct_change": -3.29
+        "last": 158.71,
+        "pct_change": 4.7
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 338.4,
-        "pct_change": -0.78
+        "last": 329.4,
+        "pct_change": -2.66
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 509.22,
-        "pct_change": -1.35
+        "last": 508.96,
+        "pct_change": -0.05
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 246.15,
-        "pct_change": -1.41
+        "last": 246.67,
+        "pct_change": 0.21
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 342.75,
-        "pct_change": -0.34
+        "last": 340.92,
+        "pct_change": -0.53
       },
       "Meta": {
         "symbol": "META",
-        "last": 715.62,
-        "pct_change": -4.79
+        "last": 738.79,
+        "pct_change": 3.24
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 921.32,
-        "pct_change": -2.16
+        "last": 973.49,
+        "pct_change": 5.66
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 282.45,
-        "pct_change": -4.52
+        "last": 292.21,
+        "pct_change": 3.46
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 84.62,
-        "pct_change": 0.63
+        "last": 84.34,
+        "pct_change": -0.33
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 5689.0,
-        "pct_change": 1.26
+        "last": 5746.0,
+        "pct_change": 2.28
       }
     }
   },
@@ -428,7 +428,7 @@
       "country": "USD",
       "date": "2026-09-30T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "-1.9M",
+      "forecast": "-0.7M",
       "previous": "3.0M"
     },
     {
@@ -444,6 +444,14 @@
       "country": "USD",
       "date": "2026-09-30T15:25:00-04:00",
       "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "President Trump Speaks",
+      "country": "USD",
+      "date": "2026-09-30T15:30:00-04:00",
+      "impact": "Medium",
       "forecast": "",
       "previous": ""
     },
@@ -588,7 +596,7 @@
       "country": "USD",
       "date": "2026-10-01T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "63B",
       "previous": "53B"
     },
     {
@@ -885,6 +893,16 @@
     ],
     "MarketWatch Top Stories": [
       {
+        "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
+        "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+        "published": "Wed, 30 Sep 2026 01:00:00 GMT"
+      },
+      {
+        "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
+        "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
+        "published": "Wed, 30 Sep 2026 00:30:00 GMT"
+      },
+      {
         "title": "I’m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
         "link": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
         "published": "Tue, 29 Sep 2026 23:30:00 GMT"
@@ -913,16 +931,6 @@
         "title": "The real prize in AMD’s $8 billion World Labs acquisition isn’t what you’d think",
         "link": "https://www.marketwatch.com/story/the-real-prize-in-amds-8-billion-world-labs-acquisition-isnt-what-youd-think-6f609d0f?mod=mw_rss_topstories",
         "published": "Tue, 29 Sep 2026 21:52:00 GMT"
-      },
-      {
-        "title": "Target’s price cuts are a sign of strength, some analysts say. Investors disagree.",
-        "link": "https://www.marketwatch.com/story/targets-price-cuts-are-a-sign-of-strength-some-analysts-say-investors-disagree-6a6f0717?mod=mw_rss_topstories",
-        "published": "Tue, 29 Sep 2026 21:33:00 GMT"
-      },
-      {
-        "title": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
-        "link": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
-        "published": "Tue, 29 Sep 2026 21:30:00 GMT"
       }
     ],
     "CNBC Top News": [
@@ -932,39 +940,39 @@
         "published": "Tue, 29 Sep 2026 22:42:35 GMT"
       },
       {
-        "title": "The Fed's main inflation measure will be released Wednesday. Here's what to expect",
-        "link": "https://www.cnbc.com/2026/09/29/the-feds-main-inflation-measure-will-be-released-wednesday-heres-what-to-expect.html",
-        "published": "Tue, 29 Sep 2026 20:51:43 GMT"
-      },
-      {
-        "title": "30-year Treasury bond yield scales to highest level since 2002",
-        "link": "https://www.cnbc.com/2026/09/29/treasury-yields-bonds.html",
-        "published": "Tue, 29 Sep 2026 20:03:39 GMT"
-      },
-      {
         "title": "Hedge funds hold a record share of the $30 trillion Treasury market. What could go wrong?",
         "link": "https://www.cnbc.com/2026/09/30/us-treasury-market-is-relying-more-on-hedge-funds.html",
         "published": "Wed, 30 Sep 2026 00:19:09 GMT"
       },
       {
+        "title": "Beijing warns of retaliation if Europe imposes curbs on Chinese businesses",
+        "link": "https://www.cnbc.com/2026/09/30/china-warns-europe-increases-trade-pressure.html",
+        "published": "Wed, 30 Sep 2026 03:39:08 GMT"
+      },
+      {
         "title": "Stock futures inch higher as traders weather latest rise in Treasury yields: Live updates",
         "link": "https://www.cnbc.com/2026/09/29/stock-market-today-live-updates.html",
-        "published": "Wed, 30 Sep 2026 00:15:36 GMT"
+        "published": "Wed, 30 Sep 2026 05:23:25 GMT"
       },
       {
-        "title": "Most traders are looking at Micron into earnings. But don't count out Nike",
-        "link": "https://www.cnbc.com/2026/09/29/most-traders-are-looking-at-micron-into-earnings-but-dont-count-out-nike.html",
-        "published": "Tue, 29 Sep 2026 21:34:48 GMT"
+        "title": "Boeing wins U.S. Navy's next-generation fighter contract, Pentagon says",
+        "link": "https://www.cnbc.com/2026/09/29/boeing-fighter-contract-pentagon.html",
+        "published": "Tue, 29 Sep 2026 22:16:25 GMT"
       },
       {
-        "title": "Goldman Sachs CEO succession planning faces one big problem",
-        "link": "https://www.cnbc.com/2026/09/29/goldman-sachs-ceo-succession-planning.html",
-        "published": "Tue, 29 Sep 2026 20:50:10 GMT"
+        "title": "The Fed's main inflation measure will be released Wednesday. Here's what to expect",
+        "link": "https://www.cnbc.com/2026/09/29/the-feds-main-inflation-measure-will-be-released-wednesday-heres-what-to-expect.html",
+        "published": "Tue, 29 Sep 2026 20:51:43 GMT"
       },
       {
-        "title": "IPO postponements are accelerating in third quarter, even beyond Oura",
-        "link": "https://www.cnbc.com/2026/09/29/ipo-postponements-are-accelerating-in-third-quarter-even-beyond-oura.html",
-        "published": "Tue, 29 Sep 2026 21:05:26 GMT"
+        "title": "Million-dollar question: Between S&P 500 bulls and bears, who would likely win?",
+        "link": "https://www.cnbc.com/2026/09/30/debate-spx500-bulls-bears-us-stocks.html",
+        "published": "Wed, 30 Sep 2026 05:11:53 GMT"
+      },
+      {
+        "title": "‘Don’t go with a fund, go with a solution’: CEO’s tips from decades of global investing",
+        "link": "https://www.cnbc.com/2026/09/30/bluefive-ceo-offers-tips-from-decades-of-global-investing.html",
+        "published": "Wed, 30 Sep 2026 02:37:21 GMT"
       }
     ]
   }
