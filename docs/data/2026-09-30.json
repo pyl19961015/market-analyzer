@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-09-30T17:33:49",
+  "generated_at": "2026-09-30T21:32:14",
   "date": "2026-09-30",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7701.57,
-        "pct_change": 0.4
+        "last": 7651.54,
+        "pct_change": -0.25
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 27020.59,
-        "pct_change": 0.83
+        "last": 26861.06,
+        "pct_change": 0.24
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 51235.13,
-        "pct_change": -0.22
+        "last": 50906.05,
+        "pct_change": -0.86
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2809.64,
-        "pct_change": 0.06
+        "last": 2796.86,
+        "pct_change": -0.39
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.97,
-        "pct_change": -0.44
+        "last": 16.34,
+        "pct_change": 1.87
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 5.3,
-        "pct_change": 0.89
+        "last": 5.29,
+        "pct_change": 0.72
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 101.39,
-        "pct_change": 0.02
+        "last": 101.45,
+        "pct_change": 0.08
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 91.03,
-        "pct_change": 1.85
+        "last": 90.34,
+        "pct_change": 1.07
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4184.2,
-        "pct_change": 0.11
+        "last": 4189.1,
+        "pct_change": 0.22
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 196.29,
-        "pct_change": 0.92
+        "last": 195.75,
+        "pct_change": 0.64
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 53.58,
-        "pct_change": -0.8
+        "last": 53.4,
+        "pct_change": -1.13
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 62.01,
-        "pct_change": 0.77
+        "last": 61.5,
+        "pct_change": -0.06
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 170.17,
-        "pct_change": -0.33
+        "last": 168.42,
+        "pct_change": -1.35
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 109.11,
-        "pct_change": -0.04
+        "last": 108.84,
+        "pct_change": -0.28
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 81.33,
-        "pct_change": -0.63
+        "last": 80.6,
+        "pct_change": -1.53
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 168.04,
-        "pct_change": -0.64
+        "last": 166.98,
+        "pct_change": -1.27
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 39.62,
-        "pct_change": -0.24
+        "last": 39.44,
+        "pct_change": -0.68
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 49.12,
-        "pct_change": 0.03
+        "last": 48.7,
+        "pct_change": -0.81
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 41.08,
-        "pct_change": -0.64
+        "last": 40.91,
+        "pct_change": -1.04
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 111.91,
-        "pct_change": 0.39
+        "last": 110.97,
+        "pct_change": -0.45
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 157.28,
-        "pct_change": -0.05
+        "last": 157.34,
+        "pct_change": -0.01
       }
     }
   },
@@ -138,63 +138,63 @@
       "as_of": "2026-09-29",
       "prev_yield": 3.082
     },
-    "spread_10y": 2.22
+    "spread_10y": 2.21
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 153.4,
-        "pct_change": -3.35
+        "last": 153.76,
+        "pct_change": -3.12
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 335.9,
-        "pct_change": 1.97
+        "last": 333.02,
+        "pct_change": 1.1
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 517.2,
-        "pct_change": 1.62
+        "last": 512.9,
+        "pct_change": 0.77
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 250.73,
-        "pct_change": 1.65
+        "last": 249.15,
+        "pct_change": 1.01
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 349.96,
-        "pct_change": 2.65
+        "last": 344.08,
+        "pct_change": 0.93
       },
       "Meta": {
         "symbol": "META",
-        "last": 733.1,
-        "pct_change": -0.77
+        "last": 725.18,
+        "pct_change": -1.84
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 958.14,
-        "pct_change": -1.58
+        "last": 971.26,
+        "pct_change": -0.23
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 284.27,
-        "pct_change": -2.72
+        "last": 287.81,
+        "pct_change": -1.51
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 84.53,
-        "pct_change": 0.23
+        "last": 84.3,
+        "pct_change": -0.05
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 5618.0,
-        "pct_change": -0.74
+        "last": 5747.0,
+        "pct_change": 2.3
       }
     }
   },
@@ -749,6 +749,12 @@
     ],
     "Speeches": [
       {
+        "title": "Cook, The Dual Mandate in Rural America",
+        "link": "https://www.federalreserve.gov/newsevents/speech/cook20260930a.htm",
+        "published": "Wed, 30 Sep 2026 19:25:00 GMT",
+        "summary": "Speech At the 2026 Investing in Rural America Conference, Federal Reserve Bank of Richmond, Asheville, North Carolina"
+      },
+      {
         "title": "Waller, Payments in the Age of AI Agents",
         "link": "https://www.federalreserve.gov/newsevents/speech/waller20260928a.htm",
         "published": "Tue, 29 Sep 2026 19:00:00 GMT",
@@ -787,12 +793,6 @@
       {
         "title": "Bowman, Initial Findings from Independent Review of Silicon Valley Bank",
         "link": "https://www.federalreserve.gov/newsevents/speech/bowman20260918b.htm",
-        "published": "Fri, 18 Sep 2026 13:30:00 GMT",
-        "summary": "Speech At the Luncheon of the Lord Mayor City of London at Mansion House, London, United Kingdom"
-      },
-      {
-        "title": "Bowman, The Final Chapter on Modernizing Bank Regulatory Stress Testing",
-        "link": "https://www.federalreserve.gov/newsevents/speech/bowman20260918a.htm",
         "published": "Fri, 18 Sep 2026 13:30:00 GMT",
         "summary": "Speech At the Luncheon of the Lord Mayor City of London at Mansion House, London, United Kingdom"
       }
@@ -893,86 +893,86 @@
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
-        "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
-        "published": "Wed, 30 Sep 2026 17:31:00 GMT"
+        "title": "The 15 worst-performing S&P 500 stocks during a dismal September",
+        "link": "https://www.marketwatch.com/story/the-15-worst-performing-s-p-500-stocks-during-a-dismal-september-991f8a07?mod=mw_rss_topstories",
+        "published": "Wed, 30 Sep 2026 21:22:00 GMT"
       },
       {
-        "title": "Former NFL players are nearly four times as likely to die with brain damage. Is it time to boycott football?",
-        "link": "https://www.marketwatch.com/story/former-nfl-players-are-nearly-four-times-as-likely-to-die-with-brain-damage-is-it-time-to-boycott-football-ba886e44?mod=mw_rss_topstories",
-        "published": "Wed, 30 Sep 2026 17:15:00 GMT"
+        "title": "Trump touts economic wins in battleground states — like a $54 billion Alaskan pipeline — as the midterms draw closer",
+        "link": "https://www.marketwatch.com/story/trump-touts-economic-wins-in-battleground-states-like-a-54-billion-alaskan-pipeline-as-the-midterms-draw-closer-46db0149?mod=mw_rss_topstories",
+        "published": "Wed, 30 Sep 2026 21:16:00 GMT"
       },
       {
-        "title": "The U.S. economy is defying gravity. Here’s all the good news.",
-        "link": "https://www.marketwatch.com/story/the-u-s-economy-is-defying-gravity-heres-all-the-good-news-8b58fc7b?mod=mw_rss_topstories",
-        "published": "Wed, 30 Sep 2026 17:07:00 GMT"
+        "title": "How the ‘AI put’ has become the only thing that matters for stocks",
+        "link": "https://www.marketwatch.com/story/this-is-the-big-risk-that-stock-investors-should-be-watching-as-rising-bond-yields-menace-markets-904cae0a?mod=mw_rss_topstories",
+        "published": "Wed, 30 Sep 2026 20:59:00 GMT"
       },
       {
-        "title": "Gold is supposed to be a safe haven when inflation surges. So why isn’t it working that way now?",
-        "link": "https://www.marketwatch.com/story/gold-is-supposed-to-be-a-safe-haven-when-inflation-surges-so-why-isnt-it-working-that-way-now-45cbb07b?mod=mw_rss_topstories",
-        "published": "Wed, 30 Sep 2026 16:51:00 GMT"
-      },
-      {
-        "title": "Wall Street may be sleeping on this networking stock tied to Google and OpenAI",
-        "link": "https://www.marketwatch.com/story/wall-street-may-be-sleeping-on-this-networking-stock-tied-to-google-and-openai-1cb9741f?mod=mw_rss_topstories",
-        "published": "Wed, 30 Sep 2026 16:29:00 GMT"
-      },
-      {
-        "title": "Dolly Parton planned for her estate. The fight with her nephew shows why that matters.",
-        "link": "https://www.marketwatch.com/story/dolly-parton-planned-for-her-estate-the-fight-with-her-nephew-shows-why-that-matters-b7e57c26?mod=mw_rss_topstories",
-        "published": "Wed, 30 Sep 2026 16:20:00 GMT"
-      },
-      {
-        "title": "Saving your retirement could come down to this simple writing exercise",
-        "link": "https://www.marketwatch.com/story/saving-your-retirement-could-come-down-to-this-simple-writing-exercise-c25734a9?mod=mw_rss_topstories",
-        "published": "Wed, 30 Sep 2026 16:11:00 GMT"
+        "title": "A brutal September for bonds points to an even darker October",
+        "link": "https://www.marketwatch.com/story/a-brutal-september-for-bonds-points-to-an-even-darker-october-239d0fb5?mod=mw_rss_topstories",
+        "published": "Wed, 30 Sep 2026 20:56:00 GMT"
       },
       {
         "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
         "link": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
-        "published": "Wed, 30 Sep 2026 16:00:00 GMT"
+        "published": "Wed, 30 Sep 2026 20:45:00 GMT"
+      },
+      {
+        "title": "U.S. bond yields post biggest jump in a generation as global rout rattles investors",
+        "link": "https://www.marketwatch.com/story/u-s-bond-yields-head-for-biggest-jump-in-a-generation-as-global-rout-rattles-investors-7dede2f2?mod=mw_rss_topstories",
+        "published": "Wed, 30 Sep 2026 20:32:00 GMT"
+      },
+      {
+        "title": "Paramount’s mega debt sale reveals how higher bond yields are squeezing corporate America",
+        "link": "https://www.marketwatch.com/story/paramounts-mega-debt-sale-reveals-how-higher-bond-yields-are-squeezing-corporate-america-e9694ec3?mod=mw_rss_topstories",
+        "published": "Wed, 30 Sep 2026 19:42:00 GMT"
+      },
+      {
+        "title": "Billionaires like Ken Griffin are doling out tons of money to prove that a college degree still matters",
+        "link": "https://www.marketwatch.com/story/billionaires-like-ken-griffin-are-doling-out-tons-of-money-to-prove-that-a-college-degree-still-matters-63e50332?mod=mw_rss_topstories",
+        "published": "Wed, 30 Sep 2026 19:21:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
+        "title": "Micron beats on earnings and issues strong guidance as data center revenue jumps 11-fold",
+        "link": "https://www.cnbc.com/2026/09/30/micron-mu-q4-earnings-report-2026.html",
+        "published": "Wed, 30 Sep 2026 20:59:05 GMT"
+      },
+      {
+        "title": "Sen. Hawley: OpenAI CEO Sam Altman declined to testify at rogue AI hearing",
+        "link": "https://www.cnbc.com/2026/09/30/hawley-openai-sam-altman-rogue-ai.html",
+        "published": "Wed, 30 Sep 2026 20:51:44 GMT"
+      },
+      {
+        "title": "Crude oil exports through the Strait of Hormuz hit prewar levels, but fuel shipments remain constrained",
+        "link": "https://www.cnbc.com/2026/09/30/iran-war-strait-hormuz-gulf-oil-fuel.html",
+        "published": "Wed, 30 Sep 2026 20:16:17 GMT"
+      },
+      {
+        "title": "Grindr expands beyond dating with $250 million telehealth acquisition of PurposeMed",
+        "link": "https://www.cnbc.com/2026/09/30/grindr-purposemed-freddie-telehealth-acquisition.html",
+        "published": "Wed, 30 Sep 2026 20:45:01 GMT"
+      },
+      {
+        "title": "David Ellison names Ynon Kreiz co-CEO of Paramount and Warner Bros. Discovery",
+        "link": "https://www.cnbc.com/2026/09/30/david-ellison-ynon-kreiz-co-ceo-paramount-wbd.html",
+        "published": "Wed, 30 Sep 2026 21:20:49 GMT"
+      },
+      {
+        "title": "Broken market: 75% of S&P 500 stocks had a lousy September",
+        "link": "https://www.cnbc.com/2026/09/30/broken-market-75percent-of-sp-500-stocks-had-a-lousy-september-.html",
+        "published": "Wed, 30 Sep 2026 20:03:16 GMT"
+      },
+      {
         "title": "Fed watchdog finds renovation failures, but no grounds for criminal referral",
         "link": "https://www.cnbc.com/2026/09/30/fed-inspector-general-report-powell-trump.html",
-        "published": "Wed, 30 Sep 2026 17:15:24 GMT"
+        "published": "Wed, 30 Sep 2026 20:17:49 GMT"
       },
       {
-        "title": "Inside Man: How Chinese spies used lies, love and betrayal to target the Federal Reserve",
-        "link": "https://www.cnbc.com/2026/09/30/john-rogers-fed-china-espionage-case.html",
-        "published": "Wed, 30 Sep 2026 17:21:23 GMT"
-      },
-      {
-        "title": "Stocks making the biggest moves midday: Rogers, United Therapeutics, Moderna, FormFactor & more",
-        "link": "https://www.cnbc.com/2026/09/30/stocks-making-the-biggest-moves-midday-rog-uthr-mrna-form.html",
-        "published": "Wed, 30 Sep 2026 17:04:42 GMT"
-      },
-      {
-        "title": "Commerce Secretary Howard Lutnick reports more than $250 million in income last year",
-        "link": "https://www.cnbc.com/2026/09/30/howard-lutnick-commerce-secretary-disclosure-cantor-fitzgerald.html",
-        "published": "Wed, 30 Sep 2026 16:30:42 GMT"
-      },
-      {
-        "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-        "link": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
-        "published": "Wed, 30 Sep 2026 15:54:38 GMT"
-      },
-      {
-        "title": "The hottest trade of the year so far isn't AI. It's tanker stocks",
-        "link": "https://www.cnbc.com/2026/09/30/the-hottest-trade-of-the-year-so-far-isnt-ai-its-tanker-stocks.html",
-        "published": "Wed, 30 Sep 2026 17:28:26 GMT"
-      },
-      {
-        "title": "DOJ accuses Minnesota federal judges of misconduct for NY Times immigration interviews",
-        "link": "https://www.cnbc.com/2026/09/30/doj-minnesota-judges-complaint.html",
-        "published": "Wed, 30 Sep 2026 17:09:59 GMT"
-      },
-      {
-        "title": "Senate expected to vote on stock trading ban, data center bill before election recess",
-        "link": "https://www.cnbc.com/2026/09/30/senate-stock-trading-ban-data-center-election.html",
-        "published": "Wed, 30 Sep 2026 15:19:39 GMT"
+        "title": "Elon Musk, Palmer Luckey and Newt Gingrich to help Pentagon with warfare initiative, Hegseth says",
+        "link": "https://www.cnbc.com/2026/09/30/musk-luckey-gingrich-pentagon-hegseth-.html",
+        "published": "Wed, 30 Sep 2026 21:21:10 GMT"
       }
     ]
   }
