@@ -1,84 +1,84 @@
 {
-  "generated_at": "2026-10-02T16:19:18",
+  "generated_at": "2026-10-02T20:51:44",
   "date": "2026-10-02",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7725.5,
-        "pct_change": 0.77
+        "last": 7722.72,
+        "pct_change": 0.73
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 27221.91,
-        "pct_change": 1.3
+        "last": 27190.86,
+        "pct_change": 1.19
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 51117.44,
-        "pct_change": 0.37
+        "last": 51176.96,
+        "pct_change": 0.49
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2835.25,
-        "pct_change": 1.02
+        "last": 2832.89,
+        "pct_change": 0.94
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.58,
-        "pct_change": -4.94
+        "last": 15.31,
+        "pct_change": -6.59
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 5.27,
-        "pct_change": 0.61
+        "last": 5.28,
+        "pct_change": 0.76
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 101.9,
-        "pct_change": -0.2
+        "last": 101.93,
+        "pct_change": -0.16
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 90.86,
-        "pct_change": -2.16
+        "last": 91.41,
+        "pct_change": -1.57
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4163.1,
-        "pct_change": -0.93
+        "last": 4167.8,
+        "pct_change": -0.82
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 200.42,
-        "pct_change": 1.32
+        "last": 199.81,
+        "pct_change": 1.01
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 53.37,
-        "pct_change": -0.18
+        "last": 53.49,
+        "pct_change": 0.06
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 62.62,
-        "pct_change": -0.14
+        "last": 62.82,
+        "pct_change": 0.19
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 165.37,
-        "pct_change": -0.5
+        "last": 166.18,
+        "pct_change": -0.01
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 110.06,
-        "pct_change": 1.15
+        "last": 110.04,
+        "pct_change": 1.13
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 80.22,
-        "pct_change": -0.14
+        "last": 80.53,
+        "pct_change": 0.25
       },
       "Industrials": {
         "symbol": "XLI",
@@ -88,22 +88,22 @@
       "Utilities": {
         "symbol": "XLU",
         "last": 39.83,
-        "pct_change": 0.39
+        "pct_change": 0.38
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 49.01,
-        "pct_change": 0.98
+        "last": 48.86,
+        "pct_change": 0.66
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 40.85,
-        "pct_change": 0.41
+        "last": 40.81,
+        "pct_change": 0.32
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 110.28,
-        "pct_change": 0.3
+        "last": 110.32,
+        "pct_change": 0.35
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 157.76,
-        "pct_change": 0.13
+        "last": 157.83,
+        "pct_change": 0.17
       }
     }
   },
@@ -137,63 +137,63 @@
       "yield": 3.092,
       "as_of": "2026-10-01"
     },
-    "spread_10y": 2.18
+    "spread_10y": 2.19
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 164.47,
-        "pct_change": 2.52
+        "last": 164.19,
+        "pct_change": 2.35
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 332.93,
-        "pct_change": 0.79
+        "last": 333.69,
+        "pct_change": 1.02
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 514.82,
-        "pct_change": 0.39
+        "last": 517.53,
+        "pct_change": 0.92
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 250.92,
-        "pct_change": 1.08
+        "last": 251.52,
+        "pct_change": 1.33
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 343.66,
-        "pct_change": 1.6
+        "last": 343.5,
+        "pct_change": 1.56
       },
       "Meta": {
         "symbol": "META",
-        "last": 729.38,
-        "pct_change": 0.48
+        "last": 728.08,
+        "pct_change": 0.3
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 1089.11,
-        "pct_change": 4.14
+        "last": 1085.42,
+        "pct_change": 3.79
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 336.52,
-        "pct_change": 5.43
+        "last": 337.04,
+        "pct_change": 5.59
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 87.67,
-        "pct_change": 2.33
+        "last": 86.96,
+        "pct_change": 1.51
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 5787.0,
-        "pct_change": 0.7
+        "last": 5749.0,
+        "pct_change": -0.66
       }
     }
   },
@@ -697,7 +697,7 @@
     {
       "title": "FOMC Member Goolsbee Speaks",
       "country": "USD",
-      "date": "2026-10-02T12:00:00-04:00",
+      "date": "2026-10-02T13:00:00-04:00",
       "impact": "Low",
       "forecast": "",
       "previous": ""
@@ -705,6 +705,18 @@
   ],
   "fed_policy": {
     "Press Releases": [
+      {
+        "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
+        "published": "Fri, 2 Oct 2026 20:45:00 GMT",
+        "summary": "Federal Reserve Board announces approval of application by Fleur Capital Corporation"
+      },
+      {
+        "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
+        "published": "Fri, 2 Oct 2026 20:00:00 GMT",
+        "summary": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O"
+      },
       {
         "title": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
         "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
@@ -740,18 +752,6 @@
         "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm",
         "published": "Thu, 24 Sep 2026 15:00:00 GMT",
         "summary": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank"
-      },
-      {
-        "title": "Federal Reserve Board announces approval of application by BancFirst Corporation",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
-        "published": "Tue, 22 Sep 2026 20:30:00 GMT",
-        "summary": "Federal Reserve Board announces approval of application by BancFirst Corporation"
-      },
-      {
-        "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
-        "published": "Fri, 18 Sep 2026 15:00:00 GMT",
-        "summary": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula"
       }
     ],
     "Speeches": [
@@ -900,86 +900,86 @@
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "More than 10 million older adults are now living in poverty as Social Security cuts loom: ‘I don’t know how anyone is making it’",
-        "link": "https://www.marketwatch.com/story/more-than-10-million-older-adults-are-now-living-in-poverty-as-social-security-cuts-loom-i-dont-know-how-anyone-is-making-it-237ab798?mod=mw_rss_topstories",
-        "published": "Fri, 02 Oct 2026 15:49:00 GMT"
+        "title": "Why mixing politics with your stock portfolio might be costing you money",
+        "link": "https://www.marketwatch.com/story/why-mixing-politics-with-your-stock-portfolio-might-be-costing-you-money-5b4aabfb?mod=mw_rss_topstories",
+        "published": "Fri, 02 Oct 2026 20:43:00 GMT"
       },
       {
-        "title": "Europe’s leaders rush to release diesel from stockpiles as fuel-shock hangs over U.S. midterms",
+        "title": "Does AI have a soul? Pope Leo and Anthropic clash.",
+        "link": "https://www.marketwatch.com/story/does-ai-have-a-soul-pope-leo-and-anthropic-clash-0c1669fb?mod=mw_rss_topstories",
+        "published": "Fri, 02 Oct 2026 20:40:00 GMT"
+      },
+      {
+        "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+        "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+        "published": "Fri, 02 Oct 2026 20:30:00 GMT"
+      },
+      {
+        "title": "Europe’s leaders rush to release diesel from stockpiles as fuel shock hangs over U.S. midterms",
         "link": "https://www.marketwatch.com/story/europes-leaders-rush-to-release-diesel-from-stockpiles-as-fuel-shock-hangs-over-u-s-midterms-80bf0f38?mod=mw_rss_topstories",
-        "published": "Fri, 02 Oct 2026 15:42:00 GMT"
+        "published": "Fri, 02 Oct 2026 20:26:00 GMT"
       },
       {
-        "title": "This couple took out an adjustable-rate mortgage when rates were over 8%. Here’s how it worked out.",
-        "link": "https://www.marketwatch.com/story/this-couple-took-out-an-adjustable-rate-mortgage-when-rates-were-over-8-heres-how-it-worked-out-d52e592a?mod=mw_rss_topstories",
-        "published": "Fri, 02 Oct 2026 15:37:00 GMT"
+        "title": "This city saw 1 in 3 home sellers slash their asking price in September to attract reluctant buyers",
+        "link": "https://www.marketwatch.com/story/this-city-saw-1-in-3-home-sellers-slash-their-asking-price-in-september-to-attract-reluctant-buyers-7f16a0c3?mod=mw_rss_topstories",
+        "published": "Fri, 02 Oct 2026 20:26:00 GMT"
       },
       {
-        "title": "‘Complete disruption of the economy is all but certain’: Top jobs and home prices are at risk, a new report on AI says",
-        "link": "https://www.marketwatch.com/story/another-viral-ai-doomsday-report-claims-its-over-why-home-prices-could-take-a-hit-as-screen-based-jobs-disappear-4bed48bc?mod=mw_rss_topstories",
-        "published": "Fri, 02 Oct 2026 15:18:00 GMT"
+        "title": "Saving your retirement could come down to this simple writing exercise",
+        "link": "https://www.marketwatch.com/story/saving-your-retirement-could-come-down-to-this-simple-writing-exercise-c25734a9?mod=mw_rss_topstories",
+        "published": "Fri, 02 Oct 2026 20:24:00 GMT"
       },
       {
-        "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
-        "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
-        "published": "Fri, 02 Oct 2026 15:00:00 GMT"
+        "title": "Switching jobs to get higher pay works best in these industries",
+        "link": "https://www.marketwatch.com/story/the-best-industry-to-change-jobs-to-get-paid-more-money-and-the-worst-ae33a3a7?mod=mw_rss_topstories",
+        "published": "Fri, 02 Oct 2026 20:24:00 GMT"
       },
       {
-        "title": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
-        "link": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
-        "published": "Fri, 02 Oct 2026 15:00:00 GMT"
-      },
-      {
-        "title": "Tesla sold a lot more EVs than Wall Street expected, and the stock is surging",
-        "link": "https://www.marketwatch.com/story/tesla-ev-sales-beat-wall-streets-expectations-again-and-the-stock-jumps-294a4f53?mod=mw_rss_topstories",
-        "published": "Fri, 02 Oct 2026 14:30:00 GMT"
-      },
-      {
-        "title": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
-        "link": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
-        "published": "Fri, 02 Oct 2026 14:00:00 GMT"
+        "title": "TV dinner overload? The frozen-food aisle may be too crowded for its own good.",
+        "link": "https://www.marketwatch.com/story/tv-dinner-overload-the-frozen-food-aisle-may-be-too-crowded-for-its-own-good-55bfed39?mod=mw_rss_topstories",
+        "published": "Fri, 02 Oct 2026 20:16:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
         "title": "Ford fends off Hyundai to retain No. 3 U.S. sales position in third quarter",
         "link": "https://www.cnbc.com/2026/10/02/ford-q3-sales.html",
-        "published": "Fri, 02 Oct 2026 16:06:16 GMT"
+        "published": "Fri, 02 Oct 2026 17:20:33 GMT"
       },
       {
         "title": "Men are losing ground in the labor market. Here's why",
         "link": "https://www.cnbc.com/2026/10/02/men-labor-market-jobs-report.html",
-        "published": "Fri, 02 Oct 2026 16:09:17 GMT"
+        "published": "Fri, 02 Oct 2026 17:38:59 GMT"
+      },
+      {
+        "title": "FAA says Boeing 737 Max software glitch not a flight-safety issue",
+        "link": "https://www.cnbc.com/2026/10/02/faa-says-boeing-737-max-10-software-glitch-not-a-flight-safety-issue.html",
+        "published": "Fri, 02 Oct 2026 19:19:15 GMT"
+      },
+      {
+        "title": "DOJ says it will not reopen criminal probe into former Fed Chair Powell",
+        "link": "https://www.cnbc.com/2026/10/02/doj-says-it-will-not-reopen-criminal-probe-into-former-fed-chair-powell.html",
+        "published": "Fri, 02 Oct 2026 20:32:54 GMT"
       },
       {
         "title": "G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies",
         "link": "https://www.cnbc.com/2026/10/02/diesel-oil-trump-europe-export-ban.html",
-        "published": "Fri, 02 Oct 2026 16:13:37 GMT"
+        "published": "Fri, 02 Oct 2026 19:25:36 GMT"
       },
       {
-        "title": "Stocks rise after soft jobs data; Nasdaq hits record led by Nvidia: Live updates",
+        "title": "Stocks remain under the thrall of higher yields and higher oil. Here's what's ahead",
+        "link": "https://www.cnbc.com/2026/10/02/stock-market-next-week-outlook-for-oct-5-9-2026-.html",
+        "published": "Fri, 02 Oct 2026 20:09:52 GMT"
+      },
+      {
+        "title": "Stocks making the biggest moves midday: Tesla, Broadcom, Nike, ON Semiconductor & more",
+        "link": "https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-midday-tsla-avgo-nke-on-more-.html",
+        "published": "Fri, 02 Oct 2026 17:52:39 GMT"
+      },
+      {
+        "title": "Stocks rise Friday after soft jobs data, Nvidia leads Nasdaq to intraday record",
         "link": "https://www.cnbc.com/2026/10/01/stock-market-today-live-updates-.html",
-        "published": "Fri, 02 Oct 2026 15:52:21 GMT"
-      },
-      {
-        "title": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
-        "link": "https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html",
-        "published": "Fri, 02 Oct 2026 13:45:58 GMT"
-      },
-      {
-        "title": "Bitcoin just formed a 'golden cross' pattern. The crypto is setting up for a big fourth quarter",
-        "link": "https://www.cnbc.com/2026/10/02/bitcoin-just-formed-a-golden-cross-pattern-the-crypto-is-setting-up-for-a-big-fourth-quarter.html",
-        "published": "Fri, 02 Oct 2026 14:57:26 GMT"
-      },
-      {
-        "title": "Why Lilly and Novo are betting on amylin to power a new wave of obesity drugs after GLP-1s",
-        "link": "https://www.cnbc.com/2026/10/02/lilly-novo-amylin-obesity-drugs.html",
-        "published": "Fri, 02 Oct 2026 15:20:29 GMT"
-      },
-      {
-        "title": "American starts letting customers mix cash and miles for tickets",
-        "link": "https://www.cnbc.com/2026/10/02/american-airlines-tickets-cash-miles.html",
-        "published": "Fri, 02 Oct 2026 15:00:01 GMT"
+        "published": "Fri, 02 Oct 2026 20:20:25 GMT"
       }
     ]
   }
