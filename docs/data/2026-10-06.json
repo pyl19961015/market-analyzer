@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-10-06T19:40:22",
+  "generated_at": "2026-10-06T23:15:48",
   "date": "2026-10-06",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7823.86,
-        "pct_change": 0.64
+        "last": 7818.93,
+        "pct_change": 0.58
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 27626.83,
-        "pct_change": 0.54
+        "last": 27599.89,
+        "pct_change": 0.45
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 51547.71,
-        "pct_change": 0.55
+        "last": 51521.28,
+        "pct_change": 0.49
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2828.54,
-        "pct_change": -0.65
+        "last": 2830.3,
+        "pct_change": -0.59
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.06,
-        "pct_change": -2.96
+        "last": 15.01,
+        "pct_change": -3.29
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
@@ -35,75 +35,75 @@
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 101.84,
+        "last": 101.85,
         "pct_change": -0.32
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 89.7,
-        "pct_change": 0.3
+        "last": 89.86,
+        "pct_change": 0.48
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4199.4,
-        "pct_change": 1.02
+        "last": 4192.2,
+        "pct_change": 0.85
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 202.04,
-        "pct_change": 0.55
+        "last": 202.0,
+        "pct_change": 0.53
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 54.02,
-        "pct_change": 0.26
+        "last": 54.01,
+        "pct_change": 0.24
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 63.88,
-        "pct_change": 0.69
+        "last": 63.75,
+        "pct_change": 0.47
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 167.0,
-        "pct_change": -0.22
+        "last": 167.09,
+        "pct_change": -0.17
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 111.71,
-        "pct_change": 1.16
+        "last": 111.72,
+        "pct_change": 1.18
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 81.79,
-        "pct_change": 0.93
+        "last": 81.8,
+        "pct_change": 0.94
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 171.57,
-        "pct_change": 0.86
+        "last": 171.58,
+        "pct_change": 0.87
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 41.03,
-        "pct_change": 2.66
+        "last": 41.16,
+        "pct_change": 2.98
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 49.72,
-        "pct_change": 0.43
+        "last": 49.73,
+        "pct_change": 0.46
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 41.08,
-        "pct_change": 1.02
+        "last": 41.1,
+        "pct_change": 1.06
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 111.79,
-        "pct_change": 0.16
+        "last": 111.65,
+        "pct_change": 0.04
       }
     }
   },
@@ -116,13 +116,13 @@
       },
       "TOPIX (ETF代理)": {
         "symbol": "1306.T",
-        "last": 436.3,
-        "pct_change": 1.42
+        "last": 440.4,
+        "pct_change": 0.94
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 158.16,
-        "pct_change": 0.27
+        "last": 158.23,
+        "pct_change": 0.17
       }
     }
   },
@@ -144,52 +144,52 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 168.87,
-        "pct_change": 5.96
+        "last": 168.97,
+        "pct_change": 6.02
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 333.83,
-        "pct_change": 0.28
+        "last": 333.63,
+        "pct_change": 0.22
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 530.93,
-        "pct_change": 1.09
+        "last": 529.3,
+        "pct_change": 0.78
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 256.23,
-        "pct_change": 1.92
+        "last": 256.29,
+        "pct_change": 1.95
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 348.44,
-        "pct_change": 0.57
+        "last": 347.68,
+        "pct_change": 0.35
       },
       "Meta": {
         "symbol": "META",
-        "last": 743.06,
-        "pct_change": 0.16
+        "last": 738.88,
+        "pct_change": -0.41
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 1130.62,
-        "pct_change": 3.57
+        "last": 1133.4,
+        "pct_change": 3.82
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 335.8,
-        "pct_change": 0.65
+        "last": 338.36,
+        "pct_change": 1.41
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 88.39,
-        "pct_change": 1.28
+        "last": 88.62,
+        "pct_change": 1.55
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -308,7 +308,7 @@
       "country": "JPY",
       "date": "2026-10-07T01:00:00-04:00",
       "impact": "Low",
-      "forecast": "118.3%",
+      "forecast": "118.1%",
       "previous": "117.9%"
     },
     {
@@ -316,7 +316,7 @@
       "country": "USD",
       "date": "2026-10-07T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "2.1M",
+      "forecast": "1.9M",
       "previous": "0.9M"
     },
     {
@@ -340,7 +340,7 @@
       "country": "USD",
       "date": "2026-10-07T15:00:00-04:00",
       "impact": "Low",
-      "forecast": "14.4B",
+      "forecast": "14.5B",
       "previous": "18.1B"
     },
     {
@@ -348,7 +348,7 @@
       "country": "JPY",
       "date": "2026-10-07T19:50:00-04:00",
       "impact": "Low",
-      "forecast": "2.13T",
+      "forecast": "2.14T",
       "previous": "2.52T"
     },
     {
@@ -396,7 +396,7 @@
       "country": "USD",
       "date": "2026-10-08T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "79B",
       "previous": "64B"
     },
     {
@@ -436,7 +436,7 @@
       "country": "USD",
       "date": "2026-10-09T10:00:00-04:00",
       "impact": "Medium",
-      "forecast": "47.6",
+      "forecast": "47.5",
       "previous": "47.8"
     },
     {
@@ -616,56 +616,56 @@
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "Trump waives rules on red-dyed diesel, but local tax and other concerns remain",
-        "link": "https://www.marketwatch.com/story/trump-waives-rules-on-red-dyed-diesel-but-local-tax-and-other-concerns-remain-f6b448c8?mod=mw_rss_topstories",
-        "published": "Tue, 06 Oct 2026 19:14:00 GMT"
+        "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+        "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+        "published": "Tue, 06 Oct 2026 22:54:00 GMT"
       },
       {
-        "title": "‘Trump accounts’ could force MAGA children to own New York Times stock",
-        "link": "https://www.marketwatch.com/story/trump-accounts-could-force-maga-children-to-own-new-york-times-stock-46177c96?mod=mw_rss_topstories",
-        "published": "Tue, 06 Oct 2026 18:39:00 GMT"
+        "title": "The S&P 500 is back in record territory as the ‘Magnificent Seven’ ride to the rescue",
+        "link": "https://www.marketwatch.com/story/the-s-p-500-is-back-in-record-territory-as-the-magnificent-seven-ride-to-the-rescue-e062724d?mod=mw_rss_topstories",
+        "published": "Tue, 06 Oct 2026 21:52:00 GMT"
       },
       {
-        "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-        "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-        "published": "Tue, 06 Oct 2026 18:30:00 GMT"
+        "title": "Oct. 9 has loomed large in stock-market history. Why investors still shouldn’t buy into an October jinx.",
+        "link": "https://www.marketwatch.com/story/oct-9-has-loomed-large-in-stock-market-history-why-investors-still-shouldnt-buy-into-an-october-jinx-81d7149b?mod=mw_rss_topstories",
+        "published": "Tue, 06 Oct 2026 20:37:00 GMT"
+      },
+      {
+        "title": "Google makes a fresh bet on nuclear power as the AI energy crunch intensifies",
+        "link": "https://www.marketwatch.com/story/google-makes-a-fresh-bet-on-nuclear-power-as-the-ai-energy-crunch-intensifies-a757c296?mod=mw_rss_topstories",
+        "published": "Tue, 06 Oct 2026 20:24:00 GMT"
       },
       {
         "title": "Marvell just impressed Wall Street with ‘good numbers plus a better story’",
         "link": "https://www.marketwatch.com/story/marvell-just-impressed-wall-street-with-good-numbers-plus-a-better-story-57fbbf23?mod=mw_rss_topstories",
-        "published": "Tue, 06 Oct 2026 18:25:00 GMT"
+        "published": "Tue, 06 Oct 2026 20:21:00 GMT"
       },
       {
-        "title": "How Meta’s stock can surge to $1,000, according to the biggest bull on Wall Street",
-        "link": "https://www.marketwatch.com/story/how-metas-stock-can-surge-to-1-000-according-to-the-biggest-bull-on-wall-street-a91afff3?mod=mw_rss_topstories",
-        "published": "Tue, 06 Oct 2026 18:20:00 GMT"
+        "title": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected applications from wealthy couples. Here’s why.",
+        "link": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
+        "published": "Tue, 06 Oct 2026 20:15:00 GMT"
       },
       {
-        "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
-        "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
-        "published": "Tue, 06 Oct 2026 18:01:00 GMT"
+        "title": "Worse than taking away your parents’ car keys? Taking away their cell phone. How to protect your aging parents.",
+        "link": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
+        "published": "Tue, 06 Oct 2026 19:58:00 GMT"
       },
       {
-        "title": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
-        "link": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
-        "published": "Tue, 06 Oct 2026 18:00:00 GMT"
-      },
-      {
-        "title": "America’s renters are emerging as a political movement",
-        "link": "https://www.marketwatch.com/story/locked-out-of-home-ownership-renters-are-rallying-voters-for-affordable-housing-policies-bf946d70?mod=mw_rss_topstories",
-        "published": "Tue, 06 Oct 2026 17:58:00 GMT"
+        "title": "Trump waives rules on red-dyed diesel, but local tax and other concerns remain",
+        "link": "https://www.marketwatch.com/story/trump-waives-rules-on-red-dyed-diesel-but-local-tax-and-other-concerns-remain-f6b448c8?mod=mw_rss_topstories",
+        "published": "Tue, 06 Oct 2026 19:14:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
-        "link": "https://www.cnbc.com/2026/10/06/trade-deficit-hits-105point6-billion-widest-since-just-before-trump-tariffs-enacted-last-year.html",
-        "published": "Tue, 06 Oct 2026 15:52:22 GMT"
+        "title": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
+        "link": "https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html",
+        "published": "Tue, 06 Oct 2026 22:23:01 GMT"
       },
       {
-        "title": "Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks",
-        "link": "https://www.cnbc.com/2026/10/06/crude-oil-tanker-strait-hormuz-iran-attack.html",
-        "published": "Tue, 06 Oct 2026 16:19:10 GMT"
+        "title": "Trump hedges on paying back government for ads that already aired",
+        "link": "https://www.cnbc.com/2026/10/05/trump-ads-election.html",
+        "published": "Tue, 06 Oct 2026 21:32:32 GMT"
       },
       {
         "title": "Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies",
@@ -673,29 +673,29 @@
         "published": "Tue, 06 Oct 2026 18:06:40 GMT"
       },
       {
+        "title": "Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks",
+        "link": "https://www.cnbc.com/2026/10/06/crude-oil-tanker-strait-hormuz-iran-attack.html",
+        "published": "Tue, 06 Oct 2026 16:19:10 GMT"
+      },
+      {
         "title": "Kalshi launches transparency features on its election contracts ahead of midterms",
         "link": "https://www.cnbc.com/2026/10/06/kalshi-launches-transparency-features-on-its-election-contracts-ahead-of-midterms-.html",
         "published": "Tue, 06 Oct 2026 18:34:49 GMT"
       },
       {
+        "title": "This photonics stock is already up 600% in one year. Now it's breaking out again",
+        "link": "https://www.cnbc.com/2026/10/06/this-photonics-stock-is-already-up-600percent-in-one-year-now-its-breaking-out-again.html",
+        "published": "Tue, 06 Oct 2026 20:17:44 GMT"
+      },
+      {
+        "title": "Emmy Awards leave broadcast TV for Prime Video in 2027 under six-year deal",
+        "link": "https://www.cnbc.com/2026/10/06/emmy-awards-prime-video.html",
+        "published": "Tue, 06 Oct 2026 19:35:04 GMT"
+      },
+      {
         "title": "Salesforce shares sit at the epicenter of AI confusion. Here's how to trade it",
         "link": "https://www.cnbc.com/2026/10/06/salesforce-shares-sit-at-the-epicenter-of-ai-confusion-heres-how-to-trade-it.html",
         "published": "Tue, 06 Oct 2026 17:22:20 GMT"
-      },
-      {
-        "title": "Private credit woes aren’t dampening demand for alternatives, says Goldman Sachs Asset Management",
-        "link": "https://www.cnbc.com/2026/10/06/private-credit-woes-not-curbing-demand-for-alternatives-goldman-says.html",
-        "published": "Tue, 06 Oct 2026 19:00:35 GMT"
-      },
-      {
-        "title": "Young voters struggle to afford housing. But they don't expect help from political candidates",
-        "link": "https://www.cnbc.com/2026/10/06/housing-affordability-election.html",
-        "published": "Tue, 06 Oct 2026 18:11:51 GMT"
-      },
-      {
-        "title": "Meta joins with group of companies to tame ‘chaos’ of doing business with AI bots",
-        "link": "https://www.cnbc.com/2026/10/06/meta-joins-companies-to-tame-chaos-of-doing-business-with-ai-bots.html",
-        "published": "Tue, 06 Oct 2026 18:48:36 GMT"
       }
     ]
   }
