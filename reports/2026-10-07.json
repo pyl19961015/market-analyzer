@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-10-07T11:03:35",
+  "generated_at": "2026-10-07T17:48:42",
   "date": "2026-10-07",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7818.93,
-        "pct_change": 0.58
+        "last": 7803.08,
+        "pct_change": -0.2
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 27599.79,
-        "pct_change": 0.45
+        "last": 27503.14,
+        "pct_change": -0.35
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 51521.28,
-        "pct_change": 0.49
+        "last": 51230.16,
+        "pct_change": -0.57
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2830.3,
-        "pct_change": -0.59
+        "last": 2798.16,
+        "pct_change": -1.14
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.65,
-        "pct_change": 4.26
+        "last": 15.15,
+        "pct_change": 0.93
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 5.27,
-        "pct_change": -0.79
+        "last": 5.28,
+        "pct_change": 0.28
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 102.3,
-        "pct_change": 0.46
+        "last": 102.27,
+        "pct_change": 0.43
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 90.09,
-        "pct_change": 0.73
+        "last": 88.14,
+        "pct_change": -1.45
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4142.9,
-        "pct_change": -1.06
+        "last": 4138.9,
+        "pct_change": -1.15
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 202.0,
-        "pct_change": 0.53
+        "last": 201.35,
+        "pct_change": -0.32
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 54.01,
-        "pct_change": 0.24
+        "last": 53.76,
+        "pct_change": -0.47
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 63.75,
-        "pct_change": 0.47
+        "last": 63.06,
+        "pct_change": -1.07
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 167.09,
-        "pct_change": -0.17
+        "last": 169.82,
+        "pct_change": 1.63
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 111.72,
-        "pct_change": 1.18
+        "last": 111.43,
+        "pct_change": -0.26
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 81.8,
-        "pct_change": 0.94
+        "last": 81.99,
+        "pct_change": 0.24
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 171.58,
-        "pct_change": 0.87
+        "last": 168.36,
+        "pct_change": -1.88
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 41.16,
-        "pct_change": 2.98
+        "last": 41.24,
+        "pct_change": 0.21
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 49.73,
-        "pct_change": 0.46
+        "last": 49.13,
+        "pct_change": -1.2
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 41.1,
-        "pct_change": 1.06
+        "last": 40.74,
+        "pct_change": -0.86
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 111.65,
-        "pct_change": 0.04
+        "last": 111.22,
+        "pct_change": -0.39
       }
     }
   },
@@ -111,18 +111,18 @@
     "indices": {
       "Nikkei 225": {
         "symbol": "^N225",
-        "last": 70035.71,
-        "pct_change": -0.92
+        "last": 70683.98,
+        "pct_change": 1.05
       },
       "TOPIX (ETF代理)": {
         "symbol": "1306.T",
-        "last": 437.0,
-        "pct_change": -0.77
+        "last": 440.4,
+        "pct_change": 0.94
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 158.33,
-        "pct_change": 0.23
+        "last": 157.96,
+        "pct_change": 0.0
       }
     }
   },
@@ -131,70 +131,70 @@
       "effr": 3.88,
       "target_low": 3.75,
       "target_high": 4.0,
-      "as_of": "2026-10-05"
+      "as_of": "2026-10-06"
     },
     "japan": {
       "yield": 3.103,
       "as_of": "2026-10-06",
       "prev_yield": 3.085
     },
-    "spread_10y": 2.17
+    "spread_10y": 2.18
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 168.97,
-        "pct_change": 6.02
+        "last": 164.99,
+        "pct_change": -2.36
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 333.63,
-        "pct_change": 0.22
+        "last": 336.73,
+        "pct_change": 0.93
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 529.3,
-        "pct_change": 0.78
+        "last": 529.58,
+        "pct_change": 0.05
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 256.29,
-        "pct_change": 1.95
+        "last": 258.85,
+        "pct_change": 1.0
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 347.68,
-        "pct_change": 0.35
+        "last": 348.1,
+        "pct_change": 0.12
       },
       "Meta": {
         "symbol": "META",
-        "last": 738.88,
-        "pct_change": -0.41
+        "last": 725.25,
+        "pct_change": -1.84
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 1133.4,
-        "pct_change": 3.82
+        "last": 1108.88,
+        "pct_change": -2.16
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 338.36,
-        "pct_change": 1.41
+        "last": 333.74,
+        "pct_change": -1.36
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 88.62,
-        "pct_change": 1.55
+        "last": 88.23,
+        "pct_change": -0.44
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 5946.0,
-        "pct_change": 0.58
+        "last": 5912.0,
+        "pct_change": 1.76
       }
     }
   },
@@ -624,86 +624,86 @@
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "Elon Musk and Intel CEO shore up chipmaker’s role in Terafab project — and here’s what the news is doing to the stock.",
-        "link": "https://www.marketwatch.com/story/elon-musk-and-intel-ceo-shore-up-chipmakers-role-in-terafab-project-and-heres-what-the-news-is-doing-to-the-stock-315d0974?mod=mw_rss_topstories",
-        "published": "Wed, 07 Oct 2026 10:24:00 GMT"
-      },
-      {
-        "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
-        "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
-        "published": "Wed, 07 Oct 2026 10:15:00 GMT"
-      },
-      {
-        "title": "AMD’s chief executive is planning to invest ‘tens of billions’ as Asian tour addresses supply-chain chokepoints",
-        "link": "https://www.marketwatch.com/story/amds-chief-executive-is-planning-to-invest-tens-of-billions-as-asian-tour-addresses-supply-chain-chokepoints-c6485919?mod=mw_rss_topstories",
-        "published": "Wed, 07 Oct 2026 09:37:00 GMT"
-      },
-      {
-        "title": "Longtime tech bull Dan Ives says these are his top tech plays going into 2027",
-        "link": "https://www.marketwatch.com/story/longtime-tech-bull-dan-ives-says-these-are-his-top-tech-plays-going-into-2027-3796cb9f?mod=mw_rss_topstories",
-        "published": "Wed, 07 Oct 2026 09:33:00 GMT"
-      },
-      {
-        "title": "‘He grew up wealthy’: My husband inherited $3 million. He wants a vacation home. I want to save for retirement.",
+        "title": "‘He grew up wealthy’: My husband inherited $3 million. He wants a vacation home. I want to save for retirement. Who’s right?",
         "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
-        "published": "Wed, 07 Oct 2026 09:15:00 GMT"
+        "published": "Wed, 07 Oct 2026 17:45:00 GMT"
       },
       {
-        "title": "SpaceX reportedly is looking to raise as much money as the company generates in revenue to buy Nvidia chips",
-        "link": "https://www.marketwatch.com/story/spacex-reportedly-is-looking-to-raise-as-much-money-as-the-company-generates-in-revenue-to-buy-nvidia-chips-01ca6d82?mod=mw_rss_topstories",
-        "published": "Wed, 07 Oct 2026 09:15:00 GMT"
+        "title": "Washington and Wall Street chose to delay paying their bills — and to put them on your tab",
+        "link": "https://www.marketwatch.com/story/washington-and-wall-street-chose-to-delay-paying-their-bills-and-to-put-them-on-your-tab-2eba83aa?mod=mw_rss_topstories",
+        "published": "Wed, 07 Oct 2026 17:36:00 GMT"
       },
       {
-        "title": "Josh Brolin sells Atlanta-area mansion for $4 million after slashing price",
-        "link": "https://www.marketwatch.com/story/josh-brolin-sells-atlanta-area-mansion-for-4-million-after-slashing-price-52561a89?mod=mw_rss_topstories",
-        "published": "Wed, 07 Oct 2026 09:05:00 GMT"
+        "title": "The ‘Magnificent Seven’ are now big enough to move the economy. Why that could be a problem.",
+        "link": "https://www.marketwatch.com/story/the-magnificent-seven-are-now-big-enough-to-move-the-economy-why-that-could-be-a-problem-56d174db?mod=mw_rss_topstories",
+        "published": "Wed, 07 Oct 2026 17:32:00 GMT"
       },
       {
-        "title": "A Laguna Beach gem renovated by Diane Keaton is up for grabs for $10.3 million",
-        "link": "https://www.marketwatch.com/story/a-laguna-beach-gem-renovated-by-diane-keaton-is-up-for-grabs-for-10-3-million-8e6e1927?mod=mw_rss_topstories",
-        "published": "Wed, 07 Oct 2026 09:01:00 GMT"
+        "title": "Worse than taking away your parents’ car keys? Taking away their cell phone. How to protect your aging parents.",
+        "link": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
+        "published": "Wed, 07 Oct 2026 17:27:00 GMT"
+      },
+      {
+        "title": "College students have to use credit cards just to cover basic living expenses. Here’s what it’s costing them.",
+        "link": "https://www.marketwatch.com/story/more-college-students-have-to-use-credit-cards-just-to-cover-basic-living-expenses-heres-what-its-costing-them-cfd82561?mod=mw_rss_topstories",
+        "published": "Wed, 07 Oct 2026 15:35:00 GMT"
+      },
+      {
+        "title": "Should I put my nest egg in a 30-year Treasury bond?",
+        "link": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
+        "published": "Wed, 07 Oct 2026 14:34:00 GMT"
+      },
+      {
+        "title": "‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. What could we have done to prevent it?",
+        "link": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
+        "published": "Wed, 07 Oct 2026 14:30:00 GMT"
+      },
+      {
+        "title": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected applications from wealthy couples. Here’s why.",
+        "link": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
+        "published": "Wed, 07 Oct 2026 14:29:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "Rubio says Tehran missed 'multiple' chances for nuclear deal amid Iran stalemate",
-        "link": "https://www.cnbc.com/2026/10/07/us-iran-war-trump-hormuz.html",
-        "published": "Wed, 07 Oct 2026 09:43:05 GMT"
-      },
-      {
-        "title": "Trading platform Webull's China ties create national security risk, congressional panel finds",
-        "link": "https://www.cnbc.com/2026/10/07/webull-china-national-security-risk-congress.html",
-        "published": "Wed, 07 Oct 2026 11:00:01 GMT"
-      },
-      {
-        "title": "Google ordered to halt work on two data centers in ‘Texas of Europe’",
-        "link": "https://www.cnbc.com/2026/10/07/google-finland-data-center-halt.html",
-        "published": "Wed, 07 Oct 2026 09:26:02 GMT"
-      },
-      {
-        "title": "Chevron CEO warns against 'unwise' diesel export ban, saying it could make things worse",
-        "link": "https://www.cnbc.com/2026/10/07/chevron-ceo-diesel-export-ban-trump-supply.html",
-        "published": "Wed, 07 Oct 2026 09:16:19 GMT"
-      },
-      {
-        "title": "Marvell just gave a bullish outlook. It led TD Cowen to upgrade the stock",
-        "link": "https://www.cnbc.com/2026/10/07/marvell-just-gave-a-bullish-outlook-it-led-td-cowen-to-upgrade-the-stock.html",
-        "published": "Wed, 07 Oct 2026 10:54:02 GMT"
-      },
-      {
-        "title": "Mortgage rates sit at nearly 3-year high, and demand continues to shrink",
-        "link": "https://www.cnbc.com/2026/10/07/mortgage-rates-sit-at-nearly-3-year-high-and-demand-continues-to-shrink.html",
-        "published": "Wed, 07 Oct 2026 11:00:01 GMT"
-      },
-      {
-        "title": "Treasury yields rise as oil moves higher, traders await key U.S. bond sale",
+        "title": "10-year Treasury yield falls from 24-year high after solid bond auction eases demand fears",
         "link": "https://www.cnbc.com/2026/10/07/treasury-yields-auction-fomc-minutes.html",
-        "published": "Wed, 07 Oct 2026 10:08:22 GMT"
+        "published": "Wed, 07 Oct 2026 17:27:34 GMT"
       },
       {
-        "title": "Trump hedges on paying back government for ads that already aired",
-        "link": "https://www.cnbc.com/2026/10/05/trump-ads-election.html",
-        "published": "Tue, 06 Oct 2026 21:32:32 GMT"
+        "title": "ICE came to town and left behind weakened economies",
+        "link": "https://www.cnbc.com/2026/10/07/ice-raids-local-economies.html",
+        "published": "Wed, 07 Oct 2026 12:24:32 GMT"
+      },
+      {
+        "title": "Trading platform Webull's China ties create national security risk, congressional panel finds; stock drops 18%",
+        "link": "https://www.cnbc.com/2026/10/07/webull-china-national-security-risk-congress.html",
+        "published": "Wed, 07 Oct 2026 13:46:28 GMT"
+      },
+      {
+        "title": "Stocks making the biggest moves midday: Goldman Sachs, Webull, Worthington Steel, Micron & more",
+        "link": "https://www.cnbc.com/2026/10/07/stocks-making-the-biggest-moves-midday-gs-bull-ws-mu.html",
+        "published": "Wed, 07 Oct 2026 16:52:14 GMT"
+      },
+      {
+        "title": "Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase",
+        "link": "https://www.cnbc.com/2026/10/07/spacex-nvidia-chips-apollo-financing.html",
+        "published": "Wed, 07 Oct 2026 16:32:30 GMT"
+      },
+      {
+        "title": "Meta flashes a golden cross. History shows that's often been a bullish signal",
+        "link": "https://www.cnbc.com/2026/10/07/meta-flashes-a-golden-cross-history-shows-thats-often-been-a-bullish-signal.html",
+        "published": "Wed, 07 Oct 2026 17:31:06 GMT"
+      },
+      {
+        "title": "Disney+ to stream upcoming Super Bowl",
+        "link": "https://www.cnbc.com/2026/10/07/disney-stream-super-bowl-2027.html",
+        "published": "Wed, 07 Oct 2026 16:36:26 GMT"
+      },
+      {
+        "title": "Modelo owner Constellation is getting creative to bring back beer drinkers as overall demand weakens",
+        "link": "https://www.cnbc.com/2026/10/07/constellation-brands-earnings-beer-demand.html",
+        "published": "Wed, 07 Oct 2026 16:40:50 GMT"
       }
     ]
   }
