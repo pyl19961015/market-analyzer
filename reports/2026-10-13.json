@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-10-13T17:09:06",
+  "generated_at": "2026-10-13T21:50:18",
   "date": "2026-10-13",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7800.31,
-        "pct_change": -0.09
+        "last": 7805.45,
+        "pct_change": -0.02
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 27200.02,
-        "pct_change": -0.17
+        "last": 27204.38,
+        "pct_change": -0.15
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 51658.96,
-        "pct_change": -0.37
+        "last": 51670.1,
+        "pct_change": -0.35
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2782.44,
-        "pct_change": -0.43
+        "last": 2783.37,
+        "pct_change": -0.4
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 15.42,
-        "pct_change": 1.38
+        "last": 15.27,
+        "pct_change": 0.39
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 5.23,
-        "pct_change": -0.15
+        "last": 5.22,
+        "pct_change": -0.44
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 102.27,
-        "pct_change": -0.31
+        "last": 102.2,
+        "pct_change": -0.37
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 94.46,
-        "pct_change": 0.77
+        "last": 94.79,
+        "pct_change": 1.12
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4175.5,
-        "pct_change": -0.36
+        "last": 4184.2,
+        "pct_change": -0.15
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 195.57,
-        "pct_change": -0.4
+        "last": 196.28,
+        "pct_change": -0.04
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 54.99,
-        "pct_change": -0.12
+        "last": 54.82,
+        "pct_change": -0.42
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 66.82,
-        "pct_change": 1.23
+        "last": 67.2,
+        "pct_change": 1.8
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 169.97,
-        "pct_change": -1.17
+        "last": 169.66,
+        "pct_change": -1.35
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 112.28,
-        "pct_change": 0.0
+        "last": 112.36,
+        "pct_change": 0.08
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 84.24,
-        "pct_change": -0.2
+        "last": 84.19,
+        "pct_change": -0.26
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 167.51,
-        "pct_change": -0.97
+        "last": 168.67,
+        "pct_change": -0.28
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 41.69,
-        "pct_change": 0.13
+        "last": 41.87,
+        "pct_change": 0.58
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 49.59,
-        "pct_change": 0.3
+        "last": 49.72,
+        "pct_change": 0.57
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 41.84,
-        "pct_change": -0.19
+        "last": 41.83,
+        "pct_change": -0.21
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 112.53,
-        "pct_change": 0.97
+        "last": 112.28,
+        "pct_change": 0.74
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 158.4,
-        "pct_change": 0.21
+        "last": 158.31,
+        "pct_change": 0.07
       }
     }
   },
@@ -138,63 +138,63 @@
       "as_of": "2026-10-09",
       "prev_yield": 3.089
     },
-    "spread_10y": 2.2
+    "spread_10y": 2.19
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 145.37,
-        "pct_change": -1.3
+        "last": 148.54,
+        "pct_change": 0.86
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 343.89,
-        "pct_change": 0.85
+        "last": 341.27,
+        "pct_change": 0.09
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 545.53,
-        "pct_change": 0.81
+        "last": 543.45,
+        "pct_change": 0.43
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 260.15,
-        "pct_change": 0.24
+        "last": 258.58,
+        "pct_change": -0.37
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 355.1,
-        "pct_change": 0.67
+        "last": 353.78,
+        "pct_change": 0.3
       },
       "Meta": {
         "symbol": "META",
-        "last": 764.29,
-        "pct_change": 2.87
+        "last": 762.5,
+        "pct_change": 2.63
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 971.67,
-        "pct_change": -2.38
+        "last": 987.99,
+        "pct_change": -0.75
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 283.77,
-        "pct_change": -1.48
+        "last": 289.98,
+        "pct_change": 0.68
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 85.04,
-        "pct_change": -1.33
+        "last": 85.89,
+        "pct_change": -0.35
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 5728.0,
-        "pct_change": -1.33
+        "last": 5647.0,
+        "pct_change": -1.41
       }
     }
   },
@@ -523,6 +523,12 @@
   "fed_policy": {
     "Press Releases": [
       {
+        "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
+        "published": "Tue, 13 Oct 2026 18:00:00 GMT",
+        "summary": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026"
+      },
+      {
         "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
         "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
         "published": "Fri, 9 Oct 2026 14:00:00 GMT",
@@ -563,12 +569,6 @@
         "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
         "published": "Fri, 2 Oct 2026 15:00:00 GMT",
         "summary": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc."
-      },
-      {
-        "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
-        "published": "Wed, 30 Sep 2026 13:00:00 GMT",
-        "summary": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements"
       }
     ],
     "Speeches": [
@@ -623,6 +623,12 @@
     ],
     "FOMC Press Releases": [
       {
+        "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
+        "published": "Tue, 13 Oct 2026 18:00:00 GMT",
+        "summary": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026"
+      },
+      {
         "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
         "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
         "published": "Wed, 7 Oct 2026 18:00:00 GMT",
@@ -663,12 +669,6 @@
         "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260714a.htm",
         "published": "Tue, 14 Jul 2026 18:00:00 GMT",
         "summary": "Minutes of the Board's discount rate meetings on June 8 and June 17, 2026"
-      },
-      {
-        "title": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
-        "published": "Thu, 9 Jul 2026 19:00:00 GMT",
-        "summary": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy"
       }
     ]
   },
@@ -680,86 +680,86 @@
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "I keep comparing myself to my more financially successful friends. How can I stop?",
-        "link": "https://www.marketwatch.com/story/i-keep-comparing-myself-to-my-more-financially-successful-friends-how-can-i-stop-716a2009?mod=mw_rss_topstories",
-        "published": "Tue, 13 Oct 2026 17:05:00 GMT"
-      },
-      {
-        "title": "AI fatigue is gripping the market and driving chip stocks toward their worst stretch in 16 months",
+        "title": "Chip stocks suffer worst stretch in 16 months as AI fatigue grips the market",
         "link": "https://www.marketwatch.com/story/ai-fatigue-is-gripping-the-market-and-driving-chip-stocks-toward-their-worst-stretch-in-16-months-6dc78ece?mod=mw_rss_topstories",
-        "published": "Tue, 13 Oct 2026 16:52:00 GMT"
-      },
-      {
-        "title": "‘Superintelligence’ may never arrive, Deutsche Bank says. What that could mean for the U.S. economy.",
-        "link": "https://www.marketwatch.com/story/superintelligence-may-never-arrive-deutsche-bank-says-what-that-could-mean-for-the-u-s-economy-765b89a8?mod=mw_rss_topstories",
-        "published": "Tue, 13 Oct 2026 16:21:00 GMT"
-      },
-      {
-        "title": "‘Pharma Bro’ Martin Shkreli is in trouble with regulators again, this time for influencing biopharma stocks",
-        "link": "https://www.marketwatch.com/story/pharma-bro-martin-shkreli-is-in-trouble-with-regulators-again-this-time-for-influencing-biopharma-stocks-7356c3bb?mod=mw_rss_topstories",
-        "published": "Tue, 13 Oct 2026 15:37:00 GMT"
-      },
-      {
-        "title": "Raising taxes on investments, estates and benefits could keep Social Security from running out of money. Here’s who could pay the most.",
-        "link": "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories",
-        "published": "Tue, 13 Oct 2026 15:22:00 GMT"
-      },
-      {
-        "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
-        "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
-        "published": "Tue, 13 Oct 2026 15:15:00 GMT"
-      },
-      {
-        "title": "‘The house is worth $925,000’: My sister moved in with our mother, 78, and says she deserves the family home. Is she right?",
-        "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-        "published": "Tue, 13 Oct 2026 15:00:00 GMT"
+        "published": "Tue, 13 Oct 2026 21:02:00 GMT"
       },
       {
         "title": "‘I am a pretty cautious person’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
         "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
-        "published": "Tue, 13 Oct 2026 14:45:00 GMT"
+        "published": "Tue, 13 Oct 2026 21:01:00 GMT"
+      },
+      {
+        "title": "The SpaceX threat could loom over AT&T’s stock for a prolonged stretch, analyst cautions",
+        "link": "https://www.marketwatch.com/story/the-spacex-threat-could-loom-over-at-ts-stock-for-a-prolonged-stretch-analyst-cautions-71436853?mod=mw_rss_topstories",
+        "published": "Tue, 13 Oct 2026 20:42:00 GMT"
+      },
+      {
+        "title": "Six Flags’ stock slumps near 17-year low after fatal incident",
+        "link": "https://www.marketwatch.com/story/six-flags-stock-slumps-near-52-week-lows-after-fatal-accident-3f938112?mod=mw_rss_topstories",
+        "published": "Tue, 13 Oct 2026 20:41:00 GMT"
+      },
+      {
+        "title": "AST SpaceMobile’s stock is feeling the heat from SpaceX’s wireless plans",
+        "link": "https://www.marketwatch.com/story/ast-spacemobiles-stock-is-feeling-the-heat-from-spacexs-wireless-plans-7e2fafb4?mod=mw_rss_topstories",
+        "published": "Tue, 13 Oct 2026 20:32:00 GMT"
+      },
+      {
+        "title": "My wife says we can’t afford to retire, yet she wants to take an $8,000 trip to Italy. We have $4 million. Do I keep working?",
+        "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+        "published": "Tue, 13 Oct 2026 20:30:00 GMT"
+      },
+      {
+        "title": "UnitedHealth keeps medical costs under control — and raises its outlook again",
+        "link": "https://www.marketwatch.com/story/unitedhealth-keeps-medical-costs-under-control-and-raises-its-outlook-again-71abc99c?mod=mw_rss_topstories",
+        "published": "Tue, 13 Oct 2026 20:29:00 GMT"
+      },
+      {
+        "title": "Was Broadcom CEO bullish or bearish on AI? ‘Gamblers’ comment creates storm.",
+        "link": "https://www.marketwatch.com/story/was-broadcom-ceo-bullish-or-bearish-on-ai-gamblers-comment-creates-storm-33f11787?mod=mw_rss_topstories",
+        "published": "Tue, 13 Oct 2026 20:27:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "Anthropic to disclose new revenue numbers as AI lab financials become central to tech trade",
-        "link": "https://www.cnbc.com/2026/10/13/anthropic-q3-financials-ipo.html",
-        "published": "Tue, 13 Oct 2026 14:55:51 GMT"
+        "title": "More Republicans come out against Trump's diesel deal with Putin",
+        "link": "https://www.cnbc.com/2026/10/13/trump-russia-diesel-republicans.html",
+        "published": "Tue, 13 Oct 2026 18:19:42 GMT"
       },
       {
-        "title": "Trump's diesel deal with Russia equals less than two weeks of U.S. demand",
-        "link": "https://www.cnbc.com/2026/10/13/trump-putin-zelenskyy-russia-ukraine-diesel-oil-price.html",
-        "published": "Tue, 13 Oct 2026 16:53:43 GMT"
+        "title": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
+        "link": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html",
+        "published": "Tue, 13 Oct 2026 21:44:46 GMT"
       },
       {
-        "title": "Paul Tudor Jones says 2027 could be a really challenging year for the stock market",
-        "link": "https://www.cnbc.com/2026/10/13/paul-tudor-jones-2027-really-challenging-year.html",
-        "published": "Tue, 13 Oct 2026 15:52:44 GMT"
+        "title": "Bank of America fined $1.2 billion over money-laundering violations",
+        "link": "https://www.cnbc.com/2026/10/13/bank-of-america-treasury-money-laundering.html",
+        "published": "Tue, 13 Oct 2026 20:45:01 GMT"
       },
       {
-        "title": "Stocks fall after bank earnings deluge; chipmakers slide: Live updates",
+        "title": "S&P 500 closes near flat after big banks post earnings and memory chip stocks decline",
         "link": "https://www.cnbc.com/2026/10/12/stock-market-today-live-updates.html",
-        "published": "Tue, 13 Oct 2026 16:49:02 GMT"
+        "published": "Tue, 13 Oct 2026 20:31:00 GMT"
       },
       {
-        "title": "Micron, Seagate, Western Digital sink as chip sell-off deepens",
-        "link": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
-        "published": "Tue, 13 Oct 2026 13:51:11 GMT"
+        "title": "The latest inflation data is expected to show price increases are accelerating",
+        "link": "https://www.cnbc.com/2026/10/13/september-consumer-price-index-inflation.html",
+        "published": "Tue, 13 Oct 2026 18:05:57 GMT"
       },
       {
-        "title": "The SpaceX threat to telecom is real. How it could play out",
-        "link": "https://www.cnbc.com/2026/10/13/spacex-wireless-telecom-threat.html",
-        "published": "Tue, 13 Oct 2026 15:59:36 GMT"
+        "title": "Mastercard is up 8 days in a row. The charts indicate the run isn't over",
+        "link": "https://www.cnbc.com/2026/10/13/mastercard-is-up-8-days-in-a-row-the-charts-indicate-the-run-isnt-over.html",
+        "published": "Tue, 13 Oct 2026 20:09:23 GMT"
       },
       {
-        "title": "The AI trade is cracking. Here's how to profit",
-        "link": "https://www.cnbc.com/2026/10/13/the-ai-trade-is-cracking-heres-how-to-profit.html",
-        "published": "Tue, 13 Oct 2026 16:44:21 GMT"
+        "title": "Judge says Musk engaged in intimidation of ex-FEMA CFO Mary Comans, clears her name",
+        "link": "https://www.cnbc.com/2026/10/13/judge-says-elon-musk-engaged-intimidation-of-ex-fema-cfo-mary-comans.html",
+        "published": "Tue, 13 Oct 2026 21:15:32 GMT"
       },
       {
-        "title": "Apple releases HomeView smart home hub with screen as showcase for Siri AI",
-        "link": "https://www.cnbc.com/2026/10/13/apple-homeview-smart-home-siri-ai.html",
-        "published": "Tue, 13 Oct 2026 16:52:27 GMT"
+        "title": "Pope Leo diagnosed with cancer as doctors remove lobe of lung, Vatican says",
+        "link": "https://www.cnbc.com/2026/10/13/pope-leo-diagnosed-lung-cancer-vatican-says.html",
+        "published": "Tue, 13 Oct 2026 21:27:40 GMT"
       }
     ]
   }
