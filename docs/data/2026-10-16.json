@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-10-16T17:27:49",
+  "generated_at": "2026-10-16T20:01:09",
   "date": "2026-10-16",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7663.93,
-        "pct_change": -1.03
+        "last": 7659.41,
+        "pct_change": -1.09
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26191.53,
-        "pct_change": -1.95
+        "last": 26140.03,
+        "pct_change": -2.15
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 51944.77,
-        "pct_change": -0.45
+        "last": 52001.52,
+        "pct_change": -0.34
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2724.11,
-        "pct_change": -1.56
+        "last": 2716.7,
+        "pct_change": -1.83
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 21.27,
-        "pct_change": 29.22
+        "last": 20.42,
+        "pct_change": 24.06
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 5.11,
-        "pct_change": 0.41
+        "last": 5.1,
+        "pct_change": 0.18
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 101.93,
-        "pct_change": -0.07
+        "last": 101.81,
+        "pct_change": -0.19
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 98.53,
-        "pct_change": 0.57
+        "last": 98.98,
+        "pct_change": 1.03
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4179.6,
-        "pct_change": 0.23
+        "last": 4189.3,
+        "pct_change": 0.46
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 184.27,
-        "pct_change": -2.6
+        "last": 183.45,
+        "pct_change": -3.03
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 55.33,
-        "pct_change": 0.12
+        "last": 55.51,
+        "pct_change": 0.43
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 67.96,
-        "pct_change": 2.1
+        "last": 68.24,
+        "pct_change": 2.52
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 176.66,
-        "pct_change": -0.3
+        "last": 176.68,
+        "pct_change": -0.29
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 112.31,
-        "pct_change": -0.97
+        "last": 112.45,
+        "pct_change": -0.85
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 87.29,
-        "pct_change": 0.7
+        "last": 87.65,
+        "pct_change": 1.12
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 167.71,
-        "pct_change": -0.11
+        "last": 167.74,
+        "pct_change": -0.09
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 42.11,
-        "pct_change": 1.1
+        "last": 42.22,
+        "pct_change": 1.36
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 50.8,
-        "pct_change": 0.47
+        "last": 50.9,
+        "pct_change": 0.68
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 41.99,
-        "pct_change": -0.01
+        "last": 42.17,
+        "pct_change": 0.43
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 110.44,
-        "pct_change": -1.77
+        "last": 110.29,
+        "pct_change": -1.91
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 158.16,
-        "pct_change": 0.13
+        "last": 157.98,
+        "pct_change": 0.02
       }
     }
   },
@@ -138,63 +138,63 @@
       "as_of": "2026-10-15",
       "prev_yield": 3.015
     },
-    "spread_10y": 2.16
+    "spread_10y": 2.15
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 133.58,
-        "pct_change": -3.5
+        "last": 132.06,
+        "pct_change": -4.6
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 343.13,
-        "pct_change": 0.33
+        "last": 343.46,
+        "pct_change": 0.43
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 525.89,
-        "pct_change": -2.51
+        "last": 529.05,
+        "pct_change": -1.93
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 250.04,
-        "pct_change": -1.85
+        "last": 250.0,
+        "pct_change": -1.87
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 341.59,
-        "pct_change": -2.18
+        "last": 340.59,
+        "pct_change": -2.47
       },
       "Meta": {
         "symbol": "META",
-        "last": 711.2,
-        "pct_change": -3.46
+        "last": 709.33,
+        "pct_change": -3.72
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 836.85,
-        "pct_change": -3.76
+        "last": 824.13,
+        "pct_change": -5.22
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 235.61,
-        "pct_change": -5.98
+        "last": 232.95,
+        "pct_change": -7.04
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 80.3,
-        "pct_change": -1.46
+        "last": 79.37,
+        "pct_change": -2.6
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 5468.0,
-        "pct_change": -2.41
+        "last": 5551.0,
+        "pct_change": 1.52
       }
     }
   },
@@ -514,7 +514,7 @@
     {
       "title": "Federal Budget Balance",
       "country": "USD",
-      "date": "2026-10-16T14:00:00-04:00",
+      "date": "2026-10-16T14:05:00-04:00",
       "impact": "Low",
       "forecast": "-34.7B",
       "previous": "-166.8B"
@@ -688,56 +688,76 @@
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "Here’s how the Fed should reveal its outlook for the economy",
-        "link": "https://www.marketwatch.com/story/heres-how-the-fed-should-reveal-its-outlook-for-the-economy-79629f25?mod=mw_rss_topstories",
-        "published": "Fri, 16 Oct 2026 17:07:00 GMT"
-      },
-      {
         "title": "Are we spending our retirement money in the right order? Our plan is: Social Security, annuities, cash — then IRA.",
         "link": "https://www.marketwatch.com/story/are-we-spending-our-retirement-money-in-the-right-order-our-plan-is-social-security-annuities-cash-then-ira-02cec336?mod=mw_rss_topstories",
-        "published": "Fri, 16 Oct 2026 16:39:00 GMT"
+        "published": "Fri, 16 Oct 2026 19:46:00 GMT"
       },
       {
-        "title": "Elon Musk may have just taken a major step toward consolidating his empire",
-        "link": "https://www.marketwatch.com/story/elon-musk-may-have-just-taken-a-major-step-toward-consolidating-his-empire-7d82dea6?mod=mw_rss_topstories",
-        "published": "Fri, 16 Oct 2026 16:39:00 GMT"
+        "title": "Your Social Security check will rise an average of $75 a month — will it be able to keep up with inflation?",
+        "link": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
+        "published": "Fri, 16 Oct 2026 19:45:00 GMT"
       },
       {
-        "title": "Many of 2026’s hottest stocks have seen dramatic comedowns this week",
-        "link": "https://www.marketwatch.com/story/many-of-2026s-hottest-stocks-have-seen-dramatic-comedowns-this-week-e5ae5d06?mod=mw_rss_topstories",
-        "published": "Fri, 16 Oct 2026 16:09:00 GMT"
+        "title": "Did this year’s COLA beat inflation? Here’s how spending by American seniors stacks up so far in 2026.",
+        "link": "https://www.marketwatch.com/story/did-this-years-cola-beat-inflation-heres-how-spending-by-american-seniors-stacks-up-so-far-in-2026-917c400c?mod=mw_rss_topstories",
+        "published": "Fri, 16 Oct 2026 19:45:00 GMT"
       },
       {
-        "title": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
-        "link": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories",
-        "published": "Fri, 16 Oct 2026 16:05:00 GMT"
+        "title": "The COLA wars are coming for Social Security",
+        "link": "https://www.marketwatch.com/story/the-cola-wars-are-coming-for-social-security-10c177f1?mod=mw_rss_topstories",
+        "published": "Fri, 16 Oct 2026 19:45:00 GMT"
       },
       {
-        "title": "I’m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
-        "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
-        "published": "Fri, 16 Oct 2026 15:00:00 GMT"
+        "title": "Microsoft wants to make AI cheaper. Will investors actually see the savings?",
+        "link": "https://www.marketwatch.com/story/microsoft-wants-to-make-ai-cheaper-will-investors-actually-see-the-savings-0a3c3ac0?mod=mw_rss_topstories",
+        "published": "Fri, 16 Oct 2026 19:35:00 GMT"
       },
       {
-        "title": "Retiring abroad? Don’t cut these financial ties to the U.S.",
-        "link": "https://www.marketwatch.com/story/retiring-abroad-dont-cut-these-financial-ties-to-the-u-s-5e7e4fc2?mod=mw_rss_topstories",
-        "published": "Fri, 16 Oct 2026 15:00:00 GMT"
+        "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
+        "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+        "published": "Fri, 16 Oct 2026 19:00:00 GMT"
       },
       {
-        "title": "‘It’s a wait-and-see situation’: I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
-        "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
-        "published": "Fri, 16 Oct 2026 14:45:00 GMT"
+        "title": "AI investors have woken up to the bond market’s warning signs",
+        "link": "https://www.marketwatch.com/story/ai-investors-have-woken-up-to-the-bond-markets-warning-signs-6f604c61?mod=mw_rss_topstories",
+        "published": "Fri, 16 Oct 2026 18:52:00 GMT"
+      },
+      {
+        "title": "Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension.",
+        "link": "https://www.marketwatch.com/story/could-an-anthropic-ipo-put-your-401-k-at-risk-the-ai-safety-debate-hits-a-new-dimension-db3f09f7?mod=mw_rss_topstories",
+        "published": "Fri, 16 Oct 2026 18:37:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "S&P 500 dragged down by AI stocks as chip shares head for worst week since July: Live updates",
-        "link": "https://www.cnbc.com/2026/10/15/stock-market-today-live-updates.html",
-        "published": "Fri, 16 Oct 2026 17:26:58 GMT"
+        "title": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries",
+        "link": "https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html",
+        "published": "Fri, 16 Oct 2026 19:53:15 GMT"
+      },
+      {
+        "title": "Katie Zacharia out as Trump's White House press secretary",
+        "link": "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html",
+        "published": "Fri, 16 Oct 2026 19:47:26 GMT"
+      },
+      {
+        "title": "Apple’s $1,999 iPhone Duo puts the company's status-symbol power to the test",
+        "link": "https://www.cnbc.com/2026/10/16/apple-iphone-duo-demand-price.html",
+        "published": "Fri, 16 Oct 2026 18:55:17 GMT"
+      },
+      {
+        "title": "Wall Street's fear gauge is ripping. Traders see it going even higher",
+        "link": "https://www.cnbc.com/2026/10/16/wall-streets-fear-gauge-is-ripping-traders-see-it-going-even-higher.html",
+        "published": "Fri, 16 Oct 2026 19:28:10 GMT"
       },
       {
         "title": "Why Trump and the GOP's billion-dollar midterm blitz isn’t working",
         "link": "https://www.cnbc.com/2026/10/16/republicans-midterms-spending-trump-musk-2026.html",
-        "published": "Fri, 16 Oct 2026 16:53:12 GMT"
+        "published": "Fri, 16 Oct 2026 17:55:05 GMT"
+      },
+      {
+        "title": "Major earnings reports are due next week, but strong results may not be enough to quell market fears",
+        "link": "https://www.cnbc.com/2026/10/16/major-earnings-reports-market-fears-next-week.html",
+        "published": "Fri, 16 Oct 2026 19:48:41 GMT"
       },
       {
         "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
@@ -745,29 +765,9 @@
         "published": "Fri, 16 Oct 2026 16:46:18 GMT"
       },
       {
-        "title": "Trump says new White House press secretary Katie Zacharia should 'reconsider' job",
-        "link": "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html",
-        "published": "Fri, 16 Oct 2026 17:22:54 GMT"
-      },
-      {
         "title": "Stocks making the biggest moves midday: CoreWeave, Moog, J.B. Hunt, Alcoa & more",
         "link": "https://www.cnbc.com/2026/10/16/stocks-making-the-biggest-moves-midday-crwv-moga-jbht-aa.html",
         "published": "Fri, 16 Oct 2026 16:29:16 GMT"
-      },
-      {
-        "title": "The drumbeat to buy battered shares of CoreWeave is growing louder on Wall Street",
-        "link": "https://www.cnbc.com/2026/10/16/coreweave-stock-selloff-analysts.html",
-        "published": "Fri, 16 Oct 2026 16:42:32 GMT"
-      },
-      {
-        "title": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI: DNI Clayton",
-        "link": "https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html",
-        "published": "Fri, 16 Oct 2026 16:27:44 GMT"
-      },
-      {
-        "title": "Here's how the CoreWeave sell-off is affecting OpenAI vs. Anthropic valuations",
-        "link": "https://www.cnbc.com/2026/10/16/coreweave-openai-anthropic-perps.html",
-        "published": "Fri, 16 Oct 2026 13:43:53 GMT"
       }
     ]
   }
