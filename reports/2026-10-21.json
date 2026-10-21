@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-10-21T08:34:27",
+  "generated_at": "2026-10-21T14:07:36",
   "date": "2026-10-21",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7712.57,
-        "pct_change": 0.28
+        "last": 7716.99,
+        "pct_change": 0.06
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26424.82,
-        "pct_change": -0.02
+        "last": 26567.02,
+        "pct_change": 0.54
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 52495.88,
-        "pct_change": 1.02
+        "last": 52411.09,
+        "pct_change": -0.16
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2773.42,
-        "pct_change": 1.65
+        "last": 2791.72,
+        "pct_change": 0.66
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 17.24,
-        "pct_change": -0.4
+        "last": 16.96,
+        "pct_change": -2.02
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 5.12,
-        "pct_change": -0.37
+        "last": 5.08,
+        "pct_change": -0.66
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 101.8,
-        "pct_change": 0.07
+        "last": 101.69,
+        "pct_change": -0.03
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 98.6,
-        "pct_change": -3.13
+        "last": 97.25,
+        "pct_change": -4.46
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4137.9,
-        "pct_change": -0.11
+        "last": 4151.8,
+        "pct_change": 0.22
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 185.44,
-        "pct_change": -0.28
+        "last": 186.97,
+        "pct_change": 0.83
       },
       "Financials": {
         "symbol": "XLF",
         "last": 55.72,
-        "pct_change": 1.2
+        "pct_change": 0.0
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 67.97,
-        "pct_change": 0.25
+        "last": 68.08,
+        "pct_change": 0.17
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 179.82,
-        "pct_change": 2.37
+        "last": 177.91,
+        "pct_change": -1.06
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 115.5,
-        "pct_change": 0.91
+        "last": 115.16,
+        "pct_change": -0.29
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 87.75,
-        "pct_change": 0.62
+        "last": 87.24,
+        "pct_change": -0.58
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 166.8,
-        "pct_change": 0.07
+        "last": 167.96,
+        "pct_change": 0.7
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 41.88,
-        "pct_change": 1.26
+        "last": 42.01,
+        "pct_change": 0.3
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 51.23,
-        "pct_change": 0.55
+        "last": 51.04,
+        "pct_change": -0.36
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 42.38,
-        "pct_change": 1.7
+        "last": 42.17,
+        "pct_change": -0.5
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 110.19,
-        "pct_change": 0.09
+        "last": 109.31,
+        "pct_change": -0.8
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 158.14,
-        "pct_change": -0.24
+        "last": 158.06,
+        "pct_change": -0.29
       }
     }
   },
@@ -131,65 +131,65 @@
       "effr": 3.88,
       "target_low": 3.75,
       "target_high": 4.0,
-      "as_of": "2026-10-19"
+      "as_of": "2026-10-20"
     },
     "japan": {
       "yield": 2.927,
       "as_of": "2026-10-20",
       "prev_yield": 2.935
     },
-    "spread_10y": 2.19
+    "spread_10y": 2.15
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 132.26,
-        "pct_change": -0.36
+        "last": 134.69,
+        "pct_change": 1.84
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 339.5,
-        "pct_change": -1.0
+        "last": 340.86,
+        "pct_change": 0.4
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 531.87,
-        "pct_change": -0.31
+        "last": 529.13,
+        "pct_change": -0.52
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 262.63,
-        "pct_change": 0.07
+        "last": 259.98,
+        "pct_change": -1.01
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 340.28,
-        "pct_change": -1.13
+        "last": 332.4,
+        "pct_change": -2.32
       },
       "Meta": {
         "symbol": "META",
-        "last": 694.25,
-        "pct_change": -1.59
+        "last": 706.65,
+        "pct_change": 1.79
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 822.51,
-        "pct_change": -1.44
+        "last": 853.14,
+        "pct_change": 3.72
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 231.8,
-        "pct_change": -0.09
+        "last": 235.73,
+        "pct_change": 1.7
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 79.32,
-        "pct_change": -1.2
+        "last": 79.99,
+        "pct_change": 0.84
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -504,66 +504,71 @@
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "Bull markets tend to peak with a whimper, not a bang — but a 15% correction for the S&P 500 may be next",
-        "link": "https://www.marketwatch.com/story/bull-markets-tend-to-peak-with-a-whimper-not-a-bang-but-a-15-correction-for-the-s-p-500-may-be-next-dab40e2c?mod=mw_rss_topstories",
-        "published": "Wed, 21 Oct 2026 00:24:00 GMT"
+        "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
+        "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
+        "published": "Wed, 21 Oct 2026 14:00:00 GMT"
       },
       {
-        "title": "Super Micro’s stock soars after surprise update — with Dell and HPE shares joining the rally",
-        "link": "https://www.marketwatch.com/story/super-micros-stock-soars-after-surprise-update-with-dell-and-hpe-shares-joining-the-rally-1837a69f?mod=mw_rss_topstories",
-        "published": "Wed, 21 Oct 2026 00:15:00 GMT"
+        "title": "It’s not just California’s billionaire tax. Wealth is on the ballot in the midterm elections.",
+        "link": "https://www.marketwatch.com/story/its-not-just-californias-billionaire-tax-wealth-is-on-the-ballot-in-the-midterm-elections-a50fc12c?mod=mw_rss_topstories",
+        "published": "Wed, 21 Oct 2026 13:55:00 GMT"
       },
       {
-        "title": "Tesla’s stock rises as Elon Musk drops new clues about a possible SpaceX merger",
-        "link": "https://www.marketwatch.com/story/teslas-stock-rises-as-elon-musk-drops-new-clues-about-a-possible-spacex-merger-8cc44fc2?mod=mw_rss_topstories",
-        "published": "Wed, 21 Oct 2026 00:14:00 GMT"
+        "title": "In the battle for AI supremacy, China is only six months behind the U.S. — which means it’s winning, says former Google CEO",
+        "link": "https://www.marketwatch.com/story/in-the-battle-for-ai-supremacy-china-is-only-six-months-behind-the-u-s-but-that-means-theyre-winning-says-former-google-ceo-82d71e7a?mod=mw_rss_topstories",
+        "published": "Wed, 21 Oct 2026 13:50:00 GMT"
       },
       {
-        "title": "Netflix vows to revive viewership trends, but investors hit ‘sell’ on the stock",
-        "link": "https://www.marketwatch.com/story/netflix-vows-to-revive-viewership-trends-but-investors-hit-sell-on-the-stock-3e24420a?mod=mw_rss_topstories",
-        "published": "Wed, 21 Oct 2026 00:12:00 GMT"
+        "title": "Pending home sales sink to 25-year low as buyers flee high mortgage rates",
+        "link": "https://www.marketwatch.com/story/pending-home-sales-sink-to-25-year-low-as-buyers-flee-high-mortgage-rates-d02c6b30?mod=mw_rss_topstories",
+        "published": "Wed, 21 Oct 2026 13:48:00 GMT"
+      },
+      {
+        "title": "Heckler disrupts Nvidia CEO Huang’s keynote speech at Berlin conference",
+        "link": "https://www.marketwatch.com/story/heckler-disrupts-nvidia-ceo-huangs-speech-at-berlin-conference-fc461a82?mod=mw_rss_topstories",
+        "published": "Wed, 21 Oct 2026 12:32:00 GMT"
       },
       {
         "title": "Why SpaceX’s stock is surging — and lifting the broader AI universe along with it",
         "link": "https://www.marketwatch.com/story/why-spacexs-stock-is-surging-and-lifting-the-broader-ai-universe-along-with-it-0cd62f39?mod=mw_rss_topstories",
-        "published": "Tue, 20 Oct 2026 23:10:00 GMT"
+        "published": "Wed, 21 Oct 2026 12:06:00 GMT"
+      },
+      {
+        "title": "Musk says he’s exploring a SpaceX-Tesla megamerger. What would a combined company be worth?",
+        "link": "https://www.marketwatch.com/story/musk-says-hes-exploring-a-spacex-tesla-megamerger-what-would-a-combined-company-be-worth-f35566aa?mod=mw_rss_topstories",
+        "published": "Wed, 21 Oct 2026 11:39:00 GMT"
       },
       {
         "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
         "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-        "published": "Tue, 20 Oct 2026 22:45:00 GMT"
-      },
-      {
-        "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
-        "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-        "published": "Tue, 20 Oct 2026 22:30:00 GMT"
-      },
-      {
-        "title": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?",
-        "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
-        "published": "Tue, 20 Oct 2026 22:27:00 GMT"
+        "published": "Wed, 21 Oct 2026 11:15:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "SpaceX up 10% in premarket after earnings beat and Musk hints at Tesla tie-up",
+        "title": "SpaceX stock jumps 8% after earnings beat and Musk hints at Tesla tie-up",
         "link": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
-        "published": "Wed, 21 Oct 2026 08:25:42 GMT"
+        "published": "Wed, 21 Oct 2026 13:52:43 GMT"
       },
       {
-        "title": "'MAKE DEALS': Trump says data centers should pay communities a 'dividend' to win support",
-        "link": "https://www.cnbc.com/2026/10/21/trump-data-centers-community-dividend.html",
-        "published": "Wed, 21 Oct 2026 06:52:28 GMT"
+        "title": "Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck",
+        "link": "https://www.cnbc.com/2026/10/21/nvidia-announces-vera-rubin-racks-that-can-be-shipped-on-a-truck-.html",
+        "published": "Wed, 21 Oct 2026 12:43:49 GMT"
       },
       {
-        "title": "Stock futures rise as traders evaluate latest raft of earnings; SpaceX shares surge: Live updates",
-        "link": "https://www.cnbc.com/2026/10/20/stock-market-today-live-updates.html",
-        "published": "Wed, 21 Oct 2026 08:05:16 GMT"
+        "title": "United Airlines set to open its biggest airport lounge in $2.6 billion overhaul at Houston hub",
+        "link": "https://www.cnbc.com/2026/10/21/united-airlines-biggest-airport-lounge-houston.html",
+        "published": "Wed, 21 Oct 2026 13:44:35 GMT"
       },
       {
-        "title": "Elon Musk ordered Starlink slowdown for Ukraine: Report",
-        "link": "https://www.cnbc.com/2026/10/20/trump-musk-starlink-ukraine-zelenskyy.html",
-        "published": "Tue, 20 Oct 2026 23:06:56 GMT"
+        "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
+        "link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
+        "published": "Wed, 21 Oct 2026 13:30:57 GMT"
+      },
+      {
+        "title": "Here are Wednesday's biggest analyst calls: Nvidia, SpaceX, Netflix, Zoom, Apple, Robinhood & more",
+        "link": "https://www.cnbc.com/2026/10/21/wednesday-biggest-analyst-calls-like-spacex.html",
+        "published": "Wed, 21 Oct 2026 12:11:50 GMT"
       },
       {
         "title": "OpenAI's most powerful AI models disabled their own safety monitoring — and one lied about it",
@@ -571,19 +576,14 @@
         "published": "Wed, 21 Oct 2026 07:49:48 GMT"
       },
       {
-        "title": "Oil prices climb as traders assess Middle East developments",
-        "link": "https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html",
-        "published": "Wed, 21 Oct 2026 07:54:59 GMT"
+        "title": "Tokenized stock trading takes off overseas as Goldman, other U.S. companies object",
+        "link": "https://www.cnbc.com/2026/10/21/tokenized-stocks-us-companies-object.html",
+        "published": "Wed, 21 Oct 2026 12:33:34 GMT"
       },
       {
-        "title": "U.S. eyes refining muscle of Indian billionaire Ambani's Reliance as Rubio visits Jamnagar plant",
-        "link": "https://www.cnbc.com/2026/10/21/rubio-reliance-venezuela-oil-diesel.html",
-        "published": "Wed, 21 Oct 2026 04:47:43 GMT"
-      },
-      {
-        "title": "UK inflation jumps to 3.5% — cementing rate hike expectations",
-        "link": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
-        "published": "Wed, 21 Oct 2026 07:50:10 GMT"
+        "title": "Witkoff calls Putin a 'humanitarian' at Russia peace talks without Ukraine",
+        "link": "https://www.cnbc.com/2026/10/21/witkoff-russia-putin-ukraine-zelenskyy.html",
+        "published": "Wed, 21 Oct 2026 13:44:01 GMT"
       }
     ]
   }
