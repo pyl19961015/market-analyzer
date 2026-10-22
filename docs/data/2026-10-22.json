@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-10-22T18:31:17",
+  "generated_at": "2026-10-22T21:55:24",
   "date": "2026-10-22",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7643.52,
-        "pct_change": -1.47
+        "last": 7663.43,
+        "pct_change": -1.21
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 25960.07,
-        "pct_change": -2.78
+        "last": 26008.86,
+        "pct_change": -2.6
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 52725.36,
-        "pct_change": -0.25
+        "last": 52867.98,
+        "pct_change": 0.02
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2773.04,
-        "pct_change": -0.29
+        "last": 2784.03,
+        "pct_change": 0.11
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 19.42,
-        "pct_change": 16.43
+        "last": 19.03,
+        "pct_change": 14.09
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.96,
-        "pct_change": -3.67
+        "last": 4.95,
+        "pct_change": -3.75
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 101.61,
-        "pct_change": -0.17
+        "last": 101.62,
+        "pct_change": -0.15
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 99.23,
-        "pct_change": 2.14
+        "last": 99.1,
+        "pct_change": 2.01
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4054.5,
-        "pct_change": -2.3
+        "last": 4039.8,
+        "pct_change": -2.66
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 182.02,
-        "pct_change": -3.46
+        "last": 182.34,
+        "pct_change": -3.29
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 56.53,
-        "pct_change": 0.87
+        "last": 56.65,
+        "pct_change": 1.09
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 67.46,
-        "pct_change": -1.03
+        "last": 67.57,
+        "pct_change": -0.87
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 180.88,
-        "pct_change": 1.08
+        "last": 181.3,
+        "pct_change": 1.32
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 114.71,
-        "pct_change": -0.71
+        "last": 115.01,
+        "pct_change": -0.45
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 89.53,
-        "pct_change": 2.78
+        "last": 89.99,
+        "pct_change": 3.31
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 165.67,
-        "pct_change": -1.57
+        "last": 166.73,
+        "pct_change": -0.94
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 42.65,
-        "pct_change": 1.55
+        "last": 42.87,
+        "pct_change": 2.07
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 51.49,
-        "pct_change": 0.33
+        "last": 51.69,
+        "pct_change": 0.72
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 42.37,
-        "pct_change": 0.73
+        "last": 42.52,
+        "pct_change": 1.09
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 106.85,
-        "pct_change": -1.95
+        "last": 107.42,
+        "pct_change": -1.42
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 156.88,
-        "pct_change": -0.88
+        "last": 156.76,
+        "pct_change": -0.95
       }
     }
   },
@@ -138,63 +138,63 @@
       "as_of": "2026-10-21",
       "prev_yield": 2.927
     },
-    "spread_10y": 2.04
+    "spread_10y": 2.03
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 123.27,
-        "pct_change": -8.64
+        "last": 123.99,
+        "pct_change": -8.1
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 345.92,
-        "pct_change": 0.56
+        "last": 348.22,
+        "pct_change": 1.23
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 522.39,
-        "pct_change": -1.98
+        "last": 521.08,
+        "pct_change": -2.23
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 249.7,
-        "pct_change": -4.83
+        "last": 250.38,
+        "pct_change": -4.57
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 323.32,
-        "pct_change": -3.42
+        "last": 324.22,
+        "pct_change": -3.15
       },
       "Meta": {
         "symbol": "META",
-        "last": 642.82,
-        "pct_change": -7.84
+        "last": 648.85,
+        "pct_change": -6.98
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 750.27,
-        "pct_change": -11.81
+        "last": 752.54,
+        "pct_change": -11.54
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 205.74,
-        "pct_change": -13.38
+        "last": 207.82,
+        "pct_change": -12.51
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 72.56,
-        "pct_change": -8.38
+        "last": 73.07,
+        "pct_change": -7.74
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 5560.0,
-        "pct_change": 1.57
+        "last": 5480.0,
+        "pct_change": -1.44
       }
     }
   },
@@ -504,9 +504,34 @@
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "Moderna’s stock tumbles after reported leak of data for cancer vaccine",
+        "title": "Treasury yields see extreme plunge. Why investors are ducking for cover.",
+        "link": "https://www.marketwatch.com/story/treasury-yields-see-extreme-plunge-why-investors-are-ducking-for-cover-60044c66?mod=mw_rss_topstories",
+        "published": "Thu, 22 Oct 2026 21:32:00 GMT"
+      },
+      {
+        "title": "Americans are having fewer babies — and pampering them with luxury diapers",
+        "link": "https://www.marketwatch.com/story/americans-are-having-fewer-babies-and-pampering-them-with-luxury-diapers-a84222cd?mod=mw_rss_topstories",
+        "published": "Thu, 22 Oct 2026 21:28:00 GMT"
+      },
+      {
+        "title": "3 big reasons Micron and other chip stocks fell hard on Thursday",
+        "link": "https://www.marketwatch.com/story/two-big-reasons-micron-and-other-chip-stocks-are-falling-on-thursday-312f1fb2?mod=mw_rss_topstories",
+        "published": "Thu, 22 Oct 2026 21:19:00 GMT"
+      },
+      {
+        "title": "Oil prices approach Iran-war highs as soaring tanker rates trigger a second energy squeeze",
+        "link": "https://www.marketwatch.com/story/oil-prices-approach-iran-war-highs-as-soaring-tanker-rates-trigger-a-second-energy-squeeze-2d726982?mod=mw_rss_topstories",
+        "published": "Thu, 22 Oct 2026 20:46:00 GMT"
+      },
+      {
+        "title": "Moderna’s cancer vaccine hits its targets, but a data leak rattled investors and the stock tumbled",
         "link": "https://www.marketwatch.com/story/modernas-stock-tumbles-after-reported-leak-of-data-for-cancer-vaccine-dcc897c1?mod=mw_rss_topstories",
-        "published": "Thu, 22 Oct 2026 18:10:00 GMT"
+        "published": "Thu, 22 Oct 2026 20:14:00 GMT"
+      },
+      {
+        "title": "Is getting a wedding band from Quince a bad idea? It’s a third of the price of a local jeweler.",
+        "link": "https://www.marketwatch.com/story/is-getting-a-wedding-band-from-quince-a-bad-idea-its-a-third-of-the-price-fa89c9b2?mod=mw_rss_topstories",
+        "published": "Thu, 22 Oct 2026 19:25:00 GMT"
       },
       {
         "title": "Elon Musk promised a SpaceX share to every kid in America — don’t hold your breath",
@@ -517,73 +542,48 @@
         "title": "The Social Security Administration wants more babies signed up for ‘Trump accounts.’ But there’s still a catch.",
         "link": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories",
         "published": "Thu, 22 Oct 2026 17:24:00 GMT"
-      },
-      {
-        "title": "Young investors are betting on prediction markets and crypto. But this bestselling author says the boring money moves still work.",
-        "link": "https://www.marketwatch.com/story/young-investors-are-betting-on-prediction-markets-and-crypto-but-this-bestselling-author-says-the-boring-money-moves-still-work-cd9d350a?mod=mw_rss_topstories",
-        "published": "Thu, 22 Oct 2026 17:21:00 GMT"
-      },
-      {
-        "title": "‘AI is on trial’: Bond yields sink below 5% as investors look for safety",
-        "link": "https://www.marketwatch.com/story/ai-is-on-trial-bond-yields-sink-below-5-as-investors-look-for-safety-dbc86ee9?mod=mw_rss_topstories",
-        "published": "Thu, 22 Oct 2026 17:16:00 GMT"
-      },
-      {
-        "title": "Young Americans are giving up their cars. It’s a path to financial freedom, for some.",
-        "link": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
-        "published": "Thu, 22 Oct 2026 16:48:00 GMT"
-      },
-      {
-        "title": "Zuckerberg’s California tax move is a win for Meta — and for him",
-        "link": "https://www.marketwatch.com/story/zuckerbergs-california-tax-move-is-a-win-for-meta-and-for-him-aa049c94?mod=mw_rss_topstories",
-        "published": "Thu, 22 Oct 2026 16:48:00 GMT"
-      },
-      {
-        "title": "Two big reasons Micron and other chip stocks are falling on Thursday",
-        "link": "https://www.marketwatch.com/story/two-big-reasons-micron-and-other-chip-stocks-are-falling-on-thursday-312f1fb2?mod=mw_rss_topstories",
-        "published": "Thu, 22 Oct 2026 15:33:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "Meta stock sinks 6% as AI spend pushes free cash flow negative",
-        "link": "https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html",
-        "published": "Thu, 22 Oct 2026 17:48:43 GMT"
-      },
-      {
         "title": "Elon Musk invests about $1 billion in Skydance",
         "link": "https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html",
-        "published": "Thu, 22 Oct 2026 18:02:05 GMT"
+        "published": "Thu, 22 Oct 2026 19:34:46 GMT"
       },
       {
-        "title": "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease",
-        "link": "https://www.cnbc.com/2026/10/22/bill-ackman-talks-meta-and-markets-with-cnbc.html",
-        "published": "Thu, 22 Oct 2026 17:53:08 GMT"
+        "title": "Moderna shares plunge after cancer vaccine data leaks — despite positive results",
+        "link": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
+        "published": "Thu, 22 Oct 2026 21:52:02 GMT"
       },
       {
-        "title": "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
-        "link": "https://www.cnbc.com/2026/10/22/elon-musk-ukraine-starlink-alternatives.html",
-        "published": "Thu, 22 Oct 2026 16:54:26 GMT"
+        "title": "Meta’s deal to keep Zuckerberg in California adds fuel to wealth tax debate ahead of election",
+        "link": "https://www.cnbc.com/2026/10/22/meta-mark-zuckerberg-california-billionaire-tax.html",
+        "published": "Thu, 22 Oct 2026 20:47:59 GMT"
       },
       {
-        "title": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
-        "link": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
-        "published": "Thu, 22 Oct 2026 13:18:36 GMT"
+        "title": "Trump defends Ramaswamy ad with Acton's estranged mom after bipartisan criticism",
+        "link": "https://www.cnbc.com/2026/10/22/trump-ramaswamy-ad-acton-mother-ad.html",
+        "published": "Thu, 22 Oct 2026 20:26:48 GMT"
       },
       {
-        "title": "Personal agents like Meta's Muse could fuel AI’s growth — and challenge Amazon and Apple",
-        "link": "https://www.cnbc.com/2026/10/22/meta-muse-personal-ai-agents.html",
-        "published": "Thu, 22 Oct 2026 18:07:55 GMT"
+        "title": "Trump invokes Cold War era Defense Production Act for oil production, refining",
+        "link": "https://www.cnbc.com/2026/10/22/trump-defense-production-act.html",
+        "published": "Thu, 22 Oct 2026 21:37:31 GMT"
       },
       {
-        "title": "Stocks making the biggest moves midday: Procter & Gamble, Lam Research, Blackstone, Southwest & more",
-        "link": "https://www.cnbc.com/2026/10/22/stocks-making-the-biggest-moves-midday-pg-lrcx-bx-luv-ttmi-.html",
-        "published": "Thu, 22 Oct 2026 17:23:11 GMT"
+        "title": "These funds can juice your tax-free portfolio income. Just be sure to mind the risk",
+        "link": "https://www.cnbc.com/2026/10/22/municipal-bond-funds-tax-free-income.html",
+        "published": "Thu, 22 Oct 2026 19:53:55 GMT"
       },
       {
-        "title": "Lawsuit accuses Trump of illegally profiting off foreign crypto deals",
-        "link": "https://www.cnbc.com/2026/10/22/trump-world-liberty-crypto-lawsuit-uae.html",
-        "published": "Thu, 22 Oct 2026 17:49:53 GMT"
+        "title": "Stocks making the biggest moves in after hours: Western Digital, Bloom Energy, Deckers Outdoor & more",
+        "link": "https://www.cnbc.com/2026/10/22/stocks-making-the-biggest-moves-in-after-hours-wdc-be-deck.html",
+        "published": "Thu, 22 Oct 2026 21:10:14 GMT"
+      },
+      {
+        "title": "OpenAI nears up to $30 billion funding round at $1.25 trillion valuation led by UAE investors",
+        "link": "https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html",
+        "published": "Thu, 22 Oct 2026 20:41:37 GMT"
       }
     ]
   }
