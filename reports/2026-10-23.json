@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-10-23T18:04:40",
+  "generated_at": "2026-10-23T21:22:52",
   "date": "2026-10-23",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7631.8,
-        "pct_change": -0.41
+        "last": 7623.68,
+        "pct_change": -0.52
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 25997.05,
-        "pct_change": -0.05
+        "last": 25955.34,
+        "pct_change": -0.21
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 52264.9,
-        "pct_change": -1.14
+        "last": 52215.16,
+        "pct_change": -1.23
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2774.65,
-        "pct_change": -0.34
+        "last": 2775.9,
+        "pct_change": -0.29
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 20.02,
-        "pct_change": 5.2
+        "last": 19.45,
+        "pct_change": 2.21
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
@@ -35,75 +35,75 @@
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 101.81,
-        "pct_change": 0.2
+        "last": 101.75,
+        "pct_change": 0.14
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 103.03,
-        "pct_change": 3.58
+        "last": 103.44,
+        "pct_change": 3.99
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4011.7,
-        "pct_change": -1.2
+        "last": 4010.0,
+        "pct_change": -1.24
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 183.4,
-        "pct_change": 0.58
+        "last": 183.23,
+        "pct_change": 0.49
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 55.96,
-        "pct_change": -1.22
+        "last": 55.9,
+        "pct_change": -1.32
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 69.41,
-        "pct_change": 2.72
+        "last": 69.33,
+        "pct_change": 2.6
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 179.09,
-        "pct_change": -1.22
+        "last": 179.28,
+        "pct_change": -1.11
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 113.23,
-        "pct_change": -1.54
+        "last": 113.1,
+        "pct_change": -1.66
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 88.13,
-        "pct_change": -2.07
+        "last": 88.26,
+        "pct_change": -1.92
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 164.99,
-        "pct_change": -1.04
+        "last": 164.62,
+        "pct_change": -1.27
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 42.44,
-        "pct_change": -0.99
+        "last": 42.56,
+        "pct_change": -0.72
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 51.5,
-        "pct_change": -0.37
+        "last": 51.31,
+        "pct_change": -0.74
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 42.38,
-        "pct_change": -0.33
+        "last": 42.57,
+        "pct_change": 0.12
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 106.2,
-        "pct_change": -1.14
+        "last": 105.51,
+        "pct_change": -1.78
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 156.88,
-        "pct_change": -0.79
+        "last": 156.81,
+        "pct_change": -0.83
       }
     }
   },
@@ -144,57 +144,57 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 125.11,
-        "pct_change": 0.9
+        "last": 123.69,
+        "pct_change": -0.24
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 346.42,
-        "pct_change": -0.52
+        "last": 347.73,
+        "pct_change": -0.14
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 524.16,
-        "pct_change": 0.59
+        "last": 524.51,
+        "pct_change": 0.66
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 248.88,
-        "pct_change": -0.6
+        "last": 248.0,
+        "pct_change": -0.95
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 322.05,
-        "pct_change": -0.67
+        "last": 320.21,
+        "pct_change": -1.24
       },
       "Meta": {
         "symbol": "META",
-        "last": 645.24,
-        "pct_change": -0.56
+        "last": 642.62,
+        "pct_change": -0.96
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 761.56,
-        "pct_change": 1.2
+        "last": 756.17,
+        "pct_change": 0.48
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 209.96,
-        "pct_change": 1.03
+        "last": 209.29,
+        "pct_change": 0.71
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 74.21,
-        "pct_change": 1.57
+        "last": 74.09,
+        "pct_change": 1.4
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 5480.0,
-        "pct_change": -1.44
+        "last": 5447.0,
+        "pct_change": -0.6
       }
     }
   },
@@ -347,52 +347,7 @@
   "fed_policy": {
     "Press Releases": [
       {
-        "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
-        "published": "Fri, 16 Oct 2026 15:00:00 GMT",
-        "summary": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank"
-      },
-      {
-        "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
-        "published": "Tue, 13 Oct 2026 18:00:00 GMT",
-        "summary": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026"
-      },
-      {
-        "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
-        "published": "Fri, 9 Oct 2026 14:00:00 GMT",
-        "summary": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families"
-      },
-      {
-        "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
-        "published": "Thu, 8 Oct 2026 20:30:00 GMT",
-        "summary": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering"
-      },
-      {
-        "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
-        "published": "Wed, 7 Oct 2026 18:00:00 GMT",
-        "summary": "Minutes of the Federal Open Market Committee, September 15-16, 2026"
-      },
-      {
-        "title": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
-        "published": "Mon, 5 Oct 2026 20:30:00 GMT",
-        "summary": "Federal Reserve Board announces approval of application by Isabella Bank Corporation"
-      },
-      {
-        "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
-        "published": "Fri, 2 Oct 2026 20:45:00 GMT",
-        "summary": "Federal Reserve Board announces approval of application by Fleur Capital Corporation"
-      },
-      {
-        "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
-        "published": "Fri, 2 Oct 2026 20:00:00 GMT",
-        "summary": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O"
+        "error": "<unknown>:2:0: syntax error"
       }
     ],
     "Speeches": [
@@ -504,66 +459,76 @@
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-        "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-        "published": "Fri, 23 Oct 2026 17:00:00 GMT"
+        "title": "This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%.",
+        "link": "https://www.marketwatch.com/story/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earnings-expectations-by-36-4a4188cb?mod=mw_rss_topstories",
+        "published": "Fri, 23 Oct 2026 21:13:00 GMT"
       },
       {
-        "title": "Walmart, Best Buy and other stores now use digital price tags. Critics say they could lead to different prices for different shoppers.",
-        "link": "https://www.marketwatch.com/story/walmart-best-buy-and-other-stores-now-use-digital-price-tags-critics-say-they-could-lead-to-different-prices-for-different-shoppers-19e2f4da?mod=mw_rss_topstories",
-        "published": "Fri, 23 Oct 2026 16:41:00 GMT"
+        "title": "The mobile ambitions of SpaceX are hitting telecom stocks again. Here’s what the latest developments mean.",
+        "link": "https://www.marketwatch.com/story/the-mobile-ambitions-of-spacex-see-telecom-stocks-get-hit-again-what-the-latest-developments-mean-9a4159b5?mod=mw_rss_topstories",
+        "published": "Fri, 23 Oct 2026 21:11:00 GMT"
       },
       {
-        "title": "Retire on 8% a year with little or no risk? How to use annuities the right way.",
-        "link": "https://www.marketwatch.com/story/retire-on-8-a-year-with-little-or-no-risk-how-to-use-annuities-the-right-way-06ababc5?mod=mw_rss_topstories",
-        "published": "Fri, 23 Oct 2026 15:56:00 GMT"
+        "title": "The real test for Moderna’s cancer vaccine isn’t about beating Keytruda. It’s keeping cancer from coming back in the long term.",
+        "link": "https://www.marketwatch.com/story/the-real-test-for-modernas-cancer-vaccine-isnt-about-beating-keytruda-its-keeping-cancer-from-coming-back-in-the-long-term-da9af99f?mod=mw_rss_topstories",
+        "published": "Fri, 23 Oct 2026 21:06:00 GMT"
+      },
+      {
+        "title": "Some Republicans are opposing Trump on tariffs. Maine’s Susan Collins just got him to back down on Canadian levies.",
+        "link": "https://www.marketwatch.com/story/some-republicans-are-opposing-trump-on-tariffs-maines-susan-collins-just-got-him-to-back-down-on-canadian-levies-02b202ae?mod=mw_rss_topstories",
+        "published": "Fri, 23 Oct 2026 20:50:00 GMT"
+      },
+      {
+        "title": "The U.S. economy is great by this measure, and the good times aren’t over. So why are Americans so sour?",
+        "link": "https://www.marketwatch.com/story/the-u-s-economy-is-great-by-this-measure-and-the-good-times-arent-over-so-why-are-americans-so-sour-4be897db?mod=mw_rss_topstories",
+        "published": "Fri, 23 Oct 2026 20:19:00 GMT"
+      },
+      {
+        "title": "Oil markets are on edge ahead of the weekend, as midterm elections near and fresh U.S. strikes on Iran are predicted",
+        "link": "https://www.marketwatch.com/story/oil-markets-are-on-edge-ahead-of-the-weekend-as-midterm-elections-near-and-fresh-u-s-strikes-on-iran-are-predicted-8c27e634?mod=mw_rss_topstories",
+        "published": "Fri, 23 Oct 2026 20:19:00 GMT"
+      },
+      {
+        "title": "I want to pay off $4,500 in credit-card debt in 2 months. Is this possible?",
+        "link": "https://www.marketwatch.com/story/i-want-to-pay-off-4-500-in-credit-card-debt-in-2-months-is-this-possible-059d9a21?mod=mw_rss_topstories",
+        "published": "Fri, 23 Oct 2026 20:02:00 GMT"
       },
       {
         "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
         "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
-        "published": "Fri, 23 Oct 2026 15:31:00 GMT"
-      },
-      {
-        "title": "Everyone’s talking about Roth conversions, but here’s how few people really do them — and why you shouldn’t have FOMO about it",
-        "link": "https://www.marketwatch.com/story/everyones-talking-about-roth-conversions-but-heres-how-few-people-really-do-them-and-why-you-shouldnt-have-fomo-about-it-1b50db07?mod=mw_rss_topstories",
-        "published": "Fri, 23 Oct 2026 15:00:00 GMT"
-      },
-      {
-        "title": "This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%.",
-        "link": "https://www.marketwatch.com/story/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earnings-expectations-by-36-4a4188cb?mod=mw_rss_topstories",
-        "published": "Fri, 23 Oct 2026 14:40:00 GMT"
-      },
-      {
-        "title": "Young Americans are giving up on cars. It’s a path to financial freedom for some.",
-        "link": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
-        "published": "Fri, 23 Oct 2026 14:29:00 GMT"
-      },
-      {
-        "title": "Surging economy gets off to a good start in the fourth quarter — but there’s one big problem",
-        "link": "https://www.marketwatch.com/story/surging-economy-gets-off-to-a-good-start-in-the-fourth-quarter-but-theres-one-big-problem-5657f399?mod=mw_rss_topstories",
-        "published": "Fri, 23 Oct 2026 14:23:00 GMT"
+        "published": "Fri, 23 Oct 2026 20:00:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
-        "link": "https://www.cnbc.com/2026/10/23/ukraine-says-starlink-restrictions-remain-despite-trump-assurances.html",
-        "published": "Fri, 23 Oct 2026 17:41:25 GMT"
+        "title": "Trump dropping some Canada tariffs but 'replacing' them with other products",
+        "link": "https://www.cnbc.com/2026/10/23/trump-tariffs-canada-susan-collins.html",
+        "published": "Fri, 23 Oct 2026 20:48:01 GMT"
       },
       {
-        "title": "Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets",
-        "link": "https://www.cnbc.com/2026/10/23/cheniere-qatar-energy-lng-natural-gas-iran-war-strait-hormuz.html",
-        "published": "Fri, 23 Oct 2026 17:25:29 GMT"
+        "title": "Trump's executive order targets mortgage insurance, refinance costs. What it means for borrowers",
+        "link": "https://www.cnbc.com/2026/10/23/trump-mortgage-executive-order-costs.html",
+        "published": "Fri, 23 Oct 2026 19:53:13 GMT"
       },
       {
-        "title": "DOJ sues to block Alaska from certifying Senate race winner if Republican narrowly loses",
-        "link": "https://www.cnbc.com/2026/10/23/alaska-senate-election-doj-lawsuit-sullivan.html",
-        "published": "Fri, 23 Oct 2026 17:42:30 GMT"
+        "title": "Scalpers offer Apple iPhone Duo buyers hundreds extra outside Beijing launch",
+        "link": "https://www.cnbc.com/2026/10/23/apple-iphone-duo-china-launch.html",
+        "published": "Fri, 23 Oct 2026 20:06:37 GMT"
       },
       {
-        "title": "Dow tumbles 600 points as Middle East tensions rise, selling broadens beyond tech: Live updates",
+        "title": "Dow tumbles more than 600 points as oil prices rise and market sell-off hits most sectors",
         "link": "https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html",
-        "published": "Fri, 23 Oct 2026 18:00:03 GMT"
+        "published": "Fri, 23 Oct 2026 20:16:54 GMT"
+      },
+      {
+        "title": "Meta shares are down 9% this week. Here's why Mike Khouw is buying now",
+        "link": "https://www.cnbc.com/2026/10/23/meta-shares-rough-week-mike-khouw-is-buying.html",
+        "published": "Fri, 23 Oct 2026 19:25:18 GMT"
+      },
+      {
+        "title": "Apple is set to take back the market-cap crown from Nvidia. Upcoming earnings may push it over the top",
+        "link": "https://www.cnbc.com/2026/10/23/apple-nvidia-market-cap-earnings.html",
+        "published": "Fri, 23 Oct 2026 19:07:32 GMT"
       },
       {
         "title": "AI's 'Black October': Critical PHP flaws set off global security scramble",
@@ -571,19 +536,9 @@
         "published": "Fri, 23 Oct 2026 16:55:37 GMT"
       },
       {
-        "title": "The S&P 500 is forming a bearish chart pattern. Can it snap out of it?",
-        "link": "https://www.cnbc.com/2026/10/23/the-sp-500-is-forming-a-bearish-chart-pattern-can-it-snap-out-of-it.html",
-        "published": "Fri, 23 Oct 2026 17:14:01 GMT"
-      },
-      {
-        "title": "Investors are starting to find opportunities in the battered bond market",
-        "link": "https://www.cnbc.com/2026/10/23/investors-are-starting-to-find-opportunities-in-the-battered-bond-market.html",
-        "published": "Fri, 23 Oct 2026 17:40:31 GMT"
-      },
-      {
-        "title": "U.S. fines Air France, KLM over flights in prohibited Iraqi airspace",
-        "link": "https://www.cnbc.com/2026/10/23/us-fines-air-france-klm-over-flights-in-prohibited-iraqi-airspace.html",
-        "published": "Fri, 23 Oct 2026 16:52:43 GMT"
+        "title": "Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets",
+        "link": "https://www.cnbc.com/2026/10/23/cheniere-qatar-energy-lng-natural-gas-iran-war-strait-hormuz.html",
+        "published": "Fri, 23 Oct 2026 19:19:08 GMT"
       }
     ]
   }
