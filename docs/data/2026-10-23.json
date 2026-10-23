@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-10-23T08:45:00",
+  "generated_at": "2026-10-23T13:50:35",
   "date": "2026-10-23",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7663.43,
-        "pct_change": -1.21
+        "last": 7628.68,
+        "pct_change": -0.45
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26008.86,
-        "pct_change": -2.6
+        "last": 25954.63,
+        "pct_change": -0.21
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 52867.98,
-        "pct_change": 0.02
+        "last": 52325.59,
+        "pct_change": -1.03
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2784.03,
-        "pct_change": 0.11
+        "last": 2761.5,
+        "pct_change": -0.81
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 18.94,
-        "pct_change": -0.47
+        "last": 20.35,
+        "pct_change": 6.94
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.95,
-        "pct_change": -3.75
+        "last": 4.97,
+        "pct_change": 0.38
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 101.82,
-        "pct_change": 0.2
+        "last": 101.69,
+        "pct_change": 0.08
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 100.28,
-        "pct_change": 0.81
+        "last": 101.99,
+        "pct_change": 2.53
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4031.4,
-        "pct_change": -0.71
+        "last": 4038.8,
+        "pct_change": -0.53
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 182.34,
-        "pct_change": -3.29
+        "last": 182.48,
+        "pct_change": 0.08
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 56.65,
-        "pct_change": 1.09
+        "last": 56.22,
+        "pct_change": -0.75
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 67.57,
-        "pct_change": -0.87
+        "last": 68.68,
+        "pct_change": 1.65
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 181.3,
-        "pct_change": 1.32
+        "last": 179.67,
+        "pct_change": -0.9
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 115.01,
-        "pct_change": -0.45
+        "last": 113.35,
+        "pct_change": -1.45
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 89.99,
-        "pct_change": 3.31
+        "last": 89.18,
+        "pct_change": -0.91
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 166.73,
-        "pct_change": -0.94
+        "last": 163.92,
+        "pct_change": -1.69
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 42.87,
-        "pct_change": 2.07
+        "last": 42.54,
+        "pct_change": -0.76
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 51.69,
-        "pct_change": 0.72
+        "last": 51.36,
+        "pct_change": -0.64
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 42.52,
-        "pct_change": 1.09
+        "last": 42.85,
+        "pct_change": 0.79
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 107.42,
-        "pct_change": -1.42
+        "last": 106.44,
+        "pct_change": -0.91
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 156.83,
-        "pct_change": -0.82
+        "last": 156.64,
+        "pct_change": -0.94
       }
     }
   },
@@ -131,65 +131,65 @@
       "effr": 3.88,
       "target_low": 3.75,
       "target_high": 4.0,
-      "as_of": "2026-10-21"
+      "as_of": "2026-10-22"
     },
     "japan": {
       "yield": 2.914,
       "as_of": "2026-10-22",
       "prev_yield": 2.923
     },
-    "spread_10y": 2.04
+    "spread_10y": 2.06
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 123.99,
-        "pct_change": -8.1
+        "last": 123.71,
+        "pct_change": -0.23
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 348.22,
-        "pct_change": 1.23
+        "last": 349.75,
+        "pct_change": 0.44
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 521.08,
-        "pct_change": -2.23
+        "last": 518.9,
+        "pct_change": -0.42
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 250.38,
-        "pct_change": -4.57
+        "last": 248.23,
+        "pct_change": -0.86
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 324.22,
-        "pct_change": -3.15
+        "last": 322.51,
+        "pct_change": -0.53
       },
       "Meta": {
         "symbol": "META",
-        "last": 648.85,
-        "pct_change": -6.98
+        "last": 642.74,
+        "pct_change": -0.94
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 752.54,
-        "pct_change": -11.54
+        "last": 763.08,
+        "pct_change": 1.4
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 207.82,
-        "pct_change": -12.51
+        "last": 210.44,
+        "pct_change": 1.26
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 73.07,
-        "pct_change": -7.74
+        "last": 72.76,
+        "pct_change": -0.42
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -504,86 +504,86 @@
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
-        "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
-        "published": "Fri, 23 Oct 2026 07:15:00 GMT"
-      },
-      {
         "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
         "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
-        "published": "Fri, 23 Oct 2026 06:15:00 GMT"
+        "published": "Fri, 23 Oct 2026 13:30:00 GMT"
       },
       {
-        "title": "My partner of 17 years left me his $1 million home. His children are crying foul. Am I obliged to split it with them?",
-        "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
-        "published": "Thu, 22 Oct 2026 23:15:00 GMT"
+        "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
+        "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
+        "published": "Fri, 23 Oct 2026 13:15:00 GMT"
       },
       {
-        "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
-        "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-        "published": "Thu, 22 Oct 2026 23:00:00 GMT"
+        "title": "Over 40% of Americans are heading toward retirement ‘blind’ — with no plan",
+        "link": "https://www.marketwatch.com/story/over-40-of-americans-are-heading-toward-retirement-blind-with-no-plan-e49b502f?mod=mw_rss_topstories",
+        "published": "Fri, 23 Oct 2026 13:00:00 GMT"
       },
       {
-        "title": "CoreWeave set off a wave of anxiety — but Wall Street’s dire prognosis is premature",
-        "link": "https://www.marketwatch.com/story/coreweave-set-off-a-wave-of-anxiety-but-wall-streets-dire-prognosis-is-premature-edc3f5dd?mod=mw_rss_topstories",
-        "published": "Thu, 22 Oct 2026 22:54:00 GMT"
+        "title": "Smart financial advisers are dropping ROI, NAV and QCD for plain English when talking to clients",
+        "link": "https://www.marketwatch.com/story/smart-financial-advisers-are-dropping-roi-nav-and-qcd-for-plain-english-when-talking-to-clients-2a16fc6f?mod=mw_rss_topstories",
+        "published": "Fri, 23 Oct 2026 12:30:00 GMT"
       },
       {
-        "title": "The U.S. stock market is fracturing into two camps, and it’s leaving investors with a brutal case of whiplash",
-        "link": "https://www.marketwatch.com/story/the-u-s-stock-market-is-fracturing-into-two-camps-and-its-leaving-investors-with-a-brutal-case-of-whiplash-e8580a99?mod=mw_rss_topstories",
-        "published": "Thu, 22 Oct 2026 22:17:00 GMT"
+        "title": "It’s been a painful month for hedge funds. To turn it around, they are shorting U.S. stocks.",
+        "link": "https://www.marketwatch.com/story/its-been-a-painful-month-for-hedge-funds-to-turn-it-around-they-are-shorting-u-s-stocks-d36ee922?mod=mw_rss_topstories",
+        "published": "Fri, 23 Oct 2026 12:23:00 GMT"
       },
       {
-        "title": "Treasury yields log biggest drop since the 2023 banking crisis. Here’s what’s going on.",
-        "link": "https://www.marketwatch.com/story/treasury-yields-see-extreme-plunge-why-investors-are-ducking-for-cover-60044c66?mod=mw_rss_topstories",
-        "published": "Thu, 22 Oct 2026 22:07:00 GMT"
+        "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
+        "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
+        "published": "Fri, 23 Oct 2026 12:16:00 GMT"
       },
       {
-        "title": "Americans are having fewer babies — and pampering them with luxury diapers",
-        "link": "https://www.marketwatch.com/story/americans-are-having-fewer-babies-and-pampering-them-with-luxury-diapers-a84222cd?mod=mw_rss_topstories",
-        "published": "Thu, 22 Oct 2026 21:28:00 GMT"
+        "title": "The mobile ambitions of SpaceX are hitting telecom stocks again. Here’s what the latest developments mean.",
+        "link": "https://www.marketwatch.com/story/the-mobile-ambitions-of-spacex-see-telecom-stocks-get-hit-again-what-the-latest-developments-mean-9a4159b5?mod=mw_rss_topstories",
+        "published": "Fri, 23 Oct 2026 11:32:00 GMT"
+      },
+      {
+        "title": "The stock market is splitting in two. Is that signaling trouble ahead, or just a new set of winners?",
+        "link": "https://www.marketwatch.com/story/the-stock-market-is-splitting-in-two-is-that-signaling-trouble-ahead-or-just-a-new-set-of-winners-f51aaeab?mod=mw_rss_topstories",
+        "published": "Fri, 23 Oct 2026 11:24:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "Stock futures trade mixed after tech sector sell-off: Live updates",
+        "title": "American Express is cutting 5% of its workforce to 'prepare for AI'",
+        "link": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
+        "published": "Fri, 23 Oct 2026 13:49:57 GMT"
+      },
+      {
+        "title": "10-year Treasury yield drops back to 5% this week as investors seek cover from AI worries",
+        "link": "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html",
+        "published": "Fri, 23 Oct 2026 13:13:58 GMT"
+      },
+      {
+        "title": "Brent crude oil tops $116, a six-month high, as tensions swell in the Middle East",
+        "link": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html",
+        "published": "Fri, 23 Oct 2026 13:48:55 GMT"
+      },
+      {
+        "title": "Stocks open lower as oil tops $100 amid escalating Iran tensions: Live updates",
         "link": "https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html",
-        "published": "Fri, 23 Oct 2026 08:40:38 GMT"
+        "published": "Fri, 23 Oct 2026 13:46:13 GMT"
       },
       {
-        "title": "Wealthy Chinese move offshore money to U.S. banks as Beijing’s tax net widens",
-        "link": "https://www.cnbc.com/2026/10/23/wealthy-chinese-tax-offshore-trusts-capital-control-.html",
-        "published": "Fri, 23 Oct 2026 04:55:59 GMT"
+        "title": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
+        "link": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
+        "published": "Fri, 23 Oct 2026 12:11:48 GMT"
       },
       {
-        "title": "Nvidia's Huang heads to Kazakhstan for the first time — and he's not the only one with big plans",
-        "link": "https://www.cnbc.com/2026/10/23/nvidia-huang-investment-kazakhstan-.html",
-        "published": "Fri, 23 Oct 2026 08:16:52 GMT"
+        "title": "Why investors are moving back into Treasurys",
+        "link": "https://www.cnbc.com/2026/10/23/treasurys-haven-ai-credit-risks.html",
+        "published": "Fri, 23 Oct 2026 13:08:12 GMT"
       },
       {
-        "title": "Volvo Cars plunges 27% as CEO says China sales slump came 'faster than we thought'",
-        "link": "https://www.cnbc.com/2026/10/23/volvo-cars-q3-earnings-job-cuts.html",
-        "published": "Fri, 23 Oct 2026 08:33:13 GMT"
+        "title": "Corruption is voters' top issue ahead of midterm election, CNBC survey shows",
+        "link": "https://www.cnbc.com/2026/10/23/corruption-midterm-election-cnbc-poll-trump.html",
+        "published": "Fri, 23 Oct 2026 10:00:01 GMT"
       },
       {
-        "title": "Trump asked Musk to lift Starlink slowdown, WSJ reports",
-        "link": "https://www.cnbc.com/2026/10/22/trump-musk-starlink-ukraine.html",
-        "published": "Thu, 22 Oct 2026 21:02:07 GMT"
-      },
-      {
-        "title": "These funds can juice your tax-free portfolio income. Just be sure to mind the risk",
-        "link": "https://www.cnbc.com/2026/10/22/municipal-bond-funds-tax-free-income.html",
-        "published": "Thu, 22 Oct 2026 23:59:27 GMT"
-      },
-      {
-        "title": "Elon Musk invests about $1 billion in Skydance",
-        "link": "https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html",
-        "published": "Thu, 22 Oct 2026 19:34:46 GMT"
-      },
-      {
-        "title": "Moderna shares plunge after cancer vaccine data leaks — despite positive results",
-        "link": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
-        "published": "Thu, 22 Oct 2026 21:52:02 GMT"
+        "title": "With earnings in rearview mirror, SpaceX-Tesla merger chatter takes center stage",
+        "link": "https://www.cnbc.com/2026/10/23/spacex-tesla-merger-chatter-takes-center-stage-after-earnings.html",
+        "published": "Fri, 23 Oct 2026 11:00:01 GMT"
       }
     ]
   }
