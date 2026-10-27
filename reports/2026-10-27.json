@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-10-27T16:01:11",
+  "generated_at": "2026-10-27T20:41:12",
   "date": "2026-10-27",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7735.1,
-        "pct_change": 0.76
+        "last": 7722.6,
+        "pct_change": 0.6
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26525.64,
-        "pct_change": 1.36
+        "last": 26477.81,
+        "pct_change": 1.18
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 52476.67,
-        "pct_change": 0.22
+        "last": 52377.57,
+        "pct_change": 0.03
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2812.24,
-        "pct_change": 0.93
+        "last": 2818.87,
+        "pct_change": 1.16
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 17.55,
-        "pct_change": -4.57
+        "last": 17.52,
+        "pct_change": -4.73
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
         "last": 4.99,
-        "pct_change": 0.0
+        "pct_change": 0.14
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 102.24,
-        "pct_change": 0.27
+        "last": 102.36,
+        "pct_change": 0.39
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 100.04,
-        "pct_change": -1.69
+        "last": 100.24,
+        "pct_change": -1.49
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4076.5,
-        "pct_change": 0.94
+        "last": 4072.7,
+        "pct_change": 0.85
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 190.07,
-        "pct_change": 2.01
+        "last": 189.49,
+        "pct_change": 1.7
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 55.96,
-        "pct_change": -0.12
+        "last": 55.88,
+        "pct_change": -0.25
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 68.39,
-        "pct_change": -1.79
+        "last": 68.21,
+        "pct_change": -2.05
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 179.11,
-        "pct_change": -0.09
+        "last": 179.18,
+        "pct_change": -0.06
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 115.43,
-        "pct_change": 1.02
+        "last": 115.45,
+        "pct_change": 1.04
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 87.36,
-        "pct_change": -0.68
+        "last": 87.15,
+        "pct_change": -0.92
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 167.71,
-        "pct_change": 0.45
+        "last": 167.92,
+        "pct_change": 0.57
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 42.64,
-        "pct_change": 0.21
+        "last": 42.85,
+        "pct_change": 0.71
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 51.82,
-        "pct_change": 0.86
+        "last": 51.78,
+        "pct_change": 0.78
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 42.54,
-        "pct_change": -0.61
+        "last": 42.44,
+        "pct_change": -0.84
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 103.97,
-        "pct_change": 0.12
+        "last": 103.58,
+        "pct_change": -0.26
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 157.86,
-        "pct_change": 0.65
+        "last": 157.94,
+        "pct_change": 0.71
       }
     }
   },
@@ -144,57 +144,57 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 127.09,
-        "pct_change": -0.51
+        "last": 126.3,
+        "pct_change": -1.13
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 346.94,
-        "pct_change": 0.88
+        "last": 347.1,
+        "pct_change": 0.93
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 534.67,
-        "pct_change": 0.39
+        "last": 531.33,
+        "pct_change": -0.24
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 252.6,
-        "pct_change": 1.41
+        "last": 253.1,
+        "pct_change": 1.61
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 321.15,
-        "pct_change": 1.37
+        "last": 320.58,
+        "pct_change": 1.19
       },
       "Meta": {
         "symbol": "META",
-        "last": 626.35,
-        "pct_change": -0.67
+        "last": 620.19,
+        "pct_change": -1.64
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 879.46,
-        "pct_change": 7.5
+        "last": 866.18,
+        "pct_change": 5.88
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 236.01,
-        "pct_change": 6.55
+        "last": 235.79,
+        "pct_change": 6.45
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 77.97,
-        "pct_change": 3.59
+        "last": 78.21,
+        "pct_change": 3.91
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 5430.0,
-        "pct_change": -0.31
+        "last": 5467.0,
+        "pct_change": 0.68
       }
     }
   },
@@ -664,86 +664,86 @@
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "U.S. economy is gathering steam. This is the chief reason why.",
-        "link": "https://www.marketwatch.com/story/u-s-economy-is-gathering-steam-this-is-the-chief-reason-why-9772978f?mod=mw_rss_topstories",
-        "published": "Tue, 27 Oct 2026 15:34:00 GMT"
+        "title": "JetBlue has been losing money for years. It just charted a path to profitability.",
+        "link": "https://www.marketwatch.com/story/jetblue-has-been-losing-money-for-years-it-just-charted-a-path-to-profitability-03be75c8?mod=mw_rss_topstories",
+        "published": "Tue, 27 Oct 2026 20:38:00 GMT"
       },
       {
         "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
         "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
-        "published": "Tue, 27 Oct 2026 15:30:00 GMT"
+        "published": "Tue, 27 Oct 2026 20:30:00 GMT"
       },
       {
-        "title": "McDonald’s new bet on chicken hits a snag as franchisees say the birds are too big",
-        "link": "https://www.marketwatch.com/story/mcdonalds-new-bet-on-chicken-hits-a-snag-as-franchisees-say-the-birds-are-too-big-c3e8dd77?mod=mw_rss_topstories",
-        "published": "Tue, 27 Oct 2026 15:27:00 GMT"
+        "title": "What gold and platinum are telling us about the stock market’s direction",
+        "link": "https://www.marketwatch.com/story/what-gold-and-platinum-are-telling-us-about-the-stock-markets-direction-81405633?mod=mw_rss_topstories",
+        "published": "Tue, 27 Oct 2026 20:30:00 GMT"
       },
       {
-        "title": "A leading Silicon Valley cheerleader just showed all the reasons to be worried about the AI bubble",
-        "link": "https://www.marketwatch.com/story/a-leading-silicon-valley-cheerleader-just-showed-all-the-reasons-to-be-worried-about-the-ai-bubble-e3b32fe1?mod=mw_rss_topstories",
-        "published": "Tue, 27 Oct 2026 15:25:00 GMT"
+        "title": "Is that used EV worth the price? This checklist could save you thousands of dollars.",
+        "link": "https://www.marketwatch.com/story/is-that-used-ev-worth-the-price-this-checklist-could-save-you-thousands-of-dollars-2e1ab876?mod=mw_rss_topstories",
+        "published": "Tue, 27 Oct 2026 20:00:00 GMT"
       },
       {
-        "title": "How to use I-bonds to create guaranteed, inflation-proof income in retirement",
-        "link": "https://www.marketwatch.com/story/how-to-use-i-bonds-to-create-guaranteed-inflation-proof-income-in-retirement-50753fea?mod=mw_rss_topstories",
-        "published": "Tue, 27 Oct 2026 15:25:00 GMT"
+        "title": "A hidden ‘triple top’ in oil price charts suggests the rally has run out of gas",
+        "link": "https://www.marketwatch.com/story/a-hidden-triple-top-in-oil-price-charts-suggests-the-rally-has-run-out-of-gas-3743d5a1?mod=mw_rss_topstories",
+        "published": "Tue, 27 Oct 2026 19:24:00 GMT"
       },
       {
-        "title": "‘Just watch Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
-        "link": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
-        "published": "Tue, 27 Oct 2026 15:15:00 GMT"
+        "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
+        "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+        "published": "Tue, 27 Oct 2026 19:00:00 GMT"
       },
       {
-        "title": "With the Anthropic IPO, the devil is in the details",
-        "link": "https://www.marketwatch.com/story/with-the-anthropic-ipo-the-devil-is-in-the-details-239d571d?mod=mw_rss_topstories",
-        "published": "Tue, 27 Oct 2026 15:03:00 GMT"
+        "title": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
+        "link": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
+        "published": "Tue, 27 Oct 2026 18:45:00 GMT"
       },
       {
-        "title": "How Broadcom’s stock can surge and overcome ‘the biggest dislocation in the market’",
-        "link": "https://www.marketwatch.com/story/how-broadcoms-stock-can-surge-and-overcome-the-biggest-dislocation-in-the-market-9719e2a8?mod=mw_rss_topstories",
-        "published": "Tue, 27 Oct 2026 15:02:00 GMT"
+        "title": "The big reason Boeing’s stock is falling so hard after earnings",
+        "link": "https://www.marketwatch.com/story/the-big-reason-boeings-stock-is-falling-so-hard-after-earnings-d31b400d?mod=mw_rss_topstories",
+        "published": "Tue, 27 Oct 2026 17:59:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "Boeing stock sinks 9% as company says it won't significantly ramp up 737 Max production until late 2027",
-        "link": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
-        "published": "Tue, 27 Oct 2026 15:45:49 GMT"
+        "title": "Early third-quarter earnings show a 'resilient' U.S. consumer, with signs of strain",
+        "link": "https://www.cnbc.com/2026/10/27/q3-earnings-resilient-consumer.html",
+        "published": "Tue, 27 Oct 2026 20:39:41 GMT"
       },
       {
-        "title": "Fed expected to hold rates steady, but Warsh may point way to more hikes",
-        "link": "https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html",
-        "published": "Tue, 27 Oct 2026 15:52:26 GMT"
+        "title": "Speaker Mike Johnson calls election-transfer concerns ‘absurd’",
+        "link": "https://www.cnbc.com/2026/10/27/speaker-johnson-peaceful-transfer-midterms.html",
+        "published": "Tue, 27 Oct 2026 20:28:56 GMT"
       },
       {
-        "title": "Honda warns 50% Canada auto tariffs would be catastrophic for auto industry",
-        "link": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html",
-        "published": "Tue, 27 Oct 2026 15:48:32 GMT"
+        "title": "Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI",
+        "link": "https://www.cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html",
+        "published": "Tue, 27 Oct 2026 18:57:45 GMT"
       },
       {
-        "title": "S&P 500 rises as chip stocks gain for a second day, oil prices ease: Live updates",
-        "link": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html",
-        "published": "Tue, 27 Oct 2026 15:31:23 GMT"
+        "title": "Neil Young sues Trump committee for $10M for playing 'Rockin' in the Free World' at rally",
+        "link": "https://www.cnbc.com/2026/10/27/neil-young-trump-lawsuit-song-copyright-free-world.html",
+        "published": "Tue, 27 Oct 2026 19:49:18 GMT"
       },
       {
-        "title": "Nvidia, AMD to invest $4 billion in Meta as tech giants deepen AI partnership",
-        "link": "https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html",
-        "published": "Tue, 27 Oct 2026 14:19:36 GMT"
+        "title": "No clear winner in Israeli election, exit polls suggest, as Netanyahu’s fate hangs in the balance",
+        "link": "https://www.cnbc.com/2026/10/27/no-clear-winner-in-israeli-election-exit-polls-suggest-as-netanyahus-fate-hangs-in-the-balance.html",
+        "published": "Tue, 27 Oct 2026 20:22:39 GMT"
       },
       {
-        "title": "Costco momentum is improving heading into November, says Katie Stockton",
-        "link": "https://www.cnbc.com/2026/10/27/costco-stock-november-momentum.html",
-        "published": "Tue, 27 Oct 2026 15:27:32 GMT"
+        "title": "How investors can position ahead of into the Fed's next policy decision",
+        "link": "https://www.cnbc.com/2026/10/27/how-investors-can-position-ahead-of-into-the-feds-next-policy-decision.html",
+        "published": "Tue, 27 Oct 2026 20:00:01 GMT"
       },
       {
-        "title": "Anthropic's IPO is risky business",
-        "link": "https://www.cnbc.com/2026/10/27/anthropic-five-surprising-risks-s1.html",
-        "published": "Tue, 27 Oct 2026 15:51:41 GMT"
+        "title": "Robinhood shares fall 5% as crypto slump weighs on profits, offsetting gains in new businesses",
+        "link": "https://www.cnbc.com/2026/10/27/robinhood-hood-q3-2026-earnings.html",
+        "published": "Tue, 27 Oct 2026 20:39:49 GMT"
       },
       {
-        "title": "Ex-FBI official's lawyers slam unusual new criminal charge: 'Outrageous government conduct'",
-        "link": "https://www.cnbc.com/2026/10/27/fbi-hunter-biden-congress-charges-doj.html",
-        "published": "Tue, 27 Oct 2026 15:19:50 GMT"
+        "title": "AI debt fears ease ahead of Oracle, Alphabet and Amazon updates. Here's what to watch.",
+        "link": "https://www.cnbc.com/2026/10/27/ai-debt-hyperscaler-earnings.html",
+        "published": "Tue, 27 Oct 2026 19:57:35 GMT"
       }
     ]
   }
