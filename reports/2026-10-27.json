@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-10-27T10:31:51",
+  "generated_at": "2026-10-27T16:01:11",
   "date": "2026-10-27",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7676.77,
-        "pct_change": 0.7
+        "last": 7735.1,
+        "pct_change": 0.76
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26169.38,
-        "pct_change": 0.82
+        "last": 26525.64,
+        "pct_change": 1.36
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 52361.58,
-        "pct_change": 0.28
+        "last": 52476.67,
+        "pct_change": 0.22
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2786.42,
-        "pct_change": 0.38
+        "last": 2812.24,
+        "pct_change": 0.93
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 18.36,
-        "pct_change": -0.16
+        "last": 17.55,
+        "pct_change": -4.57
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
         "last": 4.99,
-        "pct_change": -0.04
+        "pct_change": 0.0
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 102.25,
-        "pct_change": 0.28
+        "last": 102.24,
+        "pct_change": 0.27
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 102.45,
-        "pct_change": 0.68
+        "last": 100.04,
+        "pct_change": -1.69
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4006.5,
-        "pct_change": -0.79
+        "last": 4076.5,
+        "pct_change": 0.94
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 186.32,
-        "pct_change": 1.69
+        "last": 190.07,
+        "pct_change": 2.01
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 56.02,
-        "pct_change": 0.21
+        "last": 55.96,
+        "pct_change": -0.12
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 69.64,
-        "pct_change": 0.45
+        "last": 68.39,
+        "pct_change": -1.79
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 179.28,
-        "pct_change": 0.0
+        "last": 179.11,
+        "pct_change": -0.09
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 114.26,
-        "pct_change": 1.03
+        "last": 115.43,
+        "pct_change": 1.02
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 87.96,
-        "pct_change": -0.34
+        "last": 87.36,
+        "pct_change": -0.68
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 166.96,
-        "pct_change": 1.42
+        "last": 167.71,
+        "pct_change": 0.45
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 42.55,
-        "pct_change": -0.02
+        "last": 42.64,
+        "pct_change": 0.21
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 51.38,
-        "pct_change": 0.14
+        "last": 51.82,
+        "pct_change": 0.86
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 42.8,
-        "pct_change": 0.54
+        "last": 42.54,
+        "pct_change": -0.61
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 103.85,
-        "pct_change": -1.57
+        "last": 103.97,
+        "pct_change": 0.12
       }
     }
   },
@@ -111,18 +111,18 @@
     "indices": {
       "Nikkei 225": {
         "symbol": "^N225",
-        "last": 63268.37,
-        "pct_change": 1.73
+        "last": 62189.65,
+        "pct_change": -0.8
       },
       "TOPIX (ETF代理)": {
         "symbol": "1306.T",
-        "last": 420.6,
-        "pct_change": 0.53
+        "last": 418.4,
+        "pct_change": 0.5
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 157.74,
-        "pct_change": 0.58
+        "last": 157.86,
+        "pct_change": 0.65
       }
     }
   },
@@ -131,7 +131,7 @@
       "effr": 3.88,
       "target_low": 3.75,
       "target_high": 4.0,
-      "as_of": "2026-10-23"
+      "as_of": "2026-10-26"
     },
     "japan": {
       "yield": 2.824,
@@ -144,57 +144,57 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 127.74,
-        "pct_change": 3.27
+        "last": 127.09,
+        "pct_change": -0.51
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 343.91,
-        "pct_change": -1.1
+        "last": 346.94,
+        "pct_change": 0.88
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 532.6,
-        "pct_change": 1.54
+        "last": 534.67,
+        "pct_change": 0.39
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 249.09,
-        "pct_change": 0.44
+        "last": 252.6,
+        "pct_change": 1.41
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 316.8,
-        "pct_change": -1.06
+        "last": 321.15,
+        "pct_change": 1.37
       },
       "Meta": {
         "symbol": "META",
-        "last": 630.56,
-        "pct_change": -1.88
+        "last": 626.35,
+        "pct_change": -0.67
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 818.1,
-        "pct_change": 8.19
+        "last": 879.46,
+        "pct_change": 7.5
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 221.5,
-        "pct_change": 5.83
+        "last": 236.01,
+        "pct_change": 6.55
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 75.27,
-        "pct_change": 1.59
+        "last": 77.97,
+        "pct_change": 3.59
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 5467.0,
-        "pct_change": 0.68
+        "last": 5430.0,
+        "pct_change": -0.31
       }
     }
   },
@@ -308,7 +308,7 @@
       "country": "USD",
       "date": "2026-10-28T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "-0.3M",
+      "forecast": "-0.1M",
       "previous": "-3.1M"
     },
     {
@@ -664,86 +664,86 @@
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
-        "link": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
-        "published": "Tue, 27 Oct 2026 10:15:00 GMT"
+        "title": "U.S. economy is gathering steam. This is the chief reason why.",
+        "link": "https://www.marketwatch.com/story/u-s-economy-is-gathering-steam-this-is-the-chief-reason-why-9772978f?mod=mw_rss_topstories",
+        "published": "Tue, 27 Oct 2026 15:34:00 GMT"
       },
       {
-        "title": "Customers are chasing higher-rate products, and that’s bad news for banks like HSBC",
-        "link": "https://www.marketwatch.com/story/customers-are-chasing-higher-rate-products-and-thats-bad-news-for-banks-like-hsbc-3a6ec793?mod=mw_rss_topstories",
-        "published": "Tue, 27 Oct 2026 10:02:00 GMT"
+        "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
+        "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
+        "published": "Tue, 27 Oct 2026 15:30:00 GMT"
       },
       {
-        "title": "Designer Betsey Johnson takes $7 million SoCal home off the market",
-        "link": "https://www.marketwatch.com/story/designer-betsey-johnson-takes-7-million-socal-home-off-the-market-1f027f0e?mod=mw_rss_topstories",
-        "published": "Tue, 27 Oct 2026 09:02:00 GMT"
+        "title": "McDonald’s new bet on chicken hits a snag as franchisees say the birds are too big",
+        "link": "https://www.marketwatch.com/story/mcdonalds-new-bet-on-chicken-hits-a-snag-as-franchisees-say-the-birds-are-too-big-c3e8dd77?mod=mw_rss_topstories",
+        "published": "Tue, 27 Oct 2026 15:27:00 GMT"
       },
       {
-        "title": "The impressive real estate portfolio of sitcom producer Chuck Lorre of ‘Big Bang Theory’ and ‘Two and a Half Men’ fame",
-        "link": "https://www.marketwatch.com/story/the-impressive-real-estate-portfolio-of-sitcom-producer-chuck-lorre-of-big-bang-theory-and-two-and-a-half-men-fame-f8e43ed4?mod=mw_rss_topstories",
-        "published": "Tue, 27 Oct 2026 08:58:00 GMT"
+        "title": "A leading Silicon Valley cheerleader just showed all the reasons to be worried about the AI bubble",
+        "link": "https://www.marketwatch.com/story/a-leading-silicon-valley-cheerleader-just-showed-all-the-reasons-to-be-worried-about-the-ai-bubble-e3b32fe1?mod=mw_rss_topstories",
+        "published": "Tue, 27 Oct 2026 15:25:00 GMT"
       },
       {
-        "title": "What gave this city its ‘best place to retire’ crown? You can actually afford to live there.",
-        "link": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
-        "published": "Tue, 27 Oct 2026 04:01:00 GMT"
+        "title": "How to use I-bonds to create guaranteed, inflation-proof income in retirement",
+        "link": "https://www.marketwatch.com/story/how-to-use-i-bonds-to-create-guaranteed-inflation-proof-income-in-retirement-50753fea?mod=mw_rss_topstories",
+        "published": "Tue, 27 Oct 2026 15:25:00 GMT"
       },
       {
-        "title": "‘You need only watch episodes of Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
+        "title": "‘Just watch Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
         "link": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
-        "published": "Mon, 26 Oct 2026 22:30:00 GMT"
+        "published": "Tue, 27 Oct 2026 15:15:00 GMT"
       },
       {
-        "title": "Dividend stocks are having an excellent October as tech sector struggles",
-        "link": "https://www.marketwatch.com/story/dividend-stocks-are-having-an-excellent-october-as-tech-sector-struggles-5ae40b02?mod=mw_rss_topstories",
-        "published": "Mon, 26 Oct 2026 22:10:00 GMT"
+        "title": "With the Anthropic IPO, the devil is in the details",
+        "link": "https://www.marketwatch.com/story/with-the-anthropic-ipo-the-devil-is-in-the-details-239d571d?mod=mw_rss_topstories",
+        "published": "Tue, 27 Oct 2026 15:03:00 GMT"
       },
       {
-        "title": "Options traders are seizing control of the S&P 500",
-        "link": "https://www.marketwatch.com/story/options-traders-are-seizing-control-of-the-s-p-500-1add94ca?mod=mw_rss_topstories",
-        "published": "Mon, 26 Oct 2026 22:03:00 GMT"
+        "title": "How Broadcom’s stock can surge and overcome ‘the biggest dislocation in the market’",
+        "link": "https://www.marketwatch.com/story/how-broadcoms-stock-can-surge-and-overcome-the-biggest-dislocation-in-the-market-9719e2a8?mod=mw_rss_topstories",
+        "published": "Tue, 27 Oct 2026 15:02:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "Nvidia to invest $3 billion in Meta as tech giants deepen AI partnership",
+        "title": "Boeing stock sinks 9% as company says it won't significantly ramp up 737 Max production until late 2027",
+        "link": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
+        "published": "Tue, 27 Oct 2026 15:45:49 GMT"
+      },
+      {
+        "title": "Fed expected to hold rates steady, but Warsh may point way to more hikes",
+        "link": "https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html",
+        "published": "Tue, 27 Oct 2026 15:52:26 GMT"
+      },
+      {
+        "title": "Honda warns 50% Canada auto tariffs would be catastrophic for auto industry",
+        "link": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html",
+        "published": "Tue, 27 Oct 2026 15:48:32 GMT"
+      },
+      {
+        "title": "S&P 500 rises as chip stocks gain for a second day, oil prices ease: Live updates",
+        "link": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html",
+        "published": "Tue, 27 Oct 2026 15:31:23 GMT"
+      },
+      {
+        "title": "Nvidia, AMD to invest $4 billion in Meta as tech giants deepen AI partnership",
         "link": "https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html",
-        "published": "Tue, 27 Oct 2026 09:07:41 GMT"
+        "published": "Tue, 27 Oct 2026 14:19:36 GMT"
       },
       {
-        "title": "UPS beats quarterly expectations, raises full-year guidance again",
-        "link": "https://www.cnbc.com/2026/10/27/ups-ups-q3-2026-earnings.html",
-        "published": "Tue, 27 Oct 2026 10:24:01 GMT"
+        "title": "Costco momentum is improving heading into November, says Katie Stockton",
+        "link": "https://www.cnbc.com/2026/10/27/costco-stock-november-momentum.html",
+        "published": "Tue, 27 Oct 2026 15:27:32 GMT"
       },
       {
-        "title": "Porsche profit rebounds as luxury carmaker reduces exposure to China",
-        "link": "https://www.cnbc.com/2026/10/27/porsche-china-profit-recovery.html",
-        "published": "Tue, 27 Oct 2026 10:08:51 GMT"
+        "title": "Anthropic's IPO is risky business",
+        "link": "https://www.cnbc.com/2026/10/27/anthropic-five-surprising-risks-s1.html",
+        "published": "Tue, 27 Oct 2026 15:51:41 GMT"
       },
       {
-        "title": "Coca-Cola is about to report earnings. Here's what to expect",
-        "link": "https://www.cnbc.com/2026/10/27/coca-cola-ko-q3-2026-earnings.html",
-        "published": "Tue, 27 Oct 2026 10:25:02 GMT"
-      },
-      {
-        "title": "Why investors are bullish on Anthropic — despite some big risks",
-        "link": "https://www.cnbc.com/2026/10/26/anthropic-ipo-filing-investor-reaction.html",
-        "published": "Mon, 26 Oct 2026 20:07:58 GMT"
-      },
-      {
-        "title": "Silicon Valley AI political groups turn on each other in the 2026 election",
-        "link": "https://www.cnbc.com/2026/10/27/ai-political-spending-silicon-valley-election.html",
-        "published": "Tue, 27 Oct 2026 10:00:01 GMT"
-      },
-      {
-        "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
-        "link": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
-        "published": "Tue, 27 Oct 2026 01:05:06 GMT"
-      },
-      {
-        "title": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect'",
-        "link": "https://www.cnbc.com/2026/10/26/anthropic-ipo-might-trigger-tech-reset-if-ipo-underperforms.html",
-        "published": "Mon, 26 Oct 2026 22:50:07 GMT"
+        "title": "Ex-FBI official's lawyers slam unusual new criminal charge: 'Outrageous government conduct'",
+        "link": "https://www.cnbc.com/2026/10/27/fbi-hunter-biden-congress-charges-doj.html",
+        "published": "Tue, 27 Oct 2026 15:19:50 GMT"
       }
     ]
   }
