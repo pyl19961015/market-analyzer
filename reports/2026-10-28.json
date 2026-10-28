@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-10-28T17:23:31",
+  "generated_at": "2026-10-28T21:48:21",
   "date": "2026-10-28",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7735.33,
-        "pct_change": 0.16
+        "last": 7743.98,
+        "pct_change": 0.28
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26473.9,
-        "pct_change": -0.01
+        "last": 26549.85,
+        "pct_change": 0.27
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 52502.8,
-        "pct_change": 0.24
+        "last": 52475.1,
+        "pct_change": 0.19
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2820.93,
-        "pct_change": 0.07
+        "last": 2830.51,
+        "pct_change": 0.41
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 17.37,
-        "pct_change": -0.86
+        "last": 16.91,
+        "pct_change": -3.48
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 5.02,
-        "pct_change": 0.54
+        "last": 5.05,
+        "pct_change": 1.04
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 102.25,
-        "pct_change": -0.07
+        "last": 102.13,
+        "pct_change": -0.18
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 102.82,
-        "pct_change": 2.92
+        "last": 101.94,
+        "pct_change": 2.04
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4054.4,
-        "pct_change": -0.5
+        "last": 4081.2,
+        "pct_change": 0.16
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 190.0,
-        "pct_change": 0.27
+        "last": 191.0,
+        "pct_change": 0.8
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 56.12,
-        "pct_change": 0.42
+        "last": 56.13,
+        "pct_change": 0.45
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 68.65,
-        "pct_change": 0.65
+        "last": 68.45,
+        "pct_change": 0.35
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 179.86,
-        "pct_change": 0.38
+        "last": 179.72,
+        "pct_change": 0.3
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 115.07,
-        "pct_change": -0.32
+        "last": 115.33,
+        "pct_change": -0.1
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 86.91,
-        "pct_change": -0.28
+        "last": 86.84,
+        "pct_change": -0.36
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 168.66,
-        "pct_change": 0.44
+        "last": 168.49,
+        "pct_change": 0.34
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 42.67,
-        "pct_change": -0.41
+        "last": 42.49,
+        "pct_change": -0.84
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 51.56,
-        "pct_change": -0.43
+        "last": 51.86,
+        "pct_change": 0.15
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 41.94,
-        "pct_change": -1.18
+        "last": 42.13,
+        "pct_change": -0.73
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 103.12,
-        "pct_change": -0.44
+        "last": 103.14,
+        "pct_change": -0.42
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 158.19,
-        "pct_change": 0.42
+        "last": 157.79,
+        "pct_change": 0.16
       }
     }
   },
@@ -138,36 +138,36 @@
       "as_of": "2026-10-27",
       "prev_yield": 2.824
     },
-    "spread_10y": 2.19
+    "spread_10y": 2.22
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 131.54,
-        "pct_change": 4.15
+        "last": 131.2,
+        "pct_change": 3.88
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 345.65,
-        "pct_change": -0.42
+        "last": 343.83,
+        "pct_change": -0.94
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 526.56,
-        "pct_change": -0.9
+        "last": 531.01,
+        "pct_change": -0.06
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 253.11,
-        "pct_change": 0.0
+        "last": 254.6,
+        "pct_change": 0.59
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 325.23,
-        "pct_change": 1.45
+        "last": 324.89,
+        "pct_change": 1.34
       },
       "Meta": {
         "symbol": "META",
@@ -178,23 +178,23 @@
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 899.35,
-        "pct_change": 3.83
+        "last": 913.95,
+        "pct_change": 5.52
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 235.96,
-        "pct_change": 0.07
+        "last": 239.59,
+        "pct_change": 1.61
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 81.04,
-        "pct_change": 3.61
+        "last": 80.96,
+        "pct_change": 3.52
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 5467.0,
-        "pct_change": 0.68
+        "last": 5478.0,
+        "pct_change": 0.2
       }
     }
   },
@@ -507,6 +507,12 @@
   "fed_policy": {
     "Press Releases": [
       {
+        "title": "Federal Reserve issues FOMC statement",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+        "published": "Wed, 28 Oct 2026 18:00:00 GMT",
+        "summary": "Federal Reserve issues FOMC statement"
+      },
+      {
         "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
         "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
         "published": "Fri, 16 Oct 2026 15:00:00 GMT",
@@ -547,12 +553,6 @@
         "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
         "published": "Fri, 2 Oct 2026 20:45:00 GMT",
         "summary": "Federal Reserve Board announces approval of application by Fleur Capital Corporation"
-      },
-      {
-        "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
-        "published": "Fri, 2 Oct 2026 20:00:00 GMT",
-        "summary": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O"
       }
     ],
     "Speeches": [
@@ -607,6 +607,12 @@
     ],
     "FOMC Press Releases": [
       {
+        "title": "Federal Reserve issues FOMC statement",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+        "published": "Wed, 28 Oct 2026 18:00:00 GMT",
+        "summary": "Federal Reserve issues FOMC statement"
+      },
+      {
         "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
         "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
         "published": "Tue, 13 Oct 2026 18:00:00 GMT",
@@ -647,12 +653,6 @@
         "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
         "published": "Wed, 29 Jul 2026 18:00:00 GMT",
         "summary": "Federal Reserve issues FOMC statement"
-      },
-      {
-        "title": "Minutes of the Board's discount rate meetings on June 8 and June 17, 2026",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260714a.htm",
-        "published": "Tue, 14 Jul 2026 18:00:00 GMT",
-        "summary": "Minutes of the Board's discount rate meetings on June 8 and June 17, 2026"
       }
     ]
   },
@@ -664,86 +664,86 @@
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "The U.S. government will no longer penalize American companies for making six popular peptides",
-        "link": "https://www.marketwatch.com/story/trump-administration-clears-the-way-for-production-of-peptides-like-bpc-157-and-tb-500-28ac2d11?mod=mw_rss_topstories",
-        "published": "Wed, 28 Oct 2026 16:57:00 GMT"
+        "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
+        "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+        "published": "Wed, 28 Oct 2026 21:45:00 GMT"
       },
       {
-        "title": "Healthcare stocks are on their biggest hot streak in a generation. Think twice before chasing the rally.",
-        "link": "https://www.marketwatch.com/story/healthcare-stocks-are-on-their-biggest-hot-streak-in-a-generation-think-twice-before-chasing-the-rally-a043adfe?mod=mw_rss_topstories",
-        "published": "Wed, 28 Oct 2026 16:49:00 GMT"
+        "title": "We’re in our 70s. Should we pay off our 2.5% mortgage — or put the money in a high-yield savings account?",
+        "link": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
+        "published": "Wed, 28 Oct 2026 21:30:00 GMT"
       },
       {
-        "title": "Bullish on Anthropic but don’t want to wait until the IPO? Here’s how you can invest today.",
-        "link": "https://www.marketwatch.com/story/bullish-on-anthropic-but-dont-want-to-wait-until-the-ipo-heres-how-you-can-invest-today-c5cb329e?mod=mw_rss_topstories",
-        "published": "Wed, 28 Oct 2026 16:13:00 GMT"
+        "title": "Why did the Fed hold off on raising interest rates? Warsh says it’s because an ‘information-rich’ period is coming.",
+        "link": "https://www.marketwatch.com/story/why-did-the-fed-hold-off-on-raising-interest-rates-warsh-says-its-because-an-information-rich-period-is-coming-098ced8d?mod=mw_rss_topstories",
+        "published": "Wed, 28 Oct 2026 21:27:00 GMT"
+      },
+      {
+        "title": "ServiceNow’s stock slides as earnings miss clouds a raised AI outlook",
+        "link": "https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories",
+        "published": "Wed, 28 Oct 2026 21:07:00 GMT"
+      },
+      {
+        "title": "Chipotle expects modestly higher sales this year as drive-thru ‘Chipotlanes’ come to more stores",
+        "link": "https://www.marketwatch.com/story/chipotle-expects-modestly-higher-sales-this-year-as-drive-thru-chipotlanes-come-to-more-stores-4f255bbc?mod=mw_rss_topstories",
+        "published": "Wed, 28 Oct 2026 20:58:00 GMT"
+      },
+      {
+        "title": "Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results",
+        "link": "https://www.marketwatch.com/story/vertiv-earnings-just-sent-an-upbeat-signal-about-ai-ahead-of-big-tech-results-5714a105?mod=mw_rss_topstories",
+        "published": "Wed, 28 Oct 2026 20:49:00 GMT"
       },
       {
         "title": "Micron’s stock rises after SK Hynix earnings. Here’s its next major test.",
         "link": "https://www.marketwatch.com/story/microns-stock-rises-after-sk-hynix-earnings-heres-its-next-major-test-99853d0e?mod=mw_rss_topstories",
-        "published": "Wed, 28 Oct 2026 16:03:00 GMT"
+        "published": "Wed, 28 Oct 2026 20:45:00 GMT"
       },
       {
-        "title": "We’re spending more than $11,000 a year of our own money caring for our aging parents and loved ones",
-        "link": "https://www.marketwatch.com/story/were-spending-more-than-11-000-a-year-of-our-own-money-caring-for-our-aging-parents-and-loved-ones-8fc5b2dc?mod=mw_rss_topstories",
-        "published": "Wed, 28 Oct 2026 15:36:00 GMT"
-      },
-      {
-        "title": "3 reasons home prices keep going up, even though fewer people are buying",
-        "link": "https://www.marketwatch.com/story/3-reasons-why-home-prices-keep-going-up-even-though-fewer-people-are-buying-9afa6106?mod=mw_rss_topstories",
-        "published": "Wed, 28 Oct 2026 15:33:00 GMT"
-      },
-      {
-        "title": "My husband wants to sell our $1.5 million home and downsize. But this is where we raised our kids — and I can’t bear to leave.",
-        "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
-        "published": "Wed, 28 Oct 2026 15:15:00 GMT"
-      },
-      {
-        "title": "McDonald’s new bet on chicken hits a snag as franchisees say the birds are too big",
-        "link": "https://www.marketwatch.com/story/mcdonalds-new-bet-on-chicken-hits-a-snag-as-franchisees-say-the-birds-are-too-big-c3e8dd77?mod=mw_rss_topstories",
-        "published": "Wed, 28 Oct 2026 15:15:00 GMT"
+        "title": "Here’s what just sent Oracle’s stock soaring",
+        "link": "https://www.marketwatch.com/story/heres-what-just-sent-oracles-stock-soaring-7a1a91e2?mod=mw_rss_topstories",
+        "published": "Wed, 28 Oct 2026 20:38:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "Fed meeting live updates: No hike expected, but investors watching Warsh for what's next",
+        "title": "Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increase in 2027",
+        "link": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
+        "published": "Wed, 28 Oct 2026 21:34:56 GMT"
+      },
+      {
+        "title": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
+        "link": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
+        "published": "Wed, 28 Oct 2026 21:36:41 GMT"
+      },
+      {
+        "title": "Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'",
+        "link": "https://www.cnbc.com/2026/10/28/bond-investor-jeff-gundlach-talks-feds-rate-pause-with-cnbc.html",
+        "published": "Wed, 28 Oct 2026 19:53:50 GMT"
+      },
+      {
+        "title": "Fed meeting recap: Warsh says central bank will host fewer rate-setting meetings in future years",
         "link": "https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html",
-        "published": "Wed, 28 Oct 2026 16:43:48 GMT"
+        "published": "Wed, 28 Oct 2026 21:02:56 GMT"
       },
       {
-        "title": "Wendy's shares jump 15% as Nelson Peltz's Trian offers $1.4 billion to buy burger chain",
-        "link": "https://www.cnbc.com/2026/10/28/nelson-peltz-trian-wendys-1point4-billion.html",
-        "published": "Wed, 28 Oct 2026 14:35:51 GMT"
+        "title": "Here are five key takeaways from the Fed rate decision and Warsh news conference",
+        "link": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html",
+        "published": "Wed, 28 Oct 2026 21:31:46 GMT"
       },
       {
-        "title": "The 'Magnificent Seven' is no more. Time to pick winners and losers as group's correlation breaks down",
-        "link": "https://www.cnbc.com/2026/10/28/magnificent-seven-stocks-correlation-breakdown.html",
-        "published": "Wed, 28 Oct 2026 13:09:08 GMT"
+        "title": "Biotechs buck a sluggish IPO market, but investors should tread warily",
+        "link": "https://www.cnbc.com/2026/10/28/biotech-ipo-market-investor-risks.html",
+        "published": "Wed, 28 Oct 2026 19:29:17 GMT"
       },
       {
-        "title": "Stocks making the biggest moves midday: Wendy's, Wingstop, F5, Enphase Energy, Labcorp & more",
-        "link": "https://www.cnbc.com/2026/10/28/stocks-making-the-biggest-moves-midday-wen-wing-ffiv-enph-lh.html",
-        "published": "Wed, 28 Oct 2026 16:19:45 GMT"
+        "title": "Stocks making the biggest moves after hours: Alphabet, Microsoft, Chipotle, ServiceNow, Fortinet & more",
+        "link": "https://www.cnbc.com/2026/10/28/stocks-making-the-biggest-moves-after-hours-googl-msft-cmg-now.html",
+        "published": "Wed, 28 Oct 2026 21:09:21 GMT"
       },
       {
-        "title": "Anthropic is about to go public. Here are the proxies that could benefit",
-        "link": "https://www.cnbc.com/2026/10/28/anthropic-ipo-stocks-funds-etfs-exposure.html",
-        "published": "Wed, 28 Oct 2026 17:04:17 GMT"
-      },
-      {
-        "title": "Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop",
-        "link": "https://www.cnbc.com/2026/10/28/apple-mac-touchscreen-launch.html",
-        "published": "Wed, 28 Oct 2026 17:22:58 GMT"
-      },
-      {
-        "title": "Trump is using tariffs as a 'tool for grift,' Raskin says in demand for donor records",
-        "link": "https://www.cnbc.com/2026/10/28/trump-tariffs-corruption-raskin.html",
-        "published": "Wed, 28 Oct 2026 16:07:17 GMT"
-      },
-      {
-        "title": "At least 68 people dead in high-speed Spain train crash",
-        "link": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
-        "published": "Wed, 28 Oct 2026 15:41:54 GMT"
+        "title": "DoorDash's deal to buy Instacart coming as early as Thursday morning, sources tell CNBC",
+        "link": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
+        "published": "Wed, 28 Oct 2026 21:47:47 GMT"
       }
     ]
   }
