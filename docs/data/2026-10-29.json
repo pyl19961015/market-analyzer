@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-10-29T10:55:17",
+  "generated_at": "2026-10-29T17:17:34",
   "date": "2026-10-29",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7743.98,
-        "pct_change": 0.28
+        "last": 7708.0,
+        "pct_change": -0.46
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26549.85,
-        "pct_change": 0.27
+        "last": 26157.63,
+        "pct_change": -1.48
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 52475.1,
-        "pct_change": 0.19
+        "last": 52259.9,
+        "pct_change": -0.41
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2830.51,
-        "pct_change": 0.41
+        "last": 2862.21,
+        "pct_change": 1.12
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 17.12,
-        "pct_change": 1.24
+        "last": 16.24,
+        "pct_change": -3.96
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 5.05,
-        "pct_change": 1.04
+        "last": 5.0,
+        "pct_change": -0.91
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 102.19,
-        "pct_change": 0.0
+        "last": 102.01,
+        "pct_change": -0.18
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 101.55,
-        "pct_change": -1.2
+        "last": 101.78,
+        "pct_change": -0.97
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4038.6,
-        "pct_change": -0.32
+        "last": 4032.0,
+        "pct_change": -0.48
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 191.0,
-        "pct_change": 0.8
+        "last": 188.17,
+        "pct_change": -1.48
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 56.13,
-        "pct_change": 0.45
+        "last": 56.97,
+        "pct_change": 1.49
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 68.45,
-        "pct_change": 0.35
+        "last": 68.29,
+        "pct_change": -0.24
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 179.72,
-        "pct_change": 0.3
+        "last": 183.54,
+        "pct_change": 2.13
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 115.33,
-        "pct_change": -0.1
+        "last": 115.98,
+        "pct_change": 0.56
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 86.84,
-        "pct_change": -0.36
+        "last": 87.68,
+        "pct_change": 0.97
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 168.49,
-        "pct_change": 0.34
+        "last": 170.07,
+        "pct_change": 0.94
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 42.49,
-        "pct_change": -0.84
+        "last": 43.16,
+        "pct_change": 1.58
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 51.86,
-        "pct_change": 0.15
+        "last": 52.42,
+        "pct_change": 1.08
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 42.13,
-        "pct_change": -0.73
+        "last": 42.92,
+        "pct_change": 1.86
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 103.14,
-        "pct_change": -0.42
+        "last": 101.37,
+        "pct_change": -1.72
       }
     }
   },
@@ -111,8 +111,8 @@
     "indices": {
       "Nikkei 225": {
         "symbol": "^N225",
-        "last": 64659.47,
-        "pct_change": 1.1
+        "last": 63954.19,
+        "pct_change": 1.08
       },
       "TOPIX (ETF代理)": {
         "symbol": "1306.T",
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 158.02,
-        "pct_change": 0.02
+        "last": 157.9,
+        "pct_change": -0.06
       }
     }
   },
@@ -131,70 +131,70 @@
       "effr": 3.88,
       "target_low": 3.75,
       "target_high": 4.0,
-      "as_of": "2026-10-27"
+      "as_of": "2026-10-28"
     },
     "japan": {
       "yield": 2.867,
       "as_of": "2026-10-28",
       "prev_yield": 2.829
     },
-    "spread_10y": 2.18
+    "spread_10y": 2.13
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 131.2,
-        "pct_change": 3.88
+        "last": 130.82,
+        "pct_change": -0.29
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 343.83,
-        "pct_change": -0.94
+        "last": 349.79,
+        "pct_change": 1.73
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 531.01,
-        "pct_change": -0.06
+        "last": 524.19,
+        "pct_change": -1.28
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 254.6,
-        "pct_change": 0.59
+        "last": 245.69,
+        "pct_change": -3.5
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 324.89,
-        "pct_change": 1.34
+        "last": 284.02,
+        "pct_change": -12.58
       },
       "Meta": {
         "symbol": "META",
-        "last": 612.49,
-        "pct_change": -1.24
+        "last": 630.58,
+        "pct_change": 2.95
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 913.95,
-        "pct_change": 5.52
+        "last": 931.19,
+        "pct_change": 1.89
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 239.59,
-        "pct_change": 1.61
+        "last": 239.85,
+        "pct_change": 0.11
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 80.96,
-        "pct_change": 3.52
+        "last": 82.69,
+        "pct_change": 2.14
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 5460.0,
-        "pct_change": -0.33
+        "last": 5478.0,
+        "pct_change": 0.2
       }
     }
   },
@@ -664,86 +664,86 @@
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "‘There may be better investment options’: My church received $1.5 million from a parishioner. Is 3.75% interest enough?",
+        "title": "Medicare used AI to pre-approve patient care, and it immediately led to a large drop in medical services",
+        "link": "https://www.marketwatch.com/story/medicare-used-ai-to-pre-approve-patient-care-and-it-immediately-led-to-a-large-drop-in-medical-services-dc38a210?mod=mw_rss_topstories",
+        "published": "Thu, 29 Oct 2026 17:10:00 GMT"
+      },
+      {
+        "title": "All the reasons Marvell investors are ’freaking out’ as Lumentum deal rumors swirl",
+        "link": "https://www.marketwatch.com/story/marvell-is-reportedly-close-to-buying-lumentum-analysts-say-they-see-logic-in-a-potential-deal-d7539c59?mod=mw_rss_topstories",
+        "published": "Thu, 29 Oct 2026 17:08:00 GMT"
+      },
+      {
+        "title": "This credit card is the ‘best weapon’ to fight debt while interest rates keep climbing",
+        "link": "https://www.marketwatch.com/story/this-credit-card-is-the-best-weapon-to-fight-debt-while-interest-rates-keep-climbing-8378fcf2?mod=mw_rss_topstories",
+        "published": "Thu, 29 Oct 2026 16:49:00 GMT"
+      },
+      {
+        "title": "Get ready for the ‘Year of Starlink’ as airlines battle over superfast WiFi",
+        "link": "https://www.marketwatch.com/story/get-ready-for-the-year-of-starlink-as-airlines-battle-over-superfast-wifi-6bce32c1?mod=mw_rss_topstories",
+        "published": "Thu, 29 Oct 2026 16:49:00 GMT"
+      },
+      {
+        "title": "You can’t rely on the S&P 500 as much as you may think",
+        "link": "https://www.marketwatch.com/story/you-cant-rely-on-the-s-p-500-as-much-as-you-may-think-a3ac0cb7?mod=mw_rss_topstories",
+        "published": "Thu, 29 Oct 2026 16:26:00 GMT"
+      },
+      {
+        "title": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
         "link": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
-        "published": "Thu, 29 Oct 2026 10:15:00 GMT"
+        "published": "Thu, 29 Oct 2026 16:00:00 GMT"
       },
       {
-        "title": "ServiceNow stock is on track for its largest drop on record. But JPMorgan sees a bright spot.",
-        "link": "https://www.marketwatch.com/story/servicenow-stock-is-on-track-for-its-largest-drop-on-record-but-jpmorgan-sees-a-bright-spot-5e5b05c6?mod=mw_rss_topstories",
-        "published": "Thu, 29 Oct 2026 09:52:00 GMT"
+        "title": "Looking for income? These dividend stocks have high yields that seem well supported.",
+        "link": "https://www.marketwatch.com/story/looking-for-income-these-dividend-stocks-have-high-yields-that-seem-well-supported-81093bdf?mod=mw_rss_topstories",
+        "published": "Thu, 29 Oct 2026 15:54:00 GMT"
       },
       {
-        "title": "‘Fancy cars hold no appeal’: My wife and I have a 99% chance of outliving our savings. Why don’t we spend it all?",
+        "title": "‘Fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend, spend, spend?",
         "link": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
-        "published": "Thu, 29 Oct 2026 09:15:00 GMT"
-      },
-      {
-        "title": "Why Alphabet’s stock could see its worst drop in years after the latest results",
-        "link": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories",
-        "published": "Thu, 29 Oct 2026 09:08:00 GMT"
-      },
-      {
-        "title": "NBA star LaMelo Ball is selling his $2.6 million luxury condo in Charlotte after leaving the Hornets",
-        "link": "https://www.marketwatch.com/story/nba-star-lamelo-ball-is-selling-his-2-6-million-luxury-condo-in-charlotte-after-leaving-the-hornets-2356414e?mod=mw_rss_topstories",
-        "published": "Thu, 29 Oct 2026 09:02:00 GMT"
-      },
-      {
-        "title": "Samsung Electronics earned nearly as much as Microsoft and Alphabet combined. What the Korean giant is now saying about the memory-chip outlook.",
-        "link": "https://www.marketwatch.com/story/samsung-electronics-earned-nearly-as-much-as-microsoft-and-alphabet-combined-what-the-korean-giant-is-now-saying-about-the-memory-chip-outlook-e5c94b94?mod=mw_rss_topstories",
-        "published": "Thu, 29 Oct 2026 09:01:00 GMT"
-      },
-      {
-        "title": "Lumentum’s stock pops as investors cheer a possible sale to Marvell",
-        "link": "https://www.marketwatch.com/story/lumentums-stock-pops-as-investors-cheer-a-possible-sale-to-marvell-07c1d0e8?mod=mw_rss_topstories",
-        "published": "Thu, 29 Oct 2026 00:20:00 GMT"
-      },
-      {
-        "title": "‘Just watch Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
-        "link": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
-        "published": "Thu, 29 Oct 2026 00:15:00 GMT"
+        "published": "Thu, 29 Oct 2026 15:45:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "Alphabet falls 10% in premarket, putting it on course for its biggest ever post-earnings drop",
+        "title": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
+        "link": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
+        "published": "Thu, 29 Oct 2026 14:11:31 GMT"
+      },
+      {
+        "title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
+        "link": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
+        "published": "Thu, 29 Oct 2026 16:25:40 GMT"
+      },
+      {
+        "title": "Steve Eisman gets more conservative with portfolio as AI trade nears 'tipping point'",
+        "link": "https://www.cnbc.com/2026/10/29/steve-eisman-gets-more-conservative-with-portfolio-as-ai-trade-nears-tipping-point.html",
+        "published": "Thu, 29 Oct 2026 14:15:43 GMT"
+      },
+      {
+        "title": "S&P 500 heads for first loss in four days as Alphabet, Caterpillar crack after earnings: Live updates",
+        "link": "https://www.cnbc.com/2026/10/28/stock-market-today-live-updates.html",
+        "published": "Thu, 29 Oct 2026 17:07:07 GMT"
+      },
+      {
+        "title": "Stocks making the biggest moves midday: ADT, Alphabet, Caterpillar, Eli Lilly, Chipotle & more",
+        "link": "https://www.cnbc.com/2026/10/29/stocks-making-the-biggest-moves-midday-adt-googl-cat-lly-cmg.html",
+        "published": "Thu, 29 Oct 2026 17:10:32 GMT"
+      },
+      {
+        "title": "GM is shifting gears to the Nasdaq, trying to draft behind Walmart’s lead",
+        "link": "https://www.cnbc.com/2026/10/29/general-motors-nasdaq-listing.html",
+        "published": "Thu, 29 Oct 2026 15:57:27 GMT"
+      },
+      {
+        "title": "Nvidia responds to report Jensen Huang was target of Chinese asset, says diversion allegations were 'investigated and debunked'",
+        "link": "https://www.cnbc.com/2026/10/29/nvidia-jensen-huang-chinese-intelligence-asset.html",
+        "published": "Thu, 29 Oct 2026 16:22:19 GMT"
+      },
+      {
+        "title": "Alphabet falls 12%, putting it on course for its biggest ever post-earnings drop",
         "link": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html",
-        "published": "Thu, 29 Oct 2026 08:54:59 GMT"
-      },
-      {
-        "title": "Eli Lilly blows past estimates, hikes sales outlook on resilient Zepbound and Mounjaro demand",
-        "link": "https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html",
-        "published": "Thu, 29 Oct 2026 10:53:38 GMT"
-      },
-      {
-        "title": "Restaurant Brands reports mixed results as Burger King's U.S. turnaround shows signs of success",
-        "link": "https://www.cnbc.com/2026/10/29/restaurant-brands-international-qsr-q3-2026-earnings.html",
-        "published": "Thu, 29 Oct 2026 10:33:14 GMT"
-      },
-      {
-        "title": "Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace talks",
-        "link": "https://www.cnbc.com/2026/10/29/us-iran-war-trump-hormuz.html",
-        "published": "Thu, 29 Oct 2026 07:35:45 GMT"
-      },
-      {
-        "title": "Wall Street looks past Fed pause to tech earnings and AI rebound",
-        "link": "https://www.cnbc.com/2026/10/28/wall-street-shifts-to-earnings-after-fed-holds-rates-steady-.html",
-        "published": "Wed, 28 Oct 2026 21:55:47 GMT"
-      },
-      {
-        "title": "It's a 'socialist' bank — and North Dakota Republicans love it",
-        "link": "https://www.cnbc.com/2026/10/29/bank-north-dakota-socialism-election.html",
-        "published": "Thu, 29 Oct 2026 10:00:01 GMT"
-      },
-      {
-        "title": "Merck tops quarterly estimates, hikes profit outlook as new form of Keytruda shows strength",
-        "link": "https://www.cnbc.com/2026/10/29/merck-mrk-earnings-q3-2026.html",
-        "published": "Thu, 29 Oct 2026 10:31:13 GMT"
-      },
-      {
-        "title": "Putin praises Elon Musk as a ‘genius’ as Russia develops Starlink alternative",
-        "link": "https://www.cnbc.com/2026/10/29/putin-elon-musk-starlink-ukraine.html",
-        "published": "Thu, 29 Oct 2026 10:44:00 GMT"
+        "published": "Thu, 29 Oct 2026 16:35:25 GMT"
       }
     ]
   }
