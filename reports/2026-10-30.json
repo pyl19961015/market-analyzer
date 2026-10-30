@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-10-30T10:53:12",
+  "generated_at": "2026-10-30T16:55:39",
   "date": "2026-10-30",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7720.39,
-        "pct_change": -0.3
+        "last": 7577.9,
+        "pct_change": -1.85
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 26184.72,
-        "pct_change": -1.38
+        "last": 25405.5,
+        "pct_change": -2.98
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 52342.56,
-        "pct_change": -0.25
+        "last": 51844.61,
+        "pct_change": -0.95
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2859.22,
-        "pct_change": 1.01
+        "last": 2809.1,
+        "pct_change": -1.75
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 18.43,
-        "pct_change": 7.15
+        "last": 19.91,
+        "pct_change": 15.76
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.99,
-        "pct_change": -1.11
+        "last": 4.95,
+        "pct_change": -0.7
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 101.65,
-        "pct_change": -0.38
+        "last": 101.98,
+        "pct_change": -0.06
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 104.18,
-        "pct_change": 2.14
+        "last": 104.37,
+        "pct_change": 2.32
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 3990.4,
-        "pct_change": -1.02
+        "last": 3904.8,
+        "pct_change": -3.14
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 188.74,
-        "pct_change": -1.18
+        "last": 178.87,
+        "pct_change": -5.23
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 56.94,
-        "pct_change": 1.44
+        "last": 56.58,
+        "pct_change": -0.62
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 68.71,
-        "pct_change": 0.38
+        "last": 69.75,
+        "pct_change": 1.52
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 184.04,
-        "pct_change": 2.4
+        "last": 185.48,
+        "pct_change": 0.78
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 116.2,
-        "pct_change": 0.75
+        "last": 115.28,
+        "pct_change": -0.79
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 88.18,
-        "pct_change": 1.54
+        "last": 89.63,
+        "pct_change": 1.64
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 170.13,
-        "pct_change": 0.97
+        "last": 167.96,
+        "pct_change": -1.28
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 43.14,
-        "pct_change": 1.53
+        "last": 43.53,
+        "pct_change": 0.92
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 52.53,
-        "pct_change": 1.29
+        "last": 52.41,
+        "pct_change": -0.23
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 43.06,
-        "pct_change": 2.21
+        "last": 43.26,
+        "pct_change": 0.46
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 101.21,
-        "pct_change": -1.87
+        "last": 100.27,
+        "pct_change": -0.93
       }
     }
   },
@@ -111,8 +111,8 @@
     "indices": {
       "Nikkei 225": {
         "symbol": "^N225",
-        "last": 63290.11,
-        "pct_change": -2.12
+        "last": 64659.47,
+        "pct_change": 1.1
       },
       "TOPIX (ETF代理)": {
         "symbol": "1306.T",
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 157.28,
-        "pct_change": -0.35
+        "last": 157.43,
+        "pct_change": -0.25
       }
     }
   },
@@ -131,70 +131,70 @@
       "effr": 3.88,
       "target_low": 3.75,
       "target_high": 4.0,
-      "as_of": "2026-10-28"
+      "as_of": "2026-10-29"
     },
     "japan": {
       "yield": 2.876,
       "as_of": "2026-10-29",
       "prev_yield": 2.867
     },
-    "spread_10y": 2.11
+    "spread_10y": 2.07
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 128.88,
-        "pct_change": -1.77
+        "last": 122.19,
+        "pct_change": -5.19
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 348.91,
-        "pct_change": 1.48
+        "last": 346.98,
+        "pct_change": -0.55
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 530.14,
-        "pct_change": -0.16
+        "last": 521.48,
+        "pct_change": -1.63
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 243.79,
-        "pct_change": -4.25
+        "last": 238.15,
+        "pct_change": -2.32
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 283.82,
-        "pct_change": -12.64
+        "last": 279.18,
+        "pct_change": -1.63
       },
       "Meta": {
         "symbol": "META",
-        "last": 624.52,
-        "pct_change": 1.96
+        "last": 620.88,
+        "pct_change": -0.58
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 919.53,
-        "pct_change": 0.61
+        "last": 816.9,
+        "pct_change": -11.16
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 237.22,
-        "pct_change": -0.99
+        "last": 206.64,
+        "pct_change": -12.89
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 82.08,
-        "pct_change": 1.38
+        "last": 77.89,
+        "pct_change": -5.1
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 5420.0,
-        "pct_change": -0.73
+        "last": 5460.0,
+        "pct_change": -0.33
       }
     }
   },
@@ -664,86 +664,86 @@
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "Here’s the math on Amazon CEO’s claim to be on path to two trillion-dollar revenue businesses",
-        "link": "https://www.marketwatch.com/story/heres-the-math-on-amazon-ceos-claim-to-be-on-path-to-two-trillion-dollar-revenue-businesses-34d648e8?mod=mw_rss_topstories",
-        "published": "Fri, 30 Oct 2026 10:34:00 GMT"
+        "title": "After Intel’s historic stock drop, analysts say there’s no reason to buy the dip",
+        "link": "https://www.marketwatch.com/story/after-intels-historic-stock-drop-analysts-say-theres-no-reason-to-buy-the-dip-068446af?mod=mw_rss_topstories",
+        "published": "Fri, 30 Oct 2026 16:45:00 GMT"
       },
       {
-        "title": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
-        "link": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
-        "published": "Fri, 30 Oct 2026 10:15:00 GMT"
+        "title": "Trump administration is illegally delaying student-debt forgiveness for tens of thousands of public servants, lawsuit alleges",
+        "link": "https://www.marketwatch.com/story/trump-administration-is-illegally-delaying-student-debt-forgiveness-for-tens-of-thousands-of-public-servants-lawsuit-alleges-e4d31e59?mod=mw_rss_topstories",
+        "published": "Fri, 30 Oct 2026 16:20:00 GMT"
       },
       {
-        "title": "Here’s when Binance plans to reopen after what’s believed to be the largest-ever $6.3 billion hack",
-        "link": "https://www.marketwatch.com/story/heres-when-binance-plans-to-reopen-after-whats-believed-to-be-the-largest-ever-6-3-billion-hack-d3cb8154?mod=mw_rss_topstories",
-        "published": "Fri, 30 Oct 2026 09:50:00 GMT"
+        "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
+        "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+        "published": "Fri, 30 Oct 2026 16:00:00 GMT"
       },
       {
-        "title": "Why Intel’s stock is sinking toward its worst drop in two years",
-        "link": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
-        "published": "Fri, 30 Oct 2026 09:46:00 GMT"
+        "title": "Private equity in your 401(k)? Heed Warren Buffett’s warning.",
+        "link": "https://www.marketwatch.com/story/private-equity-in-your-401-k-heed-warren-buffetts-warning-6f318cd0?mod=mw_rss_topstories",
+        "published": "Fri, 30 Oct 2026 15:53:00 GMT"
       },
       {
-        "title": "My father has early Alzheimer’s and his caregiver is using his debit card for DoorDash. What can I do?",
-        "link": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
-        "published": "Fri, 30 Oct 2026 09:15:00 GMT"
+        "title": "Our church has a $1.5 million bequest earning 3.75% in a savings account. Are we throwing money away?",
+        "link": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
+        "published": "Fri, 30 Oct 2026 15:30:00 GMT"
       },
       {
-        "title": "Solidcore founder Anne Mahlum plans enormous 10-bedroom ‘dream home’",
-        "link": "https://www.marketwatch.com/story/solidcore-founder-anne-mahlum-plans-enormous-10-bedroom-dream-home-032e0444?mod=mw_rss_topstories",
-        "published": "Fri, 30 Oct 2026 09:01:00 GMT"
+        "title": "In a wild October for markets, these stocks were the biggest winners and losers",
+        "link": "https://www.marketwatch.com/story/in-a-wild-october-for-markets-these-stocks-were-the-biggest-winners-and-losers-3736f043?mod=mw_rss_topstories",
+        "published": "Fri, 30 Oct 2026 15:26:00 GMT"
       },
       {
-        "title": "What gave this city its ‘best place to retire’ crown? You can actually afford to live there.",
-        "link": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
-        "published": "Fri, 30 Oct 2026 03:16:00 GMT"
+        "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
+        "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
+        "published": "Fri, 30 Oct 2026 15:15:00 GMT"
       },
       {
-        "title": "Amazon’s stock drops — even in the face of a bold new cloud forecast",
-        "link": "https://www.marketwatch.com/story/amazons-bold-cloud-forecast-isnt-enough-to-stave-off-a-stock-drop-ee23c1bb?mod=mw_rss_topstories",
-        "published": "Fri, 30 Oct 2026 00:15:00 GMT"
+        "title": "Data centers are a political third rail. West Virginia is grabbing it anyway.",
+        "link": "https://www.marketwatch.com/story/data-centers-are-a-political-third-rail-west-virginia-is-grabbing-it-anyway-80d129b5?mod=mw_rss_topstories",
+        "published": "Fri, 30 Oct 2026 15:14:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "Amazon falls 7%, Intel plunges 25% in premarket trading, as pressure mounts after earnings",
+        "title": "Intel stock heads for worst day in more than 50 years, wiping $12 billion off government's stake",
         "link": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
-        "published": "Fri, 30 Oct 2026 09:16:27 GMT"
+        "published": "Fri, 30 Oct 2026 16:54:11 GMT"
       },
       {
-        "title": "Wall Street braces for Democratic gains as 2026 midterm election nears",
-        "link": "https://www.cnbc.com/2026/10/30/2026-midterm-election-wall-street-prepares-for-democratic-gains.html",
-        "published": "Fri, 30 Oct 2026 10:00:01 GMT"
+        "title": "Treasury Department announces new Series I bond rate of 5.51% for the next six months",
+        "link": "https://www.cnbc.com/2026/10/30/treasury-i-bond-rate-through-april-2027.html",
+        "published": "Fri, 30 Oct 2026 14:53:12 GMT"
       },
       {
-        "title": "Chevron beats earnings expectations as refining profits soar on high diesel fuel prices",
+        "title": "'Bad time to troll': Binance cofounder Changpeng Zhao asks Elon Musk for 'respect' after post about bitcoin hack",
+        "link": "https://www.cnbc.com/2026/10/30/binance-hack-elon-musk-tesla-spacex.html",
+        "published": "Fri, 30 Oct 2026 15:44:23 GMT"
+      },
+      {
+        "title": "Stocks making the biggest moves midday: Intel, Lumentum, Sandisk, Twilio, Coinbase & more",
+        "link": "https://www.cnbc.com/2026/10/30/stocks-making-the-biggest-moves-midday-intc-lite-sndk-twlo-coin.html",
+        "published": "Fri, 30 Oct 2026 16:51:44 GMT"
+      },
+      {
+        "title": "Chevron and Exxon hit all-time highs as refining profits soar in reaction to Iran and Ukraine wars",
         "link": "https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html",
-        "published": "Fri, 30 Oct 2026 10:21:33 GMT"
+        "published": "Fri, 30 Oct 2026 16:44:31 GMT"
       },
       {
-        "title": "Biggest-ever crypto hack impacts $6.3 billion as Binance works to contain fallout",
-        "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
-        "published": "Fri, 30 Oct 2026 08:09:28 GMT"
+        "title": "Broadridge runs Wall Street’s market plumbing. Tokenization may expand its role",
+        "link": "https://www.cnbc.com/2026/10/30/broadridge-tokenization-stock.html",
+        "published": "Fri, 30 Oct 2026 15:52:38 GMT"
       },
       {
-        "title": "Firm that correctly called the AI rally slowdown says here's where to hide out",
-        "link": "https://www.cnbc.com/2026/10/29/firm-that-correctly-called-the-ai-rally-slowdown-says-heres-where-to-hide-out.html",
-        "published": "Thu, 29 Oct 2026 19:59:53 GMT"
+        "title": "St. Louis Fed's Musalem: Another rate hike needed 'soon'",
+        "link": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
+        "published": "Fri, 30 Oct 2026 16:54:37 GMT"
       },
       {
-        "title": "Iran claims four tankers struck mines in Hormuz as strike fears grow after U.S. midterms",
-        "link": "https://www.cnbc.com/2026/10/30/iran-trump-hormuz-oil-middle-east-.html",
-        "published": "Fri, 30 Oct 2026 07:12:49 GMT"
-      },
-      {
-        "title": "A pharma giant is moving past one patent cliff — but another is already looming",
-        "link": "https://www.cnbc.com/2026/10/30/novartis-remibrutinib-multiple-sclerosis.html",
-        "published": "Fri, 30 Oct 2026 06:00:01 GMT"
-      },
-      {
-        "title": "Reddit shares sink on weak sales guidance and plans login requirement test as Google search traffic shrinks",
-        "link": "https://www.cnbc.com/2026/10/29/reddit-rddt-q3-2026.html",
-        "published": "Fri, 30 Oct 2026 00:28:45 GMT"
+        "title": "Google lost nearly half a trillion this week. Here's how Mike Khouw is trading it",
+        "link": "https://www.cnbc.com/2026/10/30/google-lost-about-half-a-trillion-this-week-how-mike-khouw-trades-it-.html",
+        "published": "Fri, 30 Oct 2026 16:41:34 GMT"
       }
     ]
   }
