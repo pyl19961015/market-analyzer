@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-11-02T12:29:49",
+  "generated_at": "2026-11-02T21:53:03",
   "date": "2026-11-02",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7580.07,
-        "pct_change": -1.82
+        "last": 7541.4,
+        "pct_change": -0.51
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": null,
-        "pct_change": null
+        "last": 25164.32,
+        "pct_change": -1.07
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 51770.31,
-        "pct_change": -1.09
+        "last": 51983.98,
+        "pct_change": 0.41
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2811.84,
-        "pct_change": -1.66
+        "last": 2805.88,
+        "pct_change": -0.21
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 19.19,
-        "pct_change": -1.18
+        "last": 21.15,
+        "pct_change": 8.91
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.93,
-        "pct_change": -1.2
+        "last": 4.89,
+        "pct_change": -0.71
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 101.63,
-        "pct_change": -0.25
+        "last": 101.77,
+        "pct_change": -0.11
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 99.8,
-        "pct_change": -4.15
+        "last": 96.44,
+        "pct_change": -7.38
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 3916.2,
-        "pct_change": 0.44
+        "last": 3957.3,
+        "pct_change": 1.5
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 179.51,
-        "pct_change": -4.89
+        "last": 174.22,
+        "pct_change": -2.95
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 56.51,
-        "pct_change": -0.76
+        "last": 57.56,
+        "pct_change": 1.86
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 70.02,
-        "pct_change": 1.91
+        "last": 67.25,
+        "pct_change": -3.96
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 184.87,
-        "pct_change": 0.45
+        "last": 184.6,
+        "pct_change": -0.15
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 115.38,
-        "pct_change": -0.71
+        "last": 118.16,
+        "pct_change": 2.41
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 89.42,
-        "pct_change": 1.41
+        "last": 90.83,
+        "pct_change": 1.58
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 167.4,
-        "pct_change": -1.6
+        "last": 169.71,
+        "pct_change": 1.38
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 43.43,
-        "pct_change": 0.67
+        "last": 43.67,
+        "pct_change": 0.55
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 52.74,
-        "pct_change": 0.4
+        "last": 53.67,
+        "pct_change": 1.76
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 43.17,
-        "pct_change": 0.26
+        "last": 43.64,
+        "pct_change": 1.09
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 99.9,
-        "pct_change": -1.29
+        "last": 100.26,
+        "pct_change": 0.36
       }
     }
   },
@@ -111,8 +111,8 @@
     "indices": {
       "Nikkei 225": {
         "symbol": "^N225",
-        "last": 63081.86,
-        "pct_change": -0.33
+        "last": 63290.11,
+        "pct_change": -2.12
       },
       "TOPIX (ETF代理)": {
         "symbol": "1306.T",
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 157.87,
-        "pct_change": 0.04
+        "last": 157.93,
+        "pct_change": 0.08
       }
     }
   },
@@ -131,65 +131,65 @@
       "effr": 3.88,
       "target_low": 3.75,
       "target_high": 4.0,
-      "as_of": "2026-10-29"
+      "as_of": "2026-10-30"
     },
     "japan": {
       "yield": 2.817,
       "as_of": "2026-10-30",
       "prev_yield": 2.876
     },
-    "spread_10y": 2.11
+    "spread_10y": 2.07
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 123.31,
-        "pct_change": -4.32
+        "last": 123.2,
+        "pct_change": -0.09
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 344.63,
-        "pct_change": -1.23
+        "last": 338.32,
+        "pct_change": -1.83
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 521.91,
-        "pct_change": -1.55
+        "last": 507.12,
+        "pct_change": -2.83
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 240.35,
-        "pct_change": -1.41
+        "last": 245.63,
+        "pct_change": 2.2
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 279.84,
-        "pct_change": -1.4
+        "last": 278.99,
+        "pct_change": -0.3
       },
       "Meta": {
         "symbol": "META",
-        "last": 614.99,
-        "pct_change": -1.53
+        "last": 606.73,
+        "pct_change": -1.34
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 840.7,
-        "pct_change": -8.57
+        "last": 684.4,
+        "pct_change": -18.59
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 210.32,
-        "pct_change": -11.34
+        "last": 199.95,
+        "pct_change": -4.93
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 79.3,
-        "pct_change": -3.39
+        "last": 79.84,
+        "pct_change": 0.68
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -250,7 +250,7 @@
     {
       "title": "Loan Officer Survey",
       "country": "USD",
-      "date": "2026-11-02T14:03:00-05:00",
+      "date": "2026-11-02T14:00:00-05:00",
       "impact": "Low",
       "forecast": "",
       "previous": ""
@@ -268,7 +268,7 @@
       "country": "USD",
       "date": "2026-11-03T10:00:00-05:00",
       "impact": "Medium",
-      "forecast": "7.11M",
+      "forecast": "7.15M",
       "previous": "7.08M"
     },
     {
@@ -292,7 +292,7 @@
       "country": "USD",
       "date": "2026-11-03T10:15:00-05:00",
       "impact": "Low",
-      "forecast": "15.9M",
+      "forecast": "15.8M",
       "previous": "16.0M"
     },
     {
@@ -324,7 +324,7 @@
       "country": "USD",
       "date": "2026-11-04T08:15:00-05:00",
       "impact": "Low",
-      "forecast": "68K",
+      "forecast": "67K",
       "previous": "90K"
     },
     {
@@ -348,7 +348,7 @@
       "country": "USD",
       "date": "2026-11-04T10:00:00-05:00",
       "impact": "Medium",
-      "forecast": "54.9",
+      "forecast": "54.8",
       "previous": "54.9"
     },
     {
@@ -460,7 +460,7 @@
       "country": "USD",
       "date": "2026-11-06T08:30:00-05:00",
       "impact": "High",
-      "forecast": "63K",
+      "forecast": "65K",
       "previous": "29K"
     },
     {
@@ -484,7 +484,7 @@
       "country": "USD",
       "date": "2026-11-06T10:00:00-05:00",
       "impact": "Medium",
-      "forecast": "47.8",
+      "forecast": "48.1",
       "previous": "46.3"
     },
     {
@@ -516,7 +516,7 @@
       "country": "USD",
       "date": "2026-11-06T15:00:00-05:00",
       "impact": "Low",
-      "forecast": "12.0B",
+      "forecast": "13.4B",
       "previous": "8.3B"
     }
   ],
@@ -680,86 +680,86 @@
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "Marvell and Lumentum officially plan to combine. Here’s what to know.",
-        "link": "https://www.marketwatch.com/story/marvell-and-lumentum-officially-plan-to-combine-heres-what-to-know-5599b98a?mod=mw_rss_topstories",
-        "published": "Mon, 02 Nov 2026 12:26:00 GMT"
+        "title": "Wall Street’s most hated stocks are faring far better than its favorites",
+        "link": "https://www.marketwatch.com/story/wall-streets-most-hated-stocks-are-faring-far-better-than-its-favorites-4c1d6c68?mod=mw_rss_topstories",
+        "published": "Mon, 02 Nov 2026 21:45:00 GMT"
       },
       {
-        "title": "This is the biggest threat to the AI-powered bull market",
-        "link": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories",
-        "published": "Mon, 02 Nov 2026 12:23:00 GMT"
+        "title": "Want to help your adult kids and grandkids? Give them money while you’re still alive.",
+        "link": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
+        "published": "Mon, 02 Nov 2026 21:35:00 GMT"
       },
       {
-        "title": "America is doing better than you think — just ask those in the bottom half of household wealth",
-        "link": "https://www.marketwatch.com/story/america-is-doing-better-than-you-think-your-algorithm-is-just-hiding-it-7dbdecff?mod=mw_rss_topstories",
-        "published": "Mon, 02 Nov 2026 12:22:00 GMT"
+        "title": "‘She’s a Type A personality’: My stepmother wants me to repay my late father’s $40,000 wedding gift. Should I oblige?",
+        "link": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
+        "published": "Mon, 02 Nov 2026 21:30:00 GMT"
       },
       {
-        "title": "In the hunt for $1 trillion of revenue, SpaceX reportedly targets Boost Mobile for a deal",
-        "link": "https://www.marketwatch.com/story/in-the-hunt-for-1-trillion-of-revenue-spacex-reportedly-targets-boost-mobile-for-a-deal-7eb4ea49?mod=mw_rss_topstories",
-        "published": "Mon, 02 Nov 2026 12:20:00 GMT"
+        "title": "The stock market has gone nowhere for the past 5 months. It’s now looking like a bargain.",
+        "link": "https://www.marketwatch.com/story/the-stock-market-has-gone-nowhere-for-the-past-5-months-its-now-looking-like-a-bargain-150914c2?mod=mw_rss_topstories",
+        "published": "Mon, 02 Nov 2026 21:29:00 GMT"
       },
       {
-        "title": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
-        "link": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
-        "published": "Mon, 02 Nov 2026 12:15:00 GMT"
+        "title": "Palantir earnings reveal a major AI turning point",
+        "link": "https://www.marketwatch.com/story/palantir-earnings-reveal-a-major-ai-turning-point-db766110?mod=mw_rss_topstories",
+        "published": "Mon, 02 Nov 2026 21:09:00 GMT"
       },
       {
-        "title": "Tech stocks enter November after a brutal October: Is it time to buy the dip?",
-        "link": "https://www.marketwatch.com/story/tech-stocks-enter-november-after-a-brutal-october-is-it-time-to-buy-the-dip-09d8aff8?mod=mw_rss_topstories",
-        "published": "Mon, 02 Nov 2026 12:10:00 GMT"
+        "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+        "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+        "published": "Mon, 02 Nov 2026 21:00:00 GMT"
       },
       {
-        "title": "How oil prices could average $130 per barrel next year, according to Goldman Sachs",
-        "link": "https://www.marketwatch.com/story/how-oil-prices-could-average-130-per-barrel-next-year-according-to-goldman-sachs-235ce32b?mod=mw_rss_topstories",
-        "published": "Mon, 02 Nov 2026 11:14:00 GMT"
+        "title": "Chip stocks are suffering from a ‘crisis of confidence’ — but things aren’t as gloomy as they seem",
+        "link": "https://www.marketwatch.com/story/chip-stocks-are-suffering-from-a-crisis-of-confidence-but-things-arent-as-gloomy-as-they-seem-6ed14ea9?mod=mw_rss_topstories",
+        "published": "Mon, 02 Nov 2026 20:30:00 GMT"
       },
       {
-        "title": "Citi throws in the towel on hyperscalers after a key market bet misfires",
-        "link": "https://www.marketwatch.com/story/the-latest-market-wobble-sees-citi-giving-up-on-this-big-tech-trade-181b0dea?mod=mw_rss_topstories",
-        "published": "Mon, 02 Nov 2026 11:08:00 GMT"
+        "title": "How soon gas prices could go down now that oil is tumbling",
+        "link": "https://www.marketwatch.com/story/how-soon-gas-prices-could-go-down-now-that-oil-is-tumbling-a1140dc2?mod=mw_rss_topstories",
+        "published": "Mon, 02 Nov 2026 19:27:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "U.S. crude falls below $100 amid reports of U.S.-Iran diplomatic efforts",
-        "link": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
-        "published": "Mon, 02 Nov 2026 11:00:55 GMT"
+        "title": "Apple beats on quarterly revenue in CEO John Ternus' first earnings report: Live updates",
+        "link": "https://www.cnbc.com/2026/11/02/apple-aapl-q4-2026-earnings-live-updates.html",
+        "published": "Mon, 02 Nov 2026 21:50:52 GMT"
       },
       {
-        "title": "Defense, healthcare, crypto and AI: How the midterm election could affect stocks",
-        "link": "https://www.cnbc.com/2026/11/02/midterm-election-stocks-defense-healthcare-crypto-ai.html",
-        "published": "Mon, 02 Nov 2026 11:00:01 GMT"
+        "title": "Palantir reports booming U.S. commercial revenue growth, topping government for first time",
+        "link": "https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html",
+        "published": "Mon, 02 Nov 2026 21:46:56 GMT"
       },
       {
-        "title": "Marvell to buy Lumentum in $115 billion deal in AI data-center bet",
-        "link": "https://www.cnbc.com/2026/11/02/marvell-to-buy-lumentum-in-115-billion-deal-in-ai-data-center-bet-.html",
-        "published": "Mon, 02 Nov 2026 12:22:43 GMT"
+        "title": "Trump focuses on Reflecting Pool in final public speech before midterms",
+        "link": "https://www.cnbc.com/2026/11/02/trump-midterm-election-speech-reflecting-pool.html",
+        "published": "Mon, 02 Nov 2026 21:15:13 GMT"
       },
       {
-        "title": "Canada-India $5.5 billion bank takeover attracts opposition from workers, politicians",
-        "link": "https://www.cnbc.com/2026/11/02/canada-india-bank-takeover-protest-workers.html",
-        "published": "Mon, 02 Nov 2026 04:09:34 GMT"
+        "title": "Stock market after midterm elections: What S&P 500 history shows",
+        "link": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
+        "published": "Mon, 02 Nov 2026 17:57:35 GMT"
       },
       {
-        "title": "UBS sees a buying opportunity in Rivian after recent sell-off",
-        "link": "https://www.cnbc.com/2026/11/02/ubs-rivian-upgrade-buy.html",
-        "published": "Mon, 02 Nov 2026 12:05:01 GMT"
+        "title": "DOJ asks Supreme Court to block California counting disputed mail-in ballots",
+        "link": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
+        "published": "Mon, 02 Nov 2026 19:38:58 GMT"
       },
       {
-        "title": "Connecticut Sen. Chris Murphy has stroke and is in the hospital, office says",
-        "link": "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
-        "published": "Mon, 02 Nov 2026 10:29:11 GMT"
+        "title": "The midterms are here. How JPMorgan expects the market to react",
+        "link": "https://www.cnbc.com/2026/11/02/the-midterms-are-here-how-jpmorgan-expects-the-market-to-react.html",
+        "published": "Mon, 02 Nov 2026 20:20:43 GMT"
       },
       {
-        "title": "Democratic Rep. Stevens endorses Republican Rogers over rival El-Sayed in Michigan Senate election",
-        "link": "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html",
-        "published": "Sun, 01 Nov 2026 21:06:42 GMT"
+        "title": "U.S. judge dismisses Trump administration's Harvard admissions probe case",
+        "link": "https://www.cnbc.com/2026/11/02/us-judge-dismisses-trump-administrations-harvard-admissions-probe-case.html",
+        "published": "Mon, 02 Nov 2026 21:37:56 GMT"
       },
       {
-        "title": "Apollo launches $11 billion private credit platform, backed by Abu Dhabi",
-        "link": "https://www.cnbc.com/2026/11/02/apollo-private-credit-abu-dhabi.html",
-        "published": "Mon, 02 Nov 2026 09:11:02 GMT"
+        "title": "Anthropic reports $17 billion in Q3 revenue, purchase commitments of $895.4 billion in revised S-1",
+        "link": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+        "published": "Mon, 02 Nov 2026 17:52:01 GMT"
       }
     ]
   }
