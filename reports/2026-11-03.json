@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-11-03T12:49:10",
+  "generated_at": "2026-11-03T19:56:31",
   "date": "2026-11-03",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7541.4,
-        "pct_change": -0.51
+        "last": 7563.11,
+        "pct_change": 0.29
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 25164.31,
-        "pct_change": -1.07
+        "last": 25333.01,
+        "pct_change": 0.67
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 51983.98,
-        "pct_change": 0.41
+        "last": 51767.85,
+        "pct_change": -0.42
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2805.88,
-        "pct_change": -0.21
+        "last": null,
+        "pct_change": null
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 21.25,
-        "pct_change": 0.47
+        "last": 20.74,
+        "pct_change": -1.94
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.89,
-        "pct_change": -0.71
+        "last": 4.95,
+        "pct_change": 1.06
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 101.87,
+        "last": 101.86,
         "pct_change": 0.11
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 97.25,
-        "pct_change": 0.82
+        "last": 96.23,
+        "pct_change": -0.24
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 3923.8,
-        "pct_change": -1.15
+        "last": 3934.6,
+        "pct_change": -0.88
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 174.22,
-        "pct_change": -2.95
+        "last": 175.89,
+        "pct_change": 0.96
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 57.56,
-        "pct_change": 1.86
+        "last": 57.25,
+        "pct_change": -0.54
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 67.25,
-        "pct_change": -3.96
+        "last": 66.9,
+        "pct_change": -0.51
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 184.6,
-        "pct_change": -0.15
+        "last": 184.45,
+        "pct_change": -0.08
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 118.16,
-        "pct_change": 2.41
+        "last": 117.19,
+        "pct_change": -0.82
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 90.83,
-        "pct_change": 1.58
+        "last": 89.25,
+        "pct_change": -1.73
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 169.71,
-        "pct_change": 1.38
+        "last": 171.48,
+        "pct_change": 1.04
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 43.67,
-        "pct_change": 0.55
+        "last": 43.58,
+        "pct_change": -0.22
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 53.67,
-        "pct_change": 1.76
+        "last": 52.62,
+        "pct_change": -1.96
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 43.64,
-        "pct_change": 1.09
+        "last": 43.59,
+        "pct_change": -0.11
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 100.26,
-        "pct_change": 0.36
+        "last": 101.14,
+        "pct_change": 0.87
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 158.2,
-        "pct_change": 0.33
+        "last": 158.73,
+        "pct_change": 0.67
       }
     }
   },
@@ -131,65 +131,65 @@
       "effr": 3.88,
       "target_low": 3.75,
       "target_high": 4.0,
-      "as_of": "2026-10-30"
+      "as_of": "2026-11-02"
     },
     "japan": {
       "yield": 2.817,
       "as_of": "2026-10-30",
       "prev_yield": 2.876
     },
-    "spread_10y": 2.07
+    "spread_10y": 2.13
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 123.2,
-        "pct_change": -0.09
+        "last": 125.87,
+        "pct_change": 2.17
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 338.32,
-        "pct_change": -1.83
+        "last": 330.3,
+        "pct_change": -2.37
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 507.12,
-        "pct_change": -2.83
+        "last": 521.59,
+        "pct_change": 2.85
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 245.63,
-        "pct_change": 2.2
+        "last": 251.21,
+        "pct_change": 2.27
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 278.99,
-        "pct_change": -0.3
+        "last": 278.71,
+        "pct_change": -0.1
       },
       "Meta": {
         "symbol": "META",
-        "last": 606.73,
-        "pct_change": -1.34
+        "last": 619.74,
+        "pct_change": 2.14
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 684.4,
-        "pct_change": -18.59
+        "last": 672.48,
+        "pct_change": -1.74
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 199.95,
-        "pct_change": -4.93
+        "last": 205.6,
+        "pct_change": 2.83
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 79.84,
-        "pct_change": 0.68
+        "last": 83.67,
+        "pct_change": 4.8
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -264,6 +264,14 @@
       "previous": ""
     },
     {
+      "title": "RCM/TIPP Economic Optimism",
+      "country": "USD",
+      "date": "2026-11-03T04:00:00-05:00",
+      "impact": "Low",
+      "forecast": "46.2",
+      "previous": "46.8"
+    },
+    {
       "title": "JOLTS Job Openings",
       "country": "USD",
       "date": "2026-11-03T10:00:00-05:00",
@@ -278,14 +286,6 @@
       "impact": "Low",
       "forecast": "1.2%",
       "previous": "0.1%"
-    },
-    {
-      "title": "RCM/TIPP Economic Optimism",
-      "country": "USD",
-      "date": "2026-11-03T10:10:00-05:00",
-      "impact": "Low",
-      "forecast": "46.2",
-      "previous": "46.8"
     },
     {
       "title": "Omdia Total Vehicle Sales",
@@ -356,7 +356,7 @@
       "country": "USD",
       "date": "2026-11-04T10:30:00-05:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "-0.1M",
       "previous": "-1.9M"
     },
     {
@@ -680,86 +680,86 @@
     ],
     "MarketWatch Top Stories": [
       {
+        "title": "Medicare prescription drug costs will jump 50% in 2027. Doing nothing could cost you.",
+        "link": "https://www.marketwatch.com/story/medicare-prescription-drug-costs-will-jump-50-in-2027-doing-nothing-could-cost-you-b701dfb7?mod=mw_rss_topstories",
+        "published": "Tue, 03 Nov 2026 19:23:00 GMT"
+      },
+      {
+        "title": "My wife and I have no kids and a 99% chance of outliving our life savings. Why not spend it all?",
+        "link": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
+        "published": "Tue, 03 Nov 2026 19:00:00 GMT"
+      },
+      {
         "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
         "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-        "published": "Tue, 03 Nov 2026 12:30:00 GMT"
+        "published": "Tue, 03 Nov 2026 18:30:00 GMT"
       },
       {
-        "title": "11 bargain-priced stocks of companies that have huge growth potential over the next two years",
-        "link": "https://www.marketwatch.com/story/11-bargain-priced-stocks-of-companies-that-have-huge-growth-potential-over-the-next-two-years-d62618e6?mod=mw_rss_topstories",
-        "published": "Tue, 03 Nov 2026 12:28:00 GMT"
+        "title": "Once election results are in, here’s what investors should focus on next",
+        "link": "https://www.marketwatch.com/story/once-election-results-are-in-heres-what-investors-should-focus-on-next-75c5ac5d?mod=mw_rss_topstories",
+        "published": "Tue, 03 Nov 2026 18:27:00 GMT"
       },
       {
-        "title": "Wall Street’s most hated stocks are faring far better than its favorites",
-        "link": "https://www.marketwatch.com/story/wall-streets-most-hated-stocks-are-faring-far-better-than-its-favorites-4c1d6c68?mod=mw_rss_topstories",
-        "published": "Tue, 03 Nov 2026 12:22:00 GMT"
+        "title": "My father has Alzheimer’s and his caregiver is using his debit card for DoorDash. Should I intervene?",
+        "link": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
+        "published": "Tue, 03 Nov 2026 17:30:00 GMT"
       },
       {
-        "title": "What analysts are telling us while Apple’s stock falls after earnings report",
-        "link": "https://www.marketwatch.com/story/what-analysts-are-saying-as-apples-stock-falls-after-earnings-report-f0afa357?mod=mw_rss_topstories",
-        "published": "Tue, 03 Nov 2026 12:20:00 GMT"
+        "title": "Want to help your adult kids and grandkids? Give them money while you’re still alive.",
+        "link": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
+        "published": "Tue, 03 Nov 2026 17:15:00 GMT"
       },
       {
         "title": "‘She’s a Type A personality’: My stepmother wants me to repay my late father’s $40,000 wedding gift. Should I oblige?",
         "link": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
-        "published": "Tue, 03 Nov 2026 12:15:00 GMT"
+        "published": "Tue, 03 Nov 2026 17:01:00 GMT"
       },
       {
-        "title": "The stock market loves gridlock. But midterm elections won’t resolve two big money fights.",
-        "link": "https://www.marketwatch.com/story/the-stock-market-loves-gridlock-but-midterm-elections-wont-resolve-two-big-money-fights-97ed4f64?mod=mw_rss_topstories",
-        "published": "Tue, 03 Nov 2026 12:12:00 GMT"
-      },
-      {
-        "title": "Palantir stock is down 8%. Analysts say bookings growth is to blame.",
-        "link": "https://www.marketwatch.com/story/palantir-stock-is-down-8-analysts-say-bookings-growth-is-to-blame-0492921b?mod=mw_rss_topstories",
-        "published": "Tue, 03 Nov 2026 12:06:00 GMT"
-      },
-      {
-        "title": "Nasdaq-100 tumbles into its third correction this year as AI worries mount",
-        "link": "https://www.marketwatch.com/story/nasdaq-100-tumbles-into-its-third-correction-this-year-as-ai-worries-mount-abee4c0d?mod=mw_rss_topstories",
-        "published": "Tue, 03 Nov 2026 11:56:00 GMT"
+        "title": "U.S. jobs market perks up, but it’s still not a great time to get hired",
+        "link": "https://www.marketwatch.com/story/u-s-jobs-market-perks-up-but-its-still-not-a-great-time-to-get-hired-bc39f44f?mod=mw_rss_topstories",
+        "published": "Tue, 03 Nov 2026 16:56:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "Midterm elections could jolt stocks if Democrats sweep Congress",
-        "link": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
-        "published": "Tue, 03 Nov 2026 11:54:28 GMT"
+        "title": "Midterm elections 2026 live updates: Economy, inflation and other voter concerns",
+        "link": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html",
+        "published": "Tue, 03 Nov 2026 19:50:36 GMT"
       },
       {
-        "title": "Pfizer hikes full-year outlook, taps company veteran as new CFO",
-        "link": "https://www.cnbc.com/2026/11/03/pfizer-pfe-earnings-q3-2026.html",
-        "published": "Tue, 03 Nov 2026 12:36:43 GMT"
+        "title": "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto",
+        "link": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
+        "published": "Tue, 03 Nov 2026 18:40:37 GMT"
       },
       {
-        "title": "Apple shares slide after weak margin outlook; Palantir slumps 8% after earnings",
-        "link": "https://www.cnbc.com/2026/11/03/apple-palantir-stock-earnings.html",
-        "published": "Tue, 03 Nov 2026 10:34:38 GMT"
+        "title": "CrowdStrike launches AI kill switch that it says can stop internal agents that go rogue",
+        "link": "https://www.cnbc.com/2026/11/03/crowdstrike-ai-kill-switch-rogue-agents.html",
+        "published": "Tue, 03 Nov 2026 19:35:24 GMT"
       },
       {
-        "title": "Oil prices climb after U.S. strikes Iran's Qeshm Island",
-        "link": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
-        "published": "Tue, 03 Nov 2026 09:58:37 GMT"
+        "title": "Nasdaq rebounds as chip stocks bounce, Dow dragged lower by Apple: Live updates",
+        "link": "https://www.cnbc.com/2026/11/02/stock-market-today-live-updates.html",
+        "published": "Tue, 03 Nov 2026 19:53:31 GMT"
       },
       {
-        "title": "Apple is falling on its latest earnings report. Why most analysts still like the stock",
-        "link": "https://www.cnbc.com/2026/11/03/apple-earnings-analysts-margin-outlook.html",
-        "published": "Tue, 03 Nov 2026 11:59:53 GMT"
+        "title": "Disney plans several thousand layoffs, asks some managers to cut costs by up to 20%",
+        "link": "https://www.cnbc.com/2026/11/03/disney-layoffs-cost-cuts.html",
+        "published": "Tue, 03 Nov 2026 17:05:29 GMT"
       },
       {
-        "title": "Yum Brands earnings beat estimates, but cyclospora outbreak weighs on Taco Bell",
-        "link": "https://www.cnbc.com/2026/11/03/yum-brands-yum-q3-2026-earnings.html",
-        "published": "Tue, 03 Nov 2026 12:44:15 GMT"
+        "title": "How Trump contesting midterm election results might disrupt the market",
+        "link": "https://www.cnbc.com/2026/11/03/how-trump-contesting-midterm-election-results-could-disrupt-the-market.html",
+        "published": "Tue, 03 Nov 2026 19:20:24 GMT"
       },
       {
-        "title": "Versant earnings beat expectations as digital platforms drive growth",
-        "link": "https://www.cnbc.com/2026/11/03/versant-vsnt-q3-2026-earnings.html",
-        "published": "Tue, 03 Nov 2026 12:06:59 GMT"
+        "title": "Meta seeks to raise up to $25 billion in debt sale as AI spending jumps",
+        "link": "https://www.cnbc.com/2026/11/03/meta-bond-sale-ai-funding.html",
+        "published": "Tue, 03 Nov 2026 18:33:49 GMT"
       },
       {
-        "title": "Apple's John Ternus faces early test as global memory crisis hurts profits",
-        "link": "https://www.cnbc.com/2026/11/03/apple-earnings-john-ternus-faces-first-test-amid-high-memory-costs.html",
-        "published": "Tue, 03 Nov 2026 12:10:31 GMT"
+        "title": "Sen. Chris Murphy still hospitalized after suffering a stroke over the weekend",
+        "link": "https://www.cnbc.com/2026/11/03/chris-murphy-hospitalized-stroke.html",
+        "published": "Tue, 03 Nov 2026 19:36:16 GMT"
       }
     ]
   }
