@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-11-04T06:49:07",
+  "generated_at": "2026-11-04T15:02:19",
   "date": "2026-11-04",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7568.92,
-        "pct_change": 0.36
+        "last": 7703.65,
+        "pct_change": 1.78
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 25372.01,
-        "pct_change": 0.83
+        "last": 25979.76,
+        "pct_change": 2.4
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 51786.72,
-        "pct_change": -0.38
+        "last": 52907.01,
+        "pct_change": 2.16
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2812.45,
-        "pct_change": 0.23
+        "last": 2873.12,
+        "pct_change": 2.16
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 20.83,
-        "pct_change": -1.51
+        "last": 17.21,
+        "pct_change": -17.38
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.95,
-        "pct_change": 1.19
+        "last": 4.94,
+        "pct_change": -0.3
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 101.5,
-        "pct_change": -0.36
+        "last": 101.42,
+        "pct_change": -0.44
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 96.23,
-        "pct_change": 0.15
+        "last": 93.18,
+        "pct_change": -3.03
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4032.3,
-        "pct_change": 2.33
+        "last": 4050.8,
+        "pct_change": 2.8
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 176.51,
-        "pct_change": 1.31
+        "last": 179.54,
+        "pct_change": 1.72
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 57.19,
-        "pct_change": -0.64
+        "last": 58.12,
+        "pct_change": 1.63
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 66.68,
-        "pct_change": -0.85
+        "last": 64.39,
+        "pct_change": -3.44
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 184.02,
-        "pct_change": -0.31
+        "last": 186.54,
+        "pct_change": 1.37
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 117.33,
-        "pct_change": -0.7
+        "last": 121.66,
+        "pct_change": 3.69
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 88.95,
-        "pct_change": -2.07
+        "last": 91.17,
+        "pct_change": 2.5
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 171.32,
-        "pct_change": 0.95
+        "last": 168.34,
+        "pct_change": -1.74
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 43.42,
-        "pct_change": -0.57
+        "last": 43.03,
+        "pct_change": -0.9
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 52.59,
-        "pct_change": -2.01
+        "last": 53.34,
+        "pct_change": 1.43
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 43.67,
-        "pct_change": 0.07
+        "last": 44.44,
+        "pct_change": 1.77
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 101.44,
-        "pct_change": 1.18
+        "last": 104.97,
+        "pct_change": 3.48
       }
     }
   },
@@ -111,8 +111,8 @@
     "indices": {
       "Nikkei 225": {
         "symbol": "^N225",
-        "last": 62188.63,
-        "pct_change": -1.42
+        "last": 63081.86,
+        "pct_change": -0.33
       },
       "TOPIX (ETF代理)": {
         "symbol": "1306.T",
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 158.08,
-        "pct_change": 0.1
+        "last": 158.5,
+        "pct_change": 0.37
       }
     }
   },
@@ -131,69 +131,69 @@
       "effr": 3.88,
       "target_low": 3.75,
       "target_high": 4.0,
-      "as_of": "2026-11-02"
+      "as_of": "2026-11-03"
     },
     "japan": {
       "yield": 2.817,
       "as_of": "2026-11-02"
     },
-    "spread_10y": 2.13
+    "spread_10y": 2.12
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 126.14,
-        "pct_change": 2.39
+        "last": 121.83,
+        "pct_change": -3.42
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 331.9,
-        "pct_change": -1.9
+        "last": 352.86,
+        "pct_change": 6.32
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 520.99,
-        "pct_change": 2.74
+        "last": 556.45,
+        "pct_change": 6.81
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 250.69,
-        "pct_change": 2.06
+        "last": 271.21,
+        "pct_change": 8.19
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 280.03,
-        "pct_change": 0.37
+        "last": 294.03,
+        "pct_change": 5.0
       },
       "Meta": {
         "symbol": "META",
-        "last": 621.03,
-        "pct_change": 2.36
+        "last": 631.59,
+        "pct_change": 1.7
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 680.16,
-        "pct_change": -0.62
+        "last": 635.01,
+        "pct_change": -6.64
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 207.49,
-        "pct_change": 3.77
+        "last": 199.82,
+        "pct_change": -3.69
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 84.19,
-        "pct_change": 5.45
+        "last": 79.88,
+        "pct_change": -5.12
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 5410.0,
-        "pct_change": -1.3
+        "last": 5481.0,
+        "pct_change": 1.13
       }
     }
   },
@@ -679,86 +679,86 @@
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "Democrats win the House and Senate. Here’s what it means for your finances.",
-        "link": "https://www.marketwatch.com/story/democrats-win-the-senate-but-control-of-the-house-is-still-up-in-the-air-heres-what-it-means-for-your-finances-ed78cd6e?mod=mw_rss_topstories",
-        "published": "Wed, 04 Nov 2026 06:27:00 GMT"
+        "title": "Midterm elections deliver a ‘blue wave.’ The stock market sees green.",
+        "link": "https://www.marketwatch.com/story/midterm-elections-deliver-a-blue-wave-the-stock-market-sees-green-5900a779?mod=mw_rss_topstories",
+        "published": "Wed, 04 Nov 2026 14:59:00 GMT"
       },
       {
-        "title": "Here’s why AMD’s stock is rising — and sending a confident message about the AI trade",
-        "link": "https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a?mod=mw_rss_topstories",
-        "published": "Wed, 04 Nov 2026 01:16:00 GMT"
+        "title": "Big Tech’s $500 billion spending spree leaves a lot less for shareholders",
+        "link": "https://www.marketwatch.com/story/big-techs-500-billion-spending-spree-leaves-a-lot-less-for-shareholders-4ed57fb5?mod=mw_rss_topstories",
+        "published": "Wed, 04 Nov 2026 14:39:00 GMT"
       },
       {
-        "title": "Super Micro’s stock pops as earnings show booming demand for AI servers",
-        "link": "https://www.marketwatch.com/story/super-micros-stock-pops-as-earnings-show-booming-demand-for-ai-servers-2d179658?mod=mw_rss_topstories",
-        "published": "Wed, 04 Nov 2026 01:12:00 GMT"
+        "title": "CVS Health plans to split in two. Here’s what is driving the massive healthcare breakup.",
+        "link": "https://www.marketwatch.com/story/cvs-health-plans-to-split-in-two-heres-what-is-driving-the-massive-healthcare-breakup-27c0d6be?mod=mw_rss_topstories",
+        "published": "Wed, 04 Nov 2026 14:33:00 GMT"
       },
       {
-        "title": "What analysts are telling us while Apple’s stock falls after earnings report",
-        "link": "https://www.marketwatch.com/story/what-analysts-are-saying-as-apples-stock-falls-after-earnings-report-f0afa357?mod=mw_rss_topstories",
-        "published": "Tue, 03 Nov 2026 22:48:00 GMT"
+        "title": "The internet is ‘dying’: AI is eating it and obliterating these business models",
+        "link": "https://www.marketwatch.com/story/the-internet-is-dying-ai-is-eating-it-and-obliterating-these-business-models-435ae2b0?mod=mw_rss_topstories",
+        "published": "Wed, 04 Nov 2026 14:05:00 GMT"
       },
       {
-        "title": "Shopify’s stock slides after earnings. This is what’s worrying Wall Street.",
-        "link": "https://www.marketwatch.com/story/shopifys-stock-slides-after-earnings-this-is-whats-worrying-wall-street-e2e8d52b?mod=mw_rss_topstories",
-        "published": "Tue, 03 Nov 2026 22:45:00 GMT"
+        "title": "Learning from ‘Love Is Blind’ money drama",
+        "link": "https://www.marketwatch.com/story/learning-from-love-is-blind-money-drama-810175f9?mod=mw_rss_topstories",
+        "published": "Wed, 04 Nov 2026 13:58:00 GMT"
       },
       {
-        "title": "AI’s control over the bond market is growing — even rivaling war and elections",
-        "link": "https://www.marketwatch.com/story/ais-control-over-the-bond-market-is-growing-even-rivaling-war-and-elections-5d727b35?mod=mw_rss_topstories",
-        "published": "Tue, 03 Nov 2026 22:06:00 GMT"
+        "title": "ADP says businesses added 86,000 jobs in October. The labor market shows small signs of improvement.",
+        "link": "https://www.marketwatch.com/story/adp-says-businesses-add-86-000-jobs-in-october-labor-market-shows-small-signs-of-improvement-64c89fd3?mod=mw_rss_topstories",
+        "published": "Wed, 04 Nov 2026 13:55:00 GMT"
       },
       {
-        "title": "S&P 500 is looking over the edge of a technical cliff — what happens if it falls off?",
-        "link": "https://www.marketwatch.com/story/s-p-500-is-looking-over-the-edge-of-a-technical-cliff-what-happens-if-it-falls-off-be97ebd9?mod=mw_rss_topstories",
-        "published": "Tue, 03 Nov 2026 21:30:00 GMT"
+        "title": "Tesla and SpaceX shares slide as Musk’s political push falls flat",
+        "link": "https://www.marketwatch.com/story/tesla-and-spacex-shares-slide-as-musks-political-push-falls-flat-c15d29a3?mod=mw_rss_topstories",
+        "published": "Wed, 04 Nov 2026 13:41:00 GMT"
       },
       {
-        "title": "Depressing, but true: If you want to get ahead at work, embrace virtue signaling",
-        "link": "https://www.marketwatch.com/story/depressing-but-true-if-you-want-to-get-ahead-at-work-embrace-virtue-signaling-b4e72f0a?mod=mw_rss_topstories",
-        "published": "Tue, 03 Nov 2026 21:27:00 GMT"
+        "title": "Treasury opens the door to changes in how it finances the growing U.S. debt. Here’s what you need to know.",
+        "link": "https://www.marketwatch.com/story/treasury-opens-the-door-to-changes-in-how-it-finances-the-growing-u-s-debt-heres-what-you-need-to-know-6001f7e1?mod=mw_rss_topstories",
+        "published": "Wed, 04 Nov 2026 13:32:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "Midterm elections 2026 live updates: Democrats flip Senate after winning House",
-        "link": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html",
-        "published": "Wed, 04 Nov 2026 06:35:46 GMT"
+        "title": "5 midterm election takeaways: Tech billionaires suffer as Democrats drub Republicans",
+        "link": "https://www.cnbc.com/2026/11/04/midterm-election-blue-wave-trump-billionaires.html",
+        "published": "Wed, 04 Nov 2026 12:51:00 GMT"
       },
       {
-        "title": "Stock futures fall as Democrats win big in midterms with traders betting they slow data center buildout: Live updates",
+        "title": "Midterm elections 2026 live updates: What's next after Democrats flip Congress in blue wave",
+        "link": "https://www.cnbc.com/2026/11/04/2026-midterm-election-results-live-updates.html",
+        "published": "Wed, 04 Nov 2026 15:01:08 GMT"
+      },
+      {
+        "title": "Dow rallies 1,100 points as political risk eases after resounding Democratic victory in U.S. midterms: Live updates",
         "link": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
-        "published": "Wed, 04 Nov 2026 06:26:48 GMT"
+        "published": "Wed, 04 Nov 2026 14:58:17 GMT"
       },
       {
-        "title": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
-        "link": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
-        "published": "Wed, 04 Nov 2026 03:24:03 GMT"
+        "title": "CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10%",
+        "link": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
+        "published": "Wed, 04 Nov 2026 14:51:50 GMT"
       },
       {
-        "title": "U.S. midterm elections in pictures: Democrats' sweeping victories deliver rebuke to Trump",
-        "link": "https://www.cnbc.com/2026/11/04/us-midterm-elections-in-pictures-democrats-republicans-trump.html",
-        "published": "Wed, 04 Nov 2026 05:53:30 GMT"
+        "title": "SpaceX signs deal with Qualcomm to provide network technology for U.S. mobile service",
+        "link": "https://www.cnbc.com/2026/11/04/spacex-strikes-deal-with-qualcomm-for-mobile-network-infrastructure.html",
+        "published": "Wed, 04 Nov 2026 13:53:54 GMT"
       },
       {
-        "title": "Stock market after midterm elections: What S&P 500 history shows",
-        "link": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
-        "published": "Tue, 03 Nov 2026 18:21:05 GMT"
+        "title": "Here are Wednesday's biggest analyst calls: SpaceX, AMD, Apple, Adobe, CoreWeave & more",
+        "link": "https://www.cnbc.com/2026/11/04/wednesday-biggest-wall-street-analyst-calls-of-the-day.html",
+        "published": "Wed, 04 Nov 2026 13:24:24 GMT"
       },
       {
-        "title": "Midterm elections could jolt stocks as Democrats look poised to sweep Congress",
-        "link": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
-        "published": "Wed, 04 Nov 2026 03:38:08 GMT"
+        "title": "Uber beats on revenue even as mobility and delivery units miss estimates",
+        "link": "https://www.cnbc.com/2026/11/04/uber-stock-q3-2026-earnings.html",
+        "published": "Wed, 04 Nov 2026 13:46:24 GMT"
       },
       {
-        "title": "Texas race results could kick AI trade while it's already down",
-        "link": "https://www.cnbc.com/2026/11/03/texas-election-could-pressure-ai-data-center-trade.html",
-        "published": "Tue, 03 Nov 2026 22:38:18 GMT"
-      },
-      {
-        "title": "Google responds to political backlash over removing search from schools that ban AI",
-        "link": "https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html",
-        "published": "Wed, 04 Nov 2026 01:07:01 GMT"
+        "title": "Blood banks targeted in latest European fridge cyberattacks",
+        "link": "https://www.cnbc.com/2026/11/04/blood-bank-fridges-cyberattacks.html",
+        "published": "Wed, 04 Nov 2026 14:15:32 GMT"
       }
     ]
   }
