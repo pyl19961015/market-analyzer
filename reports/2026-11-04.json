@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-11-04T15:02:19",
+  "generated_at": "2026-11-04T21:19:10",
   "date": "2026-11-04",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7703.65,
-        "pct_change": 1.78
+        "last": 7688.62,
+        "pct_change": 1.58
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 25979.76,
-        "pct_change": 2.4
+        "last": 25736.51,
+        "pct_change": 1.44
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 52907.01,
-        "pct_change": 2.16
+        "last": 53356.12,
+        "pct_change": 3.03
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2873.12,
-        "pct_change": 2.16
+        "last": null,
+        "pct_change": null
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 17.21,
-        "pct_change": -17.38
+        "last": 16.72,
+        "pct_change": -19.73
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.94,
-        "pct_change": -0.3
+        "last": 4.89,
+        "pct_change": -1.17
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 101.42,
-        "pct_change": -0.44
+        "last": 101.52,
+        "pct_change": -0.34
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 93.18,
-        "pct_change": -3.03
+        "last": 88.56,
+        "pct_change": -7.84
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4050.8,
-        "pct_change": 2.8
+        "last": 4074.8,
+        "pct_change": 3.41
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 179.54,
-        "pct_change": 1.72
+        "last": 176.5,
+        "pct_change": -0.01
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 58.12,
-        "pct_change": 1.63
+        "last": 59.2,
+        "pct_change": 3.51
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 64.39,
-        "pct_change": -3.44
+        "last": 63.53,
+        "pct_change": -4.72
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 186.54,
-        "pct_change": 1.37
+        "last": 189.68,
+        "pct_change": 3.08
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 121.66,
-        "pct_change": 3.69
+        "last": 122.33,
+        "pct_change": 4.26
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 91.17,
-        "pct_change": 2.5
+        "last": 91.94,
+        "pct_change": 3.36
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 168.34,
-        "pct_change": -1.74
+        "last": 169.46,
+        "pct_change": -1.09
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 43.03,
-        "pct_change": -0.9
+        "last": 43.61,
+        "pct_change": 0.44
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 53.34,
-        "pct_change": 1.43
+        "last": 53.9,
+        "pct_change": 2.49
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.44,
-        "pct_change": 1.77
+        "last": 45.12,
+        "pct_change": 3.32
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 104.97,
-        "pct_change": 3.48
+        "last": 104.96,
+        "pct_change": 3.47
       }
     }
   },
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 158.5,
-        "pct_change": 0.37
+        "last": 158.42,
+        "pct_change": 0.32
       }
     }
   },
@@ -137,58 +137,58 @@
       "yield": 2.817,
       "as_of": "2026-11-02"
     },
-    "spread_10y": 2.12
+    "spread_10y": 2.07
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 121.83,
-        "pct_change": -3.42
+        "last": 118.79,
+        "pct_change": -5.83
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 352.86,
-        "pct_change": 6.32
+        "last": 349.51,
+        "pct_change": 5.31
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 556.45,
-        "pct_change": 6.81
+        "last": 555.8,
+        "pct_change": 6.68
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 271.21,
-        "pct_change": 8.19
+        "last": 266.03,
+        "pct_change": 6.12
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 294.03,
-        "pct_change": 5.0
+        "last": 288.93,
+        "pct_change": 3.18
       },
       "Meta": {
         "symbol": "META",
-        "last": 631.59,
-        "pct_change": 1.7
+        "last": 630.0,
+        "pct_change": 1.44
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 635.01,
-        "pct_change": -6.64
+        "last": 626.75,
+        "pct_change": -7.85
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 199.82,
-        "pct_change": -3.69
+        "last": 195.09,
+        "pct_change": -5.98
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 79.88,
-        "pct_change": -5.12
+        "last": 79.01,
+        "pct_change": -6.15
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -679,86 +679,86 @@
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "Midterm elections deliver a ‘blue wave.’ The stock market sees green.",
-        "link": "https://www.marketwatch.com/story/midterm-elections-deliver-a-blue-wave-the-stock-market-sees-green-5900a779?mod=mw_rss_topstories",
-        "published": "Wed, 04 Nov 2026 14:59:00 GMT"
+        "title": "Apple cements its status as tech’s biggest heavyweight with the stock’s best day in over a year",
+        "link": "https://www.marketwatch.com/story/apple-cements-its-status-as-techs-biggest-heavyweight-with-the-stocks-best-day-in-over-a-year-c7fd9e6f?mod=mw_rss_topstories",
+        "published": "Wed, 04 Nov 2026 21:17:00 GMT"
       },
       {
-        "title": "Big Tech’s $500 billion spending spree leaves a lot less for shareholders",
-        "link": "https://www.marketwatch.com/story/big-techs-500-billion-spending-spree-leaves-a-lot-less-for-shareholders-4ed57fb5?mod=mw_rss_topstories",
-        "published": "Wed, 04 Nov 2026 14:39:00 GMT"
+        "title": "‘I have no financial safety net’: I’m 66, rely on Social Security and have $500 in savings. What politician speaks for me?",
+        "link": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
+        "published": "Wed, 04 Nov 2026 21:16:00 GMT"
+      },
+      {
+        "title": "Hospital stocks rallied while drugmakers brace for scrutiny. Here’s what the Democratic wave means for healthcare.",
+        "link": "https://www.marketwatch.com/story/hospital-stocks-rally-while-drugmakers-brace-for-scrutiny-heres-what-the-democratic-wave-means-for-healthcare-625b79f3?mod=mw_rss_topstories",
+        "published": "Wed, 04 Nov 2026 21:10:00 GMT"
+      },
+      {
+        "title": "Billionaires aren’t off the hook for higher taxes, even if they did dodge California’s wealth tax",
+        "link": "https://www.marketwatch.com/story/billionaires-arent-off-the-hook-for-higher-taxes-even-if-they-did-dodge-californias-wealth-tax-a73f9045?mod=mw_rss_topstories",
+        "published": "Wed, 04 Nov 2026 21:10:00 GMT"
+      },
+      {
+        "title": "Three things that explain what’s changing with Obamacare in 2027",
+        "link": "https://www.marketwatch.com/story/three-things-that-explain-whats-changing-with-obamacare-in-2027-7c94585b?mod=mw_rss_topstories",
+        "published": "Wed, 04 Nov 2026 21:09:00 GMT"
       },
       {
         "title": "CVS Health plans to split in two. Here’s what is driving the massive healthcare breakup.",
         "link": "https://www.marketwatch.com/story/cvs-health-plans-to-split-in-two-heres-what-is-driving-the-massive-healthcare-breakup-27c0d6be?mod=mw_rss_topstories",
-        "published": "Wed, 04 Nov 2026 14:33:00 GMT"
+        "published": "Wed, 04 Nov 2026 21:06:00 GMT"
       },
       {
-        "title": "The internet is ‘dying’: AI is eating it and obliterating these business models",
-        "link": "https://www.marketwatch.com/story/the-internet-is-dying-ai-is-eating-it-and-obliterating-these-business-models-435ae2b0?mod=mw_rss_topstories",
-        "published": "Wed, 04 Nov 2026 14:05:00 GMT"
+        "title": "Democrats’ big election win revives a difficult Social Security question: Who pays?",
+        "link": "https://www.marketwatch.com/story/democrats-big-election-win-revives-a-difficult-social-security-question-who-pays-17ba9448?mod=mw_rss_topstories",
+        "published": "Wed, 04 Nov 2026 20:47:00 GMT"
       },
       {
-        "title": "Learning from ‘Love Is Blind’ money drama",
-        "link": "https://www.marketwatch.com/story/learning-from-love-is-blind-money-drama-810175f9?mod=mw_rss_topstories",
-        "published": "Wed, 04 Nov 2026 13:58:00 GMT"
-      },
-      {
-        "title": "ADP says businesses added 86,000 jobs in October. The labor market shows small signs of improvement.",
-        "link": "https://www.marketwatch.com/story/adp-says-businesses-add-86-000-jobs-in-october-labor-market-shows-small-signs-of-improvement-64c89fd3?mod=mw_rss_topstories",
-        "published": "Wed, 04 Nov 2026 13:55:00 GMT"
-      },
-      {
-        "title": "Tesla and SpaceX shares slide as Musk’s political push falls flat",
-        "link": "https://www.marketwatch.com/story/tesla-and-spacex-shares-slide-as-musks-political-push-falls-flat-c15d29a3?mod=mw_rss_topstories",
-        "published": "Wed, 04 Nov 2026 13:41:00 GMT"
-      },
-      {
-        "title": "Treasury opens the door to changes in how it finances the growing U.S. debt. Here’s what you need to know.",
-        "link": "https://www.marketwatch.com/story/treasury-opens-the-door-to-changes-in-how-it-finances-the-growing-u-s-debt-heres-what-you-need-to-know-6001f7e1?mod=mw_rss_topstories",
-        "published": "Wed, 04 Nov 2026 13:32:00 GMT"
+        "title": "McDonald’s tests new value menu as fast-food discount wars heat up",
+        "link": "https://www.marketwatch.com/story/mcdonalds-tests-new-value-menu-as-fast-food-discount-wars-heat-up-bfc57caf?mod=mw_rss_topstories",
+        "published": "Wed, 04 Nov 2026 20:41:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "5 midterm election takeaways: Tech billionaires suffer as Democrats drub Republicans",
-        "link": "https://www.cnbc.com/2026/11/04/midterm-election-blue-wave-trump-billionaires.html",
-        "published": "Wed, 04 Nov 2026 12:51:00 GMT"
-      },
-      {
-        "title": "Midterm elections 2026 live updates: What's next after Democrats flip Congress in blue wave",
+        "title": "Trump tells CNBC he can work with Dems on ‘many more things than people understand’: Live updates",
         "link": "https://www.cnbc.com/2026/11/04/2026-midterm-election-results-live-updates.html",
-        "published": "Wed, 04 Nov 2026 15:01:08 GMT"
+        "published": "Wed, 04 Nov 2026 21:05:00 GMT"
       },
       {
-        "title": "Dow rallies 1,100 points as political risk eases after resounding Democratic victory in U.S. midterms: Live updates",
+        "title": "Dow soars 1,500 points for best day since April 2025 on clear-cut Democratic win, falling oil: Live updates",
         "link": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
-        "published": "Wed, 04 Nov 2026 14:58:17 GMT"
+        "published": "Wed, 04 Nov 2026 21:16:05 GMT"
       },
       {
-        "title": "CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10%",
-        "link": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
-        "published": "Wed, 04 Nov 2026 14:51:50 GMT"
+        "title": "What Republicans' huge loss means for Trump",
+        "link": "https://www.cnbc.com/2026/11/04/trump-midterm-election-results-congress.html",
+        "published": "Wed, 04 Nov 2026 20:23:18 GMT"
       },
       {
-        "title": "SpaceX signs deal with Qualcomm to provide network technology for U.S. mobile service",
-        "link": "https://www.cnbc.com/2026/11/04/spacex-strikes-deal-with-qualcomm-for-mobile-network-infrastructure.html",
-        "published": "Wed, 04 Nov 2026 13:53:54 GMT"
+        "title": "Hyperscalers and Apple surge after election results remove investor uncertainty",
+        "link": "https://www.cnbc.com/2026/11/04/apple-and-other-big-tech-stocks-surge-after-2026-midterm-elections.html",
+        "published": "Wed, 04 Nov 2026 19:37:43 GMT"
       },
       {
-        "title": "Here are Wednesday's biggest analyst calls: SpaceX, AMD, Apple, Adobe, CoreWeave & more",
-        "link": "https://www.cnbc.com/2026/11/04/wednesday-biggest-wall-street-analyst-calls-of-the-day.html",
-        "published": "Wed, 04 Nov 2026 13:24:24 GMT"
+        "title": "Democrats map out an agenda to address affordability and corruption after midterm sweep",
+        "link": "https://www.cnbc.com/2026/11/04/congressional-democrats-affordability-oversight.html",
+        "published": "Wed, 04 Nov 2026 20:53:19 GMT"
       },
       {
-        "title": "Uber beats on revenue even as mobility and delivery units miss estimates",
-        "link": "https://www.cnbc.com/2026/11/04/uber-stock-q3-2026-earnings.html",
-        "published": "Wed, 04 Nov 2026 13:46:24 GMT"
+        "title": "Democrats may go after data centers. That's not a reason to dump all your AI stocks",
+        "link": "https://www.cnbc.com/2026/11/04/democratic-data-center-pushback-could-help-ai-stocks.html",
+        "published": "Wed, 04 Nov 2026 20:44:01 GMT"
       },
       {
-        "title": "Blood banks targeted in latest European fridge cyberattacks",
-        "link": "https://www.cnbc.com/2026/11/04/blood-bank-fridges-cyberattacks.html",
-        "published": "Wed, 04 Nov 2026 14:15:32 GMT"
+        "title": "CVS Health plans to split itself up. Here's why a breakup could make sense now",
+        "link": "https://www.cnbc.com/2026/11/04/cvs-health-pharmacy-aetna-split.html",
+        "published": "Wed, 04 Nov 2026 19:58:41 GMT"
+      },
+      {
+        "title": "Voters rebuff data centers in every ballot measure except one during the 2026 midterms",
+        "link": "https://www.cnbc.com/2026/11/04/data-center-ballot-measures-2026-midterm.html",
+        "published": "Wed, 04 Nov 2026 19:51:18 GMT"
       }
     ]
   }
