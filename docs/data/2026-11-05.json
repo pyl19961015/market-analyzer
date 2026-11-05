@@ -1,104 +1,104 @@
 {
-  "generated_at": "2026-11-05T16:43:03",
+  "generated_at": "2026-11-05T22:20:06",
   "date": "2026-11-05",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7457.97,
-        "pct_change": -3.0
+        "last": 7353.73,
+        "pct_change": -4.36
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 24692.75,
-        "pct_change": -4.06
+        "last": 24315.0,
+        "pct_change": -5.52
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 52135.32,
-        "pct_change": -2.29
+        "last": 51523.06,
+        "pct_change": -3.44
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2774.95,
-        "pct_change": -2.87
+        "last": 2729.89,
+        "pct_change": -4.45
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 22.36,
-        "pct_change": 34.62
+        "last": 28.18,
+        "pct_change": 69.66
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.85,
-        "pct_change": -1.0
+        "last": 4.84,
+        "pct_change": -1.16
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 101.53,
-        "pct_change": 0.02
+        "last": 101.58,
+        "pct_change": 0.07
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 90.7,
-        "pct_change": 2.93
+        "last": 91.2,
+        "pct_change": 3.5
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4118.8,
-        "pct_change": 1.12
+        "last": 4097.9,
+        "pct_change": 0.61
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 166.47,
-        "pct_change": -5.68
+        "last": 162.38,
+        "pct_change": -8.0
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 58.03,
-        "pct_change": -1.98
+        "last": 57.5,
+        "pct_change": -2.87
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 63.35,
-        "pct_change": -0.27
+        "last": 61.63,
+        "pct_change": -2.98
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 187.59,
-        "pct_change": -1.09
+        "last": 184.91,
+        "pct_change": -2.5
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 117.84,
-        "pct_change": -3.67
+        "last": 117.64,
+        "pct_change": -3.83
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 91.71,
-        "pct_change": -0.26
+        "last": 91.25,
+        "pct_change": -0.75
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 165.07,
-        "pct_change": -2.59
+        "last": 162.47,
+        "pct_change": -4.12
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 43.29,
-        "pct_change": -0.73
+        "last": 43.3,
+        "pct_change": -0.71
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 52.6,
-        "pct_change": -2.42
+        "last": 52.33,
+        "pct_change": -2.91
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.38,
-        "pct_change": -1.65
+        "last": 44.3,
+        "pct_change": -1.82
       },
       "Communication Services": {
         "symbol": "XLC",
@@ -116,13 +116,13 @@
       },
       "TOPIX (ETF代理)": {
         "symbol": "1306.T",
-        "last": 414.0,
-        "pct_change": 0.24
+        "last": 415.6,
+        "pct_change": 0.39
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 157.88,
-        "pct_change": -0.37
+        "last": 157.63,
+        "pct_change": -0.53
       }
     }
   },
@@ -138,63 +138,63 @@
       "as_of": "2026-11-04",
       "prev_yield": 2.817
     },
-    "spread_10y": 1.99
+    "spread_10y": 1.98
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 105.78,
-        "pct_change": -10.94
+        "last": 103.43,
+        "pct_change": -12.92
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 346.3,
-        "pct_change": -0.92
+        "last": 344.17,
+        "pct_change": -1.53
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 542.46,
-        "pct_change": -2.4
+        "last": 535.93,
+        "pct_change": -3.58
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 260.7,
-        "pct_change": -2.01
+        "last": 260.21,
+        "pct_change": -2.19
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 283.71,
-        "pct_change": -1.8
+        "last": 282.57,
+        "pct_change": -2.2
       },
       "Meta": {
         "symbol": "META",
-        "last": 607.73,
-        "pct_change": -3.53
+        "last": 605.08,
+        "pct_change": -3.96
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 544.89,
-        "pct_change": -13.06
+        "last": 509.7,
+        "pct_change": -18.68
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 171.9,
-        "pct_change": -11.88
+        "last": 169.76,
+        "pct_change": -12.98
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 73.26,
-        "pct_change": -7.28
+        "last": 71.64,
+        "pct_change": -9.33
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 5410.0,
-        "pct_change": -1.3
+        "last": 4951.0,
+        "pct_change": -8.48
       }
     }
   },
@@ -680,86 +680,86 @@
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "The year’s most successful stock-market trades are unraveling — perhaps for good",
-        "link": "https://www.marketwatch.com/story/the-years-most-successful-stock-market-trades-are-unraveling-perhaps-for-good-45f7a0dd?mod=mw_rss_topstories",
-        "published": "Thu, 05 Nov 2026 16:23:00 GMT"
+        "title": "Tech stocks log worst day since 2020 as carnage comes to the AI trade",
+        "link": "https://www.marketwatch.com/story/tech-stocks-log-worst-day-since-2020-as-carnage-comes-to-the-ai-trade-56109845?mod=mw_rss_topstories",
+        "published": "Thu, 05 Nov 2026 22:00:00 GMT"
       },
       {
-        "title": "A record number of first-time home buyers now pay in cash. Here’s where they get the money.",
-        "link": "https://www.marketwatch.com/story/a-record-10-of-first-time-home-buyers-now-pay-in-cash-heres-where-they-get-the-money-70f2e656?mod=mw_rss_topstories",
-        "published": "Thu, 05 Nov 2026 16:15:00 GMT"
+        "title": "Buy the dip or wait it out? Young investors react as retail stock selling hits one of its highest levels since COVID crash.",
+        "link": "https://www.marketwatch.com/story/buy-the-dip-or-wait-it-out-young-investors-react-as-retail-stock-selling-hits-one-of-its-highest-levels-since-covid-crash-610d8087?mod=mw_rss_topstories",
+        "published": "Thu, 05 Nov 2026 21:44:00 GMT"
       },
       {
-        "title": "This pancreatic cancer treatment is on track for ‘one of the best drug launches of all time’",
-        "link": "https://www.marketwatch.com/story/this-pancreatic-cancer-treatment-is-on-track-for-one-of-the-best-drug-launches-of-all-time-37bf86ce?mod=mw_rss_topstories",
-        "published": "Thu, 05 Nov 2026 16:12:00 GMT"
+        "title": "The ‘Musk selloff’ deepens as Tesla and SpaceX combine for $456 billion two-day wipeout",
+        "link": "https://www.marketwatch.com/story/the-musk-selloff-deepens-as-tesla-and-spacex-combine-for-450-billion-two-day-wipeout-d300ab4f?mod=mw_rss_topstories",
+        "published": "Thu, 05 Nov 2026 21:43:00 GMT"
       },
       {
-        "title": "Micron, Sandisk and other AI stocks are falling hard: ‘Investors don’t like uncertainty.’",
+        "title": "After tech-stock rout, October jobs report could bring relief — or more pain",
+        "link": "https://www.marketwatch.com/story/after-tech-stock-rout-october-jobs-report-could-bring-relief-or-more-pain-db93357e?mod=mw_rss_topstories",
+        "published": "Thu, 05 Nov 2026 21:39:00 GMT"
+      },
+      {
+        "title": "Is this ‘the big one’ for the stock market? Wall Street sounds off as tech plunges.",
+        "link": "https://www.marketwatch.com/story/is-this-the-big-one-for-the-stock-market-wall-street-sounds-off-as-tech-plunges-185df529?mod=mw_rss_topstories",
+        "published": "Thu, 05 Nov 2026 21:37:00 GMT"
+      },
+      {
+        "title": "Micron, Sandisk and other AI stocks see steep drops: ‘Investors don’t like uncertainty’",
         "link": "https://www.marketwatch.com/story/micron-sandisk-and-other-ai-stocks-are-falling-hard-investors-dont-like-uncertainty-94d2a3b9?mod=mw_rss_topstories",
-        "published": "Thu, 05 Nov 2026 16:06:00 GMT"
+        "published": "Thu, 05 Nov 2026 21:32:00 GMT"
       },
       {
-        "title": "An Anthropic IPO when the AI trade is this turbulent? Goodspeed!",
-        "link": "https://www.marketwatch.com/story/an-anthropic-ipo-when-the-ai-trade-is-this-turbulent-godspeed-08ca0496?mod=mw_rss_topstories",
-        "published": "Thu, 05 Nov 2026 16:00:00 GMT"
+        "title": "As Nvidia’s stock enters a bear market, bargain hunters see a golden buying opportunity",
+        "link": "https://www.marketwatch.com/story/as-nvidias-stock-heads-for-a-bear-market-bargain-hunters-see-a-golden-buying-opportunity-1a5917e6?mod=mw_rss_topstories",
+        "published": "Thu, 05 Nov 2026 21:31:00 GMT"
       },
       {
-        "title": "‘My life could be cut short’: I’m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
-        "link": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
-        "published": "Thu, 05 Nov 2026 15:30:00 GMT"
-      },
-      {
-        "title": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
-        "link": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
-        "published": "Thu, 05 Nov 2026 15:30:00 GMT"
-      },
-      {
-        "title": "Learning from ‘Love Is Blind’ money drama",
-        "link": "https://www.marketwatch.com/story/learning-from-love-is-blind-money-drama-810175f9?mod=mw_rss_topstories",
-        "published": "Thu, 05 Nov 2026 15:16:00 GMT"
+        "title": "5 of this year’s biggest stock losers that are good bets in 2027",
+        "link": "https://www.marketwatch.com/story/5-of-this-years-biggest-stock-losers-that-are-good-bets-in-2027-bb861d4c?mod=mw_rss_topstories",
+        "published": "Thu, 05 Nov 2026 21:29:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "Nasdaq plummets 4% into correction territory, Dow drops more than 1,000 points as traders dump tech stocks: Live updates",
-        "link": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
-        "published": "Thu, 05 Nov 2026 16:40:09 GMT"
+        "title": "Nasdaq drops into correction territory — here’s what typically happens next",
+        "link": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
+        "published": "Thu, 05 Nov 2026 22:19:23 GMT"
       },
       {
-        "title": "Here's what the Democratic election rout could mean for the U.S. economy",
-        "link": "https://www.cnbc.com/2026/11/05/emocratic-midterm-economy.html",
-        "published": "Thu, 05 Nov 2026 14:33:32 GMT"
+        "title": "Magnificent 7 loses $1 trillion. The most eye-popping stats from Thursday's tech stock plunge",
+        "link": "https://www.cnbc.com/2026/11/05/stock-market-selloff-ai-fears.html",
+        "published": "Thu, 05 Nov 2026 22:19:38 GMT"
       },
       {
-        "title": "How the midterms could fuel the K-shaped AI trade",
-        "link": "https://www.cnbc.com/2026/11/05/ai-data-centers-midterms-capacity.html",
-        "published": "Thu, 05 Nov 2026 11:01:39 GMT"
+        "title": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
+        "link": "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html",
+        "published": "Thu, 05 Nov 2026 20:17:16 GMT"
       },
       {
-        "title": "Trump's energy deals are about to face a wave of investigations by Democrats",
-        "link": "https://www.cnbc.com/2026/11/05/trump-election-energy-venezuela-critical-mineral-renewable-iran.html",
-        "published": "Thu, 05 Nov 2026 16:23:48 GMT"
+        "title": "Stocks making the biggest moves after hours: DraftKings, Cloudflare, Airbnb, Atlassian & more",
+        "link": "https://www.cnbc.com/2026/11/05/stocks-making-the-biggest-moves-after-hours-dkng-net-abnb-team.html",
+        "published": "Thu, 05 Nov 2026 22:07:49 GMT"
       },
       {
-        "title": "Qualcomm slides 9% after earnings, leading postelection chip stock sell-off",
-        "link": "https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html",
-        "published": "Thu, 05 Nov 2026 15:24:47 GMT"
+        "title": "IRS unveils higher capital gains tax brackets for 2027",
+        "link": "https://www.cnbc.com/2026/11/05/capital-gains-tax-2027-federal.html",
+        "published": "Thu, 05 Nov 2026 21:46:23 GMT"
       },
       {
-        "title": "This stock that sold off in the 'SaasPocalypse' is back at all-time highs. How Josh Brown is trading",
-        "link": "https://www.cnbc.com/2026/11/05/this-stock-that-sold-off-in-the-saaspocalypse-is-back-at-all-time-highs-how-josh-brown-is-trading.html",
-        "published": "Thu, 05 Nov 2026 16:00:01 GMT"
+        "title": "Three consumer stocks to buy after the midterm elections",
+        "link": "https://www.cnbc.com/2026/11/05/three-consumer-stocks-to-buy-after-the-midterm-elections.html",
+        "published": "Thu, 05 Nov 2026 19:37:28 GMT"
       },
       {
-        "title": "Democrats to probe JPMorgan's relationship with Jeffrey Epstein when they take Senate control",
-        "link": "https://www.cnbc.com/2026/11/05/jpmorgan-epstein-democrats-erdoes-midterm-election.html",
-        "published": "Thu, 05 Nov 2026 16:31:33 GMT"
+        "title": "The October jobs report is out Friday. Here's everything to expect",
+        "link": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html",
+        "published": "Thu, 05 Nov 2026 21:32:52 GMT"
       },
       {
-        "title": "Marc Lore's Wonder confidentially files for IPO",
-        "link": "https://www.cnbc.com/2026/11/05/wonder-confidential-ipo-filing.html",
-        "published": "Thu, 05 Nov 2026 16:27:10 GMT"
+        "title": "Neocloud IREN says $4 billion in annualized revenue being delayed due to customer request",
+        "link": "https://www.cnbc.com/2026/11/05/iren-earnings-report-q1-2027-.html",
+        "published": "Thu, 05 Nov 2026 22:12:39 GMT"
       }
     ]
   }
