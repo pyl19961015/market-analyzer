@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-11-06T19:49:31",
+  "generated_at": "2026-11-06T23:55:45",
   "date": "2026-11-06",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7400.79,
-        "pct_change": 0.64
+        "last": 7376.86,
+        "pct_change": 0.31
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 24654.56,
-        "pct_change": 1.4
+        "last": 24579.42,
+        "pct_change": 1.09
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 51442.48,
-        "pct_change": -0.16
+        "last": 51285.73,
+        "pct_change": -0.46
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2754.95,
-        "pct_change": 0.92
+        "last": 2754.11,
+        "pct_change": 0.89
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 24.88,
-        "pct_change": -11.71
+        "last": 25.64,
+        "pct_change": -9.01
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 4.85,
-        "pct_change": 0.29
+        "last": 4.86,
+        "pct_change": 0.45
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 102.29,
+        "last": 102.28,
         "pct_change": 0.72
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 91.0,
-        "pct_change": 0.53
+        "last": 90.34,
+        "pct_change": -0.2
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4072.5,
-        "pct_change": -1.0
+        "last": 4079.5,
+        "pct_change": -0.83
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 165.15,
-        "pct_change": 1.71
+        "last": 164.74,
+        "pct_change": 1.45
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 57.4,
-        "pct_change": -0.17
+        "last": 57.16,
+        "pct_change": -0.59
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 61.79,
-        "pct_change": 0.27
+        "last": 61.62,
+        "pct_change": -0.02
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 185.07,
-        "pct_change": 0.09
+        "last": 184.8,
+        "pct_change": -0.06
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 118.18,
-        "pct_change": 0.45
+        "last": 117.58,
+        "pct_change": -0.05
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 90.32,
-        "pct_change": -1.02
+        "last": 90.08,
+        "pct_change": -1.28
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 163.16,
-        "pct_change": 0.42
+        "last": 162.67,
+        "pct_change": 0.12
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 43.28,
-        "pct_change": -0.03
+        "last": 43.13,
+        "pct_change": -0.39
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 52.15,
-        "pct_change": -0.35
+        "last": 51.95,
+        "pct_change": -0.73
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.06,
-        "pct_change": -0.55
+        "last": 44.0,
+        "pct_change": -0.68
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 105.42,
-        "pct_change": 1.04
+        "last": 104.79,
+        "pct_change": 0.43
       }
     }
   },
@@ -116,85 +116,82 @@
       },
       "TOPIX (ETF代理)": {
         "symbol": "1306.T",
-        "last": 415.6,
-        "pct_change": 0.39
+        "last": 388.6,
+        "pct_change": -6.5
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 158.51,
-        "pct_change": 0.1
+        "last": 158.43,
+        "pct_change": 0.04
       }
     }
   },
   "rates": {
     "us": {
-      "effr": 3.88,
-      "target_low": 3.75,
-      "target_high": 4.0,
-      "as_of": "2026-11-05"
+      "error": "Expecting value: line 1 column 1 (char 0)"
     },
     "japan": {
       "yield": 2.806,
       "as_of": "2026-11-05",
       "prev_yield": 2.855
     },
-    "spread_10y": 2.04
+    "spread_10y": 2.05
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 105.97,
-        "pct_change": 2.46
+        "last": 106.13,
+        "pct_change": 2.61
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 343.71,
-        "pct_change": -0.13
+        "last": 342.37,
+        "pct_change": -0.52
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 532.27,
-        "pct_change": -0.68
+        "last": 530.61,
+        "pct_change": -0.99
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 261.86,
-        "pct_change": 0.63
+        "last": 259.3,
+        "pct_change": -0.35
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 285.53,
-        "pct_change": 1.05
+        "last": 284.78,
+        "pct_change": 0.78
       },
       "Meta": {
         "symbol": "META",
-        "last": 615.25,
-        "pct_change": 1.68
+        "last": 610.15,
+        "pct_change": 0.84
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 531.69,
-        "pct_change": 4.31
+        "last": 538.59,
+        "pct_change": 5.67
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 193.88,
-        "pct_change": 14.21
+        "last": 192.81,
+        "pct_change": 13.58
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 73.94,
-        "pct_change": 3.21
+        "last": 74.59,
+        "pct_change": 4.12
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 4951.0,
-        "pct_change": -8.48
+        "last": 4699.0,
+        "pct_change": -5.09
       }
     }
   },
@@ -688,86 +685,86 @@
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "Cybertruck’s run comes to an end as Musk kills off pricey pet project",
-        "link": "https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories",
-        "published": "Fri, 06 Nov 2026 18:54:00 GMT"
+        "title": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
+        "link": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
+        "published": "Fri, 06 Nov 2026 21:45:00 GMT"
       },
       {
-        "title": "My adviser recommended an annuity. Is it the right move in this market environment?",
-        "link": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
-        "published": "Fri, 06 Nov 2026 18:53:00 GMT"
+        "title": "Elon Musk opens the door for a big SpaceX acquisition",
+        "link": "https://www.marketwatch.com/story/elon-musk-opens-the-door-for-a-big-spacex-acquisition-4f62bcad?mod=mw_rss_topstories",
+        "published": "Fri, 06 Nov 2026 21:45:00 GMT"
       },
       {
-        "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
-        "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-        "published": "Fri, 06 Nov 2026 18:15:00 GMT"
-      },
-      {
-        "title": "You’re fired! But you can keep the laptop and insurance. And here’s $10,000.",
-        "link": "https://www.marketwatch.com/story/layoffs-with-dignity-why-these-tech-firms-are-offering-free-laptops-and-linkedin-premium-28750d39?mod=mw_rss_topstories",
-        "published": "Fri, 06 Nov 2026 18:03:00 GMT"
-      },
-      {
-        "title": "I’m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
-        "link": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
-        "published": "Fri, 06 Nov 2026 18:00:00 GMT"
+        "title": "Data centers run on debt. That was a problem for bonds this year — and it’s only going to get worse.",
+        "link": "https://www.marketwatch.com/story/data-centers-run-on-debt-that-was-a-problem-for-bonds-this-year-and-its-only-going-to-get-worse-09c03be6?mod=mw_rss_topstories",
+        "published": "Fri, 06 Nov 2026 21:37:00 GMT"
       },
       {
         "title": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?",
         "link": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
-        "published": "Fri, 06 Nov 2026 18:00:00 GMT"
+        "published": "Fri, 06 Nov 2026 21:24:00 GMT"
       },
       {
-        "title": "DraftKings’ expensive bet on prediction markets is crushing its stock",
-        "link": "https://www.marketwatch.com/story/draftkings-expensive-bet-on-prediction-markets-is-crushing-its-stock-277bee0d?mod=mw_rss_topstories",
-        "published": "Fri, 06 Nov 2026 17:51:00 GMT"
+        "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+        "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+        "published": "Fri, 06 Nov 2026 21:15:00 GMT"
       },
       {
-        "title": "What’s next for your portfolio after the decline in Big Tech stocks?",
-        "link": "https://www.marketwatch.com/story/whats-next-for-your-portfolio-after-the-decline-in-big-tech-stocks-2873452f?mod=mw_rss_topstories",
-        "published": "Fri, 06 Nov 2026 17:47:00 GMT"
+        "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
+        "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+        "published": "Fri, 06 Nov 2026 21:15:00 GMT"
+      },
+      {
+        "title": "Micron’s stock is dirt cheap — and that’s igniting a fierce online debate",
+        "link": "https://www.marketwatch.com/story/microns-stock-is-dirt-cheap-and-thats-igniting-a-fierce-online-debate-0626791d?mod=mw_rss_topstories",
+        "published": "Fri, 06 Nov 2026 20:58:00 GMT"
+      },
+      {
+        "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
+        "link": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
+        "published": "Fri, 06 Nov 2026 20:15:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "Data center double-down: Hassett says blue wave won't stop AI build-out",
-        "link": "https://www.cnbc.com/2026/11/06/data-centers-ai-elections-hassett.html",
-        "published": "Fri, 06 Nov 2026 18:54:22 GMT"
+        "title": "A disturbing employment trend is hiding beneath the latest strong job numbers",
+        "link": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html",
+        "published": "Fri, 06 Nov 2026 20:11:17 GMT"
+      },
+      {
+        "title": "Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch'",
+        "link": "https://www.cnbc.com/2026/11/06/investors-brace-for-anthropic-valuation-1point5-trillion-a-stretch.html",
+        "published": "Fri, 06 Nov 2026 21:07:07 GMT"
       },
       {
         "title": "Trump says Stephen Miller to replace Susie Wiles as White House chief of staff",
         "link": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
-        "published": "Fri, 06 Nov 2026 19:39:51 GMT"
+        "published": "Fri, 06 Nov 2026 22:22:53 GMT"
       },
       {
-        "title": "A disturbing employment trend is hiding beneath the latest strong job numbers",
-        "link": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html",
-        "published": "Fri, 06 Nov 2026 19:49:09 GMT"
-      },
-      {
-        "title": "Nasdaq attempts to recover from worst rout in 19 months as AI stocks see some buying: Live updates",
+        "title": "Nasdaq rebounds 1% following worst session in 18 months as traders snap up tech shares: Live updates",
         "link": "https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html",
-        "published": "Fri, 06 Nov 2026 19:00:43 GMT"
+        "published": "Fri, 06 Nov 2026 21:22:40 GMT"
+      },
+      {
+        "title": "Mississippi Senate: Longshot Ty Pinkins says he aimed to spoil Hyde-Smith, boost Colom vote",
+        "link": "https://www.cnbc.com/2026/11/06/mississippi-senate-ty-pinkins-colom-hyde-smith.html",
+        "published": "Fri, 06 Nov 2026 19:44:33 GMT"
       },
       {
         "title": "OpenAI bugging suspect Alfozan pleads not guilty",
         "link": "https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html",
-        "published": "Fri, 06 Nov 2026 19:48:33 GMT"
+        "published": "Fri, 06 Nov 2026 21:15:47 GMT"
       },
       {
         "title": "Further turmoil could be in store for tech stocks. What to watch in the week ahead",
         "link": "https://www.cnbc.com/2026/11/06/stock-market-next-week-outlook-for-nov-9-13-2026.html",
-        "published": "Fri, 06 Nov 2026 19:43:10 GMT"
+        "published": "Fri, 06 Nov 2026 21:12:41 GMT"
       },
       {
-        "title": "Top House Oversight Democrat warns Trump family to 'lawyer up'",
-        "link": "https://www.cnbc.com/2026/11/06/robert-garcia-trump-congress-oversight-investigations.html",
-        "published": "Fri, 06 Nov 2026 19:42:36 GMT"
-      },
-      {
-        "title": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
-        "link": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
-        "published": "Fri, 06 Nov 2026 16:06:59 GMT"
+        "title": "Sen. Chris Murphy released from hospital after stroke, will miss votes for 'several weeks' as he rehabs",
+        "link": "https://www.cnbc.com/2026/11/06/chris-murphy-stroke-hospital-senate.html",
+        "published": "Fri, 06 Nov 2026 21:40:09 GMT"
       }
     ]
   }
