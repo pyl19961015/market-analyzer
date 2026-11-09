@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-11-09T13:22:29",
+  "generated_at": "2026-11-09T23:04:49",
   "date": "2026-11-09",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7376.86,
-        "pct_change": 0.31
+        "last": 7549.94,
+        "pct_change": 2.35
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 24579.43,
-        "pct_change": 1.09
+        "last": 25253.14,
+        "pct_change": 2.74
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 51285.73,
-        "pct_change": -0.46
+        "last": 52389.75,
+        "pct_change": 2.15
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2754.11,
-        "pct_change": 0.89
+        "last": 2840.81,
+        "pct_change": 3.15
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 23.04,
-        "pct_change": -10.14
+        "last": 19.92,
+        "pct_change": -22.31
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
         "last": 4.86,
-        "pct_change": 0.45
+        "pct_change": 0.1
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 101.86,
-        "pct_change": -0.43
+        "last": 101.68,
+        "pct_change": -0.6
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 87.66,
-        "pct_change": -3.49
+        "last": 86.38,
+        "pct_change": -4.9
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4129.4,
-        "pct_change": 1.34
+        "last": 4149.5,
+        "pct_change": 1.83
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 164.74,
-        "pct_change": 1.45
+        "last": 170.88,
+        "pct_change": 3.73
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 57.16,
-        "pct_change": -0.59
+        "last": 57.99,
+        "pct_change": 1.45
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 61.62,
-        "pct_change": -0.02
+        "last": 61.94,
+        "pct_change": 0.52
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 184.8,
-        "pct_change": -0.06
+        "last": 188.33,
+        "pct_change": 1.91
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 117.58,
-        "pct_change": -0.05
+        "last": 121.01,
+        "pct_change": 2.92
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 90.08,
-        "pct_change": -1.28
+        "last": 90.89,
+        "pct_change": 0.9
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 162.67,
-        "pct_change": 0.12
+        "last": 168.89,
+        "pct_change": 3.82
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 43.13,
-        "pct_change": -0.39
+        "last": 43.79,
+        "pct_change": 1.53
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 51.95,
-        "pct_change": -0.73
+        "last": 52.94,
+        "pct_change": 1.91
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.0,
-        "pct_change": -0.68
+        "last": 44.64,
+        "pct_change": 1.45
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 104.79,
-        "pct_change": 0.43
+        "last": 107.36,
+        "pct_change": 2.45
       }
     }
   },
@@ -111,8 +111,8 @@
     "indices": {
       "Nikkei 225": {
         "symbol": "^N225",
-        "last": 58775.5,
-        "pct_change": 2.33
+        "last": 57434.77,
+        "pct_change": -5.96
       },
       "TOPIX (ETF代理)": {
         "symbol": "1306.T",
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 157.91,
-        "pct_change": 0.26
+        "last": 157.93,
+        "pct_change": 0.28
       }
     }
   },
@@ -131,7 +131,7 @@
       "effr": 3.88,
       "target_low": 3.75,
       "target_high": 4.0,
-      "as_of": "2026-11-05"
+      "as_of": "2026-11-06"
     },
     "japan": {
       "yield": 2.696,
@@ -144,52 +144,52 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 106.13,
-        "pct_change": 2.61
+        "last": 115.95,
+        "pct_change": 9.25
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 342.37,
-        "pct_change": -0.52
+        "last": 350.69,
+        "pct_change": 2.43
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 530.61,
-        "pct_change": -0.99
+        "last": 545.18,
+        "pct_change": 2.75
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 259.3,
-        "pct_change": -0.35
+        "last": 266.93,
+        "pct_change": 2.94
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 284.78,
-        "pct_change": 0.78
+        "last": 288.15,
+        "pct_change": 1.18
       },
       "Meta": {
         "symbol": "META",
-        "last": 610.15,
-        "pct_change": 0.84
+        "last": 641.37,
+        "pct_change": 5.12
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 538.59,
-        "pct_change": 5.67
+        "last": 596.16,
+        "pct_change": 10.69
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 192.81,
-        "pct_change": 13.58
+        "last": 225.19,
+        "pct_change": 16.79
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 74.59,
-        "pct_change": 4.12
+        "last": 80.71,
+        "pct_change": 8.2
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -284,7 +284,7 @@
       "country": "JPY",
       "date": "2026-11-10T00:00:00-05:00",
       "impact": "Low",
-      "forecast": "46.9",
+      "forecast": "47.1",
       "previous": "47.0"
     },
     {
@@ -300,7 +300,7 @@
       "country": "USD",
       "date": "2026-11-10T06:00:00-05:00",
       "impact": "Low",
-      "forecast": "97.7",
+      "forecast": "98.0",
       "previous": "97.9"
     },
     {
@@ -434,7 +434,7 @@
     {
       "title": "FOMC Member Hammack Speaks",
       "country": "USD",
-      "date": "2026-11-12T09:00:00-05:00",
+      "date": "2026-11-12T08:30:00-05:00",
       "impact": "Low",
       "forecast": "",
       "previous": ""
@@ -444,7 +444,7 @@
       "country": "USD",
       "date": "2026-11-12T10:00:00-05:00",
       "impact": "Low",
-      "forecast": "3.86M",
+      "forecast": "3.89M",
       "previous": "3.99M"
     },
     {
@@ -466,7 +466,7 @@
     {
       "title": "FOMC Member Goolsbee Speaks",
       "country": "USD",
-      "date": "2026-11-12T11:30:00-05:00",
+      "date": "2026-11-12T11:15:00-05:00",
       "impact": "Low",
       "forecast": "",
       "previous": ""
@@ -508,7 +508,7 @@
       "country": "USD",
       "date": "2026-11-12T14:00:00-05:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "-286.3B",
       "previous": "-26.9B"
     },
     {
@@ -579,6 +579,12 @@
   "fed_policy": {
     "Press Releases": [
       {
+        "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
+        "published": "Mon, 9 Nov 2026 21:00:00 GMT",
+        "summary": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc."
+      },
+      {
         "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
         "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
         "published": "Thu, 5 Nov 2026 16:00:00 GMT",
@@ -619,12 +625,6 @@
         "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
         "published": "Thu, 8 Oct 2026 20:30:00 GMT",
         "summary": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering"
-      },
-      {
-        "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
-        "published": "Wed, 7 Oct 2026 18:00:00 GMT",
-        "summary": "Minutes of the Federal Open Market Committee, September 15-16, 2026"
       }
     ],
     "Speeches": [
@@ -736,86 +736,86 @@
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "The biggest takeaway from Berkshire Hathaway’s latest quarter isn’t the $357 billion cash or its stock buybacks",
-        "link": "https://www.marketwatch.com/story/the-biggest-takeaway-from-berkshire-hathaways-latest-quarter-isnt-the-357-billion-cash-or-its-stock-buybacks-3069f6a9?mod=mw_rss_topstories",
-        "published": "Mon, 09 Nov 2026 12:27:00 GMT"
+        "title": "Rocket Lab shares dip after the company’s ‘defining’ quarter misses the mark",
+        "link": "https://www.marketwatch.com/story/rocket-lab-shares-dip-after-the-companys-defining-quarter-misses-the-mark-9f74c3b5?mod=mw_rss_topstories",
+        "published": "Mon, 09 Nov 2026 22:49:00 GMT"
       },
       {
-        "title": "A new setback for the AI trade: Nvidia’s board is probing CEO Huang’s relationship with an alleged spy",
-        "link": "https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories",
-        "published": "Mon, 09 Nov 2026 12:26:00 GMT"
+        "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
+        "link": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
+        "published": "Mon, 09 Nov 2026 22:49:00 GMT"
       },
       {
-        "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
-        "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-        "published": "Mon, 09 Nov 2026 12:15:00 GMT"
+        "title": "As Nvidia’s stock falls, here’s what Wall Street has to say about the Jensen Huang scandal",
+        "link": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
+        "published": "Mon, 09 Nov 2026 21:55:00 GMT"
       },
       {
-        "title": "Can the AI trade catch a break? Nvidia, Anthropic and CoreWeave may have a say.",
-        "link": "https://www.marketwatch.com/story/can-the-ai-trade-catch-a-break-nvidia-anthropic-and-coreweave-may-have-a-say-d00c9ab3?mod=mw_rss_topstories",
-        "published": "Mon, 09 Nov 2026 12:08:00 GMT"
-      },
-      {
-        "title": "Until AI sentiment improves, it’s better to sit out the global tech trade, Citi tells investors",
-        "link": "https://www.marketwatch.com/story/until-sentiment-in-the-ai-trade-improves-citi-tells-investors-its-better-to-sit-out-the-global-tech-trade-ed939f30?mod=mw_rss_topstories",
-        "published": "Mon, 09 Nov 2026 11:25:00 GMT"
-      },
-      {
-        "title": "The market’s correction is entering its final phase — but wait before buying the dip, says Morgan Stanley chief strategist",
-        "link": "https://www.marketwatch.com/story/the-markets-correction-is-entering-its-final-phase-but-wait-before-buying-the-dip-says-morgan-stanley-chief-strategist-2c1be13e?mod=mw_rss_topstories",
-        "published": "Mon, 09 Nov 2026 10:26:00 GMT"
+        "title": "Dow sees its third 1,000-point swing in four days. Why the volatility isn’t over yet.",
+        "link": "https://www.marketwatch.com/story/dow-sees-its-third-1-000-point-swing-in-four-days-why-volatility-isnt-over-yet-5380567b?mod=mw_rss_topstories",
+        "published": "Mon, 09 Nov 2026 21:52:00 GMT"
       },
       {
         "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
         "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
-        "published": "Mon, 09 Nov 2026 10:15:00 GMT"
+        "published": "Mon, 09 Nov 2026 21:45:00 GMT"
       },
       {
-        "title": "Ryan Serhant of ‘Owning Manhattan’ on why you shouldn’t wait to buy a house, and the hot spots to watch for",
-        "link": "https://www.marketwatch.com/story/ryan-serhant-of-owning-manhattan-on-why-you-shouldnt-wait-to-buy-a-house-and-the-hot-spots-to-watch-for-9c2731c3?mod=mw_rss_topstories",
-        "published": "Mon, 09 Nov 2026 10:04:00 GMT"
+        "title": "Are AMD and Broadcom the real winners of the Nvidia spy scandal?",
+        "link": "https://www.marketwatch.com/story/are-amd-and-broadcom-the-real-winners-of-the-nvidia-spy-scandal-d2343072?mod=mw_rss_topstories",
+        "published": "Mon, 09 Nov 2026 21:43:00 GMT"
+      },
+      {
+        "title": "The stock-market rally keeps spreading beyond Big Tech. October inflation data could put it to the test.",
+        "link": "https://www.marketwatch.com/story/the-stock-market-rally-keeps-spreading-beyond-big-tech-october-inflation-data-could-put-it-to-the-test-c1b87dcd?mod=mw_rss_topstories",
+        "published": "Mon, 09 Nov 2026 21:24:00 GMT"
+      },
+      {
+        "title": "A failed trial for a heart drug casts shadow over rivals developing similar therapies",
+        "link": "https://www.marketwatch.com/story/a-failed-trial-for-a-heart-drug-casts-shadow-over-rivals-developing-similar-therapies-2d9bd79f?mod=mw_rss_topstories",
+        "published": "Mon, 09 Nov 2026 21:21:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "Nvidia stock falls 5% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy",
-        "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
-        "published": "Mon, 09 Nov 2026 13:10:25 GMT"
+        "title": "Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the renowned CEO",
+        "link": "https://www.cnbc.com/2026/11/09/jensen-huang-affair-nvidia-succession.html",
+        "published": "Mon, 09 Nov 2026 22:56:39 GMT"
       },
       {
-        "title": "Rubio sees little hope of diplomatic breakthrough to Mideast deadlock amid 'outrageous' Iranian demands",
-        "link": "https://www.cnbc.com/2026/11/09/us-iran-war-trump-hormuz.html",
-        "published": "Mon, 09 Nov 2026 11:09:14 GMT"
+        "title": "Hegseth impeachment articles introduced by Rep. Massie",
+        "link": "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html",
+        "published": "Mon, 09 Nov 2026 22:41:12 GMT"
       },
       {
-        "title": "Congress returns with government funding, Pete Hegseth and the debt limit on the agenda",
-        "link": "https://www.cnbc.com/2026/11/09/congress-government-funding-debt-limit-elections.html",
-        "published": "Mon, 09 Nov 2026 11:00:01 GMT"
+        "title": "A key report for where inflation stood in October comes out Tuesday. Here's what to expect",
+        "link": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
+        "published": "Mon, 09 Nov 2026 21:03:55 GMT"
       },
       {
-        "title": "Stocks making the biggest moves premarket: Nvidia, AMD, Eli Lilly, Berkshire — Live updates",
+        "title": "Dow surges 1,100 points, Nasdaq climbs more than 2% as tech rebounds from last week’s tumult: Live updates",
+        "link": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
+        "published": "Mon, 09 Nov 2026 21:26:49 GMT"
+      },
+      {
+        "title": "3 unexpected reasons the October jobs report was so strong",
+        "link": "https://www.cnbc.com/2026/11/09/october-jobs-report-hiring-by-sector.html",
+        "published": "Mon, 09 Nov 2026 22:23:56 GMT"
+      },
+      {
+        "title": "Stocks making the biggest moves after hours: Trade Desk, Sanmina, Securitize & more  — Live updates",
         "link": "https://www.cnbc.com/2026/11/09/stock-market-movers-live-updates.html",
-        "published": "Mon, 09 Nov 2026 13:21:38 GMT"
+        "published": "Mon, 09 Nov 2026 22:13:31 GMT"
       },
       {
-        "title": "AMD shares are primed for a comeback, says Oppenheimer",
-        "link": "https://www.cnbc.com/2026/11/09/amd-oppenheimer-upgrade-outperform.html",
-        "published": "Mon, 09 Nov 2026 11:54:06 GMT"
+        "title": "Nvidia's China revenue exposure: What New Street estimates",
+        "link": "https://www.cnbc.com/2026/11/09/nvidias-china-revenue-exposure-what-new-street-estimates-.html",
+        "published": "Mon, 09 Nov 2026 21:05:13 GMT"
       },
       {
-        "title": "Restaurant chains refocus on food quality to bring back diners",
-        "link": "https://www.cnbc.com/2026/11/09/restaurant-chains-better-food-diners.html",
-        "published": "Mon, 09 Nov 2026 12:00:01 GMT"
-      },
-      {
-        "title": "CoreWeave confronts 'doom cycle' narrative as neocloud credit risk overshadows growth",
-        "link": "https://www.cnbc.com/2026/11/09/coreweave-debt-credit-risk-neoclouds.html",
-        "published": "Mon, 09 Nov 2026 12:00:01 GMT"
-      },
-      {
-        "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
-        "link": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
-        "published": "Sat, 07 Nov 2026 15:23:46 GMT"
+        "title": "Skydance outlines its $6 billion in planned cost savings. Here's the breakdown",
+        "link": "https://www.cnbc.com/2026/11/09/skydance-cost-savings-breakdown.html",
+        "published": "Mon, 09 Nov 2026 22:55:33 GMT"
       }
     ]
   }
