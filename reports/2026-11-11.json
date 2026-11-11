@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-11-11T15:38:27",
+  "generated_at": "2026-11-11T22:16:24",
   "date": "2026-11-11",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7590.46,
-        "pct_change": 0.92
+        "last": 7619.38,
+        "pct_change": 1.31
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 25427.8,
-        "pct_change": 1.44
+        "last": 25466.19,
+        "pct_change": 1.6
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 52096.37,
-        "pct_change": -0.26
+        "last": 52486.49,
+        "pct_change": 0.49
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2834.18,
-        "pct_change": 0.45
+        "last": 2846.26,
+        "pct_change": 0.88
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 18.1,
-        "pct_change": -6.99
+        "last": 17.49,
+        "pct_change": -10.12
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
@@ -35,75 +35,75 @@
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 102.88,
-        "pct_change": 0.63
+        "last": 102.9,
+        "pct_change": 0.66
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 88.57,
-        "pct_change": 2.94
+        "last": 86.42,
+        "pct_change": 0.44
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 4015.3,
-        "pct_change": -0.37
+        "last": 3994.3,
+        "pct_change": -0.89
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 174.25,
-        "pct_change": 3.16
+        "last": 174.36,
+        "pct_change": 3.23
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 58.16,
-        "pct_change": -0.22
+        "last": 58.63,
+        "pct_change": 0.58
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 63.22,
-        "pct_change": 1.62
+        "last": 63.37,
+        "pct_change": 1.86
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 187.31,
-        "pct_change": -0.83
+        "last": 188.95,
+        "pct_change": 0.04
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 120.47,
-        "pct_change": -0.48
+        "last": 120.99,
+        "pct_change": -0.05
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 90.42,
-        "pct_change": -0.67
+        "last": 91.45,
+        "pct_change": 0.46
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 170.11,
-        "pct_change": 0.82
+        "last": 170.97,
+        "pct_change": 1.33
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 43.67,
-        "pct_change": -0.15
+        "last": 43.82,
+        "pct_change": 0.21
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 52.88,
-        "pct_change": 0.05
+        "last": 53.02,
+        "pct_change": 0.32
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.47,
-        "pct_change": -0.26
+        "last": 44.59,
+        "pct_change": 0.02
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 108.07,
-        "pct_change": 0.29
+        "last": 108.6,
+        "pct_change": 0.78
       }
     }
   },
@@ -116,13 +116,13 @@
       },
       "TOPIX (ETF代理)": {
         "symbol": "1306.T",
-        "last": 410.5,
-        "pct_change": 2.09
+        "last": 413.9,
+        "pct_change": 0.83
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 159.85,
-        "pct_change": 1.18
+        "last": 159.72,
+        "pct_change": 1.1
       }
     }
   },
@@ -144,57 +144,57 @@
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 120.71,
-        "pct_change": 7.65
+        "last": 120.46,
+        "pct_change": 7.43
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 353.33,
-        "pct_change": 1.38
+        "last": 355.63,
+        "pct_change": 2.04
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 521.79,
-        "pct_change": -2.13
+        "last": 521.12,
+        "pct_change": -2.26
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 266.57,
-        "pct_change": -1.59
+        "last": 266.17,
+        "pct_change": -1.74
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 290.98,
-        "pct_change": 1.25
+        "last": 293.45,
+        "pct_change": 2.11
       },
       "Meta": {
         "symbol": "META",
-        "last": 635.2,
-        "pct_change": -0.97
+        "last": 628.77,
+        "pct_change": -1.97
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 666.74,
-        "pct_change": 13.86
+        "last": 648.06,
+        "pct_change": 10.67
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 237.97,
-        "pct_change": 10.86
+        "last": 234.51,
+        "pct_change": 9.25
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 82.17,
-        "pct_change": 2.78
+        "last": 79.31,
+        "pct_change": -0.8
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 4866.0,
-        "pct_change": 2.21
+        "last": 5008.0,
+        "pct_change": 2.92
       }
     }
   },
@@ -744,86 +744,86 @@
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-        "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-        "published": "Wed, 11 Nov 2026 15:30:00 GMT"
-      },
-      {
         "title": "CoreWeave just gave a shot in the arm to Micron, Lumentum and the rest of the AI trade",
         "link": "https://www.marketwatch.com/story/micron-and-other-ai-stocks-surge-as-coreweave-calms-wall-streets-worst-fears-0a18152a?mod=mw_rss_topstories",
-        "published": "Wed, 11 Nov 2026 15:26:00 GMT"
+        "published": "Wed, 11 Nov 2026 22:05:00 GMT"
       },
       {
-        "title": "I’m 63 and want to spend $95,000 on a roof deck for my $500,000 home. Is that a good investment?",
-        "link": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
-        "published": "Wed, 11 Nov 2026 15:25:00 GMT"
+        "title": "Opening trading-card packs has become a $2 billion market. New apps are trying to cash in.",
+        "link": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories",
+        "published": "Wed, 11 Nov 2026 21:55:00 GMT"
       },
       {
-        "title": "Market angst is driving investors into low-volatility stocks as AI trade stumbles",
-        "link": "https://www.marketwatch.com/story/market-angst-is-driving-investors-into-low-volatility-stocks-as-ai-trade-stumbles-23d905e9?mod=mw_rss_topstories",
-        "published": "Wed, 11 Nov 2026 15:15:00 GMT"
+        "title": "Falling oil prices are no longer enough to bring down borrowing costs in the world’s most important bond market",
+        "link": "https://www.marketwatch.com/story/falling-oil-prices-are-no-longer-enough-to-bring-down-borrowing-costs-in-the-worlds-most-important-bond-market-3176d25a?mod=mw_rss_topstories",
+        "published": "Wed, 11 Nov 2026 21:42:00 GMT"
       },
       {
-        "title": "From living in his car to a 756 credit score: How one veteran rebuilt his finances",
-        "link": "https://www.marketwatch.com/story/from-living-in-his-car-to-a-756-credit-score-how-one-veteran-rebuilt-his-finances-026c3336?mod=mw_rss_topstories",
-        "published": "Wed, 11 Nov 2026 15:08:00 GMT"
+        "title": "Sandisk’s stock just staged a big gain. Here’s how it could march even higher.",
+        "link": "https://www.marketwatch.com/story/sandisks-stock-is-soaring-and-these-three-trends-could-send-it-even-higher-b0d7d5ec?mod=mw_rss_topstories",
+        "published": "Wed, 11 Nov 2026 21:40:00 GMT"
       },
       {
-        "title": "My friend hates her job but shuts down when I give her advice. How can I help her?",
-        "link": "https://www.marketwatch.com/story/my-friend-feels-trapped-at-her-job-but-wont-do-anything-about-it-am-i-supposed-to-step-in-7e55604e?mod=mw_rss_topstories",
-        "published": "Wed, 11 Nov 2026 14:24:00 GMT"
+        "title": "Why this ‘big idea’ to fix Social Security relies on a massive stock-market gamble",
+        "link": "https://www.marketwatch.com/story/why-this-big-idea-to-fix-social-security-relies-on-a-massive-stock-market-gamble-5423f50f?mod=mw_rss_topstories",
+        "published": "Wed, 11 Nov 2026 21:21:00 GMT"
       },
       {
-        "title": "Forget happy hour. ‘Money parties’ are having a moment.",
-        "link": "https://www.marketwatch.com/story/forget-happy-hour-money-parties-are-having-a-moment-6bc6f02a?mod=mw_rss_topstories",
-        "published": "Wed, 11 Nov 2026 14:12:00 GMT"
+        "title": "Bloom Energy’s stock is rallying as data-center jitters subside",
+        "link": "https://www.marketwatch.com/story/bloom-energys-stock-is-soaring-as-data-center-jitters-subside-5fda5689?mod=mw_rss_topstories",
+        "published": "Wed, 11 Nov 2026 21:14:00 GMT"
       },
       {
-        "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
-        "link": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
-        "published": "Wed, 11 Nov 2026 13:55:00 GMT"
+        "title": "It’s not ‘Medicare for All,’ but ‘Medicare for More.’ What this could mean for workers over 50.",
+        "link": "https://www.marketwatch.com/story/its-not-medicare-for-all-but-medicare-for-more-what-this-could-mean-for-workers-over-50-4a5c51a3?mod=mw_rss_topstories",
+        "published": "Wed, 11 Nov 2026 20:53:00 GMT"
+      },
+      {
+        "title": "The trillion-dollar mistake corporate America is making about retirement",
+        "link": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
+        "published": "Wed, 11 Nov 2026 20:46:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
-        "link": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
-        "published": "Wed, 11 Nov 2026 14:24:28 GMT"
+        "title": "Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China exports",
+        "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html",
+        "published": "Wed, 11 Nov 2026 22:14:02 GMT"
       },
       {
-        "title": "CoreWeave CEO Intrator tells CNBC he has canceled his planned share sale program",
-        "link": "https://www.cnbc.com/2026/11/11/coreweave-ceo-election-data-center-buildout.html",
-        "published": "Wed, 11 Nov 2026 15:28:29 GMT"
+        "title": "Canada’s ambassador warns Trump tariffs are driving up costs, threatening U.S. investment",
+        "link": "https://www.cnbc.com/2026/11/11/canada-ambassador-trump-tariffs-investments.html",
+        "published": "Wed, 11 Nov 2026 20:30:23 GMT"
+      },
+      {
+        "title": "Feds arrest top official of healthcare company, alleging illegal drug importation",
+        "link": "https://www.cnbc.com/2026/11/11/canarx-official-arrested-drug-importation.html",
+        "published": "Wed, 11 Nov 2026 21:33:17 GMT"
+      },
+      {
+        "title": "Nasdaq gains more than 1% as CoreWeave spike revitalizes AI trade",
+        "link": "https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html",
+        "published": "Wed, 11 Nov 2026 21:22:14 GMT"
+      },
+      {
+        "title": "Mississippi Senate: Scott Colom lead over Hyde-Smith pops to more than 4,400 votes",
+        "link": "https://www.cnbc.com/2026/11/10/mississippi-senate-scott-colom-hyde-smith.html",
+        "published": "Wed, 11 Nov 2026 19:55:39 GMT"
+      },
+      {
+        "title": "Insiders are starting to buy this retail turnaround story, so I am too",
+        "link": "https://www.cnbc.com/2026/11/11/stephanie-link-buying-dicks-dks.html",
+        "published": "Wed, 11 Nov 2026 20:29:14 GMT"
       },
       {
         "title": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings",
         "link": "https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html",
-        "published": "Wed, 11 Nov 2026 14:35:23 GMT"
+        "published": "Wed, 11 Nov 2026 21:04:36 GMT"
       },
       {
-        "title": "Nasdaq surges as CoreWeave leads tech rebound: Live updates",
-        "link": "https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html",
-        "published": "Wed, 11 Nov 2026 15:28:11 GMT"
-      },
-      {
-        "title": "CoreWeave soars 20% as CEO reaffirms AI compute demand after strong Q3 report",
-        "link": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
-        "published": "Wed, 11 Nov 2026 15:13:39 GMT"
-      },
-      {
-        "title": "Big investors are buying the dip. Retail traders are not",
-        "link": "https://www.cnbc.com/2026/11/11/retail-traders-buying-the-dip.html",
-        "published": "Wed, 11 Nov 2026 14:48:12 GMT"
-      },
-      {
-        "title": "JetBlue's CEO has pushed back on creditor fears and is betting on premium to return to profitability",
-        "link": "https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html",
-        "published": "Wed, 11 Nov 2026 15:00:02 GMT"
-      },
-      {
-        "title": "CFTC investigates if Kalshi improperly self-certified event contracts",
-        "link": "https://www.cnbc.com/2026/11/11/cftc-investigates-if-kalshi-improperly-self-certified-event-contracts.html",
-        "published": "Wed, 11 Nov 2026 14:49:16 GMT"
+        "title": "United Airlines moves to block AI agents from its platform over security concerns",
+        "link": "https://www.cnbc.com/2026/11/11/united-airlines-ai-agents.html",
+        "published": "Wed, 11 Nov 2026 20:02:20 GMT"
       }
     ]
   }
