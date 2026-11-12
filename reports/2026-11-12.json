@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-11-12T13:59:03",
+  "generated_at": "2026-11-12T21:23:30",
   "date": "2026-11-12",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7619.38,
-        "pct_change": 1.31
+        "last": 7592.4,
+        "pct_change": -0.35
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 25466.19,
-        "pct_change": 1.6
+        "last": 25366.09,
+        "pct_change": -0.39
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 52486.49,
-        "pct_change": 0.49
+        "last": 52297.09,
+        "pct_change": -0.36
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2846.26,
-        "pct_change": 0.88
+        "last": 2799.06,
+        "pct_change": -1.66
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 18.77,
-        "pct_change": 7.32
+        "last": 18.69,
+        "pct_change": 6.86
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 5.05,
-        "pct_change": 1.0
+        "last": 5.1,
+        "pct_change": 2.1
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 102.95,
-        "pct_change": 0.04
+        "last": 103.18,
+        "pct_change": 0.26
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 86.9,
-        "pct_change": 0.43
+        "last": 89.0,
+        "pct_change": 2.85
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 3902.2,
-        "pct_change": -2.46
+        "last": 3877.0,
+        "pct_change": -3.09
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 174.36,
-        "pct_change": 3.23
+        "last": 173.77,
+        "pct_change": -0.34
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 58.63,
-        "pct_change": 0.58
+        "last": 58.2,
+        "pct_change": -0.73
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 63.37,
-        "pct_change": 1.86
+        "last": 64.32,
+        "pct_change": 1.5
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 188.95,
-        "pct_change": 0.04
+        "last": 187.83,
+        "pct_change": -0.59
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 120.99,
-        "pct_change": -0.05
+        "last": 120.46,
+        "pct_change": -0.44
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 91.45,
-        "pct_change": 0.46
+        "last": 91.06,
+        "pct_change": -0.43
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 170.97,
-        "pct_change": 1.33
+        "last": 169.44,
+        "pct_change": -0.89
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 43.82,
-        "pct_change": 0.21
+        "last": 43.81,
+        "pct_change": -0.02
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 53.02,
-        "pct_change": 0.32
+        "last": 52.33,
+        "pct_change": -1.3
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.59,
-        "pct_change": 0.02
+        "last": 44.36,
+        "pct_change": -0.52
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 108.6,
-        "pct_change": 0.78
+        "last": 107.56,
+        "pct_change": -0.96
       }
     }
   },
@@ -111,18 +111,18 @@
     "indices": {
       "Nikkei 225": {
         "symbol": "^N225",
-        "last": 60819.36,
-        "pct_change": -0.7
+        "last": 61248.59,
+        "pct_change": 1.31
       },
       "TOPIX (ETF代理)": {
         "symbol": "1306.T",
-        "last": 414.3,
-        "pct_change": 0.1
+        "last": 413.9,
+        "pct_change": 0.83
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 159.72,
-        "pct_change": 0.64
+        "last": 159.86,
+        "pct_change": 0.73
       }
     }
   },
@@ -131,70 +131,70 @@
       "effr": 3.88,
       "target_low": 3.75,
       "target_high": 4.0,
-      "as_of": "2026-11-09"
+      "as_of": "2026-11-10"
     },
     "japan": {
       "yield": 2.84,
       "as_of": "2026-11-11",
       "prev_yield": 2.748
     },
-    "spread_10y": 2.21
+    "spread_10y": 2.26
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 120.46,
-        "pct_change": 7.43
+        "last": 119.5,
+        "pct_change": -0.8
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 355.63,
-        "pct_change": 2.04
+        "last": 354.88,
+        "pct_change": -0.21
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 521.13,
-        "pct_change": -2.26
+        "last": 523.0,
+        "pct_change": 0.36
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 266.17,
-        "pct_change": -1.74
+        "last": 267.44,
+        "pct_change": 0.48
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 293.45,
-        "pct_change": 2.11
+        "last": 298.7,
+        "pct_change": 1.79
       },
       "Meta": {
         "symbol": "META",
-        "last": 628.77,
-        "pct_change": -1.97
+        "last": 623.61,
+        "pct_change": -0.82
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 648.06,
-        "pct_change": 10.67
+        "last": 624.65,
+        "pct_change": -3.61
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 234.51,
-        "pct_change": 9.25
+        "last": 232.08,
+        "pct_change": -1.04
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 79.31,
-        "pct_change": -0.8
+        "last": 79.62,
+        "pct_change": 0.39
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 5098.0,
-        "pct_change": 1.8
+        "last": 5008.0,
+        "pct_change": 2.92
       }
     }
   },
@@ -456,14 +456,6 @@
       "previous": ""
     },
     {
-      "title": "Mortgage Delinquencies",
-      "country": "USD",
-      "date": "2026-11-12T10:00:00-05:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "4.37%"
-    },
-    {
       "title": "FOMC Member Goolsbee Speaks",
       "country": "USD",
       "date": "2026-11-12T11:15:00-05:00",
@@ -552,6 +544,14 @@
       "previous": ""
     },
     {
+      "title": "Mortgage Delinquencies",
+      "country": "USD",
+      "date": "2026-11-13T10:15:00-05:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "4.37%"
+    },
+    {
       "title": "Natural Gas Storage",
       "country": "USD",
       "date": "2026-11-13T10:30:00-05:00",
@@ -587,6 +587,24 @@
   "fed_policy": {
     "Press Releases": [
       {
+        "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
+        "published": "Thu, 12 Nov 2026 18:30:00 GMT",
+        "summary": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services"
+      },
+      {
+        "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+        "published": "Thu, 12 Nov 2026 17:45:00 GMT",
+        "summary": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027"
+      },
+      {
+        "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
+        "published": "Thu, 12 Nov 2026 16:00:00 GMT",
+        "summary": "Federal Reserve Board issues enforcement action with former employee of United Community Bank"
+      },
+      {
         "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
         "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
         "published": "Mon, 9 Nov 2026 21:00:00 GMT",
@@ -615,27 +633,15 @@
         "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
         "published": "Fri, 16 Oct 2026 15:00:00 GMT",
         "summary": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank"
-      },
-      {
-        "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
-        "published": "Tue, 13 Oct 2026 18:00:00 GMT",
-        "summary": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026"
-      },
-      {
-        "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
-        "published": "Fri, 9 Oct 2026 14:00:00 GMT",
-        "summary": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families"
-      },
-      {
-        "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
-        "published": "Thu, 8 Oct 2026 20:30:00 GMT",
-        "summary": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering"
       }
     ],
     "Speeches": [
+      {
+        "title": "Barr, American Inequality and the Future of AI",
+        "link": "https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm",
+        "published": "Thu, 12 Nov 2026 15:00:00 GMT",
+        "summary": "Speech At Yale University, New Haven, Connecticut"
+      },
       {
         "title": "Bowman, The U.S. Economy and Considerations for Monetary Policy",
         "link": "https://www.federalreserve.gov/newsevents/speech/bowman20261110a.htm",
@@ -677,15 +683,15 @@
         "link": "https://www.federalreserve.gov/newsevents/speech/jefferson20261001a.htm",
         "published": "Thu, 1 Oct 2026 17:30:00 GMT",
         "summary": "Speech At the Darden School of Business, University of Virginia, Charlottesville, Virginia"
-      },
-      {
-        "title": "Waller, The Data Version of Godzilla versus Kong: FRED Takes on AI",
-        "link": "https://www.federalreserve.gov/newsevents/speech/waller20261001a.htm",
-        "published": "Thu, 1 Oct 2026 14:00:00 GMT",
-        "summary": "Speech At &quot;Navigating Trust, AI and Storytelling in a World of Data,&quot; FRED Con 2026, Federal Reserve Bank of St. Louis, St. Louis, Missouri"
       }
     ],
     "FOMC Press Releases": [
+      {
+        "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+        "published": "Thu, 12 Nov 2026 17:45:00 GMT",
+        "summary": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027"
+      },
       {
         "title": "Federal Reserve issues FOMC statement",
         "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
@@ -727,12 +733,6 @@
         "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
         "published": "Wed, 19 Aug 2026 18:00:00 GMT",
         "summary": "Minutes of the Federal Open Market Committee, July 28–29, 2026"
-      },
-      {
-        "title": "Federal Reserve issues FOMC statement",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
-        "published": "Wed, 29 Jul 2026 18:00:00 GMT",
-        "summary": "Federal Reserve issues FOMC statement"
       }
     ]
   },
@@ -744,86 +744,86 @@
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "It’s not ‘Medicare for All,’ but ‘Medicare for More.’ What this could mean for workers over 50.",
-        "link": "https://www.marketwatch.com/story/its-not-medicare-for-all-but-medicare-for-more-what-this-could-mean-for-workers-over-50-4a5c51a3?mod=mw_rss_topstories",
-        "published": "Thu, 12 Nov 2026 13:38:00 GMT"
+        "title": "The S&P 500 is shrugging off Nvidia’s selloff this week. Here’s what’s keeping the rest of the market afloat.",
+        "link": "https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories",
+        "published": "Thu, 12 Nov 2026 21:08:00 GMT"
       },
       {
-        "title": "Wendy’s rejects a takeover offer, scales back breakfast and still sees its stock surge",
-        "link": "https://www.marketwatch.com/story/wendys-rejects-a-takeover-offer-scales-back-breakfast-and-still-sees-its-stock-surge-4e398cde?mod=mw_rss_topstories",
-        "published": "Thu, 12 Nov 2026 13:05:00 GMT"
+        "title": "The bond market now has an even bigger fear than AI fallout",
+        "link": "https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories",
+        "published": "Thu, 12 Nov 2026 20:44:00 GMT"
       },
       {
-        "title": "The world’s most sophisticated drug companies are putting billions into vaccines — despite the political environment",
-        "link": "https://www.marketwatch.com/story/the-worlds-most-sophisticated-drug-companies-are-putting-billions-into-vaccines-despite-the-political-environment-8dcbf276?mod=mw_rss_topstories",
-        "published": "Thu, 12 Nov 2026 13:00:00 GMT"
+        "title": "I’m 17 and will be a first-generation college student. Is law school worth being $200,000 in debt?",
+        "link": "https://www.marketwatch.com/story/im-17-and-will-be-a-first-generation-college-student-is-law-school-worth-being-200-000-in-debt-df9b23c3?mod=mw_rss_topstories",
+        "published": "Thu, 12 Nov 2026 20:17:00 GMT"
       },
       {
-        "title": "How the U.S. government’s equity holdings have surged during Trump’s second term — in one chart",
-        "link": "https://www.marketwatch.com/story/how-the-u-s-governments-equity-holdings-have-surged-during-trumps-second-term-in-one-chart-b598c369?mod=mw_rss_topstories",
-        "published": "Thu, 12 Nov 2026 13:00:00 GMT"
+        "title": "Trump administration is hiring debt collectors to go after defaulted student-loan borrowers for first time in 6 years",
+        "link": "https://www.marketwatch.com/story/trump-administration-is-hiring-debt-collectors-for-first-time-in-6-years-to-go-after-defaulted-student-loan-borrowers-8bae13ad?mod=mw_rss_topstories",
+        "published": "Thu, 12 Nov 2026 19:46:00 GMT"
       },
       {
-        "title": "The ‘bank of Nvidia’ is in jeopardy, threatening the entire AI boom",
-        "link": "https://www.marketwatch.com/story/jensen-huang-built-nvidia-into-a-behemoth-his-scandal-puts-the-entire-ai-boom-in-jeopardy-c374b079?mod=mw_rss_topstories",
-        "published": "Thu, 12 Nov 2026 12:55:00 GMT"
+        "title": "Nvidia’s stock selloff may be just beginning, even after shedding 30% from its peak",
+        "link": "https://www.marketwatch.com/story/nvidias-stock-is-on-sale-after-jensen-huangs-exit-but-is-the-selloff-just-beginning-84121513?mod=mw_rss_topstories",
+        "published": "Thu, 12 Nov 2026 19:15:00 GMT"
       },
       {
-        "title": "Nvidia’s Jensen Huang crisis tests how much of the AI industry depends on one man",
-        "link": "https://www.marketwatch.com/story/nvidias-jensen-huang-dilemma-is-a-test-of-the-ai-industrys-dependence-on-one-flawed-man-a9a1d99c?mod=mw_rss_topstories",
-        "published": "Thu, 12 Nov 2026 12:29:00 GMT"
+        "title": "The prostate-cancer screening rules just changed. Here’s when men should get tested.",
+        "link": "https://www.marketwatch.com/story/the-prostate-cancer-screening-rules-just-changed-heres-when-men-should-get-tested-894418bb?mod=mw_rss_topstories",
+        "published": "Thu, 12 Nov 2026 19:12:00 GMT"
       },
       {
-        "title": "Tech stocks may soon enjoy a ‘violent bounce’ — but one strategist warns investors not to take the bait",
-        "link": "https://www.marketwatch.com/story/tech-stocks-may-soon-enjoy-a-violent-bounce-but-one-strategist-warns-investors-not-to-take-the-bait-1a41f9c4?mod=mw_rss_topstories",
-        "published": "Thu, 12 Nov 2026 11:34:00 GMT"
+        "title": "‘He calls my plans a fantasy’: My husband says we can’t afford our $200,000-a-year dream retirement. I think he’s cheap.",
+        "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+        "published": "Thu, 12 Nov 2026 18:46:00 GMT"
       },
       {
-        "title": "Here’s what Megaspeed, the company at the forefront of the Nvidia scandal, is now saying",
-        "link": "https://www.marketwatch.com/story/heres-what-megaspeed-the-company-at-the-forefront-of-the-nvidia-scandal-is-now-saying-b73f8d0b?mod=mw_rss_topstories",
-        "published": "Thu, 12 Nov 2026 10:57:00 GMT"
+        "title": "U.S. inflation is already bad enough. It might get worse.",
+        "link": "https://www.marketwatch.com/story/u-s-inflation-is-already-bad-enough-it-might-get-worse-bae54da9?mod=mw_rss_topstories",
+        "published": "Thu, 12 Nov 2026 18:39:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "Nvidia CEO Jensen Huang resigns, Colette Kress named interim chief: Live updates",
-        "link": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html",
-        "published": "Thu, 12 Nov 2026 13:58:15 GMT"
+        "title": "Alice Huang tied to Nvidia’s biggest Chinese competitor",
+        "link": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
+        "published": "Thu, 12 Nov 2026 20:34:54 GMT"
+      },
+      {
+        "title": "Nasdaq Composite slides as Nvidia shares tumble on Jensen Huang’s exit; oil prices jump: Live updates",
+        "link": "https://www.cnbc.com/2026/11/11/stock-market-today-live-updates.html",
+        "published": "Thu, 12 Nov 2026 21:11:11 GMT"
+      },
+      {
+        "title": "Microsoft outage hits Outlook. AWS and Google users also report issues",
+        "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+        "published": "Thu, 12 Nov 2026 21:20:45 GMT"
       },
       {
         "title": "Trump says ‘we don’t need a deal with Iran’",
         "link": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html",
-        "published": "Thu, 12 Nov 2026 13:54:31 GMT"
+        "published": "Thu, 12 Nov 2026 20:34:31 GMT"
       },
       {
-        "title": "Stock futures decline as Huang ouster sends Nvidia reeling, oil prices rise: Live updates",
-        "link": "https://www.cnbc.com/2026/11/11/stock-market-today-live-updates.html",
-        "published": "Thu, 12 Nov 2026 13:58:09 GMT"
+        "title": "Cerebras surges 12% after beating on quarterly revenue and announcing Microsoft deal",
+        "link": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
+        "published": "Thu, 12 Nov 2026 21:23:17 GMT"
       },
       {
-        "title": "‘A dark day for Nvidia’: Here’s what analysts are saying as markets brace for news on Huang's fate",
-        "link": "https://www.cnbc.com/2026/11/12/jensen-huang-nvidia-affair-ceo.html",
-        "published": "Thu, 12 Nov 2026 13:08:28 GMT"
+        "title": "Stocks could be in for a rude awakening if the Fed hikes rates more than expected",
+        "link": "https://www.cnbc.com/2026/11/12/stocks-could-be-in-for-a-rude-awakening-if-the-fed-hikes-rates-more-than-expected.html",
+        "published": "Thu, 12 Nov 2026 21:00:10 GMT"
       },
       {
-        "title": "AMD upgraded because it will benefit from Nvidia's 'leadership vacuum'",
-        "link": "https://www.cnbc.com/2026/11/12/amd-upgraded-because-it-will-benefit-from-nvidias-leadership-vacuum.html",
-        "published": "Thu, 12 Nov 2026 13:56:56 GMT"
+        "title": "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal year",
+        "link": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html",
+        "published": "Thu, 12 Nov 2026 21:20:35 GMT"
       },
       {
-        "title": "Nebius falls 10% as company expects increased 2026 capex spend, issues weak outlook",
-        "link": "https://www.cnbc.com/2026/11/12/nebius-q3-earnings-report-2026.html",
-        "published": "Thu, 12 Nov 2026 13:06:08 GMT"
-      },
-      {
-        "title": "Oil prices jump after Trump says no Iran deal needed: 'We've got their Strait'",
-        "link": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
-        "published": "Thu, 12 Nov 2026 13:49:46 GMT"
-      },
-      {
-        "title": "Unions helped Democrats win big in 2026. Now they want action",
-        "link": "https://www.cnbc.com/2026/11/12/democrats-unions-midterms-2026.html",
-        "published": "Thu, 12 Nov 2026 13:09:33 GMT"
+        "title": "Here's what Nvidia interim CEO Colette Kress and board chair Harvey Jones wrote to Nvidia employees",
+        "link": "https://www.cnbc.com/2026/11/12/nvidia-kress-jones-employee-emails.html",
+        "published": "Thu, 12 Nov 2026 19:42:41 GMT"
       }
     ]
   }
