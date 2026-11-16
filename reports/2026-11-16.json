@@ -1,0 +1,838 @@
+{
+  "generated_at": "2026-11-16T04:37:29",
+  "date": "2026-11-16",
+  "market_sentiment": {
+    "indices": {
+      "S&P 500": {
+        "symbol": "^GSPC",
+        "last": 7561.67,
+        "pct_change": -0.4
+      },
+      "Nasdaq": {
+        "symbol": "^IXIC",
+        "last": 25136.27,
+        "pct_change": -0.91
+      },
+      "Dow Jones": {
+        "symbol": "^DJI",
+        "last": 52347.55,
+        "pct_change": 0.1
+      },
+      "Russell 2000": {
+        "symbol": "^RUT",
+        "last": 2790.49,
+        "pct_change": -0.31
+      },
+      "VIX": {
+        "symbol": "^VIX",
+        "last": 19.3,
+        "pct_change": 3.21
+      },
+      "10Y Treasury Yield": {
+        "symbol": "^TNX",
+        "last": 5.15,
+        "pct_change": 1.0
+      },
+      "US Dollar Index": {
+        "symbol": "DX-Y.NYB",
+        "last": 103.48,
+        "pct_change": 0.06
+      },
+      "Crude Oil WTI": {
+        "symbol": "CL=F",
+        "last": 88.34,
+        "pct_change": -0.25
+      },
+      "Gold": {
+        "symbol": "GC=F",
+        "last": 3875.5,
+        "pct_change": -0.28
+      }
+    },
+    "sectors": {
+      "Technology": {
+        "symbol": "XLK",
+        "last": 170.28,
+        "pct_change": -2.01
+      },
+      "Financials": {
+        "symbol": "XLF",
+        "last": 58.68,
+        "pct_change": 0.81
+      },
+      "Energy": {
+        "symbol": "XLE",
+        "last": 64.96,
+        "pct_change": 0.98
+      },
+      "Health Care": {
+        "symbol": "XLV",
+        "last": 188.85,
+        "pct_change": 0.54
+      },
+      "Consumer Discretionary": {
+        "symbol": "XLY",
+        "last": 119.98,
+        "pct_change": -0.4
+      },
+      "Consumer Staples": {
+        "symbol": "XLP",
+        "last": 92.35,
+        "pct_change": 1.42
+      },
+      "Industrials": {
+        "symbol": "XLI",
+        "last": 168.78,
+        "pct_change": -0.39
+      },
+      "Utilities": {
+        "symbol": "XLU",
+        "last": 44.04,
+        "pct_change": 0.52
+      },
+      "Materials": {
+        "symbol": "XLB",
+        "last": 52.23,
+        "pct_change": -0.21
+      },
+      "Real Estate": {
+        "symbol": "XLRE",
+        "last": 44.37,
+        "pct_change": 0.02
+      },
+      "Communication Services": {
+        "symbol": "XLC",
+        "last": 108.69,
+        "pct_change": 1.05
+      }
+    }
+  },
+  "japan_market": {
+    "indices": {
+      "Nikkei 225": {
+        "symbol": "^N225",
+        "last": 60050.6,
+        "pct_change": -1.79
+      },
+      "TOPIX (ETF代理)": {
+        "symbol": "1306.T",
+        "last": 412.5,
+        "pct_change": -0.72
+      },
+      "USD/JPY": {
+        "symbol": "JPY=X",
+        "last": 159.66,
+        "pct_change": -0.14
+      }
+    }
+  },
+  "rates": {
+    "us": {
+      "effr": 3.88,
+      "target_low": 3.75,
+      "target_high": 4.0,
+      "as_of": "2026-11-12"
+    },
+    "japan": {
+      "yield": 2.899,
+      "as_of": "2026-11-13",
+      "prev_yield": 2.841
+    },
+    "spread_10y": 2.25
+  },
+  "watchlist": {
+    "holdings": {
+      "Corning (持仓)": {
+        "symbol": "GLW",
+        "last": 114.08,
+        "pct_change": -4.54
+      }
+    },
+    "demand_drivers": {
+      "Apple": {
+        "symbol": "AAPL",
+        "last": 356.27,
+        "pct_change": 0.39
+      },
+      "Microsoft": {
+        "symbol": "MSFT",
+        "last": 523.88,
+        "pct_change": 0.17
+      },
+      "Amazon": {
+        "symbol": "AMZN",
+        "last": 266.66,
+        "pct_change": -0.29
+      },
+      "Alphabet": {
+        "symbol": "GOOGL",
+        "last": 295.77,
+        "pct_change": -0.98
+      },
+      "Meta": {
+        "symbol": "META",
+        "last": 641.69,
+        "pct_change": 2.9
+      }
+    },
+    "peers": {
+      "Lumentum": {
+        "symbol": "LITE",
+        "last": 596.62,
+        "pct_change": -4.49
+      },
+      "Coherent": {
+        "symbol": "COHR",
+        "last": 218.15,
+        "pct_change": -6.0
+      },
+      "Amphenol": {
+        "symbol": "APH",
+        "last": 78.23,
+        "pct_change": -1.75
+      },
+      "AGC旭硝子(东京上市)": {
+        "symbol": "5201.T",
+        "last": 4868.0,
+        "pct_change": -3.09
+      }
+    }
+  },
+  "economic_calendar": [
+    {
+      "title": "Prelim GDP Price Index y/y",
+      "country": "JPY",
+      "date": "2026-11-15T18:50:00-05:00",
+      "impact": "Low",
+      "forecast": "2.6%",
+      "previous": "2.6%"
+    },
+    {
+      "title": "Prelim GDP q/q",
+      "country": "JPY",
+      "date": "2026-11-15T18:50:00-05:00",
+      "impact": "Low",
+      "forecast": "0.1%",
+      "previous": "0.3%"
+    },
+    {
+      "title": "Revised Industrial Production m/m",
+      "country": "JPY",
+      "date": "2026-11-15T23:30:00-05:00",
+      "impact": "Low",
+      "forecast": "2.2%",
+      "previous": "2.2%"
+    },
+    {
+      "title": "FOMC Member Barr Speaks",
+      "country": "USD",
+      "date": "2026-11-16T05:00:00-05:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "Empire State Manufacturing Index",
+      "country": "USD",
+      "date": "2026-11-16T08:30:00-05:00",
+      "impact": "Low",
+      "forecast": "17.6",
+      "previous": "25.5"
+    },
+    {
+      "title": "FOMC Member Williams Speaks",
+      "country": "USD",
+      "date": "2026-11-16T09:05:00-05:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "Cleveland Fed Inflation Expectations",
+      "country": "USD",
+      "date": "2026-11-16T09:48:00-05:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "3.3%"
+    },
+    {
+      "title": "Fed Chairman Warsh Speaks",
+      "country": "USD",
+      "date": "2026-11-16T12:00:00-05:00",
+      "impact": "High",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "FOMC Member Hammack Speaks",
+      "country": "USD",
+      "date": "2026-11-16T14:15:00-05:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "Tertiary Industry Activity m/m",
+      "country": "JPY",
+      "date": "2026-11-16T23:30:00-05:00",
+      "impact": "Low",
+      "forecast": "0.0%",
+      "previous": "-0.1%"
+    },
+    {
+      "title": "FOMC Member Musalem Speaks",
+      "country": "USD",
+      "date": "2026-11-17T07:30:00-05:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "ADP Weekly Employment Change",
+      "country": "USD",
+      "date": "2026-11-17T08:15:00-05:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "19.8K"
+    },
+    {
+      "title": "Core Retail Sales m/m",
+      "country": "USD",
+      "date": "2026-11-17T08:30:00-05:00",
+      "impact": "High",
+      "forecast": "0.4%",
+      "previous": "0.9%"
+    },
+    {
+      "title": "Retail Sales m/m",
+      "country": "USD",
+      "date": "2026-11-17T08:30:00-05:00",
+      "impact": "High",
+      "forecast": "0.2%",
+      "previous": "0.8%"
+    },
+    {
+      "title": "Import Prices m/m",
+      "country": "USD",
+      "date": "2026-11-17T08:30:00-05:00",
+      "impact": "Low",
+      "forecast": "0.7%",
+      "previous": "1.1%"
+    },
+    {
+      "title": "FOMC Member Waller Speaks",
+      "country": "USD",
+      "date": "2026-11-17T09:10:00-05:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "Capacity Utilization Rate",
+      "country": "USD",
+      "date": "2026-11-17T09:15:00-05:00",
+      "impact": "Low",
+      "forecast": "76.8%",
+      "previous": "76.9%"
+    },
+    {
+      "title": "Industrial Production m/m",
+      "country": "USD",
+      "date": "2026-11-17T09:15:00-05:00",
+      "impact": "Low",
+      "forecast": "0.1%",
+      "previous": "0.7%"
+    },
+    {
+      "title": "FOMC Member Hammack Speaks",
+      "country": "USD",
+      "date": "2026-11-17T09:30:00-05:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "Business Inventories m/m",
+      "country": "USD",
+      "date": "2026-11-17T10:00:00-05:00",
+      "impact": "Low",
+      "forecast": "0.5%",
+      "previous": "0.4%"
+    },
+    {
+      "title": "NAHB Housing Market Index",
+      "country": "USD",
+      "date": "2026-11-17T10:00:00-05:00",
+      "impact": "Low",
+      "forecast": "29",
+      "previous": "29"
+    },
+    {
+      "title": "FOMC Member Williams Speaks",
+      "country": "USD",
+      "date": "2026-11-17T14:25:00-05:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "API Weekly Statistical Bulletin",
+      "country": "USD",
+      "date": "2026-11-17T16:30:00-05:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "Trade Balance",
+      "country": "JPY",
+      "date": "2026-11-17T18:50:00-05:00",
+      "impact": "Low",
+      "forecast": "-0.88T",
+      "previous": "-0.70T"
+    },
+    {
+      "title": "Building Permits",
+      "country": "USD",
+      "date": "2026-11-18T08:30:00-05:00",
+      "impact": "Low",
+      "forecast": "1.38M",
+      "previous": "1.40M"
+    },
+    {
+      "title": "Housing Starts",
+      "country": "USD",
+      "date": "2026-11-18T08:30:00-05:00",
+      "impact": "Low",
+      "forecast": "1.25M",
+      "previous": "1.22M"
+    },
+    {
+      "title": "Pending Home Sales m/m",
+      "country": "USD",
+      "date": "2026-11-18T10:00:00-05:00",
+      "impact": "Low",
+      "forecast": "-2.3%",
+      "previous": "-7.3%"
+    },
+    {
+      "title": "Crude Oil Inventories",
+      "country": "USD",
+      "date": "2026-11-18T10:30:00-05:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "4.7M"
+    },
+    {
+      "title": "FOMC Member Barr Speaks",
+      "country": "USD",
+      "date": "2026-11-18T13:35:00-05:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "FOMC Meeting Minutes",
+      "country": "USD",
+      "date": "2026-11-18T14:00:00-05:00",
+      "impact": "High",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "FOMC Member Williams Speaks",
+      "country": "USD",
+      "date": "2026-11-18T14:30:00-05:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "TIC Long-Term Purchases",
+      "country": "USD",
+      "date": "2026-11-18T16:00:00-05:00",
+      "impact": "Low",
+      "forecast": "160.7B",
+      "previous": "279.2B"
+    },
+    {
+      "title": "FOMC Member Kashkari Speaks",
+      "country": "USD",
+      "date": "2026-11-18T16:15:00-05:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "Core Machinery Orders m/m",
+      "country": "JPY",
+      "date": "2026-11-18T18:50:00-05:00",
+      "impact": "Low",
+      "forecast": "1.4%",
+      "previous": "5.2%"
+    },
+    {
+      "title": "Philly Fed Manufacturing Index",
+      "country": "USD",
+      "date": "2026-11-19T08:30:00-05:00",
+      "impact": "Medium",
+      "forecast": "19.2",
+      "previous": "20.9"
+    },
+    {
+      "title": "Unemployment Claims",
+      "country": "USD",
+      "date": "2026-11-19T08:30:00-05:00",
+      "impact": "Medium",
+      "forecast": "199K",
+      "previous": "200K"
+    },
+    {
+      "title": "FOMC Member Hammack Speaks",
+      "country": "USD",
+      "date": "2026-11-19T08:50:00-05:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "CB Leading Index m/m",
+      "country": "USD",
+      "date": "2026-11-19T10:00:00-05:00",
+      "impact": "Low",
+      "forecast": "0.0%",
+      "previous": "0.0%"
+    },
+    {
+      "title": "Mortgage Delinquencies",
+      "country": "USD",
+      "date": "2026-11-19T10:15:00-05:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "4.37%"
+    },
+    {
+      "title": "Natural Gas Storage",
+      "country": "USD",
+      "date": "2026-11-19T10:30:00-05:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "FOMC Member Goolsbee Speaks",
+      "country": "USD",
+      "date": "2026-11-19T12:30:00-05:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "FOMC Member Barr Speaks",
+      "country": "USD",
+      "date": "2026-11-19T14:15:00-05:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "FOMC Member Barkin Speaks",
+      "country": "USD",
+      "date": "2026-11-19T16:00:00-05:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "National Core CPI y/y",
+      "country": "JPY",
+      "date": "2026-11-19T18:30:00-05:00",
+      "impact": "Low",
+      "forecast": "2.3%",
+      "previous": "2.1%"
+    },
+    {
+      "title": "FOMC Member Paulson Speaks",
+      "country": "USD",
+      "date": "2026-11-19T18:30:00-05:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "FOMC Member Waller Speaks",
+      "country": "USD",
+      "date": "2026-11-20T08:25:00-05:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "Revised UoM Consumer Sentiment",
+      "country": "USD",
+      "date": "2026-11-20T10:00:00-05:00",
+      "impact": "Medium",
+      "forecast": "52.1",
+      "previous": "51.0"
+    },
+    {
+      "title": "Revised UoM Inflation Expectations",
+      "country": "USD",
+      "date": "2026-11-20T10:00:00-05:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "4.3%"
+    },
+    {
+      "title": "FOMC Member Cook Speaks",
+      "country": "USD",
+      "date": "2026-11-20T12:15:00-05:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    }
+  ],
+  "fed_policy": {
+    "Press Releases": [
+      {
+        "title": "Agencies extend comment period for proposed third-party risk management guidance",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
+        "published": "Fri, 13 Nov 2026 21:15:00 GMT",
+        "summary": "Agencies extend comment period for proposed third-party risk management guidance"
+      },
+      {
+        "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
+        "published": "Thu, 12 Nov 2026 18:30:00 GMT",
+        "summary": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services"
+      },
+      {
+        "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+        "published": "Thu, 12 Nov 2026 17:45:00 GMT",
+        "summary": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027"
+      },
+      {
+        "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
+        "published": "Thu, 12 Nov 2026 16:00:00 GMT",
+        "summary": "Federal Reserve Board issues enforcement action with former employee of United Community Bank"
+      },
+      {
+        "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
+        "published": "Mon, 9 Nov 2026 21:00:00 GMT",
+        "summary": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc."
+      },
+      {
+        "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
+        "published": "Thu, 5 Nov 2026 16:00:00 GMT",
+        "summary": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc"
+      },
+      {
+        "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
+        "published": "Thu, 29 Oct 2026 20:30:00 GMT",
+        "summary": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia"
+      },
+      {
+        "title": "Federal Reserve issues FOMC statement",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+        "published": "Wed, 28 Oct 2026 18:00:00 GMT",
+        "summary": "Federal Reserve issues FOMC statement"
+      }
+    ],
+    "Speeches": [
+      {
+        "title": "Jefferson, New Technology, Old Questions: Productivity Puzzles  and the Macroeconomy",
+        "link": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
+        "published": "Sat, 14 Nov 2026 00:00:00 GMT",
+        "summary": "Speech At the University of California, San Diego Economic Roundtable, San Diego, California"
+      },
+      {
+        "title": "Barr, American Inequality and the Future of AI",
+        "link": "https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm",
+        "published": "Thu, 12 Nov 2026 15:00:00 GMT",
+        "summary": "Speech At Yale University, New Haven, Connecticut"
+      },
+      {
+        "title": "Bowman, The U.S. Economy and Considerations for Monetary Policy",
+        "link": "https://www.federalreserve.gov/newsevents/speech/bowman20261110a.htm",
+        "published": "Tue, 10 Nov 2026 20:30:00 GMT",
+        "summary": "Speech At the C. Peter McColough Series on International Economics Council on Foreign Relations, Washington, D.C."
+      },
+      {
+        "title": "Waller, The Economic Outlook and Some Thoughts on Labor Market Dynamism",
+        "link": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
+        "published": "Tue, 10 Nov 2026 09:00:00 GMT",
+        "summary": "Speech At the Bank of England Watchers Conference  King’s Business School and Money, Macro and Finance Society, London, United Kingdom"
+      },
+      {
+        "title": "Bowman, Supervisory Modernization After Silicon Valley Bank",
+        "link": "https://www.federalreserve.gov/newsevents/speech/bowman20261014a.htm",
+        "published": "Thu, 15 Oct 2026 02:55:00 GMT",
+        "summary": "Speech At the Bangkok Economic Festival, Reinventing Bretton Woods Committee, Bangkok, Thailand"
+      },
+      {
+        "title": "Waller, The Signaling Value of the Summary of Economic Projections",
+        "link": "https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm",
+        "published": "Thu, 8 Oct 2026 08:30:00 GMT",
+        "summary": "Speech At the Istanbul Economic Forum, Central Bank of the Republic of T&uuml;rkiye, Istanbul, T&uuml;rkiye"
+      },
+      {
+        "title": "Bowman, Modernizing the Regulatory and Supervisory Landscape",
+        "link": "https://www.federalreserve.gov/newsevents/speech/bowman20261006a.htm",
+        "published": "Tue, 6 Oct 2026 14:45:00 GMT",
+        "summary": "Speech At the 2026 Community Banking Research Conference, sponsored by  the Federal Reserve System, the Conference of State Bank Supervisors, and the Federal Deposit Insurance Corporation, St. Louis, Missouri"
+      },
+      {
+        "title": "Bowman, Modernizing Financial Regulation: Initial Observations from eSLR",
+        "link": "https://www.federalreserve.gov/newsevents/speech/bowman20261001a.htm",
+        "published": "Thu, 1 Oct 2026 19:00:00 GMT",
+        "summary": "Speech At the Atlantic Council 2026 CEO &amp; Senior Management Summit, Washington, D.C."
+      }
+    ],
+    "FOMC Press Releases": [
+      {
+        "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+        "published": "Thu, 12 Nov 2026 17:45:00 GMT",
+        "summary": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027"
+      },
+      {
+        "title": "Federal Reserve issues FOMC statement",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+        "published": "Wed, 28 Oct 2026 18:00:00 GMT",
+        "summary": "Federal Reserve issues FOMC statement"
+      },
+      {
+        "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
+        "published": "Tue, 13 Oct 2026 18:00:00 GMT",
+        "summary": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026"
+      },
+      {
+        "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
+        "published": "Wed, 7 Oct 2026 18:00:00 GMT",
+        "summary": "Minutes of the Federal Open Market Committee, September 15-16, 2026"
+      },
+      {
+        "title": "Federal Reserve issues FOMC statement",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+        "published": "Wed, 16 Sep 2026 18:00:00 GMT",
+        "summary": "Federal Reserve issues FOMC statement"
+      },
+      {
+        "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
+        "published": "Wed, 16 Sep 2026 18:00:00 GMT",
+        "summary": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting"
+      },
+      {
+        "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
+        "published": "Tue, 25 Aug 2026 18:00:00 GMT",
+        "summary": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026"
+      },
+      {
+        "title": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
+        "published": "Wed, 19 Aug 2026 18:00:00 GMT",
+        "summary": "Minutes of the Federal Open Market Committee, July 28–29, 2026"
+      }
+    ]
+  },
+  "news": {
+    "Yahoo Finance": [
+      {
+        "error": "<unknown>:53:4: mismatched tag"
+      }
+    ],
+    "MarketWatch Top Stories": [
+      {
+        "title": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything. Do I tell her?",
+        "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+        "published": "Mon, 16 Nov 2026 04:15:00 GMT"
+      },
+      {
+        "title": "A big chunk of your 401(k) is likely invested in Nvidia",
+        "link": "https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories",
+        "published": "Mon, 16 Nov 2026 03:11:00 GMT"
+      },
+      {
+        "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
+        "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
+        "published": "Sun, 15 Nov 2026 23:30:00 GMT"
+      },
+      {
+        "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
+        "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+        "published": "Sun, 15 Nov 2026 23:00:00 GMT"
+      },
+      {
+        "title": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
+        "link": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
+        "published": "Sun, 15 Nov 2026 21:32:00 GMT"
+      },
+      {
+        "title": "Budget airlines are going upscale with first-class seats and faster wifi",
+        "link": "https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories",
+        "published": "Sun, 15 Nov 2026 21:31:00 GMT"
+      },
+      {
+        "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
+        "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
+        "published": "Sun, 15 Nov 2026 20:30:00 GMT"
+      },
+      {
+        "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
+        "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+        "published": "Sun, 15 Nov 2026 20:00:00 GMT"
+      }
+    ],
+    "CNBC Top News": [
+      {
+        "title": "Tech world's calls for Jensen Huang to return to Nvidia are growing",
+        "link": "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html",
+        "published": "Mon, 16 Nov 2026 03:35:09 GMT"
+      },
+      {
+        "title": "China confirms Xi-Trump-Putin historic summit. What will be on the agenda?",
+        "link": "https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html",
+        "published": "Mon, 16 Nov 2026 04:34:00 GMT"
+      },
+      {
+        "title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
+        "link": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
+        "published": "Sun, 15 Nov 2026 12:00:01 GMT"
+      },
+      {
+        "title": "Stock futures tick higher as traders brace for Nvidia earnings, Anthropic IPO this week: Live updates",
+        "link": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html",
+        "published": "Mon, 16 Nov 2026 03:39:12 GMT"
+      },
+      {
+        "title": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
+        "link": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
+        "published": "Mon, 16 Nov 2026 03:53:59 GMT"
+      },
+      {
+        "title": "Trump breaks silence about FAA nationwide ground stop, blames Biden administration",
+        "link": "https://www.cnbc.com/2026/11/15/trump-breaks-silence-on-faa-nationwide-ground-stop-blames-biden-.html",
+        "published": "Sun, 15 Nov 2026 16:56:40 GMT"
+      },
+      {
+        "title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
+        "link": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
+        "published": "Mon, 16 Nov 2026 02:56:24 GMT"
+      },
+      {
+        "title": "'We slept here': Flight delays linger but schedule is back on track for Monday",
+        "link": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
+        "published": "Sun, 15 Nov 2026 22:33:26 GMT"
+      }
+    ]
+  }
+}
