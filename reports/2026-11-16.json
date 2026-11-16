@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-11-16T13:09:17",
+  "generated_at": "2026-11-16T22:52:35",
   "date": "2026-11-16",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7561.67,
-        "pct_change": -0.4
+        "last": 7416.59,
+        "pct_change": -1.92
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": null,
-        "pct_change": null
+        "last": 24509.76,
+        "pct_change": -2.49
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 52347.55,
-        "pct_change": 0.1
+        "last": 51608.17,
+        "pct_change": -1.41
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2790.49,
-        "pct_change": -0.31
+        "last": 2742.94,
+        "pct_change": -1.7
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 20.65,
-        "pct_change": 6.99
+        "last": 22.91,
+        "pct_change": 18.7
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 5.15,
-        "pct_change": 1.0
+        "last": 5.12,
+        "pct_change": -0.64
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 103.46,
-        "pct_change": 0.05
+        "last": 103.58,
+        "pct_change": 0.17
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 87.65,
-        "pct_change": -1.03
+        "last": 85.06,
+        "pct_change": -3.95
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 3874.5,
-        "pct_change": -0.3
+        "last": 3859.0,
+        "pct_change": -0.7
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 170.28,
-        "pct_change": -2.01
+        "last": 164.76,
+        "pct_change": -3.24
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 58.68,
-        "pct_change": 0.81
+        "last": 58.18,
+        "pct_change": -0.85
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 64.96,
-        "pct_change": 0.98
+        "last": 63.69,
+        "pct_change": -1.96
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 188.85,
-        "pct_change": 0.54
+        "last": 187.88,
+        "pct_change": -0.51
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 119.98,
-        "pct_change": -0.4
+        "last": 118.15,
+        "pct_change": -1.53
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 92.35,
-        "pct_change": 1.42
+        "last": 92.6,
+        "pct_change": 0.27
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 168.78,
-        "pct_change": -0.39
+        "last": 165.66,
+        "pct_change": -1.85
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 44.04,
-        "pct_change": 0.52
+        "last": 44.12,
+        "pct_change": 0.18
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 52.23,
-        "pct_change": -0.21
+        "last": 51.47,
+        "pct_change": -1.46
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 44.37,
-        "pct_change": 0.02
+        "last": 44.25,
+        "pct_change": -0.27
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 108.69,
-        "pct_change": 1.05
+        "last": 106.82,
+        "pct_change": -1.72
       }
     }
   },
@@ -111,8 +111,8 @@
     "indices": {
       "Nikkei 225": {
         "symbol": "^N225",
-        "last": 59662.02,
-        "pct_change": -2.42
+        "last": 61142.35,
+        "pct_change": 0.53
       },
       "TOPIX (ETF代理)": {
         "symbol": "1306.T",
@@ -121,8 +121,8 @@
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 159.6,
-        "pct_change": -0.17
+        "last": 159.4,
+        "pct_change": -0.3
       }
     }
   },
@@ -131,65 +131,65 @@
       "effr": 3.88,
       "target_low": 3.75,
       "target_high": 4.0,
-      "as_of": "2026-11-12"
+      "as_of": "2026-11-13"
     },
     "japan": {
       "yield": 2.899,
       "as_of": "2026-11-13",
       "prev_yield": 2.841
     },
-    "spread_10y": 2.25
+    "spread_10y": 2.22
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 114.08,
-        "pct_change": -4.54
+        "last": 106.17,
+        "pct_change": -6.93
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 356.27,
-        "pct_change": 0.39
+        "last": 352.78,
+        "pct_change": -0.98
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 523.88,
-        "pct_change": 0.17
+        "last": 517.99,
+        "pct_change": -1.12
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 266.66,
-        "pct_change": -0.29
+        "last": 257.75,
+        "pct_change": -3.34
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 295.77,
-        "pct_change": -0.98
+        "last": 283.72,
+        "pct_change": -4.07
       },
       "Meta": {
         "symbol": "META",
-        "last": 641.69,
-        "pct_change": 2.9
+        "last": 626.41,
+        "pct_change": -2.38
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 596.62,
-        "pct_change": -4.49
+        "last": 546.0,
+        "pct_change": -8.48
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 218.15,
-        "pct_change": -6.0
+        "last": 203.43,
+        "pct_change": -6.75
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 78.23,
-        "pct_change": -1.75
+        "last": 75.43,
+        "pct_change": -3.58
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
@@ -250,7 +250,7 @@
     {
       "title": "Cleveland Fed Inflation Expectations",
       "country": "USD",
-      "date": "2026-11-16T09:48:00-05:00",
+      "date": "2026-11-16T09:45:00-05:00",
       "impact": "Low",
       "forecast": "",
       "previous": "3.3%"
@@ -272,11 +272,27 @@
       "previous": ""
     },
     {
+      "title": "FOMC Member Barkin Speaks",
+      "country": "USD",
+      "date": "2026-11-16T18:10:00-05:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "FOMC Member Goolsbee Speaks",
+      "country": "USD",
+      "date": "2026-11-16T18:30:00-05:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
       "title": "Tertiary Industry Activity m/m",
       "country": "JPY",
       "date": "2026-11-16T23:30:00-05:00",
       "impact": "Low",
-      "forecast": "0.0%",
+      "forecast": "0.1%",
       "previous": "-0.1%"
     },
     {
@@ -308,7 +324,7 @@
       "country": "USD",
       "date": "2026-11-17T08:30:00-05:00",
       "impact": "High",
-      "forecast": "0.2%",
+      "forecast": "0.1%",
       "previous": "0.8%"
     },
     {
@@ -340,7 +356,7 @@
       "country": "USD",
       "date": "2026-11-17T09:15:00-05:00",
       "impact": "Low",
-      "forecast": "0.1%",
+      "forecast": "0.0%",
       "previous": "0.7%"
     },
     {
@@ -388,7 +404,7 @@
       "country": "JPY",
       "date": "2026-11-17T18:50:00-05:00",
       "impact": "Low",
-      "forecast": "-0.88T",
+      "forecast": "-0.90T",
       "previous": "-0.70T"
     },
     {
@@ -412,7 +428,7 @@
       "country": "USD",
       "date": "2026-11-18T10:00:00-05:00",
       "impact": "Low",
-      "forecast": "-2.3%",
+      "forecast": "-2.1%",
       "previous": "-7.3%"
     },
     {
@@ -422,6 +438,14 @@
       "impact": "Low",
       "forecast": "",
       "previous": "4.7M"
+    },
+    {
+      "title": "FOMC Member Daly Speaks",
+      "country": "USD",
+      "date": "2026-11-18T12:15:00-05:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
     },
     {
       "title": "FOMC Member Barr Speaks",
@@ -468,7 +492,7 @@
       "country": "JPY",
       "date": "2026-11-18T18:50:00-05:00",
       "impact": "Low",
-      "forecast": "1.4%",
+      "forecast": "1.3%",
       "previous": "5.2%"
     },
     {
@@ -496,6 +520,14 @@
       "previous": ""
     },
     {
+      "title": "FOMC Member Jefferson Speaks",
+      "country": "USD",
+      "date": "2026-11-19T09:25:00-05:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
       "title": "CB Leading Index m/m",
       "country": "USD",
       "date": "2026-11-19T10:00:00-05:00",
@@ -517,7 +549,7 @@
       "date": "2026-11-19T10:30:00-05:00",
       "impact": "Low",
       "forecast": "",
-      "previous": ""
+      "previous": "61B"
     },
     {
       "title": "FOMC Member Goolsbee Speaks",
@@ -645,6 +677,12 @@
     ],
     "Speeches": [
       {
+        "title": "Warsh, Opening Remarks",
+        "link": "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm",
+        "published": "Mon, 16 Nov 2026 17:00:00 GMT",
+        "summary": "Speech At the Productivity and Jobs Task Force Conference, hosted by the Federal Reserve Board and the Federal Reserve Bank of San Francisco, San Francisco, California"
+      },
+      {
         "title": "Barr, Some Potential Financial Stability Implications of Artificial Intelligence",
         "link": "https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm",
         "published": "Mon, 16 Nov 2026 10:00:00 GMT",
@@ -685,12 +723,6 @@
         "link": "https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm",
         "published": "Thu, 8 Oct 2026 08:30:00 GMT",
         "summary": "Speech At the Istanbul Economic Forum, Central Bank of the Republic of T&uuml;rkiye, Istanbul, T&uuml;rkiye"
-      },
-      {
-        "title": "Bowman, Modernizing the Regulatory and Supervisory Landscape",
-        "link": "https://www.federalreserve.gov/newsevents/speech/bowman20261006a.htm",
-        "published": "Tue, 6 Oct 2026 14:45:00 GMT",
-        "summary": "Speech At the 2026 Community Banking Research Conference, sponsored by  the Federal Reserve System, the Conference of State Bank Supervisors, and the Federal Deposit Insurance Corporation, St. Louis, Missouri"
       }
     ],
     "FOMC Press Releases": [
@@ -752,86 +784,86 @@
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "The FDA declined to approve one of biotech’s most closely watched cancer drugs",
+        "title": "U.S. dollar’s AI-driven breakout could become a stock-market wrecking ball",
+        "link": "https://www.marketwatch.com/story/u-s-dollars-ai-driven-breakout-could-become-a-stock-market-wrecking-ball-18199b95?mod=mw_rss_topstories",
+        "published": "Mon, 16 Nov 2026 22:46:00 GMT"
+      },
+      {
+        "title": "Berkshire upped its bet on a beleaguered U.S. housing market, while souring on these bank stocks",
+        "link": "https://www.marketwatch.com/story/berkshire-upped-its-bet-on-a-beleaguered-u-s-housing-market-while-souring-on-these-bank-stocks-2e8de402?mod=mw_rss_topstories",
+        "published": "Mon, 16 Nov 2026 22:33:00 GMT"
+      },
+      {
+        "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
+        "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+        "published": "Mon, 16 Nov 2026 22:30:00 GMT"
+      },
+      {
+        "title": "The FDA declined to approve one of biotech’s most closely watched cancer drugs. The company’s stock tumbled.",
         "link": "https://www.marketwatch.com/story/the-fda-declined-to-approve-one-of-biotechs-most-closely-watched-cancer-drugs-d7c6a0a3?mod=mw_rss_topstories",
-        "published": "Mon, 16 Nov 2026 13:01:00 GMT"
-      },
-      {
-        "title": "How to use options to bet against Big Tech, while keeping risk in check",
-        "link": "https://www.marketwatch.com/story/how-to-use-options-to-bet-against-big-tech-while-keeping-risk-in-check-a2609641?mod=mw_rss_topstories",
-        "published": "Mon, 16 Nov 2026 12:53:00 GMT"
-      },
-      {
-        "title": "Anthropic’s IPO is forcing investors to assess uninsurable risks they’ve never encountered before",
-        "link": "https://www.marketwatch.com/story/anthropics-ipo-is-forcing-investors-to-assess-uninsurable-risks-theyve-never-encountered-before-dea85fbf?mod=mw_rss_topstories",
-        "published": "Mon, 16 Nov 2026 12:33:00 GMT"
-      },
-      {
-        "title": "Why this 40-year market veteran is making a lonely bet on a 40% stock-market crash — and $500 oil",
-        "link": "https://www.marketwatch.com/story/why-this-40-year-market-veteran-is-making-a-lonely-bet-on-a-40-stock-market-crash-and-500-oil-c62aefdb?mod=mw_rss_topstories",
-        "published": "Mon, 16 Nov 2026 12:32:00 GMT"
-      },
-      {
-        "title": "Three questions for anyone considering the Nvidia CEO job",
-        "link": "https://www.marketwatch.com/story/three-questions-for-anyone-considering-the-nvidia-ceo-job-08ef8120?mod=mw_rss_topstories",
-        "published": "Mon, 16 Nov 2026 12:17:00 GMT"
-      },
-      {
-        "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
-        "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
-        "published": "Mon, 16 Nov 2026 12:15:00 GMT"
+        "published": "Mon, 16 Nov 2026 22:21:00 GMT"
       },
       {
         "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
         "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
-        "published": "Mon, 16 Nov 2026 11:15:00 GMT"
+        "published": "Mon, 16 Nov 2026 22:08:00 GMT"
       },
       {
-        "title": "Why Nvidia can avoid the fate of most stocks that reached the market-cap apex, according to one strategist",
-        "link": "https://www.marketwatch.com/story/why-nvidia-can-avoid-the-fate-of-most-stocks-that-reached-the-apex-by-market-cap-according-to-one-strategist-461e33be?mod=mw_rss_topstories",
-        "published": "Mon, 16 Nov 2026 11:07:00 GMT"
+        "title": "Nvidia’s stock extends decline following harsh words from the U.S. government",
+        "link": "https://www.marketwatch.com/story/nvidias-stock-extends-declines-following-harsh-words-from-the-u-s-government-d721188e?mod=mw_rss_topstories",
+        "published": "Mon, 16 Nov 2026 21:53:00 GMT"
+      },
+      {
+        "title": "Chase says ‘software bug’ could be causing disruptions at major U.S. banks",
+        "link": "https://www.marketwatch.com/story/customers-of-chase-bank-of-america-and-other-u-s-banks-report-service-outages-18fe23b8?mod=mw_rss_topstories",
+        "published": "Mon, 16 Nov 2026 21:49:00 GMT"
+      },
+      {
+        "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+        "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+        "published": "Mon, 16 Nov 2026 21:45:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "Stock futures slide as Nvidia leads AI stocks lower: Live updates",
+        "title": "Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
+        "link": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html",
+        "published": "Mon, 16 Nov 2026 22:37:45 GMT"
+      },
+      {
+        "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
+        "link": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
+        "published": "Mon, 16 Nov 2026 22:14:47 GMT"
+      },
+      {
+        "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
+        "link": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
+        "published": "Mon, 16 Nov 2026 22:22:52 GMT"
+      },
+      {
+        "title": "Nasdaq falls more than 2%, extending slide to third day as Nvidia drags down AI trade",
         "link": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html",
-        "published": "Mon, 16 Nov 2026 12:51:21 GMT"
+        "published": "Mon, 16 Nov 2026 21:18:13 GMT"
       },
       {
-        "title": "Warren Buffett donates $5.5 billion, says kindness 'compounds' in Thanksgiving letter",
-        "link": "https://www.cnbc.com/2026/11/16/warren-buffett-donates-5point5-billion-thanksgiving.html",
-        "published": "Mon, 16 Nov 2026 12:16:29 GMT"
+        "title": "United Airlines reports system outage affecting departing flights",
+        "link": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html",
+        "published": "Mon, 16 Nov 2026 22:51:58 GMT"
       },
       {
-        "title": "Cantwell urges Lutnick to stop AI chip sales to China ahead of Xi meeting",
-        "link": "https://www.cnbc.com/2026/11/16/cantwell-lutnick-ai-chip-china.html",
-        "published": "Mon, 16 Nov 2026 12:13:47 GMT"
+        "title": "If the AI bubble is popping, history shows these stocks could boom",
+        "link": "https://www.cnbc.com/2026/11/16/if-the-ai-bubble-is-popping-history-shows-these-stocks-could-boom.html",
+        "published": "Mon, 16 Nov 2026 19:53:33 GMT"
       },
       {
-        "title": "Stocks making the biggest moves premarket: Nvidia, Take-Two Interactive, Yeti, American Airlines & more",
-        "link": "https://www.cnbc.com/2026/11/16/stocks-moving-the-most-today-live-updates.html",
-        "published": "Mon, 16 Nov 2026 13:03:20 GMT"
+        "title": "Kalshi plans to launch stock trading soon",
+        "link": "https://www.cnbc.com/2026/11/16/kalshi-plans-to-launch-stock-trading-soon.html",
+        "published": "Mon, 16 Nov 2026 21:23:34 GMT"
       },
       {
-        "title": "'We slept here': Flight delays linger as airlines recover from ground stop, but schedule improves Monday",
-        "link": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
-        "published": "Mon, 16 Nov 2026 12:57:46 GMT"
-      },
-      {
-        "title": "Here are Monday's biggest analyst calls: Nvidia, SpaceX, CoreWeave, Tesla, Viking, Nucor, Eli Lilly & more",
-        "link": "https://www.cnbc.com/2026/11/16/big-monday-wall-street-calls-like-nvidia-spacex.html",
-        "published": "Mon, 16 Nov 2026 13:06:48 GMT"
-      },
-      {
-        "title": "‘Standing on one leg’: IMF chief warns about global economy as AI circular financing hits $1 trillion",
-        "link": "https://www.cnbc.com/2026/11/16/imf-georgieva-warning-ai-circular-financing.html",
-        "published": "Mon, 16 Nov 2026 09:14:46 GMT"
-      },
-      {
-        "title": "Big-ticket holiday items may be harder to find as shipping costs rise",
-        "link": "https://www.cnbc.com/2026/11/16/holiday-big-ticket-inventory-shipping-costs.html",
-        "published": "Mon, 16 Nov 2026 12:00:01 GMT"
+        "title": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
+        "link": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
+        "published": "Mon, 16 Nov 2026 22:19:02 GMT"
       }
     ]
   }
