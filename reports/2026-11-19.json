@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-11-19T05:47:35",
+  "generated_at": "2026-11-19T15:11:39",
   "date": "2026-11-19",
   "market_sentiment": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "last": 7323.63,
-        "pct_change": -0.23
+        "last": null,
+        "pct_change": null
       },
       "Nasdaq": {
         "symbol": "^IXIC",
-        "last": 24429.88,
-        "pct_change": 0.42
+        "last": 24808.51,
+        "pct_change": 1.55
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "last": 50198.17,
-        "pct_change": -1.11
+        "last": 50180.07,
+        "pct_change": -0.04
       },
       "Russell 2000": {
         "symbol": "^RUT",
-        "last": 2714.31,
-        "pct_change": 0.46
+        "last": 2711.43,
+        "pct_change": -0.11
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 24.56,
-        "pct_change": -3.53
+        "last": 22.98,
+        "pct_change": -6.43
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 5.07,
-        "pct_change": -0.73
+        "last": 5.09,
+        "pct_change": 0.49
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 103.89,
-        "pct_change": 0.03
+        "last": 103.74,
+        "pct_change": -0.11
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 82.3,
-        "pct_change": -1.15
+        "last": 83.51,
+        "pct_change": 0.3
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 3739.6,
-        "pct_change": -0.06
+        "last": 3711.3,
+        "pct_change": -0.82
       }
     },
     "sectors": {
       "Technology": {
         "symbol": "XLK",
-        "last": 163.81,
-        "pct_change": 0.34
+        "last": 168.3,
+        "pct_change": 2.74
       },
       "Financials": {
         "symbol": "XLF",
-        "last": 56.42,
-        "pct_change": -1.14
+        "last": 56.31,
+        "pct_change": -0.2
       },
       "Energy": {
         "symbol": "XLE",
-        "last": 61.29,
-        "pct_change": -3.27
+        "last": 61.41,
+        "pct_change": 0.2
       },
       "Health Care": {
         "symbol": "XLV",
-        "last": 181.17,
-        "pct_change": -2.2
+        "last": 179.25,
+        "pct_change": -1.06
       },
       "Consumer Discretionary": {
         "symbol": "XLY",
-        "last": 119.2,
-        "pct_change": 1.79
+        "last": 118.7,
+        "pct_change": -0.42
       },
       "Consumer Staples": {
         "symbol": "XLP",
-        "last": 91.18,
-        "pct_change": -0.31
+        "last": 89.51,
+        "pct_change": -1.83
       },
       "Industrials": {
         "symbol": "XLI",
-        "last": 164.66,
-        "pct_change": -0.05
+        "last": 164.6,
+        "pct_change": -0.04
       },
       "Utilities": {
         "symbol": "XLU",
-        "last": 43.55,
-        "pct_change": 0.3
+        "last": 43.12,
+        "pct_change": -1.0
       },
       "Materials": {
         "symbol": "XLB",
-        "last": 50.46,
-        "pct_change": -0.75
+        "last": 50.15,
+        "pct_change": -0.6
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 43.62,
-        "pct_change": 0.07
+        "last": 43.28,
+        "pct_change": -0.79
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 105.58,
-        "pct_change": 0.3
+        "last": 105.85,
+        "pct_change": 0.26
       }
     }
   },
@@ -111,18 +111,18 @@
     "indices": {
       "Nikkei 225": {
         "symbol": "^N225",
-        "last": 59205.17,
-        "pct_change": 0.31
+        "last": 59024.28,
+        "pct_change": 0.28
       },
       "TOPIX (ETF代理)": {
         "symbol": "1306.T",
-        "last": 401.3,
-        "pct_change": -0.15
+        "last": 401.9,
+        "pct_change": -0.64
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 159.52,
-        "pct_change": 0.01
+        "last": 159.93,
+        "pct_change": 0.27
       }
     }
   },
@@ -131,70 +131,70 @@
       "effr": 3.88,
       "target_low": 3.75,
       "target_high": 4.0,
-      "as_of": "2026-11-17"
+      "as_of": "2026-11-18"
     },
     "japan": {
       "yield": 2.916,
       "as_of": "2026-11-18",
       "prev_yield": 2.925
     },
-    "spread_10y": 2.15
+    "spread_10y": 2.17
   },
   "watchlist": {
     "holdings": {
       "Corning (持仓)": {
         "symbol": "GLW",
-        "last": 108.15,
-        "pct_change": -0.31
+        "last": 113.6,
+        "pct_change": 5.04
       }
     },
     "demand_drivers": {
       "Apple": {
         "symbol": "AAPL",
-        "last": 352.45,
-        "pct_change": 0.15
+        "last": 349.58,
+        "pct_change": -0.81
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "last": 508.29,
-        "pct_change": 0.4
+        "last": 522.45,
+        "pct_change": 2.79
       },
       "Amazon": {
         "symbol": "AMZN",
-        "last": 267.74,
-        "pct_change": 3.82
+        "last": 271.07,
+        "pct_change": 1.24
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "last": 282.44,
-        "pct_change": 0.8
+        "last": 292.98,
+        "pct_change": 3.73
       },
       "Meta": {
         "symbol": "META",
-        "last": 616.38,
-        "pct_change": -0.4
+        "last": 623.96,
+        "pct_change": 1.23
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 551.07,
-        "pct_change": -1.59
+        "last": 581.25,
+        "pct_change": 5.48
       },
       "Coherent": {
         "symbol": "COHR",
-        "last": 212.84,
-        "pct_change": 0.94
+        "last": 237.96,
+        "pct_change": 11.8
       },
       "Amphenol": {
         "symbol": "APH",
-        "last": 76.33,
-        "pct_change": -0.04
+        "last": 79.12,
+        "pct_change": 3.66
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 4698.0,
-        "pct_change": -2.85
+        "last": 4836.0,
+        "pct_change": 1.28
       }
     }
   },
@@ -677,6 +677,12 @@
     ],
     "Speeches": [
       {
+        "title": "Jefferson, Monetary Policy amid Frequent and Complex Shocks",
+        "link": "https://www.federalreserve.gov/newsevents/speech/jefferson20261119a.htm",
+        "published": "Thu, 19 Nov 2026 14:25:00 GMT",
+        "summary": "Speech At the International Monetary Fund and Central Bank of Brazil Conference “A Quarter Century of Inflation Targeting in Latin America:  Progress, Challenges, and the Road Ahead,” Bras&iacute;lia, Brazil"
+      },
+      {
         "title": "Barr, Investing in America’s Underserved Communities",
         "link": "https://www.federalreserve.gov/newsevents/speech/barr20261118a.htm",
         "published": "Wed, 18 Nov 2026 18:35:00 GMT",
@@ -717,12 +723,6 @@
         "link": "https://www.federalreserve.gov/newsevents/speech/bowman20261110a.htm",
         "published": "Tue, 10 Nov 2026 20:30:00 GMT",
         "summary": "Speech At the C. Peter McColough Series on International Economics Council on Foreign Relations, Washington, D.C."
-      },
-      {
-        "title": "Waller, The Economic Outlook and Some Thoughts on Labor Market Dynamism",
-        "link": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
-        "published": "Tue, 10 Nov 2026 09:00:00 GMT",
-        "summary": "Speech At the Bank of England Watchers Conference  King’s Business School and Money, Macro and Finance Society, London, United Kingdom"
       }
     ],
     "FOMC Press Releases": [
@@ -784,86 +784,86 @@
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
-        "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-        "published": "Thu, 19 Nov 2026 03:45:00 GMT"
+        "title": "Trump says Americans should ‘relax’ as Washington scrambles to get to the bottom of outages",
+        "link": "https://www.marketwatch.com/story/washington-is-scrambling-to-get-to-the-bottom-of-the-growing-number-of-tech-outages-across-america-66fbf299?mod=mw_rss_topstories",
+        "published": "Thu, 19 Nov 2026 15:01:00 GMT"
       },
       {
-        "title": "‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?",
-        "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
-        "published": "Thu, 19 Nov 2026 03:45:00 GMT"
+        "title": "Why Micron, Intel and other AI stocks are getting a lift on Thursday",
+        "link": "https://www.marketwatch.com/story/why-micron-intel-and-other-ai-stocks-are-getting-a-lift-on-thursday-cf6f59f8?mod=mw_rss_topstories",
+        "published": "Thu, 19 Nov 2026 14:52:00 GMT"
       },
       {
-        "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
-        "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
-        "published": "Thu, 19 Nov 2026 03:30:00 GMT"
+        "title": "Anthropic is coming to your 401(k). Love it or hate it, AI is becoming a bigger part of your financial plan.",
+        "link": "https://www.marketwatch.com/story/anthropic-is-coming-to-your-401-k-love-it-or-hate-it-ai-is-becoming-a-bigger-part-of-your-financial-plan-2e9ae533?mod=mw_rss_topstories",
+        "published": "Thu, 19 Nov 2026 14:48:00 GMT"
       },
       {
-        "title": "Palo Alto Networks’ stock gets a fresh AI-fueled boost from earnings",
-        "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
-        "published": "Thu, 19 Nov 2026 01:02:00 GMT"
+        "title": "Sandisk’s stock split is almost here. This is what investors need to know.",
+        "link": "https://www.marketwatch.com/story/sandisks-stock-split-is-almost-here-this-is-what-investors-need-to-know-e0a18461?mod=mw_rss_topstories",
+        "published": "Thu, 19 Nov 2026 14:42:00 GMT"
       },
       {
-        "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
-        "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-        "published": "Thu, 19 Nov 2026 00:30:00 GMT"
+        "title": "Investors are rushing back into cybersecurity stocks after a string of outages. Here’s what to know before buying.",
+        "link": "https://www.marketwatch.com/story/investors-are-rushing-back-into-cybersecurity-stocks-after-a-string-of-outages-heres-what-to-know-before-buying-09e41107?mod=mw_rss_topstories",
+        "published": "Thu, 19 Nov 2026 14:31:00 GMT"
       },
       {
-        "title": "What the ‘death cross’ in small-cap stocks means for the rest of the market",
-        "link": "https://www.marketwatch.com/story/what-the-death-cross-in-small-cap-stocks-means-for-the-rest-of-the-stock-market-edd8e86e?mod=mw_rss_topstories",
-        "published": "Wed, 18 Nov 2026 23:12:00 GMT"
+        "title": "Ron Johnson’s Social Security gaffe buried important news",
+        "link": "https://www.marketwatch.com/story/ron-johnsons-social-security-gaffe-buried-important-news-b96e0ce8?mod=mw_rss_topstories",
+        "published": "Thu, 19 Nov 2026 14:29:00 GMT"
       },
       {
-        "title": "How copper’s plunge could hurt the AI buildout",
-        "link": "https://www.marketwatch.com/story/coppers-plunge-could-make-the-ai-data-center-buildout-more-painful-7057f41c?mod=mw_rss_topstories",
-        "published": "Wed, 18 Nov 2026 23:02:00 GMT"
+        "title": "My wife pays thousands for her family to visit us in New York. How can I ask her to choose between them and me?",
+        "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
+        "published": "Thu, 19 Nov 2026 14:15:00 GMT"
       },
       {
-        "title": "The stock market is being rocked by the biggest shake-up in a generation as tech falls behind",
-        "link": "https://www.marketwatch.com/story/the-stock-market-is-being-rocked-by-the-biggest-shake-up-in-a-generation-as-tech-falls-behind-66c1f281?mod=mw_rss_topstories",
-        "published": "Wed, 18 Nov 2026 22:53:00 GMT"
+        "title": "Google turns to a volcano and rock-melting technology in a wild new bid to power AI",
+        "link": "https://www.marketwatch.com/story/google-turns-to-a-volcano-and-rock-melting-technology-in-a-wild-new-bid-to-power-ai-fbbe57ef?mod=mw_rss_topstories",
+        "published": "Thu, 19 Nov 2026 14:11:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
-        "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
-        "published": "Thu, 19 Nov 2026 01:13:20 GMT"
+        "title": "Anthropic’s Dario and Daniela Amodei join CNBC exclusively from the Nasdaq: IPO live updates",
+        "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
+        "published": "Thu, 19 Nov 2026 15:07:16 GMT"
       },
       {
-        "title": "Musk says Jensen Huang is irreplaceable, regrets midterm spending",
-        "link": "https://www.cnbc.com/2026/11/19/elon-musk-jensen-huang-midterms.html",
-        "published": "Thu, 19 Nov 2026 02:49:35 GMT"
+        "title": "Denmark ratifies Trump security deal over Greenland after months of diplomatic tensions",
+        "link": "https://www.cnbc.com/2026/11/19/greenland-denmark-trump-security-military-bases.html",
+        "published": "Thu, 19 Nov 2026 12:02:08 GMT"
       },
       {
-        "title": "Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit",
-        "link": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
-        "published": "Wed, 18 Nov 2026 23:45:50 GMT"
+        "title": "Anthropic IPO could create thousands of multimillionaire employees",
+        "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-could-create-thousands-of-multimillionaire-employees.html",
+        "published": "Thu, 19 Nov 2026 13:38:12 GMT"
       },
       {
-        "title": "Nasdaq-100 futures gain as traders gear up for Anthropic’s highly anticipated debut: Live updates",
-        "link": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html",
-        "published": "Thu, 19 Nov 2026 05:32:25 GMT"
-      },
-      {
-        "title": "'Parasite' backer and other South Korean media, gaming and travel stocks rally on China trade deal",
-        "link": "https://www.cnbc.com/2026/11/19/china-south-korea-trade-deal-films-gaming.html",
-        "published": "Thu, 19 Nov 2026 03:43:38 GMT"
-      },
-      {
-        "title": "The 'exceptional' dollar scenario that forced Deutsche Bank to change its FX forecasts",
-        "link": "https://www.cnbc.com/2026/11/19/exceptional-dollar-setup-made-deutsche-bank-change-fx-forecasts.html",
-        "published": "Thu, 19 Nov 2026 05:34:08 GMT"
-      },
-      {
-        "title": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings",
-        "link": "https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html",
-        "published": "Thu, 19 Nov 2026 00:07:06 GMT"
+        "title": "Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs",
+        "link": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
+        "published": "Thu, 19 Nov 2026 13:23:50 GMT"
       },
       {
         "title": "Kash Patel skips House hearing after Mar-a-Lago gala with $50,000 access",
         "link": "https://www.cnbc.com/2026/11/18/kash-patel-hearing-mar-a-lago-gala.html",
-        "published": "Thu, 19 Nov 2026 00:08:14 GMT"
+        "published": "Thu, 19 Nov 2026 14:15:18 GMT"
+      },
+      {
+        "title": "Here are Thursday's biggest analyst calls: Nvidia, Anthropic, SpaceX, Apple, Abbott Labs, Box, Strategy & more",
+        "link": "https://www.cnbc.com/2026/11/19/thursday-biggest-analyst-calls-like-anthropic.html",
+        "published": "Thu, 19 Nov 2026 13:21:17 GMT"
+      },
+      {
+        "title": "Gold's bad year is getting worse. Why its price keeps falling",
+        "link": "https://www.cnbc.com/2026/11/19/gold-prices-fall-fed-rates-dollar.html",
+        "published": "Thu, 19 Nov 2026 14:17:04 GMT"
+      },
+      {
+        "title": "Trump says U.S., China, Russia ‘uniquely positioned’ to discuss reducing nuclear weapons at historic meeting",
+        "link": "https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html",
+        "published": "Thu, 19 Nov 2026 14:05:23 GMT"
       }
     ]
   }
