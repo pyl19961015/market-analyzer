@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T05:36:53",
+  "generated_at": "2026-11-20T14:22:09",
   "date": "2026-11-20",
   "market_sentiment": {
     "indices": {
@@ -25,28 +25,28 @@
       },
       "VIX": {
         "symbol": "^VIX",
-        "last": 28.44,
-        "pct_change": 15.8
+        "last": 29.99,
+        "pct_change": 5.45
       },
       "10Y Treasury Yield": {
         "symbol": "^TNX",
-        "last": 5.05,
-        "pct_change": -0.28
+        "last": 4.99,
+        "pct_change": -1.31
       },
       "US Dollar Index": {
         "symbol": "DX-Y.NYB",
-        "last": 103.79,
-        "pct_change": -0.1
+        "last": 103.69,
+        "pct_change": -0.2
       },
       "Crude Oil WTI": {
         "symbol": "CL=F",
-        "last": 82.88,
-        "pct_change": -0.4
+        "last": 82.23,
+        "pct_change": -1.18
       },
       "Gold": {
         "symbol": "GC=F",
-        "last": 3528.1,
-        "pct_change": -4.27
+        "last": 3579.5,
+        "pct_change": -2.88
       }
     },
     "sectors": {
@@ -97,13 +97,13 @@
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "last": 43.62,
-        "pct_change": 0.07
+        "last": 42.88,
+        "pct_change": -1.7
       },
       "Communication Services": {
         "symbol": "XLC",
-        "last": 105.58,
-        "pct_change": 0.3
+        "last": 102.76,
+        "pct_change": -2.67
       }
     }
   },
@@ -111,18 +111,18 @@
     "indices": {
       "Nikkei 225": {
         "symbol": "^N225",
-        "last": 56529.62,
-        "pct_change": -4.9
+        "last": 56436.65,
+        "pct_change": -5.06
       },
       "TOPIX (ETF代理)": {
         "symbol": "1306.T",
-        "last": 387.1,
-        "pct_change": -3.75
+        "last": 386.2,
+        "pct_change": -3.98
       },
       "USD/JPY": {
         "symbol": "JPY=X",
-        "last": 159.1,
-        "pct_change": -0.17
+        "last": 158.76,
+        "pct_change": -0.39
       }
     }
   },
@@ -131,14 +131,14 @@
       "effr": 3.88,
       "target_low": 3.75,
       "target_high": 4.0,
-      "as_of": "2026-11-18"
+      "as_of": "2026-11-19"
     },
     "japan": {
       "yield": 2.87,
       "as_of": "2026-11-19",
       "prev_yield": 2.916
     },
-    "spread_10y": 2.18
+    "spread_10y": 2.12
   },
   "watchlist": {
     "holdings": {
@@ -171,15 +171,15 @@
       },
       "Meta": {
         "symbol": "META",
-        "last": 616.38,
-        "pct_change": -0.4
+        "last": 596.22,
+        "pct_change": -3.27
       }
     },
     "peers": {
       "Lumentum": {
         "symbol": "LITE",
-        "last": 551.07,
-        "pct_change": -1.59
+        "last": 535.15,
+        "pct_change": -2.89
       },
       "Coherent": {
         "symbol": "COHR",
@@ -193,8 +193,8 @@
       },
       "AGC旭硝子(东京上市)": {
         "symbol": "5201.T",
-        "last": 4528.0,
-        "pct_change": -3.9
+        "last": 4504.0,
+        "pct_change": -4.41
       }
     }
   },
@@ -616,6 +616,14 @@
       "previous": "4.3%"
     },
     {
+      "title": "President Trump Speaks",
+      "country": "USD",
+      "date": "2026-11-20T12:00:00-05:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": ""
+    },
+    {
       "title": "FOMC Member Cook Speaks",
       "country": "USD",
       "date": "2026-11-20T12:15:00-05:00",
@@ -627,55 +635,16 @@
   "fed_policy": {
     "Press Releases": [
       {
-        "title": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm",
-        "published": "Thu, 19 Nov 2026 16:00:00 GMT",
-        "summary": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp"
-      },
-      {
-        "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
-        "published": "Wed, 18 Nov 2026 19:00:00 GMT",
-        "summary": "Minutes of the Federal Open Market Committee, October 27-28, 2026"
-      },
-      {
-        "title": "Agencies extend comment period for proposed third-party risk management guidance",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
-        "published": "Fri, 13 Nov 2026 21:15:00 GMT",
-        "summary": "Agencies extend comment period for proposed third-party risk management guidance"
-      },
-      {
-        "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
-        "published": "Thu, 12 Nov 2026 18:30:00 GMT",
-        "summary": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services"
-      },
-      {
-        "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
-        "published": "Thu, 12 Nov 2026 17:45:00 GMT",
-        "summary": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027"
-      },
-      {
-        "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
-        "published": "Thu, 12 Nov 2026 16:00:00 GMT",
-        "summary": "Federal Reserve Board issues enforcement action with former employee of United Community Bank"
-      },
-      {
-        "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
-        "published": "Mon, 9 Nov 2026 21:00:00 GMT",
-        "summary": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc."
-      },
-      {
-        "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
-        "published": "Thu, 5 Nov 2026 16:00:00 GMT",
-        "summary": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc"
+        "error": "<unknown>:2:0: syntax error"
       }
     ],
     "Speeches": [
+      {
+        "title": "Waller, Opening Remarks",
+        "link": "https://www.federalreserve.gov/newsevents/speech/waller20261120a.htm",
+        "published": "Fri, 20 Nov 2026 13:25:00 GMT",
+        "summary": "Speech At the 2026 College Fed Challenge Finals, Board of Governors of the Federal Reserve System, Washington, D.C."
+      },
       {
         "title": "Jefferson, Monetary Policy amid Frequent and Complex Shocks",
         "link": "https://www.federalreserve.gov/newsevents/speech/jefferson20261119a.htm",
@@ -717,12 +686,6 @@
         "link": "https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm",
         "published": "Thu, 12 Nov 2026 15:00:00 GMT",
         "summary": "Speech At Yale University, New Haven, Connecticut"
-      },
-      {
-        "title": "Bowman, The U.S. Economy and Considerations for Monetary Policy",
-        "link": "https://www.federalreserve.gov/newsevents/speech/bowman20261110a.htm",
-        "published": "Tue, 10 Nov 2026 20:30:00 GMT",
-        "summary": "Speech At the C. Peter McColough Series on International Economics Council on Foreign Relations, Washington, D.C."
       }
     ],
     "FOMC Press Releases": [
@@ -784,86 +747,86 @@
     ],
     "MarketWatch Top Stories": [
       {
-        "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
-        "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-        "published": "Fri, 20 Nov 2026 03:31:00 GMT"
+        "title": "GameStop has transformed from a meme stock into a ‘real company,’ analysts say",
+        "link": "https://www.marketwatch.com/story/gamestop-has-transformed-from-a-meme-stock-into-a-real-company-analysts-say-7ae5c7ed?mod=mw_rss_topstories",
+        "published": "Fri, 20 Nov 2026 14:15:00 GMT"
       },
       {
-        "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
-        "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-        "published": "Fri, 20 Nov 2026 01:30:00 GMT"
+        "title": "These little-known investments could be among the best bargains in a crash",
+        "link": "https://www.marketwatch.com/story/these-little-known-investments-could-be-among-the-best-bargains-in-a-crash-78a379b4?mod=mw_rss_topstories",
+        "published": "Fri, 20 Nov 2026 14:00:00 GMT"
       },
       {
-        "title": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
-        "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
-        "published": "Fri, 20 Nov 2026 01:22:00 GMT"
+        "title": "Anthropic’s stock slides closer to IPO price and drags down the AI trade",
+        "link": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories",
+        "published": "Fri, 20 Nov 2026 13:48:00 GMT"
       },
       {
-        "title": "After Anthropic’s ‘bittersweet’ IPO, here’s what lies ahead",
-        "link": "https://www.marketwatch.com/story/after-anthropics-bittersweet-ipo-heres-what-lies-ahead-8c32fdb7?mod=mw_rss_topstories",
-        "published": "Thu, 19 Nov 2026 23:56:00 GMT"
-      },
-      {
-        "title": "These were the only stocks that rose amid the stock market’s wipeout Thursday",
-        "link": "https://www.marketwatch.com/story/these-were-the-only-stocks-that-rose-amid-the-stock-markets-wipeout-thursday-1eaf32ba?mod=mw_rss_topstories",
-        "published": "Thu, 19 Nov 2026 23:11:00 GMT"
+        "title": "Is Social Security a Ponzi scheme? No. Don’t get carried away with 1930s-era prophecies of doom.",
+        "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+        "published": "Fri, 20 Nov 2026 13:00:00 GMT"
       },
       {
         "title": "Intuit’s downbeat outlook deepens Wall Street’s anxiety about software companies",
         "link": "https://www.marketwatch.com/story/intuits-downbeat-outlook-deepens-wall-streets-anxiety-about-software-companies-15b878e5?mod=mw_rss_topstories",
-        "published": "Thu, 19 Nov 2026 22:53:00 GMT"
+        "published": "Fri, 20 Nov 2026 12:59:00 GMT"
       },
       {
-        "title": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
-        "link": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
-        "published": "Thu, 19 Nov 2026 22:41:00 GMT"
+        "title": "These 5 defense stocks are drawing millions in insider bets ahead of military-spending boom in 2027",
+        "link": "https://www.marketwatch.com/story/these-5-defense-stocks-are-drawing-millions-in-insider-bets-ahead-of-military-spending-boom-in-2027-8b3b556b?mod=mw_rss_topstories",
+        "published": "Fri, 20 Nov 2026 12:45:00 GMT"
       },
       {
-        "title": "Anthropic’s stock surges in its debut — and the rest of the market dives anyway",
-        "link": "https://www.marketwatch.com/story/anthropics-stock-surges-in-its-debut-and-the-rest-of-the-market-dives-anyway-19671218?mod=mw_rss_topstories",
-        "published": "Thu, 19 Nov 2026 22:12:00 GMT"
+        "title": "Bank of America strategist warns doom loop could hit stocks with Wall Street underpricing hard-landing risks",
+        "link": "https://www.marketwatch.com/story/bank-of-america-strategist-warns-doom-loop-could-hit-stocks-with-wall-street-underpricing-hard-landing-risks-c3181e57?mod=mw_rss_topstories",
+        "published": "Fri, 20 Nov 2026 12:43:00 GMT"
+      },
+      {
+        "title": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who’s right?",
+        "link": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories",
+        "published": "Fri, 20 Nov 2026 12:30:00 GMT"
       }
     ],
     "CNBC Top News": [
       {
-        "title": "Anthropic IPO takeaways: ANT debuts with $1.8 trillion market cap in landmark moment for AI",
-        "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
-        "published": "Fri, 20 Nov 2026 00:04:56 GMT"
-      },
-      {
-        "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
-        "link": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html",
-        "published": "Fri, 20 Nov 2026 03:56:17 GMT"
-      },
-      {
-        "title": "Stock futures tick lower after Dow closes below 50,000 for first time since June: Live updates",
+        "title": "Nasdaq futures drop as Anthropic shares tumble; Dow nears correction territory: Live updates",
         "link": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
-        "published": "Fri, 20 Nov 2026 05:19:48 GMT"
+        "published": "Fri, 20 Nov 2026 14:10:00 GMT"
       },
       {
-        "title": "Anthropic IPO 'exactly what the markets need,' but analysts warn of volatility",
-        "link": "https://www.cnbc.com/2026/11/20/anthropic-ipo-stocks-market.html",
-        "published": "Fri, 20 Nov 2026 04:51:28 GMT"
+        "title": "Anthropic raises $93.5 billion total as underwriters scoop up ‘greenshoe’ overallotment",
+        "link": "https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html",
+        "published": "Fri, 20 Nov 2026 13:56:23 GMT"
       },
       {
-        "title": "AMD dives on short seller report of alleged China exposure",
-        "link": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
-        "published": "Fri, 20 Nov 2026 00:08:34 GMT"
+        "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
+        "link": "https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html",
+        "published": "Fri, 20 Nov 2026 13:29:50 GMT"
       },
       {
-        "title": "U.K.-India trade deal faces a stiff test over Scotch whisky import taxes",
-        "link": "https://www.cnbc.com/2026/11/20/uk-india-trade-scotch-whisky-tariffs.html",
-        "published": "Fri, 20 Nov 2026 05:09:52 GMT"
+        "title": "SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models",
+        "link": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
+        "published": "Fri, 20 Nov 2026 14:07:24 GMT"
       },
       {
-        "title": "Anthropic was supposed to save the AI trade. What went wrong?",
-        "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html",
-        "published": "Fri, 20 Nov 2026 00:00:38 GMT"
+        "title": "The bull market has a new problem. The 'smart money' is selling",
+        "link": "https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html",
+        "published": "Fri, 20 Nov 2026 14:15:29 GMT"
       },
       {
-        "title": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
-        "link": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
-        "published": "Fri, 20 Nov 2026 03:30:34 GMT"
+        "title": "Here are Friday's biggest analyst calls: Anthropic, SpaceX, Tesla, Apple, Netflix, MSG Rangers, United Health & more",
+        "link": "https://www.cnbc.com/2026/11/20/fridays-biggest-analyst-calls-like-anthropic.html",
+        "published": "Fri, 20 Nov 2026 13:20:36 GMT"
+      },
+      {
+        "title": "Cathie Wood's ARK Invest was a big buyer of Anthropic, tells CNBC she's 'quite optimistic'",
+        "link": "https://www.cnbc.com/2026/11/20/cathie-woods-ark-invest-was-a-big-buyer-of-anthropic-during-debut.html",
+        "published": "Fri, 20 Nov 2026 13:11:25 GMT"
+      },
+      {
+        "title": "A24 is having a great year at the box office. That could give HBO Max a streaming edge",
+        "link": "https://www.cnbc.com/2026/11/20/a24-box-office-hbo-max.html",
+        "published": "Fri, 20 Nov 2026 12:00:02 GMT"
       }
     ]
   }
